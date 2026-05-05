@@ -1,18 +1,26 @@
 {
   "schema_version": "1.0.0",
-  "feed_version": "2026-05-06T01:51:09+09:00",
-  "generated_at": "2026-05-06T01:51:09+09:00",
-  "product_count": 0,
+  "feed_version": "2026-05-06T08:45:33+09:00",
+  "generated_at": "2026-05-06T08:45:33+09:00",
+  "product_count": 1,
   "manufacturer_count": 5,
   "files": {
     "latest": {
       "path": "latest.json",
-      "sha256": "24e213d02bb89c0f4a309ff59112a50989017e8f9dfea92adcfad2946e1126ca"
+      "sha256": "9cc4c5d5f3a87fdb3b1168dd49188f5db470b738dbc72e9e7c3ec139d4017a75"
     },
     "manufacturers": {
       "path": "manufacturers.json",
-      "sha256": "a131de31dc1879053a9b9a9ac51054a72f4b66efca81a77266e462b983bbf0f0"
+      "sha256": "312b87d0ed079eecac36378e99e0133bcd8aad04ecb788378ab24478a927b8c4"
     }
   },
-  "release_indexes": []
+  "release_indexes": [
+    {
+      "year": 2026,
+      "month": 4,
+      "path": "releases/2026-04.json",
+      "sha256": "a393b14d01f4eaa5d2d922ca822b832679a54acab77c8d002aa6551e7718e429",
+      "item_count": 1
+    }
+  ]
 }
