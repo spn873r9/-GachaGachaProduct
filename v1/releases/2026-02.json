@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-05-12T01:09:25+09:00",
+  "generated_at": "2026-05-12T03:20:06+09:00",
   "year": 2026,
   "month": 2,
   "items": [
@@ -14,12 +14,15 @@
       "release_year": 2026,
       "release_month": 2,
       "release_week": null,
+      "release_date": null,
+      "preview_image_url": "https://www.so-ta.com/wp-content/uploads/2026/01/img_marshmalllow.jpg",
+      "preview_image_source_url": "https://www.so-ta.com/products_detail/capsuletoy/living_dead2/",
       "price_yen": 400,
       "variant_count": 4,
       "jan_code": null,
       "official_url": "https://www.so-ta.com/products_detail/capsuletoy/living_dead2/",
       "source_url": "https://www.so-ta.com/products_detail/capsuletoy/living_dead2/",
-      "last_checked_at": "2026-05-12T01:08:53+09:00",
+      "last_checked_at": "2026-05-12T03:19:29+09:00",
       "product_path": "products/sota-living-dead2.json"
     },
     {
@@ -32,12 +35,15 @@
       "release_year": 2026,
       "release_month": 2,
       "release_week": null,
+      "release_date": null,
+      "preview_image_url": "https://www.so-ta.com/wp-content/uploads/2026/01/img_pansuto.jpg",
+      "preview_image_source_url": "https://www.so-ta.com/products_detail/capsuletoy/newpsg_acrylic/",
       "price_yen": 400,
       "variant_count": 6,
       "jan_code": null,
       "official_url": "https://www.so-ta.com/products_detail/capsuletoy/newpsg_acrylic/",
       "source_url": "https://www.so-ta.com/products_detail/capsuletoy/newpsg_acrylic/",
-      "last_checked_at": "2026-05-12T01:08:53+09:00",
+      "last_checked_at": "2026-05-12T03:19:29+09:00",
       "product_path": "products/sota-newpsg-acrylic.json"
     },
     {
@@ -50,12 +56,15 @@
       "release_year": 2026,
       "release_month": 2,
       "release_week": null,
+      "release_date": null,
+      "preview_image_url": "https://www.so-ta.com/wp-content/uploads/2026/01/img_copic3.jpg",
+      "preview_image_source_url": "https://www.so-ta.com/products_detail/capsuletoy/copic_miniature3/",
       "price_yen": 400,
       "variant_count": 7,
       "jan_code": null,
       "official_url": "https://www.so-ta.com/products_detail/capsuletoy/copic_miniature3/",
       "source_url": "https://www.so-ta.com/products_detail/capsuletoy/copic_miniature3/",
-      "last_checked_at": "2026-05-12T01:08:53+09:00",
+      "last_checked_at": "2026-05-12T03:19:29+09:00",
       "product_path": "products/sota-copic-miniature3.json"
     },
     {
@@ -68,12 +77,15 @@
       "release_year": 2026,
       "release_month": 2,
       "release_week": null,
+      "release_date": null,
+      "preview_image_url": "https://www.so-ta.com/wp-content/uploads/2026/01/img_bu-sukapouch.jpg",
+      "preview_image_source_url": "https://www.so-ta.com/products_detail/capsuletoy/kaiju_booska_pouch/",
       "price_yen": 400,
       "variant_count": 5,
       "jan_code": null,
       "official_url": "https://www.so-ta.com/products_detail/capsuletoy/kaiju_booska_pouch/",
       "source_url": "https://www.so-ta.com/products_detail/capsuletoy/kaiju_booska_pouch/",
-      "last_checked_at": "2026-05-12T01:08:53+09:00",
+      "last_checked_at": "2026-05-12T03:19:29+09:00",
       "product_path": "products/sota-kaiju-booska-pouch.json"
     }
   ]

@@ -8,12 +8,15 @@
   "release_year": 2026,
   "release_month": 4,
   "release_week": null,
+  "release_date": null,
+  "preview_image_url": "https://www.so-ta.com/wp-content/uploads/2026/03/img_HONDACITY.jpg",
+  "preview_image_source_url": "https://www.so-ta.com/products_detail/capsuletoy/figure_vehicle_city/",
   "price_yen": 500,
   "variant_count": 4,
   "jan_code": null,
   "official_url": "https://www.so-ta.com/products_detail/capsuletoy/figure_vehicle_city/",
   "source_url": "https://www.so-ta.com/products_detail/capsuletoy/figure_vehicle_city/",
-  "last_checked_at": "2026-05-12T01:08:53+09:00",
+  "last_checked_at": "2026-05-12T03:19:29+09:00",
   "product_path": "products/sota-figure-vehicle-city.json",
   "copyright_notice": null,
   "data_policy": {
@@ -21,5 +24,5 @@
     "uses_official_image": false,
     "uses_official_description": false
   },
-  "first_detected_at": "2026-05-12T01:08:53+09:00"
+  "first_detected_at": "2026-05-12T03:19:29+09:00"
 }

@@ -8,12 +8,15 @@
   "release_year": 2026,
   "release_month": 5,
   "release_week": null,
+  "release_date": null,
+  "preview_image_url": "https://qualia-45.jp/wp-content/uploads/DokonokoNanoko_DP1-1280x320.jpg",
+  "preview_image_source_url": "https://qualia-45.jp/distinations/nannoko_nuims/",
   "price_yen": 400,
   "variant_count": 6,
   "jan_code": null,
   "official_url": "https://qualia-45.jp/distinations/nannoko_nuims/",
   "source_url": "https://qualia-45.jp/distinations/nannoko_nuims/",
-  "last_checked_at": "2026-05-12T01:08:53+09:00",
+  "last_checked_at": "2026-05-12T03:19:29+09:00",
   "product_path": "products/qualia-nannoko-nuims.json",
   "copyright_notice": "©Qualia",
   "data_policy": {
@@ -21,5 +24,5 @@
     "uses_official_image": false,
     "uses_official_description": false
   },
-  "first_detected_at": "2026-05-12T01:08:53+09:00"
+  "first_detected_at": "2026-05-12T03:19:29+09:00"
 }

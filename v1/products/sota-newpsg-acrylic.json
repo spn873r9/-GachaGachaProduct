@@ -8,12 +8,15 @@
   "release_year": 2026,
   "release_month": 2,
   "release_week": null,
+  "release_date": null,
+  "preview_image_url": "https://www.so-ta.com/wp-content/uploads/2026/01/img_pansuto.jpg",
+  "preview_image_source_url": "https://www.so-ta.com/products_detail/capsuletoy/newpsg_acrylic/",
   "price_yen": 400,
   "variant_count": 6,
   "jan_code": null,
   "official_url": "https://www.so-ta.com/products_detail/capsuletoy/newpsg_acrylic/",
   "source_url": "https://www.so-ta.com/products_detail/capsuletoy/newpsg_acrylic/",
-  "last_checked_at": "2026-05-12T01:08:53+09:00",
+  "last_checked_at": "2026-05-12T03:19:29+09:00",
   "product_path": "products/sota-newpsg-acrylic.json",
   "copyright_notice": "©TRIGGER・今石洋之/NPSG製作委員会",
   "data_policy": {
@@ -21,5 +24,5 @@
     "uses_official_image": false,
     "uses_official_description": false
   },
-  "first_detected_at": "2026-05-12T01:08:53+09:00"
+  "first_detected_at": "2026-05-12T03:19:29+09:00"
 }

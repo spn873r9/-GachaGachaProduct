@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-05-12T01:09:25+09:00",
+  "generated_at": "2026-05-12T03:20:06+09:00",
   "year": 2027,
   "month": 8,
   "items": [
@@ -14,12 +14,15 @@
       "release_year": 2027,
       "release_month": 8,
       "release_week": null,
+      "release_date": null,
+      "preview_image_url": "https://toyscabin.com/product/upfiles/2026/04/5.%E5%AF%BF%E5%8F%B8%E3%83%AD%E3%83%9Cplus%EF%BC%BFweb%E7%94%A8%E3%83%81%E3%83%A9%E3%82%B7-thumb-980xauto-458.jpg",
+      "preview_image_source_url": "https://toyscabin.com/product/20260430_1416.php",
       "price_yen": 400,
       "variant_count": null,
       "jan_code": "4589415443580",
       "official_url": "https://toyscabin.com/product/20260430_1416.php",
       "source_url": "https://toyscabin.com/product/20260430_1416.php",
-      "last_checked_at": "2026-05-12T01:08:53+09:00",
+      "last_checked_at": "2026-05-12T03:19:29+09:00",
       "product_path": "products/toyscabin-20260430-1416.json"
     }
   ]

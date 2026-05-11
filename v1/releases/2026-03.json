@@ -1,11 +1,11 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-05-12T01:09:25+09:00",
+  "generated_at": "2026-05-12T03:20:06+09:00",
   "year": 2026,
   "month": 3,
   "items": [
     {
-      "id": "jdream-4571596299674",
+      "id": "jdream-4571596299964",
       "manufacturer_id": "jdream",
       "manufacturer_name": "Jドリーム",
       "brand_name": null,
@@ -14,13 +14,16 @@
       "release_year": 2026,
       "release_month": 3,
       "release_week": null,
+      "release_date": null,
+      "preview_image_url": null,
+      "preview_image_source_url": null,
       "price_yen": 300,
       "variant_count": 5,
       "jan_code": "4571596299674",
       "official_url": "https://e-jdream.co.jp/product/",
       "source_url": "https://e-jdream.co.jp/product/",
-      "last_checked_at": "2026-05-12T01:08:53+09:00",
-      "product_path": "products/jdream-4571596299674.json"
+      "last_checked_at": "2026-05-12T03:19:29+09:00",
+      "product_path": "products/jdream-4571596299964.json"
     },
     {
       "id": "sota-gagmanga-pouch",
@@ -32,12 +35,15 @@
       "release_year": 2026,
       "release_month": 3,
       "release_week": null,
+      "release_date": null,
+      "preview_image_url": "https://www.so-ta.com/wp-content/uploads/2026/03/img_gyagumangabiyori_pouch.jpg",
+      "preview_image_source_url": "https://www.so-ta.com/products_detail/capsuletoy/gagmanga_pouch/",
       "price_yen": 400,
       "variant_count": 5,
       "jan_code": null,
       "official_url": "https://www.so-ta.com/products_detail/capsuletoy/gagmanga_pouch/",
       "source_url": "https://www.so-ta.com/products_detail/capsuletoy/gagmanga_pouch/",
-      "last_checked_at": "2026-05-12T01:08:53+09:00",
+      "last_checked_at": "2026-05-12T03:19:29+09:00",
       "product_path": "products/sota-gagmanga-pouch.json"
     },
     {
@@ -50,12 +56,15 @@
       "release_year": 2026,
       "release_month": 3,
       "release_week": null,
+      "release_date": null,
+      "preview_image_url": "https://www.so-ta.com/wp-content/uploads/2026/03/img_kigiku3.jpg",
+      "preview_image_source_url": "https://www.so-ta.com/products_detail/capsuletoy/si_ku_acrylic3/",
       "price_yen": 400,
       "variant_count": 5,
       "jan_code": null,
       "official_url": "https://www.so-ta.com/products_detail/capsuletoy/si_ku_acrylic3/",
       "source_url": "https://www.so-ta.com/products_detail/capsuletoy/si_ku_acrylic3/",
-      "last_checked_at": "2026-05-12T01:08:53+09:00",
+      "last_checked_at": "2026-05-12T03:19:29+09:00",
       "product_path": "products/sota-si-ku-acrylic3.json"
     }
   ]

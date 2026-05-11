@@ -8,12 +8,15 @@
   "release_year": 2026,
   "release_month": 8,
   "release_week": null,
+  "release_date": null,
+  "preview_image_url": "https://toyscabin.com/product/upfiles/2026/05/3.%E3%82%B7%E3%83%83%E3%83%86%E3%82%A3%E3%83%BC%E3%82%AD%E3%83%A3%E3%83%83%E3%83%88%EF%BC%BFweb%E7%94%A8%E3%83%81%E3%83%A9%E3%82%B7-thumb-980xauto-462.jpg",
+  "preview_image_source_url": "https://toyscabin.com/product/20260501_1420.php",
   "price_yen": 400,
   "variant_count": null,
   "jan_code": "4589415443573",
   "official_url": "https://toyscabin.com/product/20260501_1420.php",
   "source_url": "https://toyscabin.com/product/20260501_1420.php",
-  "last_checked_at": "2026-05-12T01:08:53+09:00",
+  "last_checked_at": "2026-05-12T03:19:29+09:00",
   "product_path": "products/toyscabin-20260501-1420.json",
   "copyright_notice": null,
   "data_policy": {
@@ -21,5 +24,5 @@
     "uses_official_image": false,
     "uses_official_description": false
   },
-  "first_detected_at": "2026-05-12T01:08:53+09:00"
+  "first_detected_at": "2026-05-12T03:19:29+09:00"
 }
