@@ -1,9 +1,27 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-05-12T00:20:12+09:00",
+  "generated_at": "2026-05-12T00:35:44+09:00",
   "year": 2026,
   "month": 4,
   "items": [
+    {
+      "id": "qualia-carebears-fuwa2sp",
+      "manufacturer_id": "qualia",
+      "manufacturer_name": "Qualia",
+      "brand_name": "CareBears",
+      "series_name": null,
+      "product_name": "CareBears™ ふわふわスクエアポーチ",
+      "release_year": 2026,
+      "release_month": 4,
+      "release_week": null,
+      "price_yen": 400,
+      "variant_count": 5,
+      "jan_code": null,
+      "official_url": "https://qualia-45.jp/distinations/carebears_fuwa2sp/",
+      "source_url": "https://qualia-45.jp/distinations/carebears_fuwa2sp/",
+      "last_checked_at": "2026-05-11T23:24:59+09:00",
+      "product_path": "products/qualia-carebears-fuwa2sp.json"
+    },
     {
       "id": "qualia-egozaru-assort-collection",
       "manufacturer_id": "qualia",
@@ -21,6 +39,42 @@
       "source_url": "https://qualia-45.jp/distinations/egozaru_assort/",
       "last_checked_at": "2026-05-06T02:39:34+09:00",
       "product_path": "products/qualia-egozaru-assort-collection.json"
+    },
+    {
+      "id": "qualia-haniwa-dogu-kc",
+      "manufacturer_id": "qualia",
+      "manufacturer_name": "Qualia",
+      "brand_name": null,
+      "series_name": null,
+      "product_name": "はにわとどぐう巾着",
+      "release_year": 2026,
+      "release_month": 4,
+      "release_week": null,
+      "price_yen": 400,
+      "variant_count": 6,
+      "jan_code": null,
+      "official_url": "https://qualia-45.jp/distinations/haniwa-dogu_kc/",
+      "source_url": "https://qualia-45.jp/distinations/haniwa-dogu_kc/",
+      "last_checked_at": "2026-05-11T23:24:59+09:00",
+      "product_path": "products/qualia-haniwa-dogu-kc.json"
+    },
+    {
+      "id": "qualia-yoisuki-ckjs-mf",
+      "manufacturer_id": "qualia",
+      "manufacturer_name": "Qualia",
+      "brand_name": "酔いスキー",
+      "series_name": null,
+      "product_name": "酔いスキー 長期熟成ver. マスコットフィギュア",
+      "release_year": 2026,
+      "release_month": 4,
+      "release_week": null,
+      "price_yen": 400,
+      "variant_count": 5,
+      "jan_code": null,
+      "official_url": "https://qualia-45.jp/distinations/yoisuki_ckjs_mf/",
+      "source_url": "https://qualia-45.jp/distinations/yoisuki_ckjs_mf/",
+      "last_checked_at": "2026-05-11T23:24:59+09:00",
+      "product_path": "products/qualia-yoisuki-ckjs-mf.json"
     }
   ]
 }
