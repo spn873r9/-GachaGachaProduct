@@ -1,0 +1,62 @@
+{
+  "schema_version": "1.0.0",
+  "generated_at": "2026-05-12T01:09:25+09:00",
+  "year": 2026,
+  "month": 3,
+  "items": [
+    {
+      "id": "jdream-4571596299674",
+      "manufacturer_id": "jdream",
+      "manufacturer_name": "Jドリーム",
+      "brand_name": null,
+      "series_name": null,
+      "product_name": "ぷりっと牡蠣マスコット",
+      "release_year": 2026,
+      "release_month": 3,
+      "release_week": null,
+      "price_yen": 300,
+      "variant_count": 5,
+      "jan_code": "4571596299674",
+      "official_url": "https://e-jdream.co.jp/product/",
+      "source_url": "https://e-jdream.co.jp/product/",
+      "last_checked_at": "2026-05-12T01:08:53+09:00",
+      "product_path": "products/jdream-4571596299674.json"
+    },
+    {
+      "id": "sota-gagmanga-pouch",
+      "manufacturer_id": "sota",
+      "manufacturer_name": "SO-TA / スタジオソータ",
+      "brand_name": null,
+      "series_name": null,
+      "product_name": "『増田こうすけ劇場 ギャグマンガ日和 GO』ダイカットポーチ",
+      "release_year": 2026,
+      "release_month": 3,
+      "release_week": null,
+      "price_yen": 400,
+      "variant_count": 5,
+      "jan_code": null,
+      "official_url": "https://www.so-ta.com/products_detail/capsuletoy/gagmanga_pouch/",
+      "source_url": "https://www.so-ta.com/products_detail/capsuletoy/gagmanga_pouch/",
+      "last_checked_at": "2026-05-12T01:08:53+09:00",
+      "product_path": "products/sota-gagmanga-pouch.json"
+    },
+    {
+      "id": "sota-si-ku-acrylic3",
+      "manufacturer_id": "sota",
+      "manufacturer_name": "SO-TA / スタジオソータ",
+      "brand_name": null,
+      "series_name": null,
+      "product_name": "レイヤーフレームギャラリーシリーズ 黄菊しーく アクリルキーチェーン3",
+      "release_year": 2026,
+      "release_month": 3,
+      "release_week": null,
+      "price_yen": 400,
+      "variant_count": 5,
+      "jan_code": null,
+      "official_url": "https://www.so-ta.com/products_detail/capsuletoy/si_ku_acrylic3/",
+      "source_url": "https://www.so-ta.com/products_detail/capsuletoy/si_ku_acrylic3/",
+      "last_checked_at": "2026-05-12T01:08:53+09:00",
+      "product_path": "products/sota-si-ku-acrylic3.json"
+    }
+  ]
+}
