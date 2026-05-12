@@ -1,74 +1,81 @@
 {
   "schema_version": "1.0.0",
-  "feed_version": "2026-05-12T18:01:37+09:00",
-  "generated_at": "2026-05-12T18:01:37+09:00",
-  "product_count": 47,
+  "feed_version": "2026-05-12T21:43:32+09:00",
+  "generated_at": "2026-05-12T21:43:32+09:00",
+  "product_count": 75,
   "manufacturer_count": 5,
   "files": {
     "latest": {
       "path": "latest.json",
-      "sha256": "ef11a7aa0c09955afd220dd9f7b4fb204fce77a6669b397a39e13023bdd2758a"
+      "sha256": "3c70d610c4e46b1a234ddf7c278b549116fe968aadb448afc49e073915398e16"
     },
     "manufacturers": {
       "path": "manufacturers.json",
-      "sha256": "b0180fdaf631c44dedee5bb676bc8bf99ceaf529971d8e897e21cb004858d38f"
+      "sha256": "48c12aae37013e1463422b78dd4159bcb539ccb196b6e1259e437b10bb5aff4b"
     }
   },
   "release_indexes": [
     {
       "year": 2026,
+      "month": 1,
+      "path": "releases/2026-01.json",
+      "sha256": "83afaea1b8761fff5cc135abc38f4e339dcd3a59614cd339ee4cf2af2bf8ea7b",
+      "item_count": 1
+    },
+    {
+      "year": 2026,
       "month": 2,
       "path": "releases/2026-02.json",
-      "sha256": "9b32adbb4bb14d927fce6166ccd7f0c16ff08fa5ea1f96b77c807e314387e106",
+      "sha256": "5f8af56348eb60eb7950781f1e50541f37024e93d0689ce377a9a110e174129f",
       "item_count": 4
     },
     {
       "year": 2026,
       "month": 3,
       "path": "releases/2026-03.json",
-      "sha256": "6d133a18b4142d5129191469ace0ff0b5e76bd09dbf2b750b09265519cf33013",
-      "item_count": 3
+      "sha256": "2c5954d5be67204684a4a0882cce3a72094b2c83aa5afa6f3cddb2747b25760d",
+      "item_count": 4
     },
     {
       "year": 2026,
       "month": 4,
       "path": "releases/2026-04.json",
-      "sha256": "3de097221a5005dfd95af98ef2470360faaec63abc2b93b534b7a13f9b96a636",
-      "item_count": 8
+      "sha256": "590465b3fd5d2b79293f6bbf17b7002bad18e3716adccb077a4f699c7b7ba883",
+      "item_count": 25
     },
     {
       "year": 2026,
       "month": 5,
       "path": "releases/2026-05.json",
-      "sha256": "418a17ec3c51c96c598cc36949b8c0c0bd40b27f80f27e52876c67f11e5012bd",
-      "item_count": 13
+      "sha256": "f06eefdcb20189b59bd214838ad244c6a364e6fa59992425c4f2cab2a982a2dc",
+      "item_count": 22
     },
     {
       "year": 2026,
       "month": 7,
       "path": "releases/2026-07.json",
-      "sha256": "11afe1bcaaed6262906d3d82765a80b11d09b4c79335e76de161d1a1f9610508",
+      "sha256": "72945c4b244167fcdec17c826972ece9830a8f5284c2a8a2ccecb1542569f91c",
       "item_count": 1
     },
     {
       "year": 2026,
       "month": 8,
       "path": "releases/2026-08.json",
-      "sha256": "fe3705d78ef8f4b152b1e6dd37a64a0067f7864c5066c623293e4a9702b6d1e4",
+      "sha256": "e090e0e3c6fe60a93a6598a414160dbf76d2b5e28842f5c407290399deeaa568",
       "item_count": 6
     },
     {
       "year": 2027,
       "month": 7,
       "path": "releases/2027-07.json",
-      "sha256": "991721c58f2141a1289d0e23df1117922a154a0db7f51215028199d7d983a0e1",
+      "sha256": "2ead9c6ca642ccf0ecf5b5f9a8be72aeef0de1218a31b7addfbfaea0721c7b24",
       "item_count": 1
     },
     {
       "year": 2027,
       "month": 8,
       "path": "releases/2027-08.json",
-      "sha256": "2c6e550d1dd6563eb6476947056f4583d43c6e4f78b7f8ebc2f556f181690de3",
+      "sha256": "595ff56ccc2cf683f4e68a9a0b4473cb7649a26d9b3cd73ca971294e73cf5f29",
       "item_count": 1
     }
   ]

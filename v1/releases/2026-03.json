@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-05-12T18:01:37+09:00",
+  "generated_at": "2026-05-12T21:43:32+09:00",
   "year": 2026,
   "month": 3,
   "items": [
@@ -22,8 +22,29 @@
       "jan_code": "4571596299674",
       "official_url": "https://e-jdream.co.jp/product/",
       "source_url": "https://e-jdream.co.jp/product/",
-      "last_checked_at": "2026-05-12T18:00:56+09:00",
+      "last_checked_at": "2026-05-12T21:42:56+09:00",
       "product_path": "products/jdream-4571596299964.json"
+    },
+    {
+      "id": "qualia-niccolino-huistenbosch-nui1",
+      "manufacturer_id": "qualia",
+      "manufacturer_name": "Qualia",
+      "brand_name": null,
+      "series_name": null,
+      "product_name": "【ハウステンボス限定】にっこりーノ ハウステンボスのぬいぐるみ1",
+      "release_year": 2026,
+      "release_month": 3,
+      "release_week": null,
+      "release_date": null,
+      "preview_image_url": "https://qualia-45.jp/wp-content/uploads/huistenbosch_DP_OL.jpg",
+      "preview_image_source_url": "https://qualia-45.jp/distinations/niccolino_huistenbosch_nui1/",
+      "price_yen": 500,
+      "variant_count": 6,
+      "jan_code": null,
+      "official_url": "https://qualia-45.jp/distinations/niccolino_huistenbosch_nui1/",
+      "source_url": "https://qualia-45.jp/distinations/niccolino_huistenbosch_nui1/",
+      "last_checked_at": "2026-05-12T17:23:30+09:00",
+      "product_path": "products/qualia-niccolino-huistenbosch-nui1.json"
     },
     {
       "id": "sota-gagmanga-pouch",
@@ -43,7 +64,7 @@
       "jan_code": null,
       "official_url": "https://www.so-ta.com/products_detail/capsuletoy/gagmanga_pouch/",
       "source_url": "https://www.so-ta.com/products_detail/capsuletoy/gagmanga_pouch/",
-      "last_checked_at": "2026-05-12T18:00:56+09:00",
+      "last_checked_at": "2026-05-12T21:42:56+09:00",
       "product_path": "products/sota-gagmanga-pouch.json"
     },
     {
@@ -64,7 +85,7 @@
       "jan_code": null,
       "official_url": "https://www.so-ta.com/products_detail/capsuletoy/si_ku_acrylic3/",
       "source_url": "https://www.so-ta.com/products_detail/capsuletoy/si_ku_acrylic3/",
-      "last_checked_at": "2026-05-12T18:00:56+09:00",
+      "last_checked_at": "2026-05-12T21:42:56+09:00",
       "product_path": "products/sota-si-ku-acrylic3.json"
     }
   ]
