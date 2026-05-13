@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-05-12T21:43:32+09:00",
+  "generated_at": "2026-05-13T09:01:42+09:00",
   "year": 2026,
   "month": 2,
   "items": [
@@ -22,7 +22,7 @@
       "jan_code": null,
       "official_url": "https://www.so-ta.com/products_detail/capsuletoy/living_dead2/",
       "source_url": "https://www.so-ta.com/products_detail/capsuletoy/living_dead2/",
-      "last_checked_at": "2026-05-12T21:42:56+09:00",
+      "last_checked_at": "2026-05-13T09:00:59+09:00",
       "product_path": "products/sota-living-dead2.json"
     },
     {
@@ -43,7 +43,7 @@
       "jan_code": null,
       "official_url": "https://www.so-ta.com/products_detail/capsuletoy/newpsg_acrylic/",
       "source_url": "https://www.so-ta.com/products_detail/capsuletoy/newpsg_acrylic/",
-      "last_checked_at": "2026-05-12T21:42:56+09:00",
+      "last_checked_at": "2026-05-13T09:00:59+09:00",
       "product_path": "products/sota-newpsg-acrylic.json"
     },
     {
@@ -64,29 +64,8 @@
       "jan_code": null,
       "official_url": "https://www.so-ta.com/products_detail/capsuletoy/copic_miniature3/",
       "source_url": "https://www.so-ta.com/products_detail/capsuletoy/copic_miniature3/",
-      "last_checked_at": "2026-05-12T21:42:56+09:00",
+      "last_checked_at": "2026-05-13T09:00:59+09:00",
       "product_path": "products/sota-copic-miniature3.json"
-    },
-    {
-      "id": "sota-kaiju-booska-pouch",
-      "manufacturer_id": "sota",
-      "manufacturer_name": "SO-TA / スタジオソータ",
-      "brand_name": null,
-      "series_name": null,
-      "product_name": "快獣ブースカ ダイカットフェイスポーチ",
-      "release_year": 2026,
-      "release_month": 2,
-      "release_week": null,
-      "release_date": null,
-      "preview_image_url": "https://www.so-ta.com/wp-content/uploads/2026/01/img_bu-sukapouch.jpg",
-      "preview_image_source_url": "https://www.so-ta.com/products_detail/capsuletoy/kaiju_booska_pouch/",
-      "price_yen": 400,
-      "variant_count": 5,
-      "jan_code": null,
-      "official_url": "https://www.so-ta.com/products_detail/capsuletoy/kaiju_booska_pouch/",
-      "source_url": "https://www.so-ta.com/products_detail/capsuletoy/kaiju_booska_pouch/",
-      "last_checked_at": "2026-05-12T21:42:56+09:00",
-      "product_path": "products/sota-kaiju-booska-pouch.json"
     }
   ]
 }
