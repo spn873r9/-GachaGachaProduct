@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-05-13T12:01:10+09:00",
+  "generated_at": "2026-05-13T15:01:07+09:00",
   "year": 2026,
   "month": 3,
   "items": [
@@ -22,7 +22,7 @@
       "jan_code": "4571596299674",
       "official_url": "https://e-jdream.co.jp/product/",
       "source_url": "https://e-jdream.co.jp/product/",
-      "last_checked_at": "2026-05-13T12:00:27+09:00",
+      "last_checked_at": "2026-05-13T15:00:32+09:00",
       "product_path": "products/jdream-4571596299964.json"
     },
     {
@@ -64,7 +64,7 @@
       "jan_code": null,
       "official_url": "https://www.so-ta.com/products_detail/capsuletoy/gagmanga_pouch/",
       "source_url": "https://www.so-ta.com/products_detail/capsuletoy/gagmanga_pouch/",
-      "last_checked_at": "2026-05-13T12:00:27+09:00",
+      "last_checked_at": "2026-05-13T15:00:32+09:00",
       "product_path": "products/sota-gagmanga-pouch.json"
     },
     {
@@ -85,7 +85,7 @@
       "jan_code": null,
       "official_url": "https://www.so-ta.com/products_detail/capsuletoy/si_ku_acrylic3/",
       "source_url": "https://www.so-ta.com/products_detail/capsuletoy/si_ku_acrylic3/",
-      "last_checked_at": "2026-05-13T12:00:27+09:00",
+      "last_checked_at": "2026-05-13T15:00:32+09:00",
       "product_path": "products/sota-si-ku-acrylic3.json"
     }
   ]
