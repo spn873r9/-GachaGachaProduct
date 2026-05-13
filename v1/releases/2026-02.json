@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-05-13T09:01:42+09:00",
+  "generated_at": "2026-05-13T12:01:10+09:00",
   "year": 2026,
   "month": 2,
   "items": [
@@ -22,7 +22,7 @@
       "jan_code": null,
       "official_url": "https://www.so-ta.com/products_detail/capsuletoy/living_dead2/",
       "source_url": "https://www.so-ta.com/products_detail/capsuletoy/living_dead2/",
-      "last_checked_at": "2026-05-13T09:00:59+09:00",
+      "last_checked_at": "2026-05-13T12:00:27+09:00",
       "product_path": "products/sota-living-dead2.json"
     },
     {
@@ -43,7 +43,7 @@
       "jan_code": null,
       "official_url": "https://www.so-ta.com/products_detail/capsuletoy/newpsg_acrylic/",
       "source_url": "https://www.so-ta.com/products_detail/capsuletoy/newpsg_acrylic/",
-      "last_checked_at": "2026-05-13T09:00:59+09:00",
+      "last_checked_at": "2026-05-13T12:00:27+09:00",
       "product_path": "products/sota-newpsg-acrylic.json"
     },
     {
@@ -64,7 +64,7 @@
       "jan_code": null,
       "official_url": "https://www.so-ta.com/products_detail/capsuletoy/copic_miniature3/",
       "source_url": "https://www.so-ta.com/products_detail/capsuletoy/copic_miniature3/",
-      "last_checked_at": "2026-05-13T09:00:59+09:00",
+      "last_checked_at": "2026-05-13T12:00:27+09:00",
       "product_path": "products/sota-copic-miniature3.json"
     }
   ]
