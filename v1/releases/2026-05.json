@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-05-13T15:01:07+09:00",
+  "generated_at": "2026-05-13T17:17:47+09:00",
   "year": 2026,
   "month": 5,
   "items": [
@@ -22,8 +22,31 @@
       "jan_code": null,
       "official_url": "https://toyscabin.com/product/20260420_1412.php",
       "source_url": "https://toyscabin.com/product/20260420_1412.php",
-      "last_checked_at": "2026-05-13T15:00:32+09:00",
+      "first_detected_at": "2026-05-13T16:15:44+09:00",
+      "last_checked_at": "2026-05-13T17:14:32+09:00",
       "product_path": "products/toyscabin-20260420-1412.json"
+    },
+    {
+      "id": "jdream-4571596299940",
+      "manufacturer_id": "jdream",
+      "manufacturer_name": "Jドリーム",
+      "brand_name": null,
+      "series_name": null,
+      "product_name": "PICO PARK ソフビマスコットコレクション",
+      "release_year": 2026,
+      "release_month": 5,
+      "release_week": null,
+      "release_date": null,
+      "preview_image_url": null,
+      "preview_image_source_url": null,
+      "price_yen": 400,
+      "variant_count": 8,
+      "jan_code": "4571596299940",
+      "official_url": "https://e-jdream.co.jp/product/",
+      "source_url": "https://e-jdream.co.jp/product/",
+      "first_detected_at": "2026-05-13T16:19:49+09:00",
+      "last_checked_at": "2026-05-13T17:14:32+09:00",
+      "product_path": "products/jdream-4571596299940.json"
     },
     {
       "id": "jdream-4571596299971",
@@ -43,8 +66,75 @@
       "jan_code": "4571596299971",
       "official_url": "https://e-jdream.co.jp/product/",
       "source_url": "https://e-jdream.co.jp/product/",
-      "last_checked_at": "2026-05-13T15:00:32+09:00",
+      "first_detected_at": "2026-05-12T00:56:14+09:00",
+      "last_checked_at": "2026-05-13T17:14:32+09:00",
       "product_path": "products/jdream-4571596299971.json"
+    },
+    {
+      "id": "jdream-4571596299957",
+      "manufacturer_id": "jdream",
+      "manufacturer_name": "Jドリーム",
+      "brand_name": null,
+      "series_name": null,
+      "product_name": "ふわふわやさしさフロッキーマスコット",
+      "release_year": 2026,
+      "release_month": 5,
+      "release_week": null,
+      "release_date": null,
+      "preview_image_url": null,
+      "preview_image_source_url": null,
+      "price_yen": 400,
+      "variant_count": 6,
+      "jan_code": "4571596299957",
+      "official_url": "https://e-jdream.co.jp/product/",
+      "source_url": "https://e-jdream.co.jp/product/",
+      "first_detected_at": "2026-05-13T16:19:49+09:00",
+      "last_checked_at": "2026-05-13T17:14:32+09:00",
+      "product_path": "products/jdream-4571596299957.json"
+    },
+    {
+      "id": "jdream-4571596299964",
+      "manufacturer_id": "jdream",
+      "manufacturer_name": "Jドリーム",
+      "brand_name": null,
+      "series_name": null,
+      "product_name": "ドムドムハンバーガー ふわふわポーチ",
+      "release_year": 2026,
+      "release_month": 5,
+      "release_week": null,
+      "release_date": null,
+      "preview_image_url": null,
+      "preview_image_source_url": null,
+      "price_yen": 500,
+      "variant_count": 5,
+      "jan_code": "4571596299964",
+      "official_url": "https://e-jdream.co.jp/product/",
+      "source_url": "https://e-jdream.co.jp/product/",
+      "first_detected_at": "2026-05-12T00:56:14+09:00",
+      "last_checked_at": "2026-05-13T17:14:32+09:00",
+      "product_path": "products/jdream-4571596299964.json"
+    },
+    {
+      "id": "jdream-4571596299933",
+      "manufacturer_id": "jdream",
+      "manufacturer_name": "Jドリーム",
+      "brand_name": null,
+      "series_name": null,
+      "product_name": "平成ファンシー ステーショナリー",
+      "release_year": 2026,
+      "release_month": 5,
+      "release_week": null,
+      "release_date": null,
+      "preview_image_url": null,
+      "preview_image_source_url": null,
+      "price_yen": 500,
+      "variant_count": 5,
+      "jan_code": "4571596299933",
+      "official_url": "https://e-jdream.co.jp/product/",
+      "source_url": "https://e-jdream.co.jp/product/",
+      "first_detected_at": "2026-05-13T16:19:49+09:00",
+      "last_checked_at": "2026-05-13T17:14:32+09:00",
+      "product_path": "products/jdream-4571596299933.json"
     },
     {
       "id": "qualia-daisukekondo-moko2p",
@@ -64,7 +154,8 @@
       "jan_code": null,
       "official_url": "https://qualia-45.jp/distinations/daisukekondo_moko2p/",
       "source_url": "https://qualia-45.jp/distinations/daisukekondo_moko2p/",
-      "last_checked_at": "2026-05-12T17:23:30+09:00",
+      "first_detected_at": "2026-05-11T23:24:59+09:00",
+      "last_checked_at": "2026-05-13T17:14:32+09:00",
       "product_path": "products/qualia-daisukekondo-moko2p.json"
     },
     {
@@ -85,7 +176,8 @@
       "jan_code": null,
       "official_url": "https://qualia-45.jp/distinations/pingu_nuimsm/",
       "source_url": "https://qualia-45.jp/distinations/pingu_nuimsm/",
-      "last_checked_at": "2026-05-13T15:00:32+09:00",
+      "first_detected_at": "2026-05-12T00:23:55+09:00",
+      "last_checked_at": "2026-05-13T17:14:32+09:00",
       "product_path": "products/qualia-pingu-nuimsm.json"
     },
     {
@@ -106,7 +198,8 @@
       "jan_code": null,
       "official_url": "https://qualia-45.jp/distinations/puppetsunsun_moko2fp/",
       "source_url": "https://qualia-45.jp/distinations/puppetsunsun_moko2fp/",
-      "last_checked_at": "2026-05-12T17:23:30+09:00",
+      "first_detected_at": "2026-05-12T17:23:30+09:00",
+      "last_checked_at": "2026-05-13T17:14:32+09:00",
       "product_path": "products/qualia-puppetsunsun-moko2fp.json"
     },
     {
@@ -127,7 +220,8 @@
       "jan_code": null,
       "official_url": "https://qualia-45.jp/distinations/amayadori_mf2/",
       "source_url": "https://qualia-45.jp/distinations/amayadori_mf2/",
-      "last_checked_at": "2026-05-13T15:00:32+09:00",
+      "first_detected_at": "2026-05-12T17:22:58+09:00",
+      "last_checked_at": "2026-05-13T17:14:32+09:00",
       "product_path": "products/qualia-amayadori-mf2.json"
     },
     {
@@ -148,7 +242,8 @@
       "jan_code": null,
       "official_url": "https://qualia-45.jp/distinations/kobitos_caprium/",
       "source_url": "https://qualia-45.jp/distinations/kobitos_caprium/",
-      "last_checked_at": "2026-05-13T15:00:32+09:00",
+      "first_detected_at": "2026-05-12T17:22:58+09:00",
+      "last_checked_at": "2026-05-13T17:14:32+09:00",
       "product_path": "products/qualia-kobitos-caprium.json"
     },
     {
@@ -169,7 +264,8 @@
       "jan_code": null,
       "official_url": "https://qualia-45.jp/distinations/nannoko_nuims/",
       "source_url": "https://qualia-45.jp/distinations/nannoko_nuims/",
-      "last_checked_at": "2026-05-13T15:00:32+09:00",
+      "first_detected_at": "2026-05-12T17:22:58+09:00",
+      "last_checked_at": "2026-05-13T17:14:32+09:00",
       "product_path": "products/qualia-nannoko-nuims.json"
     },
     {
@@ -190,7 +286,8 @@
       "jan_code": null,
       "official_url": "https://qualia-45.jp/distinations/natsukanaineko_nui2/",
       "source_url": "https://qualia-45.jp/distinations/natsukanaineko_nui2/",
-      "last_checked_at": "2026-05-13T15:00:32+09:00",
+      "first_detected_at": "2026-05-12T17:22:58+09:00",
+      "last_checked_at": "2026-05-13T17:14:32+09:00",
       "product_path": "products/qualia-natsukanaineko-nui2.json"
     },
     {
@@ -211,7 +308,8 @@
       "jan_code": null,
       "official_url": "https://qualia-45.jp/distinations/niccolino_chuka_nuin/",
       "source_url": "https://qualia-45.jp/distinations/niccolino_chuka_nuin/",
-      "last_checked_at": "2026-05-12T17:23:30+09:00",
+      "first_detected_at": "2026-05-12T17:23:30+09:00",
+      "last_checked_at": "2026-05-13T17:14:32+09:00",
       "product_path": "products/qualia-niccolino-chuka-nuin.json"
     },
     {
@@ -232,7 +330,8 @@
       "jan_code": null,
       "official_url": "https://qualia-45.jp/distinations/manpukudespoon_mf/",
       "source_url": "https://qualia-45.jp/distinations/manpukudespoon_mf/",
-      "last_checked_at": "2026-05-12T17:23:30+09:00",
+      "first_detected_at": "2026-05-12T17:23:30+09:00",
+      "last_checked_at": "2026-05-13T17:14:32+09:00",
       "product_path": "products/qualia-manpukudespoon-mf.json"
     },
     {
@@ -253,7 +352,8 @@
       "jan_code": null,
       "official_url": "https://qualia-45.jp/distinations/oyashirazu_nui/",
       "source_url": "https://qualia-45.jp/distinations/oyashirazu_nui/",
-      "last_checked_at": "2026-05-13T15:00:32+09:00",
+      "first_detected_at": "2026-05-12T17:22:58+09:00",
+      "last_checked_at": "2026-05-13T17:14:32+09:00",
       "product_path": "products/qualia-oyashirazu-nui.json"
     },
     {
@@ -274,7 +374,8 @@
       "jan_code": null,
       "official_url": "https://qualia-45.jp/distinations/wakasa_syaka2_ak/",
       "source_url": "https://qualia-45.jp/distinations/wakasa_syaka2_ak/",
-      "last_checked_at": "2026-05-12T17:23:30+09:00",
+      "first_detected_at": "2026-05-12T17:23:30+09:00",
+      "last_checked_at": "2026-05-13T17:14:32+09:00",
       "product_path": "products/qualia-wakasa-syaka2-ak.json"
     },
     {
@@ -295,7 +396,8 @@
       "jan_code": null,
       "official_url": "https://qualia-45.jp/distinations/kogimaruke_mf_ks/",
       "source_url": "https://qualia-45.jp/distinations/kogimaruke_mf_ks/",
-      "last_checked_at": "2026-05-13T15:00:32+09:00",
+      "first_detected_at": "2026-05-11T23:24:59+09:00",
+      "last_checked_at": "2026-05-13T17:14:32+09:00",
       "product_path": "products/qualia-kogimaruke-mf-ks.json"
     },
     {
@@ -316,7 +418,8 @@
       "jan_code": null,
       "official_url": "https://qualia-45.jp/distinations/ghostee_nui/",
       "source_url": "https://qualia-45.jp/distinations/ghostee_nui/",
-      "last_checked_at": "2026-05-13T15:00:32+09:00",
+      "first_detected_at": "2026-05-12T17:22:58+09:00",
+      "last_checked_at": "2026-05-13T17:14:32+09:00",
       "product_path": "products/qualia-ghostee-nui.json"
     },
     {
@@ -337,7 +440,8 @@
       "jan_code": null,
       "official_url": "https://qualia-45.jp/distinations/sesamestreet_pminitote/",
       "source_url": "https://qualia-45.jp/distinations/sesamestreet_pminitote/",
-      "last_checked_at": "2026-05-13T15:00:32+09:00",
+      "first_detected_at": "2026-05-12T17:22:58+09:00",
+      "last_checked_at": "2026-05-13T17:14:32+09:00",
       "product_path": "products/qualia-sesamestreet-pminitote.json"
     },
     {
@@ -358,7 +462,8 @@
       "jan_code": null,
       "official_url": "https://qualia-45.jp/distinations/machohaniwa_mf/",
       "source_url": "https://qualia-45.jp/distinations/machohaniwa_mf/",
-      "last_checked_at": "2026-05-12T17:23:30+09:00",
+      "first_detected_at": "2026-05-12T17:23:30+09:00",
+      "last_checked_at": "2026-05-13T17:14:32+09:00",
       "product_path": "products/qualia-machohaniwa-mf.json"
     },
     {
@@ -379,7 +484,8 @@
       "jan_code": null,
       "official_url": "https://qualia-45.jp/distinations/manchester-city_sf/",
       "source_url": "https://qualia-45.jp/distinations/manchester-city_sf/",
-      "last_checked_at": "2026-05-12T17:23:30+09:00",
+      "first_detected_at": "2026-05-12T17:23:30+09:00",
+      "last_checked_at": "2026-05-13T17:14:32+09:00",
       "product_path": "products/qualia-manchester-city-sf.json"
     },
     {
@@ -400,7 +506,8 @@
       "jan_code": null,
       "official_url": "https://qualia-45.jp/distinations/manchester-city_nui/",
       "source_url": "https://qualia-45.jp/distinations/manchester-city_nui/",
-      "last_checked_at": "2026-05-12T17:23:30+09:00",
+      "first_detected_at": "2026-05-12T17:23:30+09:00",
+      "last_checked_at": "2026-05-13T17:14:32+09:00",
       "product_path": "products/qualia-manchester-city-nui.json"
     },
     {
@@ -421,7 +528,8 @@
       "jan_code": null,
       "official_url": "https://qualia-45.jp/distinations/oshikatsu_mf/",
       "source_url": "https://qualia-45.jp/distinations/oshikatsu_mf/",
-      "last_checked_at": "2026-05-12T17:23:30+09:00",
+      "first_detected_at": "2026-05-12T17:23:30+09:00",
+      "last_checked_at": "2026-05-13T17:14:32+09:00",
       "product_path": "products/qualia-oshikatsu-mf.json"
     },
     {
@@ -442,7 +550,8 @@
       "jan_code": null,
       "official_url": "https://qualia-45.jp/distinations/neco_penoki_kibori/",
       "source_url": "https://qualia-45.jp/distinations/neco_penoki_kibori/",
-      "last_checked_at": "2026-05-12T17:23:30+09:00",
+      "first_detected_at": "2026-05-12T17:23:30+09:00",
+      "last_checked_at": "2026-05-13T17:14:32+09:00",
       "product_path": "products/qualia-neco-penoki-kibori.json"
     },
     {
@@ -463,7 +572,8 @@
       "jan_code": null,
       "official_url": "https://qualia-45.jp/distinations/nekoharashoten_hum_nui/",
       "source_url": "https://qualia-45.jp/distinations/nekoharashoten_hum_nui/",
-      "last_checked_at": "2026-05-13T15:00:32+09:00",
+      "first_detected_at": "2026-05-12T17:22:58+09:00",
+      "last_checked_at": "2026-05-13T17:14:32+09:00",
       "product_path": "products/qualia-nekoharashoten-hum-nui.json"
     },
     {
@@ -484,8 +594,141 @@
       "jan_code": null,
       "official_url": "https://www.so-ta.com/products_detail/capsuletoy/bocchitherock_pouch/",
       "source_url": "https://www.so-ta.com/products_detail/capsuletoy/bocchitherock_pouch/",
-      "last_checked_at": "2026-05-13T15:00:32+09:00",
+      "first_detected_at": "2026-05-13T16:15:44+09:00",
+      "last_checked_at": "2026-05-13T17:14:32+09:00",
       "product_path": "products/sota-bocchitherock-pouch.json"
+    },
+    {
+      "id": "toyscabin-20260202-1372",
+      "manufacturer_id": "toyscabin",
+      "manufacturer_name": "トイズキャビン",
+      "brand_name": null,
+      "series_name": null,
+      "product_name": "1/64TOYOTA ジャパンタクシー",
+      "release_year": 2026,
+      "release_month": 5,
+      "release_week": null,
+      "release_date": null,
+      "preview_image_url": "https://toyscabin.com/product/upfiles/2026/02/%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3%E3%82%BF%E3%82%AF%E3%82%B7%E3%83%BC_web%E7%94%A8%E3%83%81%E3%83%A9%E3%82%B7-thumb-980xauto-437.jpg",
+      "preview_image_source_url": "https://toyscabin.com/product/20260202_1372.php",
+      "price_yen": 400,
+      "variant_count": null,
+      "jan_code": null,
+      "official_url": "https://toyscabin.com/product/20260202_1372.php",
+      "source_url": "https://toyscabin.com/product/20260202_1372.php",
+      "first_detected_at": "2026-05-13T16:15:44+09:00",
+      "last_checked_at": "2026-05-13T17:14:32+09:00",
+      "product_path": "products/toyscabin-20260202-1372.json"
+    },
+    {
+      "id": "toyscabin-20260203-1376",
+      "manufacturer_id": "toyscabin",
+      "manufacturer_name": "トイズキャビン",
+      "brand_name": null,
+      "series_name": null,
+      "product_name": "Shadowverse: Worlds Beyond カードアクリル＆キーホルダーVol.2",
+      "release_year": 2026,
+      "release_month": 5,
+      "release_week": null,
+      "release_date": null,
+      "preview_image_url": "https://toyscabin.com/product/upfiles/2026/02/SWB%E3%82%AB%E3%83%BC%E3%83%89%E3%82%A2%E3%82%AF%E3%83%AA%E3%83%AB2_BtoC%E7%94%A8-thumb-980xauto-441.jpg",
+      "preview_image_source_url": "https://toyscabin.com/product/20260203_1376.php",
+      "price_yen": 300,
+      "variant_count": null,
+      "jan_code": null,
+      "official_url": "https://toyscabin.com/product/20260203_1376.php",
+      "source_url": "https://toyscabin.com/product/20260203_1376.php",
+      "first_detected_at": "2026-05-13T16:15:44+09:00",
+      "last_checked_at": "2026-05-13T17:14:32+09:00",
+      "product_path": "products/toyscabin-20260203-1376.json"
+    },
+    {
+      "id": "toyscabin-20260203-1377",
+      "manufacturer_id": "toyscabin",
+      "manufacturer_name": "トイズキャビン",
+      "brand_name": null,
+      "series_name": null,
+      "product_name": "【再販】卓上呼び出しボタンコレクション",
+      "release_year": 2026,
+      "release_month": 5,
+      "release_week": null,
+      "release_date": null,
+      "preview_image_url": "https://toyscabin.com/product/upfiles/2026/02/%E5%8D%93%E4%B8%8A%E5%91%BC%E3%81%B3%E5%87%BA%E3%81%97%E3%83%9C%E3%82%BF%E3%83%B3_4%E6%AC%A1%E5%86%8D%E8%B2%A9_WEB%E7%94%A8-thumb-980xauto-442.jpg",
+      "preview_image_source_url": "https://toyscabin.com/product/20260203_1377.php",
+      "price_yen": null,
+      "variant_count": null,
+      "jan_code": null,
+      "official_url": "https://toyscabin.com/product/20260203_1377.php",
+      "source_url": "https://toyscabin.com/product/20260203_1377.php",
+      "first_detected_at": "2026-05-13T16:15:44+09:00",
+      "last_checked_at": "2026-05-13T17:14:32+09:00",
+      "product_path": "products/toyscabin-20260203-1377.json"
+    },
+    {
+      "id": "toyscabin-20260203-1374",
+      "manufacturer_id": "toyscabin",
+      "manufacturer_name": "トイズキャビン",
+      "brand_name": null,
+      "series_name": null,
+      "product_name": "刀剣乱舞ONLINE 景趣フラットポーチ",
+      "release_year": 2026,
+      "release_month": 5,
+      "release_week": null,
+      "release_date": null,
+      "preview_image_url": "https://toyscabin.com/product/upfiles/2026/02/%E5%88%80%E5%89%A3%E4%B9%B1%E8%88%9E%E3%83%9D%E3%83%BC%E3%83%81_web%E7%94%A8-thumb-980xauto-439.jpg",
+      "preview_image_source_url": "https://toyscabin.com/product/20260203_1374.php",
+      "price_yen": 400,
+      "variant_count": null,
+      "jan_code": null,
+      "official_url": "https://toyscabin.com/product/20260203_1374.php",
+      "source_url": "https://toyscabin.com/product/20260203_1374.php",
+      "first_detected_at": "2026-05-13T16:15:44+09:00",
+      "last_checked_at": "2026-05-13T17:14:32+09:00",
+      "product_path": "products/toyscabin-20260203-1374.json"
+    },
+    {
+      "id": "toyscabin-20260203-1375",
+      "manufacturer_id": "toyscabin",
+      "manufacturer_name": "トイズキャビン",
+      "brand_name": null,
+      "series_name": null,
+      "product_name": "虚無かわいいアデリーペンギン フロッキーソフビ",
+      "release_year": 2026,
+      "release_month": 5,
+      "release_week": null,
+      "release_date": null,
+      "preview_image_url": "https://toyscabin.com/product/upfiles/2026/02/%E8%99%9A%E7%84%A1%E3%81%8B%E3%82%8F%E3%81%84%E3%81%84%E3%82%A2%E3%83%87%E3%83%AA%E3%83%BC%E3%83%9A%E3%83%B3%E3%82%AE%E3%83%B3%E3%82%BD%E3%83%95%E3%83%93%EF%BC%BFweb%E7%94%A8%E3%83%81%E3%83%A9%E3%82%B7-thumb-980xauto-440.jpg",
+      "preview_image_source_url": "https://toyscabin.com/product/20260203_1375.php",
+      "price_yen": 400,
+      "variant_count": null,
+      "jan_code": null,
+      "official_url": "https://toyscabin.com/product/20260203_1375.php",
+      "source_url": "https://toyscabin.com/product/20260203_1375.php",
+      "first_detected_at": "2026-05-13T16:15:44+09:00",
+      "last_checked_at": "2026-05-13T17:14:32+09:00",
+      "product_path": "products/toyscabin-20260203-1375.json"
+    },
+    {
+      "id": "toyscabin-20260202-1373",
+      "manufacturer_id": "toyscabin",
+      "manufacturer_name": "トイズキャビン",
+      "brand_name": null,
+      "series_name": null,
+      "product_name": "蟹戦車3 ストームカラッパコレクション",
+      "release_year": 2026,
+      "release_month": 5,
+      "release_week": null,
+      "release_date": null,
+      "preview_image_url": "https://toyscabin.com/product/upfiles/2026/02/%E8%9F%B9%E6%88%A6%E8%BB%8A3%EF%BC%BFweb%E7%94%A8%E3%83%81%E3%83%A9%E3%82%B7-thumb-980xauto-438.jpg",
+      "preview_image_source_url": "https://toyscabin.com/product/20260202_1373.php",
+      "price_yen": 500,
+      "variant_count": null,
+      "jan_code": null,
+      "official_url": "https://toyscabin.com/product/20260202_1373.php",
+      "source_url": "https://toyscabin.com/product/20260202_1373.php",
+      "first_detected_at": "2026-05-13T16:15:44+09:00",
+      "last_checked_at": "2026-05-13T17:14:32+09:00",
+      "product_path": "products/toyscabin-20260202-1373.json"
     }
   ]
 }
