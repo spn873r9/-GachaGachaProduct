@@ -1,0 +1,52 @@
+{
+  "schema_version": "1.0.0",
+  "generated_at": "2026-05-14T23:44:06+09:00",
+  "year": 2012,
+  "month": 2,
+  "items": [
+    {
+      "id": "kitanclub-rhythmushi",
+      "manufacturer_id": "kitanclub",
+      "manufacturer_name": "キタンクラブ",
+      "brand_name": null,
+      "series_name": null,
+      "product_name": "リズムシピコピコぬいぐるみ",
+      "release_year": 2012,
+      "release_month": 2,
+      "release_week": null,
+      "release_date": null,
+      "preview_image_url": "https://kitan.jp/wp-content/uploads/2012/02/rizumushiDP.jpg",
+      "preview_image_source_url": "https://kitan.jp/products/rhythmushi/",
+      "price_yen": 300,
+      "variant_count": 6,
+      "jan_code": null,
+      "official_url": "https://kitan.jp/products/rhythmushi/",
+      "source_url": "https://kitan.jp/products/rhythmushi/",
+      "first_detected_at": "2026-05-14T09:13:25+09:00",
+      "last_checked_at": "2026-05-14T09:13:25+09:00",
+      "product_path": "products/kitanclub-rhythmushi.json"
+    },
+    {
+      "id": "kitanclub-degawa",
+      "manufacturer_id": "kitanclub",
+      "manufacturer_name": "キタンクラブ",
+      "brand_name": null,
+      "series_name": null,
+      "product_name": "出川哲朗ストラップ",
+      "release_year": 2012,
+      "release_month": 2,
+      "release_week": null,
+      "release_date": null,
+      "preview_image_url": "https://kitan.jp/wp-content/uploads/2012/02/degawa_DP_Re.jpg",
+      "preview_image_source_url": "https://kitan.jp/products/degawa/",
+      "price_yen": 200,
+      "variant_count": 7,
+      "jan_code": null,
+      "official_url": "https://kitan.jp/products/degawa/",
+      "source_url": "https://kitan.jp/products/degawa/",
+      "first_detected_at": "2026-05-14T09:13:25+09:00",
+      "last_checked_at": "2026-05-14T09:13:25+09:00",
+      "product_path": "products/kitanclub-degawa.json"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": "kitanclub-senjucollection",
+  "manufacturer_id": "kitanclub",
+  "manufacturer_name": "キタンクラブ",
+  "brand_name": null,
+  "series_name": null,
+  "product_name": "千手コレクション",
+  "release_year": 2024,
+  "release_month": 1,
+  "release_week": null,
+  "release_date": null,
+  "preview_image_url": "https://kitan.jp/wp-content/uploads/2024/01/senju_collection_DP.jpg",
+  "preview_image_source_url": "https://kitan.jp/products/senjucollection/",
+  "price_yen": 400,
+  "variant_count": 5,
+  "jan_code": null,
+  "official_url": "https://kitan.jp/products/senjucollection/",
+  "source_url": "https://kitan.jp/products/senjucollection/",
+  "first_detected_at": "2026-05-14T09:13:25+09:00",
+  "last_checked_at": "2026-05-14T09:13:25+09:00",
+  "product_path": "products/kitanclub-senjucollection.json",
+  "copyright_notice": "©あきこ屋",
+  "data_policy": {
+    "source_verified": true,
+    "uses_official_image": false,
+    "uses_official_description": false
+  }
+}

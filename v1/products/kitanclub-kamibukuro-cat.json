@@ -1,0 +1,28 @@
+{
+  "id": "kitanclub-kamibukuro-cat",
+  "manufacturer_id": "kitanclub",
+  "manufacturer_name": "キタンクラブ",
+  "brand_name": null,
+  "series_name": null,
+  "product_name": "紙袋に入った猫",
+  "release_year": 2020,
+  "release_month": 2,
+  "release_week": null,
+  "release_date": null,
+  "preview_image_url": "https://kitan.jp/wp-content/uploads/2020/01/kamibukuroneko_DP-1.jpg",
+  "preview_image_source_url": "https://kitan.jp/products/kamibukuro_cat/",
+  "price_yen": 300,
+  "variant_count": 6,
+  "jan_code": null,
+  "official_url": "https://kitan.jp/products/kamibukuro_cat/",
+  "source_url": "https://kitan.jp/products/kamibukuro_cat/",
+  "first_detected_at": "2026-05-14T09:13:25+09:00",
+  "last_checked_at": "2026-05-14T09:13:25+09:00",
+  "product_path": "products/kitanclub-kamibukuro-cat.json",
+  "copyright_notice": "ⒸS.HASEGAWA",
+  "data_policy": {
+    "source_verified": true,
+    "uses_official_image": false,
+    "uses_official_description": false
+  }
+}

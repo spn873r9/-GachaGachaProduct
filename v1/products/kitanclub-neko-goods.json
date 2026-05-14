@@ -1,0 +1,28 @@
+{
+  "id": "kitanclub-neko-goods",
+  "manufacturer_id": "kitanclub",
+  "manufacturer_name": "キタンクラブ",
+  "brand_name": null,
+  "series_name": null,
+  "product_name": "「猫」グッズコレクション",
+  "release_year": 2025,
+  "release_month": 7,
+  "release_week": null,
+  "release_date": null,
+  "preview_image_url": "https://kitan.jp/wp-content/uploads/2025/07/nekogoods_DP.jpg",
+  "preview_image_source_url": "https://kitan.jp/products/neko_goods/",
+  "price_yen": 400,
+  "variant_count": 10,
+  "jan_code": null,
+  "official_url": "https://kitan.jp/products/neko_goods/",
+  "source_url": "https://kitan.jp/products/neko_goods/",
+  "first_detected_at": "2026-05-14T09:13:25+09:00",
+  "last_checked_at": "2026-05-14T23:35:57+09:00",
+  "product_path": "products/kitanclub-neko-goods.json",
+  "copyright_notice": "©もず串",
+  "data_policy": {
+    "source_verified": true,
+    "uses_official_image": false,
+    "uses_official_description": false
+  }
+}

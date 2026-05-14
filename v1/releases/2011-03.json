@@ -1,0 +1,30 @@
+{
+  "schema_version": "1.0.0",
+  "generated_at": "2026-05-14T23:44:06+09:00",
+  "year": 2011,
+  "month": 3,
+  "items": [
+    {
+      "id": "kitanclub-osanpo1-5",
+      "manufacturer_id": "kitanclub",
+      "manufacturer_name": "キタンクラブ",
+      "brand_name": null,
+      "series_name": null,
+      "product_name": "おさんぽカエル v1.5",
+      "release_year": 2011,
+      "release_month": 3,
+      "release_week": null,
+      "release_date": null,
+      "preview_image_url": "https://kitan.jp/wp-content/uploads/2011/03/osanpoDP_Re.jpg",
+      "preview_image_source_url": "https://kitan.jp/products/osanpo1-5/",
+      "price_yen": 200,
+      "variant_count": 7,
+      "jan_code": null,
+      "official_url": "https://kitan.jp/products/osanpo1-5/",
+      "source_url": "https://kitan.jp/products/osanpo1-5/",
+      "first_detected_at": "2026-05-14T09:13:25+09:00",
+      "last_checked_at": "2026-05-14T09:13:25+09:00",
+      "product_path": "products/kitanclub-osanpo1-5.json"
+    }
+  ]
+}

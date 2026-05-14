@@ -1,0 +1,52 @@
+{
+  "schema_version": "1.0.0",
+  "generated_at": "2026-05-14T23:44:06+09:00",
+  "year": 2010,
+  "month": 6,
+  "items": [
+    {
+      "id": "kitanclub-degeza-01",
+      "manufacturer_id": "kitanclub",
+      "manufacturer_name": "キタンクラブ",
+      "brand_name": null,
+      "series_name": null,
+      "product_name": "シリーズ生きる ─ 第一夜 ─ 土下座ストラップ",
+      "release_year": 2010,
+      "release_month": 6,
+      "release_week": null,
+      "release_date": null,
+      "preview_image_url": "https://kitan.jp/wp-content/uploads/2010/06/pop_doge_8-1.jpg",
+      "preview_image_source_url": "https://kitan.jp/products/degeza_01/",
+      "price_yen": 200,
+      "variant_count": 8,
+      "jan_code": null,
+      "official_url": "https://kitan.jp/products/degeza_01/",
+      "source_url": "https://kitan.jp/products/degeza_01/",
+      "first_detected_at": "2026-05-14T09:13:25+09:00",
+      "last_checked_at": "2026-05-14T09:13:25+09:00",
+      "product_path": "products/kitanclub-degeza-01.json"
+    },
+    {
+      "id": "kitanclub-ega",
+      "manufacturer_id": "kitanclub",
+      "manufacturer_name": "キタンクラブ",
+      "brand_name": null,
+      "series_name": null,
+      "product_name": "江頭2：50ストラップ",
+      "release_year": 2010,
+      "release_month": 6,
+      "release_week": null,
+      "release_date": null,
+      "preview_image_url": "https://kitan.jp/wp-content/uploads/2010/06/ega_pop_8-3.jpg",
+      "preview_image_source_url": "https://kitan.jp/products/ega/",
+      "price_yen": 200,
+      "variant_count": 7,
+      "jan_code": null,
+      "official_url": "https://kitan.jp/products/ega/",
+      "source_url": "https://kitan.jp/products/ega/",
+      "first_detected_at": "2026-05-14T09:13:25+09:00",
+      "last_checked_at": "2026-05-14T09:13:25+09:00",
+      "product_path": "products/kitanclub-ega.json"
+    }
+  ]
+}

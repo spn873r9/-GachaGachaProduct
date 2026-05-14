@@ -1,0 +1,28 @@
+{
+  "id": "kitanclub-suwarumoomin",
+  "manufacturer_id": "kitanclub",
+  "manufacturer_name": "キタンクラブ",
+  "brand_name": null,
+  "series_name": null,
+  "product_name": "座るムーミン",
+  "release_year": 2021,
+  "release_month": 12,
+  "release_week": null,
+  "release_date": null,
+  "preview_image_url": "https://kitan.jp/wp-content/uploads/2021/12/suwarumoomin_DP.jpg",
+  "preview_image_source_url": "https://kitan.jp/products/suwarumoomin/",
+  "price_yen": 400,
+  "variant_count": 5,
+  "jan_code": null,
+  "official_url": "https://kitan.jp/products/suwarumoomin/",
+  "source_url": "https://kitan.jp/products/suwarumoomin/",
+  "first_detected_at": "2026-05-14T09:13:25+09:00",
+  "last_checked_at": "2026-05-14T09:13:25+09:00",
+  "product_path": "products/kitanclub-suwarumoomin.json",
+  "copyright_notice": "©Moomin Characters™",
+  "data_policy": {
+    "source_verified": true,
+    "uses_official_image": false,
+    "uses_official_description": false
+  }
+}

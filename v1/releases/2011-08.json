@@ -1,0 +1,52 @@
+{
+  "schema_version": "1.0.0",
+  "generated_at": "2026-05-14T23:44:06+09:00",
+  "year": 2011,
+  "month": 8,
+  "items": [
+    {
+      "id": "kitanclub-loveneko",
+      "manufacturer_id": "kitanclub",
+      "manufacturer_name": "キタンクラブ",
+      "brand_name": null,
+      "series_name": null,
+      "product_name": "らぶねこ マスコットストラップ",
+      "release_year": 2011,
+      "release_month": 8,
+      "release_week": null,
+      "release_date": null,
+      "preview_image_url": "https://kitan.jp/wp-content/uploads/2011/08/loveneko.jpg",
+      "preview_image_source_url": "https://kitan.jp/products/loveneko/",
+      "price_yen": 200,
+      "variant_count": 7,
+      "jan_code": null,
+      "official_url": "https://kitan.jp/products/loveneko/",
+      "source_url": "https://kitan.jp/products/loveneko/",
+      "first_detected_at": "2026-05-14T09:13:25+09:00",
+      "last_checked_at": "2026-05-14T09:13:25+09:00",
+      "product_path": "products/kitanclub-loveneko.json"
+    },
+    {
+      "id": "takaratomy-arts-y992070",
+      "manufacturer_id": "takaratomy-arts",
+      "manufacturer_name": "タカラトミーアーツ",
+      "brand_name": null,
+      "series_name": null,
+      "product_name": "カーズ2 ミニブリスターコレクション Part2",
+      "release_year": 2011,
+      "release_month": 8,
+      "release_week": null,
+      "release_date": null,
+      "preview_image_url": "https://www.takaratomy-arts.co.jp/upfiles/products/Y992070_b.jpg",
+      "preview_image_source_url": "https://www.takaratomy-arts.co.jp/items/item.html?n=Y992070",
+      "price_yen": 200,
+      "variant_count": 6,
+      "jan_code": null,
+      "official_url": "https://www.takaratomy-arts.co.jp/items/item.html?n=Y992070",
+      "source_url": "https://www.takaratomy-arts.co.jp/items/item.html?n=Y992070",
+      "first_detected_at": "2026-05-14T11:01:55+09:00",
+      "last_checked_at": "2026-05-14T11:01:55+09:00",
+      "product_path": "products/takaratomy-arts-y992070.json"
+    }
+  ]
+}

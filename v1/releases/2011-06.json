@@ -1,0 +1,52 @@
+{
+  "schema_version": "1.0.0",
+  "generated_at": "2026-05-14T23:44:06+09:00",
+  "year": 2011,
+  "month": 6,
+  "items": [
+    {
+      "id": "kitanclub-panchira",
+      "manufacturer_id": "kitanclub",
+      "manufacturer_name": "キタンクラブ",
+      "brand_name": null,
+      "series_name": null,
+      "product_name": "デハラユキノリ 世界のパンチラ ストラップ",
+      "release_year": 2011,
+      "release_month": 6,
+      "release_week": null,
+      "release_date": null,
+      "preview_image_url": "https://kitan.jp/wp-content/uploads/2011/06/panchira_pop_cs4_ol-01-1.jpg",
+      "preview_image_source_url": "https://kitan.jp/products/panchira/",
+      "price_yen": 200,
+      "variant_count": 8,
+      "jan_code": null,
+      "official_url": "https://kitan.jp/products/panchira/",
+      "source_url": "https://kitan.jp/products/panchira/",
+      "first_detected_at": "2026-05-14T09:13:25+09:00",
+      "last_checked_at": "2026-05-14T09:13:25+09:00",
+      "product_path": "products/kitanclub-panchira.json"
+    },
+    {
+      "id": "kitanclub-ega-rainbow",
+      "manufacturer_id": "kitanclub",
+      "manufacturer_name": "キタンクラブ",
+      "brand_name": null,
+      "series_name": null,
+      "product_name": "江頭2:50ストラップ レインボーコレクション",
+      "release_year": 2011,
+      "release_month": 6,
+      "release_week": null,
+      "release_date": null,
+      "preview_image_url": "https://kitan.jp/wp-content/uploads/2011/06/ega_RAINBOW_DP_Re.jpg",
+      "preview_image_source_url": "https://kitan.jp/products/ega_rainbow/",
+      "price_yen": 200,
+      "variant_count": 7,
+      "jan_code": null,
+      "official_url": "https://kitan.jp/products/ega_rainbow/",
+      "source_url": "https://kitan.jp/products/ega_rainbow/",
+      "first_detected_at": "2026-05-14T09:13:25+09:00",
+      "last_checked_at": "2026-05-14T09:13:25+09:00",
+      "product_path": "products/kitanclub-ega-rainbow.json"
+    }
+  ]
+}

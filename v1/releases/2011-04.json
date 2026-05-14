@@ -1,0 +1,52 @@
+{
+  "schema_version": "1.0.0",
+  "generated_at": "2026-05-14T23:44:06+09:00",
+  "year": 2011,
+  "month": 4,
+  "items": [
+    {
+      "id": "kitanclub-live-dogeza2",
+      "manufacturer_id": "kitanclub",
+      "manufacturer_name": "キタンクラブ",
+      "brand_name": null,
+      "series_name": null,
+      "product_name": "シリーズ生きる ─ 第二夜 ─ 続・土下座ストラップ",
+      "release_year": 2011,
+      "release_month": 4,
+      "release_week": null,
+      "release_date": null,
+      "preview_image_url": "https://kitan.jp/wp-content/uploads/2011/04/zokudoge_DP_Re.jpg",
+      "preview_image_source_url": "https://kitan.jp/products/live_dogeza2/",
+      "price_yen": 200,
+      "variant_count": 8,
+      "jan_code": null,
+      "official_url": "https://kitan.jp/products/live_dogeza2/",
+      "source_url": "https://kitan.jp/products/live_dogeza2/",
+      "first_detected_at": "2026-05-14T09:13:25+09:00",
+      "last_checked_at": "2026-05-14T09:13:25+09:00",
+      "product_path": "products/kitanclub-live-dogeza2.json"
+    },
+    {
+      "id": "takaratomy-arts-y991004",
+      "manufacturer_id": "takaratomy-arts",
+      "manufacturer_name": "タカラトミーアーツ",
+      "brand_name": null,
+      "series_name": null,
+      "product_name": "HELLO KITTY×SESAME STREETストラップ（仮）",
+      "release_year": 2011,
+      "release_month": 4,
+      "release_week": null,
+      "release_date": null,
+      "preview_image_url": "https://www.takaratomy-arts.co.jp/upfiles/products/Y991004_b.jpg",
+      "preview_image_source_url": "https://www.takaratomy-arts.co.jp/items/item.html?n=Y991004",
+      "price_yen": 300,
+      "variant_count": 5,
+      "jan_code": null,
+      "official_url": "https://www.takaratomy-arts.co.jp/items/item.html?n=Y991004",
+      "source_url": "https://www.takaratomy-arts.co.jp/items/item.html?n=Y991004",
+      "first_detected_at": "2026-05-14T11:01:55+09:00",
+      "last_checked_at": "2026-05-14T11:01:55+09:00",
+      "product_path": "products/takaratomy-arts-y991004.json"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "id": "kitanclub-hatopan",
+  "manufacturer_id": "kitanclub",
+  "manufacturer_name": "キタンクラブ",
+  "brand_name": null,
+  "series_name": null,
+  "product_name": "鳩パン",
+  "release_year": 2015,
+  "release_month": 7,
+  "release_week": null,
+  "release_date": null,
+  "preview_image_url": "https://kitan.jp/wp-content/uploads/2015/07/DP_hatopan.jpg",
+  "preview_image_source_url": "https://kitan.jp/products/hatopan/",
+  "price_yen": 200,
+  "variant_count": 6,
+  "jan_code": null,
+  "official_url": "https://kitan.jp/products/hatopan/",
+  "source_url": "https://kitan.jp/products/hatopan/",
+  "first_detected_at": "2026-05-14T09:13:25+09:00",
+  "last_checked_at": "2026-05-14T09:13:25+09:00",
+  "product_path": "products/kitanclub-hatopan.json",
+  "copyright_notice": "©2014 MORITO TOYONAGA・MOVCO",
+  "data_policy": {
+    "source_verified": true,
+    "uses_official_image": false,
+    "uses_official_description": false
+  }
+}
