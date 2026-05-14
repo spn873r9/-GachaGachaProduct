@@ -1,0 +1,52 @@
+{
+  "schema_version": "1.0.0",
+  "generated_at": "2026-05-14T09:07:29+09:00",
+  "year": 2019,
+  "month": 11,
+  "items": [
+    {
+      "id": "toyscabin-20190725-36",
+      "manufacturer_id": "toyscabin",
+      "manufacturer_name": "トイズキャビン",
+      "brand_name": null,
+      "series_name": null,
+      "product_name": "1/64スズキエブリイ コレクション",
+      "release_year": 2019,
+      "release_month": 11,
+      "release_week": null,
+      "release_date": null,
+      "preview_image_url": "https://toyscabin.com/product/upfiles/2020/08/20190725_02-thumb-980xauto-44.jpg",
+      "preview_image_source_url": "https://toyscabin.com/product/20190725_36.php",
+      "price_yen": null,
+      "variant_count": null,
+      "jan_code": null,
+      "official_url": "https://toyscabin.com/product/20190725_36.php",
+      "source_url": "https://toyscabin.com/product/20190725_36.php",
+      "first_detected_at": "2026-05-13T19:05:49+09:00",
+      "last_checked_at": "2026-05-13T19:05:49+09:00",
+      "product_path": "products/toyscabin-20190725-36.json"
+    },
+    {
+      "id": "toyscabin-20190725-35",
+      "manufacturer_id": "toyscabin",
+      "manufacturer_name": "トイズキャビン",
+      "brand_name": null,
+      "series_name": null,
+      "product_name": "仕事猫 ミニフィギュアコレクション",
+      "release_year": 2019,
+      "release_month": 11,
+      "release_week": null,
+      "release_date": null,
+      "preview_image_url": "https://toyscabin.com/product/upfiles/2020/08/20190725_01-thumb-980xauto-43.jpg",
+      "preview_image_source_url": "https://toyscabin.com/product/20190725_35.php",
+      "price_yen": null,
+      "variant_count": null,
+      "jan_code": null,
+      "official_url": "https://toyscabin.com/product/20190725_35.php",
+      "source_url": "https://toyscabin.com/product/20190725_35.php",
+      "first_detected_at": "2026-05-13T19:05:49+09:00",
+      "last_checked_at": "2026-05-13T19:05:49+09:00",
+      "product_path": "products/toyscabin-20190725-35.json"
+    }
+  ]
+}

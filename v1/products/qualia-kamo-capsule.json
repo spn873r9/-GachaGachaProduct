@@ -1,0 +1,28 @@
+{
+  "id": "qualia-kamo-capsule",
+  "manufacturer_id": "qualia",
+  "manufacturer_name": "Qualia",
+  "brand_name": null,
+  "series_name": null,
+  "product_name": "カプリウムコレクション 鶴岡市立加茂水族館",
+  "release_year": 2022,
+  "release_month": 5,
+  "release_week": null,
+  "release_date": null,
+  "preview_image_url": "https://qualia-45.jp/wp-content/uploads/KAMO-CAPRIUM-s-500x320.jpg",
+  "preview_image_source_url": "https://qualia-45.jp/distinations/kamo-capsule/",
+  "price_yen": 500,
+  "variant_count": 5,
+  "jan_code": null,
+  "official_url": "https://qualia-45.jp/distinations/kamo-capsule/",
+  "source_url": "https://qualia-45.jp/distinations/kamo-capsule/",
+  "first_detected_at": "2026-05-13T19:05:49+09:00",
+  "last_checked_at": "2026-05-13T22:42:41+09:00",
+  "product_path": "products/qualia-kamo-capsule.json",
+  "copyright_notice": "©Qualia",
+  "data_policy": {
+    "source_verified": true,
+    "uses_official_image": false,
+    "uses_official_description": false
+  }
+}

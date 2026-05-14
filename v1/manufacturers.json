@@ -1,7 +1,13 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-05-13T18:03:21+09:00",
+  "generated_at": "2026-05-14T09:07:29+09:00",
   "items": [
+    {
+      "id": "bandai-gashapon",
+      "name": "バンダイ ガシャポン",
+      "official_url": "https://gashapon.jp/",
+      "enabled": true
+    },
     {
       "id": "ikimon",
       "name": "いきもん",
@@ -9,9 +15,27 @@
       "enabled": true
     },
     {
+      "id": "ip4",
+      "name": "アイピーフォー",
+      "official_url": "https://www.ip4.co.jp/",
+      "enabled": true
+    },
+    {
       "id": "jdream",
       "name": "Jドリーム",
       "official_url": "https://e-jdream.co.jp/",
+      "enabled": true
+    },
+    {
+      "id": "kenelephant",
+      "name": "ケンエレファント",
+      "official_url": "https://kenelephant.co.jp/",
+      "enabled": true
+    },
+    {
+      "id": "kitanclub",
+      "name": "キタンクラブ",
+      "official_url": "https://kitan.jp/",
       "enabled": true
     },
     {
@@ -24,6 +48,18 @@
       "id": "sota",
       "name": "SO-TA / スタジオソータ",
       "official_url": "https://www.so-ta.com/",
+      "enabled": true
+    },
+    {
+      "id": "stand-stones",
+      "name": "スタンド・ストーンズ",
+      "official_url": "https://stasto.co.jp/",
+      "enabled": true
+    },
+    {
+      "id": "takaratomy-arts",
+      "name": "タカラトミーアーツ",
+      "official_url": "https://www.takaratomy-arts.co.jp/",
       "enabled": true
     },
     {

@@ -1,0 +1,52 @@
+{
+  "schema_version": "1.0.0",
+  "generated_at": "2026-05-14T09:07:29+09:00",
+  "year": 2019,
+  "month": 3,
+  "items": [
+    {
+      "id": "toyscabin-20181129-22",
+      "manufacturer_id": "toyscabin",
+      "manufacturer_name": "トイズキャビン",
+      "brand_name": null,
+      "series_name": null,
+      "product_name": "1/64スズキジムニーJB64 コレクション",
+      "release_year": 2019,
+      "release_month": 3,
+      "release_week": null,
+      "release_date": null,
+      "preview_image_url": "https://toyscabin.com/product/upfiles/2020/08/20181129_03-thumb-980xauto-29.jpg",
+      "preview_image_source_url": "https://toyscabin.com/product/20181129_22.php",
+      "price_yen": null,
+      "variant_count": null,
+      "jan_code": null,
+      "official_url": "https://toyscabin.com/product/20181129_22.php",
+      "source_url": "https://toyscabin.com/product/20181129_22.php",
+      "first_detected_at": "2026-05-13T19:05:49+09:00",
+      "last_checked_at": "2026-05-13T19:05:49+09:00",
+      "product_path": "products/toyscabin-20181129-22.json"
+    },
+    {
+      "id": "toyscabin-20181129-20",
+      "manufacturer_id": "toyscabin",
+      "manufacturer_name": "トイズキャビン",
+      "brand_name": null,
+      "series_name": null,
+      "product_name": "仕事猫現場 ラバーキーチェーン",
+      "release_year": 2019,
+      "release_month": 3,
+      "release_week": null,
+      "release_date": null,
+      "preview_image_url": "https://toyscabin.com/product/upfiles/2020/08/20181129_01-thumb-980xauto-27.jpg",
+      "preview_image_source_url": "https://toyscabin.com/product/20181129_20.php",
+      "price_yen": null,
+      "variant_count": null,
+      "jan_code": null,
+      "official_url": "https://toyscabin.com/product/20181129_20.php",
+      "source_url": "https://toyscabin.com/product/20181129_20.php",
+      "first_detected_at": "2026-05-13T19:05:49+09:00",
+      "last_checked_at": "2026-05-13T19:05:49+09:00",
+      "product_path": "products/toyscabin-20181129-20.json"
+    }
+  ]
+}

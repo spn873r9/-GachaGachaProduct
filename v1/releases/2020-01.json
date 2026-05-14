@@ -1,0 +1,52 @@
+{
+  "schema_version": "1.0.0",
+  "generated_at": "2026-05-14T09:07:29+09:00",
+  "year": 2020,
+  "month": 1,
+  "items": [
+    {
+      "id": "toyscabin-20190927-38",
+      "manufacturer_id": "toyscabin",
+      "manufacturer_name": "トイズキャビン",
+      "brand_name": null,
+      "series_name": null,
+      "product_name": "仕事猫現場 ラバーキーチェーン2",
+      "release_year": 2020,
+      "release_month": 1,
+      "release_week": null,
+      "release_date": null,
+      "preview_image_url": "https://toyscabin.com/product/upfiles/2020/08/20190927_01-thumb-980xauto-46.jpg",
+      "preview_image_source_url": "https://toyscabin.com/product/20190927_38.php",
+      "price_yen": null,
+      "variant_count": null,
+      "jan_code": null,
+      "official_url": "https://toyscabin.com/product/20190927_38.php",
+      "source_url": "https://toyscabin.com/product/20190927_38.php",
+      "first_detected_at": "2026-05-13T19:05:49+09:00",
+      "last_checked_at": "2026-05-13T19:05:49+09:00",
+      "product_path": "products/toyscabin-20190927-38.json"
+    },
+    {
+      "id": "toyscabin-20190927-39",
+      "manufacturer_id": "toyscabin",
+      "manufacturer_name": "トイズキャビン",
+      "brand_name": null,
+      "series_name": null,
+      "product_name": "立体花札図鑑",
+      "release_year": 2020,
+      "release_month": 1,
+      "release_week": null,
+      "release_date": null,
+      "preview_image_url": "https://toyscabin.com/product/upfiles/2020/08/20190927_02-thumb-980xauto-47.jpg",
+      "preview_image_source_url": "https://toyscabin.com/product/20190927_39.php",
+      "price_yen": null,
+      "variant_count": null,
+      "jan_code": null,
+      "official_url": "https://toyscabin.com/product/20190927_39.php",
+      "source_url": "https://toyscabin.com/product/20190927_39.php",
+      "first_detected_at": "2026-05-13T19:05:49+09:00",
+      "last_checked_at": "2026-05-13T19:05:49+09:00",
+      "product_path": "products/toyscabin-20190927-39.json"
+    }
+  ]
+}

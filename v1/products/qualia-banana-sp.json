@@ -1,0 +1,28 @@
+{
+  "id": "qualia-banana-sp",
+  "manufacturer_id": "qualia",
+  "manufacturer_name": "Qualia",
+  "brand_name": null,
+  "series_name": null,
+  "product_name": "バナナシリコンポーチ",
+  "release_year": null,
+  "release_month": null,
+  "release_week": null,
+  "release_date": null,
+  "preview_image_url": "https://qualia-45.jp/wp-content/uploads/%E5%86%8D%E7%89%88bananapoach_DP_OL_2310.jpg",
+  "preview_image_source_url": "https://qualia-45.jp/distinations/banana_sp/",
+  "price_yen": 300,
+  "variant_count": 5,
+  "jan_code": null,
+  "official_url": "https://qualia-45.jp/distinations/banana_sp/",
+  "source_url": "https://qualia-45.jp/distinations/banana_sp/",
+  "first_detected_at": "2026-05-13T19:05:49+09:00",
+  "last_checked_at": "2026-05-13T22:42:41+09:00",
+  "product_path": "products/qualia-banana-sp.json",
+  "copyright_notice": "©Qualia",
+  "data_policy": {
+    "source_verified": true,
+    "uses_official_image": false,
+    "uses_official_description": false
+  }
+}

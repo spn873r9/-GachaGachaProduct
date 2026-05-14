@@ -1,0 +1,52 @@
+{
+  "schema_version": "1.0.0",
+  "generated_at": "2026-05-14T09:07:29+09:00",
+  "year": 2020,
+  "month": 3,
+  "items": [
+    {
+      "id": "toyscabin-20191103-42",
+      "manufacturer_id": "toyscabin",
+      "manufacturer_name": "トイズキャビン",
+      "brand_name": null,
+      "series_name": null,
+      "product_name": "【ビーム社製】1/64スイフトスポーツZC33S コレクション：",
+      "release_year": 2020,
+      "release_month": 3,
+      "release_week": null,
+      "release_date": null,
+      "preview_image_url": "https://toyscabin.com/product/upfiles/2020/08/20191103_01-thumb-980xauto-50.jpg",
+      "preview_image_source_url": "https://toyscabin.com/product/20191103_42.php",
+      "price_yen": 400,
+      "variant_count": null,
+      "jan_code": null,
+      "official_url": "https://toyscabin.com/product/20191103_42.php",
+      "source_url": "https://toyscabin.com/product/20191103_42.php",
+      "first_detected_at": "2026-05-13T19:05:49+09:00",
+      "last_checked_at": "2026-05-13T19:05:49+09:00",
+      "product_path": "products/toyscabin-20191103-42.json"
+    },
+    {
+      "id": "toyscabin-20191126-43",
+      "manufacturer_id": "toyscabin",
+      "manufacturer_name": "トイズキャビン",
+      "brand_name": null,
+      "series_name": null,
+      "product_name": "戦国の槍 ～天下三名槍～",
+      "release_year": 2020,
+      "release_month": 3,
+      "release_week": null,
+      "release_date": null,
+      "preview_image_url": "https://toyscabin.com/product/upfiles/2020/08/20191126_01-thumb-980xauto-51.jpg",
+      "preview_image_source_url": "https://toyscabin.com/product/20191126_43.php",
+      "price_yen": null,
+      "variant_count": null,
+      "jan_code": null,
+      "official_url": "https://toyscabin.com/product/20191126_43.php",
+      "source_url": "https://toyscabin.com/product/20191126_43.php",
+      "first_detected_at": "2026-05-13T19:05:49+09:00",
+      "last_checked_at": "2026-05-13T19:05:49+09:00",
+      "product_path": "products/toyscabin-20191126-43.json"
+    }
+  ]
+}
