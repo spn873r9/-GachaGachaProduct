@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-05-15T09:07:26+09:00",
+  "generated_at": "2026-05-15T19:24:45+09:00",
   "year": 2020,
   "month": 12,
   "items": [
@@ -1301,6 +1301,28 @@
       "first_detected_at": "2026-05-14T16:31:22+09:00",
       "last_checked_at": "2026-05-14T16:31:22+09:00",
       "product_path": "products/bandai-gashapon-4549660563617000.json"
+    },
+    {
+      "id": "kaiyodo-capsule-cqm128",
+      "manufacturer_id": "kaiyodo",
+      "manufacturer_name": "海洋堂",
+      "brand_name": null,
+      "series_name": null,
+      "product_name": "カプセルQミュージアム 「ドクロマンプラス ウィンタースポーツ編」全6種/1回500円",
+      "release_year": 2020,
+      "release_month": 12,
+      "release_week": null,
+      "release_date": null,
+      "preview_image_url": "https://kaiyodo.co.jp/items/wp-content/uploads/sites/4/2020/09/hp.jpg",
+      "preview_image_source_url": "https://kaiyodo.co.jp/items/capsule/",
+      "price_yen": 500,
+      "variant_count": 6,
+      "jan_code": null,
+      "official_url": "https://kaiyodo.co.jp/items/capsule/cqm128/",
+      "source_url": "https://kaiyodo.co.jp/items/capsule/",
+      "first_detected_at": "2026-05-15T14:15:49+09:00",
+      "last_checked_at": "2026-05-15T19:01:52+09:00",
+      "product_path": "products/kaiyodo-capsule-cqm128.json"
     },
     {
       "id": "kenelephant-gc0194z",

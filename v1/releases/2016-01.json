@@ -1,9 +1,31 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-05-15T09:07:26+09:00",
+  "generated_at": "2026-05-15T19:24:45+09:00",
   "year": 2016,
   "month": 1,
   "items": [
+    {
+      "id": "kaiyodo-capsule-yamori2",
+      "manufacturer_id": "kaiyodo",
+      "manufacturer_name": "海洋堂",
+      "brand_name": null,
+      "series_name": null,
+      "product_name": "カプセルＱミュージアム『ヤモリ大全②-クレステッドゲッコー』",
+      "release_year": 2016,
+      "release_month": 1,
+      "release_week": null,
+      "release_date": "2016-01-20",
+      "preview_image_url": "https://kaiyodo.co.jp/items/wp-content/uploads/sites/4/2016/01/yamori2-300x300.jpg",
+      "preview_image_source_url": "https://kaiyodo.co.jp/items/capsule/page/2/",
+      "price_yen": null,
+      "variant_count": null,
+      "jan_code": null,
+      "official_url": "https://kaiyodo.co.jp/items/capsule/yamori2/",
+      "source_url": "https://kaiyodo.co.jp/items/capsule/page/2/",
+      "first_detected_at": "2026-05-15T14:15:49+09:00",
+      "last_checked_at": "2026-05-15T14:15:49+09:00",
+      "product_path": "products/kaiyodo-capsule-yamori2.json"
+    },
     {
       "id": "bandai-gashapon-4543112972811000",
       "manufacturer_id": "bandai-gashapon",

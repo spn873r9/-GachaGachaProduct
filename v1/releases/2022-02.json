@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-05-15T09:07:26+09:00",
+  "generated_at": "2026-05-15T19:24:45+09:00",
   "year": 2022,
   "month": 2,
   "items": [
@@ -1477,6 +1477,28 @@
       "first_detected_at": "2026-05-14T16:14:39+09:00",
       "last_checked_at": "2026-05-14T16:14:39+09:00",
       "product_path": "products/bandai-gashapon-4549660664352000.json"
+    },
+    {
+      "id": "ishikawa-toy-4905505488215",
+      "manufacturer_id": "ishikawa-toy",
+      "manufacturer_name": "石川玩具",
+      "brand_name": null,
+      "series_name": null,
+      "product_name": "コアラのマーチマグネット",
+      "release_year": 2022,
+      "release_month": 2,
+      "release_week": null,
+      "release_date": null,
+      "preview_image_url": "https://www.ishikawa-toy.co.jp/service/products/images/4905505488215/modal_main.jpg",
+      "preview_image_source_url": "https://www.ishikawa-toy.co.jp/service/products/index.html",
+      "price_yen": 200,
+      "variant_count": 6,
+      "jan_code": "4905505488215",
+      "official_url": "https://www.ishikawa-toy.co.jp/service/products/index.html",
+      "source_url": "https://www.ishikawa-toy.co.jp/service/products/index.html",
+      "first_detected_at": "2026-05-15T14:15:49+09:00",
+      "last_checked_at": "2026-05-15T14:15:49+09:00",
+      "product_path": "products/ishikawa-toy-4905505488215.json"
     },
     {
       "id": "kitanclub-pitattochiikawa",

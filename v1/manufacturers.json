@@ -1,11 +1,65 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-05-15T09:07:26+09:00",
+  "generated_at": "2026-05-15T19:24:45+09:00",
   "items": [
+    {
+      "id": "a3",
+      "name": "A3",
+      "official_url": "https://athree3.com/",
+      "enabled": true
+    },
     {
       "id": "bandai-gashapon",
       "name": "バンダイ ガシャポン",
       "official_url": "https://gashapon.jp/",
+      "enabled": true
+    },
+    {
+      "id": "benelic",
+      "name": "ベネリック",
+      "official_url": "https://benelic.com/capsuletoy/",
+      "enabled": true
+    },
+    {
+      "id": "bloom",
+      "name": "ブルーム",
+      "official_url": "https://i-bloom-squishy.com/",
+      "enabled": true
+    },
+    {
+      "id": "brightlink",
+      "name": "ブライトリンク",
+      "official_url": "https://brightlink.co.jp/",
+      "enabled": true
+    },
+    {
+      "id": "bushiroad-creative",
+      "name": "ブシロードクリエイティブ",
+      "official_url": "https://capsule.bushiroad-creative.com/",
+      "enabled": true
+    },
+    {
+      "id": "crux",
+      "name": "クラックス",
+      "official_url": "https://crux.jp/",
+      "enabled": true
+    },
+    {
+      "id": "fukuya",
+      "name": "フクヤ",
+      "official_url": "https://www.fancy-fukuya.co.jp/",
+      "enabled": true
+    },
+    {
+      "id": "funbox",
+      "name": "funbox",
+      "official_url": "https://machigacha.funbox.jp/",
+      "enabled": true
+    },
+    {
+      "id": "hma",
+      "name": "エイチエムエー",
+      "official_url": "https://hmatoys.net/",
       "enabled": true
     },
     {
@@ -21,9 +75,27 @@
       "enabled": true
     },
     {
+      "id": "ishikawa-toy",
+      "name": "石川玩具",
+      "official_url": "https://www.ishikawa-toy.co.jp/",
+      "enabled": true
+    },
+    {
       "id": "jdream",
       "name": "Jドリーム",
       "official_url": "https://e-jdream.co.jp/",
+      "enabled": true
+    },
+    {
+      "id": "k2-station",
+      "name": "ケーツーステーション",
+      "official_url": "https://capsule.k2-st.co.jp/",
+      "enabled": true
+    },
+    {
+      "id": "kaiyodo",
+      "name": "海洋堂",
+      "official_url": "https://kaiyodo.co.jp/",
       "enabled": true
     },
     {
@@ -33,15 +105,57 @@
       "enabled": true
     },
     {
+      "id": "kijin-club",
+      "name": "奇人クラブ",
+      "official_url": "https://kijinclub.com/",
+      "enabled": true
+    },
+    {
       "id": "kitanclub",
       "name": "キタンクラブ",
       "official_url": "https://kitan.jp/",
       "enabled": true
     },
     {
+      "id": "muzzle",
+      "name": "マズル",
+      "official_url": "https://www.muzzle.co.jp/",
+      "enabled": true
+    },
+    {
+      "id": "parade",
+      "name": "パレード",
+      "official_url": "https://www.parade-inc.net/",
+      "enabled": true
+    },
+    {
+      "id": "peanuts-club",
+      "name": "ピーナッツクラブ",
+      "official_url": "https://www.peanuts-club.co.jp/",
+      "enabled": true
+    },
+    {
+      "id": "proof",
+      "name": "PROOF",
+      "official_url": "https://www.proof-toy.com/",
+      "enabled": true
+    },
+    {
       "id": "qualia",
       "name": "Qualia",
       "official_url": "https://qualia-45.jp/",
+      "enabled": true
+    },
+    {
+      "id": "sanyodo",
+      "name": "三洋堂",
+      "official_url": "https://sanyodo.ne.jp/",
+      "enabled": true
+    },
+    {
+      "id": "sk-japan",
+      "name": "エスケイジャパン",
+      "official_url": "https://www.sk-japan.co.jp/",
       "enabled": true
     },
     {
@@ -63,9 +177,33 @@
       "enabled": true
     },
     {
+      "id": "tarlin",
+      "name": "ターリン",
+      "official_url": "https://tarlin-capsule.jp/",
+      "enabled": true
+    },
+    {
+      "id": "toys-spirits",
+      "name": "トイズスピリッツ",
+      "official_url": "https://toysp.co.jp/",
+      "enabled": true
+    },
+    {
       "id": "toyscabin",
       "name": "トイズキャビン",
       "official_url": "https://toyscabin.com/",
+      "enabled": true
+    },
+    {
+      "id": "ultra-new-planning",
+      "name": "ウルトラニュープランニング",
+      "official_url": "https://www.u-np.jp/",
+      "enabled": true
+    },
+    {
+      "id": "yumeya",
+      "name": "夢屋",
+      "official_url": "https://tokyo-yumeya.co.jp/",
       "enabled": true
     }
   ]
