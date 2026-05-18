@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-05-18T18:25:13+09:00",
+  "generated_at": "2026-05-19T01:30:36+09:00",
   "year": 2011,
   "month": 7,
   "items": [
@@ -25,6 +25,28 @@
       "first_detected_at": "2026-05-14T09:13:25+09:00",
       "last_checked_at": "2026-05-14T09:13:25+09:00",
       "product_path": "products/kitanclub-live-dogeza-ocean.json"
+    },
+    {
+      "id": "megahouse-390",
+      "manufacturer_id": "megahouse",
+      "manufacturer_name": "メガハウス",
+      "brand_name": "ドラゴンボールカプセル",
+      "series_name": "ドラゴンボールカプセル",
+      "product_name": "セル編改",
+      "release_year": 2011,
+      "release_month": 7,
+      "release_week": null,
+      "release_date": null,
+      "preview_image_url": "https://www.megahobby.jp/images/item/item_0000000390_01.jpg",
+      "preview_image_source_url": "https://www.megahobby.jp/products/item/390/",
+      "price_yen": 660,
+      "variant_count": 7,
+      "jan_code": null,
+      "official_url": "https://www.megahobby.jp/products/item/390/",
+      "source_url": "https://www.megahobby.jp/products/item/390/",
+      "first_detected_at": "2026-05-17T18:40:35+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
+      "product_path": "products/megahouse-390.json"
     },
     {
       "id": "takaratomy-arts-y992094",

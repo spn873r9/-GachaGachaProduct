@@ -1,9 +1,31 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-05-18T18:25:13+09:00",
+  "generated_at": "2026-05-19T01:30:36+09:00",
   "year": 2023,
   "month": 2,
   "items": [
+    {
+      "id": "movic-04941-00603-00006",
+      "manufacturer_id": "movic",
+      "manufacturer_name": "ムービック",
+      "brand_name": "ムービック",
+      "series_name": null,
+      "product_name": "夢職人と忘れじの黒い妖精 アニカプ（缶バッジ 全18種）",
+      "release_year": 2023,
+      "release_month": 2,
+      "release_week": null,
+      "release_date": "2023-02-03",
+      "preview_image_url": "https://d38cuxvdcwawa4.cloudfront.net/img/goods/L/04941-00603-00006-l.jpg",
+      "preview_image_source_url": "https://www.movic.jp/shop/g/g04941-00603-00006/",
+      "price_yen": 300,
+      "variant_count": 18,
+      "jan_code": "4549743787282",
+      "official_url": "https://www.movic.jp/shop/g/g04941-00603-00006/",
+      "source_url": "https://www.movic.jp/shop/g/g04941-00603-00006/",
+      "first_detected_at": "2026-05-18T07:37:57+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
+      "product_path": "products/movic-04941-00603-00006.json"
+    },
     {
       "id": "proof-7571c292aaab",
       "manufacturer_id": "proof",
@@ -23,7 +45,7 @@
       "official_url": "https://www.proof-toy.com/2023/02/13/%e3%81%ad%e3%81%93%e3%81%95%e3%82%93%e3%81%9f%e3%81%a1%e3%81%ae%e3%82%b1%e3%83%bc%e3%83%97-%e3%83%ac%e3%82%b9%e3%83%88%e3%83%a9%e3%83%b3/",
       "source_url": "https://www.proof-toy.com/2023/02/13/%e3%81%ad%e3%81%93%e3%81%95%e3%82%93%e3%81%9f%e3%81%a1%e3%81%ae%e3%82%b1%e3%83%bc%e3%83%97-%e3%83%ac%e3%82%b9%e3%83%88%e3%83%a9%e3%83%b3/",
       "first_detected_at": "2026-05-15T08:21:48+09:00",
-      "last_checked_at": "2026-05-18T18:00:53+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
       "product_path": "products/proof-7571c292aaab.json"
     },
     {
@@ -45,8 +67,30 @@
       "official_url": "https://www.proof-toy.com/2023/02/13/%e3%81%b1%e3%82%93%e3%81%a0%e3%81%95%e3%82%93%e3%81%ae%e3%82%b1%e3%83%bc%e3%83%97-%e3%83%ac%e3%83%88%e3%83%ad%e3%83%81%e3%83%a3%e3%82%a4%e3%83%8a/",
       "source_url": "https://www.proof-toy.com/2023/02/13/%e3%81%b1%e3%82%93%e3%81%a0%e3%81%95%e3%82%93%e3%81%ae%e3%82%b1%e3%83%bc%e3%83%97-%e3%83%ac%e3%83%88%e3%83%ad%e3%83%81%e3%83%a3%e3%82%a4%e3%83%8a/",
       "first_detected_at": "2026-05-15T08:21:48+09:00",
-      "last_checked_at": "2026-05-18T18:00:53+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
       "product_path": "products/proof-36220980d12a.json"
+    },
+    {
+      "id": "movic-04673-00603-00173",
+      "manufacturer_id": "movic",
+      "manufacturer_name": "ムービック",
+      "brand_name": "ムービック",
+      "series_name": null,
+      "product_name": "ブルーロック アニカプ（缶バッジ 全10種）",
+      "release_year": 2023,
+      "release_month": 2,
+      "release_week": null,
+      "release_date": "2023-02-25",
+      "preview_image_url": "https://d38cuxvdcwawa4.cloudfront.net/img/goods/L/04673-00603-00173.jpg",
+      "preview_image_source_url": "https://www.movic.jp/shop/g/g04673-00603-00173/",
+      "price_yen": 300,
+      "variant_count": 10,
+      "jan_code": "4549743743677",
+      "official_url": "https://www.movic.jp/shop/g/g04673-00603-00173/",
+      "source_url": "https://www.movic.jp/shop/g/g04673-00603-00173/",
+      "first_detected_at": "2026-05-18T07:37:57+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
+      "product_path": "products/movic-04673-00603-00173.json"
     },
     {
       "id": "bandai-gashapon-4549660797593000",

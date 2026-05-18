@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-05-18T18:25:13+09:00",
+  "generated_at": "2026-05-19T01:30:36+09:00",
   "year": 2024,
   "month": 9,
   "items": [
@@ -23,7 +23,7 @@
       "official_url": "https://i-bloom.shop/products/lovees-mashlo-squishy-mini",
       "source_url": "https://i-bloom-squishy.com/products/capsuletoys/page/2/",
       "first_detected_at": "2026-05-15T11:44:32+09:00",
-      "last_checked_at": "2026-05-18T18:00:53+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
       "product_path": "products/bloom-lovees-mashlo-squishy-mini.json"
     },
     {
@@ -45,7 +45,7 @@
       "official_url": "https://i-bloom.shop/products/marshmallow-gummy-mini",
       "source_url": "https://i-bloom-squishy.com/products/capsuletoys/page/2/",
       "first_detected_at": "2026-05-15T11:44:32+09:00",
-      "last_checked_at": "2026-05-18T18:00:53+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
       "product_path": "products/bloom-marshmallow-gummy-mini.json"
     },
     {
@@ -67,8 +67,30 @@
       "official_url": "https://i-bloom.shop/products/cuddly-sleeping-cats",
       "source_url": "https://i-bloom-squishy.com/products/capsuletoys/page/2/",
       "first_detected_at": "2026-05-15T11:44:32+09:00",
-      "last_checked_at": "2026-05-18T18:00:53+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
       "product_path": "products/bloom-cuddly-sleeping-cats.json"
+    },
+    {
+      "id": "legs-000000013-000138299",
+      "manufacturer_id": "legs",
+      "manufacturer_name": "レッグス",
+      "brand_name": "ENHYPEN MUSEUM 2024",
+      "series_name": null,
+      "product_name": "ENHYPEN MUSEUM 2024 アクリルチャーム",
+      "release_year": 2024,
+      "release_month": 9,
+      "release_week": null,
+      "release_date": "2024-09-20",
+      "preview_image_url": "https://prcdn.freetls.fastly.net/release_image/138299/13/138299-13-7f967e47678a79825c431f12effeeb5d-1800x1350.jpg?format=jpeg&auto=webp&quality=85,65&width=1950&height=1350&fit=bounds",
+      "preview_image_source_url": "https://prtimes.jp/main/html/rd/p/000000013.000138299.html",
+      "price_yen": 500,
+      "variant_count": 7,
+      "jan_code": null,
+      "official_url": "https://prtimes.jp/main/html/rd/p/000000013.000138299.html",
+      "source_url": "https://prtimes.jp/main/html/rd/p/000000013.000138299.html",
+      "first_detected_at": "2026-05-18T19:08:00+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
+      "product_path": "products/legs-000000013-000138299.json"
     },
     {
       "id": "proof-df7fce15ee10",
@@ -89,8 +111,30 @@
       "official_url": "https://www.proof-toy.com/2024/09/24/%e3%82%b9%e3%83%88%e3%83%aa%e3%83%bc%e3%83%88%e3%83%95%e3%82%a1%e3%82%a4%e3%82%bf%e3%83%bc%e2%85%b1%e8%b2%a0%e3%81%91%e9%a1%94-%e9%a1%8d%e7%b8%81%e3%83%9e%e3%82%b0%e3%83%8d%e3%83%83%e3%83%88/",
       "source_url": "https://www.proof-toy.com/2024/09/24/%e3%82%b9%e3%83%88%e3%83%aa%e3%83%bc%e3%83%88%e3%83%95%e3%82%a1%e3%82%a4%e3%82%bf%e3%83%bc%e2%85%b1%e8%b2%a0%e3%81%91%e9%a1%94-%e9%a1%8d%e7%b8%81%e3%83%9e%e3%82%b0%e3%83%8d%e3%83%83%e3%83%88/",
       "first_detected_at": "2026-05-15T08:21:48+09:00",
-      "last_checked_at": "2026-05-18T18:00:53+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
       "product_path": "products/proof-df7fce15ee10.json"
+    },
+    {
+      "id": "artemis-000000052-000070941",
+      "manufacturer_id": "artemis",
+      "manufacturer_name": "アルテミス",
+      "brand_name": "物語シリーズ×サンリオキャラクターズ",
+      "series_name": null,
+      "product_name": "物語シリーズ×サンリオキャラクターズ カプセルトイ アクリルキーホルダー",
+      "release_year": 2024,
+      "release_month": 9,
+      "release_week": null,
+      "release_date": "2024-09-27",
+      "preview_image_url": "https://prcdn.freetls.fastly.net/release_image/70941/52/70941-52-939ef00bfbd9303cbe56a4a74c5e1d02-2000x2500.jpg?width=1950&height=1350&quality=85,65&format=jpeg&auto=webp&fit=bounds&bg-color=fff",
+      "preview_image_source_url": "https://prtimes.jp/main/html/rd/p/000000052.000070941.html",
+      "price_yen": 500,
+      "variant_count": 6,
+      "jan_code": null,
+      "official_url": "https://hapi-pop.com/ms/",
+      "source_url": "https://prtimes.jp/main/html/rd/p/000000052.000070941.html",
+      "first_detected_at": "2026-05-18T22:44:24+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
+      "product_path": "products/artemis-000000052-000070941.json"
     },
     {
       "id": "bandai-gashapon-4570118234186000",
@@ -2729,7 +2773,7 @@
       "official_url": "https://hmatoys.net/product/%e9%9d%92%e9%ac%bc%e3%82%b9%e3%82%af%e3%82%a4%e3%83%bc%e3%82%ba/",
       "source_url": "https://hmatoys.net/product/%e9%9d%92%e9%ac%bc%e3%82%b9%e3%82%af%e3%82%a4%e3%83%bc%e3%82%ba/",
       "first_detected_at": "2026-05-15T16:54:18+09:00",
-      "last_checked_at": "2026-05-18T18:00:53+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
       "product_path": "products/hma-2997d16f71da.json"
     },
     {
@@ -3191,7 +3235,7 @@
       "official_url": "https://capsule.k2-st.co.jp/lineup/sanrio_heiseikogyal_canbadge/",
       "source_url": "https://capsule.k2-st.co.jp/lineup/sanrio_heiseikogyal_canbadge/",
       "first_detected_at": "2026-05-15T15:03:59+09:00",
-      "last_checked_at": "2026-05-18T18:00:53+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
       "product_path": "products/k2-station-sanrio-heiseikogyal-canbadge.json"
     },
     {
@@ -3213,7 +3257,7 @@
       "official_url": "https://capsule.k2-st.co.jp/lineup/sanrio_heiseikogyal_nuigurumi/",
       "source_url": "https://capsule.k2-st.co.jp/lineup/sanrio_heiseikogyal_nuigurumi/",
       "first_detected_at": "2026-05-15T15:03:59+09:00",
-      "last_checked_at": "2026-05-18T18:00:53+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
       "product_path": "products/k2-station-sanrio-heiseikogyal-nuigurumi.json"
     },
     {
@@ -3719,7 +3763,7 @@
       "official_url": "https://www.so-ta.com/products_detail/amusement/neruneru_nerune_mascot/",
       "source_url": "https://www.so-ta.com/products_detail/amusement/neruneru_nerune_mascot/",
       "first_detected_at": "2026-05-13T16:15:44+09:00",
-      "last_checked_at": "2026-05-18T18:00:53+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
       "product_path": "products/sota-neruneru-nerune-mascot.json"
     },
     {
@@ -4885,7 +4929,7 @@
       "official_url": "https://tokyo-yumeya.co.jp/goods/fujisansnowglobe_sai_07/",
       "source_url": "https://tokyo-yumeya.co.jp/goods/fujisansnowglobe_sai_07/",
       "first_detected_at": "2026-05-15T17:06:34+09:00",
-      "last_checked_at": "2026-05-18T18:00:53+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
       "product_path": "products/yumeya-fujisansnowglobe-sai-07.json"
     }
   ]

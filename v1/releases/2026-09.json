@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-05-18T18:25:13+09:00",
+  "generated_at": "2026-05-19T01:30:36+09:00",
   "year": 2026,
   "month": 9,
   "items": [
@@ -23,7 +23,7 @@
       "official_url": "https://capsule.bushiroad-creative.com/product/9897/",
       "source_url": "https://capsule.bushiroad-creative.com/product/9897/",
       "first_detected_at": "2026-05-15T09:25:19+09:00",
-      "last_checked_at": "2026-05-18T18:00:53+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
       "product_path": "products/bushiroad-creative-9897.json"
     },
     {
@@ -45,8 +45,30 @@
       "official_url": "https://capsule.bushiroad-creative.com/product/7375/",
       "source_url": "https://capsule.bushiroad-creative.com/product/7375/",
       "first_detected_at": "2026-05-15T19:01:52+09:00",
-      "last_checked_at": "2026-05-18T18:00:53+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
       "product_path": "products/bushiroad-creative-7375.json"
+    },
+    {
+      "id": "wonderful-one-type-fo-6532-capsule-edition-1-5ver-26cf65f1",
+      "manufacturer_id": "wonderful-one",
+      "manufacturer_name": "ワンダフルワン",
+      "brand_name": "ワンダフルワン",
+      "series_name": null,
+      "product_name": "カプセルコックピット Type FO-6532 capsule edition 1.5ver.",
+      "release_year": 2026,
+      "release_month": 9,
+      "release_week": null,
+      "release_date": null,
+      "preview_image_url": "https://wonderful-1.com/main/wp-content/uploads/2026/05/cockpit_cp1.5_annai_HP.png",
+      "preview_image_source_url": "https://wonderful-1.com/main/archives/showroom/%e3%82%ab%e3%83%97%e3%82%bb%e3%83%ab%e3%82%b3%e3%83%83%e3%82%af%e3%83%94%e3%83%83%e3%83%88-type-fo-6532-capsule-edition-1-5ver",
+      "price_yen": 500,
+      "variant_count": 4,
+      "jan_code": "4571600540891",
+      "official_url": "https://wonderful-1.com/main/archives/showroom/%e3%82%ab%e3%83%97%e3%82%bb%e3%83%ab%e3%82%b3%e3%83%83%e3%82%af%e3%83%94%e3%83%83%e3%83%88-type-fo-6532-capsule-edition-1-5ver",
+      "source_url": "https://wonderful-1.com/main/archives/showroom/%e3%82%ab%e3%83%97%e3%82%bb%e3%83%ab%e3%82%b3%e3%83%83%e3%82%af%e3%83%94%e3%83%83%e3%83%88-type-fo-6532-capsule-edition-1-5ver",
+      "first_detected_at": "2026-05-17T23:33:22+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
+      "product_path": "products/wonderful-one-type-fo-6532-capsule-edition-1-5ver-26cf65f1.json"
     }
   ]
 }

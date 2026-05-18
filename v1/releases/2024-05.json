@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-05-18T18:25:13+09:00",
+  "generated_at": "2026-05-19T01:30:36+09:00",
   "year": 2024,
   "month": 5,
   "items": [
@@ -2315,6 +2315,28 @@
       "product_path": "products/bandai-gashapon-4570118232793000.json"
     },
     {
+      "id": "dis-dcpt-0015",
+      "manufacturer_id": "dis",
+      "manufacturer_name": "ディーアイエス",
+      "brand_name": null,
+      "series_name": null,
+      "product_name": "さけぶだけじゃたりないムンク",
+      "release_year": 2024,
+      "release_month": 5,
+      "release_week": null,
+      "release_date": null,
+      "preview_image_url": "https://d-is.co.jp/capsuletoy/dcpt_0015.jpg",
+      "preview_image_source_url": "https://d-is.co.jp/capsuletoy.html",
+      "price_yen": null,
+      "variant_count": null,
+      "jan_code": null,
+      "official_url": "https://d-is.co.jp/capsuletoy.html",
+      "source_url": "https://d-is.co.jp/capsuletoy.html",
+      "first_detected_at": "2026-05-16T23:11:51+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
+      "product_path": "products/dis-dcpt-0015.json"
+    },
+    {
       "id": "funbox-220",
       "manufacturer_id": "funbox",
       "manufacturer_name": "funbox",
@@ -2355,7 +2377,7 @@
       "official_url": "https://hmatoys.net/product/%e3%81%8a%e5%bc%81%e5%bd%93%e3%81%ae%e3%81%82%e3%81%84%e3%81%a4%e3%80%80%e3%82%b7%e3%83%aa%e3%82%b3%e3%83%b3%e3%83%9d%e3%83%bc%e3%83%81/",
       "source_url": "https://hmatoys.net/product/%e3%81%8a%e5%bc%81%e5%bd%93%e3%81%ae%e3%81%82%e3%81%84%e3%81%a4%e3%80%80%e3%82%b7%e3%83%aa%e3%82%b3%e3%83%b3%e3%83%9d%e3%83%bc%e3%83%81/",
       "first_detected_at": "2026-05-15T16:54:18+09:00",
-      "last_checked_at": "2026-05-18T18:00:53+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
       "product_path": "products/hma-d8e832d4c446.json"
     },
     {
@@ -2377,7 +2399,7 @@
       "official_url": "https://hmatoys.net/product/%e3%83%92%e3%83%a8%e3%82%b3%e3%83%8b%e3%83%8a%e3%83%bc%e3%83%aba%e9%8c%a0-%e3%82%b8%e3%82%a7%e3%83%8d%e3%83%aa%e3%83%83%e3%82%af%e3%83%81%e3%83%a3%e3%83%bc%e3%83%a0/",
       "source_url": "https://hmatoys.net/product/%e3%83%92%e3%83%a8%e3%82%b3%e3%83%8b%e3%83%8a%e3%83%bc%e3%83%aba%e9%8c%a0-%e3%82%b8%e3%82%a7%e3%83%8d%e3%83%aa%e3%83%83%e3%82%af%e3%83%81%e3%83%a3%e3%83%bc%e3%83%a0/",
       "first_detected_at": "2026-05-15T16:54:18+09:00",
-      "last_checked_at": "2026-05-18T18:00:53+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
       "product_path": "products/hma-a-37c6676a.json"
     },
     {
@@ -2399,7 +2421,7 @@
       "official_url": "https://hmatoys.net/product/%e6%8c%87%e3%81%9b%e3%82%8b%e3%80%81%e5%b0%86%e6%a3%8b%e3%81%ae%e3%81%ac%e3%81%84%e3%81%90%e3%82%8b%e3%81%bf/",
       "source_url": "https://hmatoys.net/product/%e6%8c%87%e3%81%9b%e3%82%8b%e3%80%81%e5%b0%86%e6%a3%8b%e3%81%ae%e3%81%ac%e3%81%84%e3%81%90%e3%82%8b%e3%81%bf/",
       "first_detected_at": "2026-05-15T16:54:18+09:00",
-      "last_checked_at": "2026-05-18T18:00:53+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
       "product_path": "products/hma-6083feab03c0.json"
     },
     {
@@ -2949,7 +2971,7 @@
       "official_url": "https://capsule.k2-st.co.jp/lineup/chibimarukochan_ecobag/",
       "source_url": "https://capsule.k2-st.co.jp/lineup/chibimarukochan_ecobag/",
       "first_detected_at": "2026-05-15T15:03:59+09:00",
-      "last_checked_at": "2026-05-18T18:00:53+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
       "product_path": "products/k2-station-chibimarukochan-ecobag.json"
     },
     {
@@ -3413,6 +3435,28 @@
       "first_detected_at": "2026-05-13T19:05:49+09:00",
       "last_checked_at": "2026-05-13T22:42:41+09:00",
       "product_path": "products/qualia-beko-7huku-omeshigae.json"
+    },
+    {
+      "id": "sega-fave-000000212-000016101-vol9",
+      "manufacturer_id": "sega-fave",
+      "manufacturer_name": "セガ フェイブ",
+      "brand_name": "プロジェクトセカイ カラフルステージ！ feat. 初音ミク",
+      "series_name": null,
+      "product_name": "プロジェクトセカイ カラフルステージ！ feat. 初音ミク カプセルメタルバナー キーチェーンコレクション Vol.9",
+      "release_year": 2024,
+      "release_month": 5,
+      "release_week": null,
+      "release_date": null,
+      "preview_image_url": "https://prcdn.freetls.fastly.net/release_image/16101/212/16101-212-c2581c68d075f5d30921547a2180a1be-1000x1000.jpg?format=jpeg&auto=webp&quality=85,65&width=1950&height=1350&fit=bounds",
+      "preview_image_source_url": "https://prtimes.jp/main/html/rd/p/000000212.000016101.html",
+      "price_yen": 400,
+      "variant_count": 10,
+      "jan_code": null,
+      "official_url": "https://segaplaza.jp/lp/projectsekai/",
+      "source_url": "https://prtimes.jp/main/html/rd/p/000000212.000016101.html",
+      "first_detected_at": "2026-05-18T17:15:35+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
+      "product_path": "products/sega-fave-000000212-000016101-vol9.json"
     },
     {
       "id": "stand-stones-apio",

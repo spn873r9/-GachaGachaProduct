@@ -1,9 +1,53 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-05-18T18:25:13+09:00",
+  "generated_at": "2026-05-19T01:30:36+09:00",
   "year": 2024,
   "month": 2,
   "items": [
+    {
+      "id": "movic-04161-00603-00427",
+      "manufacturer_id": "movic",
+      "manufacturer_name": "ムービック",
+      "brand_name": "ムービック",
+      "series_name": null,
+      "product_name": "呪術廻戦 アニカプ（缶バッジ 全11種） 懐玉・玉折",
+      "release_year": 2024,
+      "release_month": 2,
+      "release_week": null,
+      "release_date": "2024-02-02",
+      "preview_image_url": "https://d38cuxvdcwawa4.cloudfront.net/img/goods/L/04161-00603-00427.jpg",
+      "preview_image_source_url": "https://www.movic.jp/shop/g/g04161-00603-00427/",
+      "price_yen": 300,
+      "variant_count": 11,
+      "jan_code": "4550621011788",
+      "official_url": "https://www.movic.jp/shop/g/g04161-00603-00427/",
+      "source_url": "https://www.movic.jp/shop/g/g04161-00603-00427/",
+      "first_detected_at": "2026-05-18T07:37:57+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
+      "product_path": "products/movic-04161-00603-00427.json"
+    },
+    {
+      "id": "movic-04826-00603-00122",
+      "manufacturer_id": "movic",
+      "manufacturer_name": "ムービック",
+      "brand_name": "ムービック",
+      "series_name": null,
+      "product_name": "【推しの子】 アニカプ（缶バッジ 全7種）",
+      "release_year": 2024,
+      "release_month": 2,
+      "release_week": null,
+      "release_date": "2024-02-16",
+      "preview_image_url": "https://d38cuxvdcwawa4.cloudfront.net/img/goods/L/04826-00603-00122.jpg",
+      "preview_image_source_url": "https://www.movic.jp/shop/g/g04826-00603-00122/",
+      "price_yen": 300,
+      "variant_count": 7,
+      "jan_code": "4550621007491",
+      "official_url": "https://www.movic.jp/shop/g/g04826-00603-00122/",
+      "source_url": "https://www.movic.jp/shop/g/g04826-00603-00122/",
+      "first_detected_at": "2026-05-18T07:37:57+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
+      "product_path": "products/movic-04826-00603-00122.json"
+    },
     {
       "id": "bandai-gashapon-4570118210814000",
       "manufacturer_id": "bandai-gashapon",
@@ -2095,6 +2139,50 @@
       "product_path": "products/bandai-gashapon-4570118201775000.json"
     },
     {
+      "id": "dis-dcpt-0011",
+      "manufacturer_id": "dis",
+      "manufacturer_name": "ディーアイエス",
+      "brand_name": null,
+      "series_name": null,
+      "product_name": "サウナカラビナ",
+      "release_year": 2024,
+      "release_month": 2,
+      "release_week": null,
+      "release_date": null,
+      "preview_image_url": "https://d-is.co.jp/capsuletoy/dcpt_0011.jpg",
+      "preview_image_source_url": "https://d-is.co.jp/capsuletoy.html",
+      "price_yen": null,
+      "variant_count": null,
+      "jan_code": null,
+      "official_url": "https://d-is.co.jp/capsuletoy.html",
+      "source_url": "https://d-is.co.jp/capsuletoy.html",
+      "first_detected_at": "2026-05-16T23:11:51+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
+      "product_path": "products/dis-dcpt-0011.json"
+    },
+    {
+      "id": "dis-dcpt-0010",
+      "manufacturer_id": "dis",
+      "manufacturer_name": "ディーアイエス",
+      "brand_name": null,
+      "series_name": null,
+      "product_name": "ミニチュア法被（はっぴ）",
+      "release_year": 2024,
+      "release_month": 2,
+      "release_week": null,
+      "release_date": null,
+      "preview_image_url": "https://d-is.co.jp/capsuletoy/dcpt_0010.jpg",
+      "preview_image_source_url": "https://d-is.co.jp/capsuletoy.html",
+      "price_yen": null,
+      "variant_count": null,
+      "jan_code": null,
+      "official_url": "https://d-is.co.jp/capsuletoy.html",
+      "source_url": "https://d-is.co.jp/capsuletoy.html",
+      "first_detected_at": "2026-05-16T23:11:51+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
+      "product_path": "products/dis-dcpt-0010.json"
+    },
+    {
       "id": "funbox-90",
       "manufacturer_id": "funbox",
       "manufacturer_name": "funbox",
@@ -2161,6 +2249,28 @@
       "product_path": "products/funbox-217.json"
     },
     {
+      "id": "genco-orekaeru-orekaeru-vol02",
+      "manufacturer_id": "genco",
+      "manufacturer_name": "ジェンコ",
+      "brand_name": "ジェンコトイ",
+      "series_name": "俺、今日からかえる",
+      "product_name": "俺、今日からかえる カプセル玩具シリーズ 第2弾",
+      "release_year": 2024,
+      "release_month": 2,
+      "release_week": null,
+      "release_date": null,
+      "preview_image_url": "https://toys.genco.co.jp/gencotoywp/wp-content/uploads/2024/02/flier_orekaeru_vol02.png",
+      "preview_image_source_url": "https://toys.genco.co.jp/product/orekaeru/orekaeru_vol02/",
+      "price_yen": 300,
+      "variant_count": 7,
+      "jan_code": null,
+      "official_url": "https://toys.genco.co.jp/product/orekaeru/orekaeru_vol02/",
+      "source_url": "https://toys.genco.co.jp/product/orekaeru/orekaeru_vol02/",
+      "first_detected_at": "2026-05-17T17:49:03+09:00",
+      "last_checked_at": "2026-05-17T17:49:03+09:00",
+      "product_path": "products/genco-orekaeru-orekaeru-vol02.json"
+    },
+    {
       "id": "hma-manianis-shadow-monster-2",
       "manufacturer_id": "hma",
       "manufacturer_name": "エイチエムエー",
@@ -2179,7 +2289,7 @@
       "official_url": "https://hmatoys.net/product/manianis-shadow-monster-2/",
       "source_url": "https://hmatoys.net/product/manianis-shadow-monster-2/",
       "first_detected_at": "2026-05-15T19:01:52+09:00",
-      "last_checked_at": "2026-05-18T18:00:53+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
       "product_path": "products/hma-manianis-shadow-monster-2.json"
     },
     {
@@ -2201,7 +2311,7 @@
       "official_url": "https://hmatoys.net/product/%e3%81%b5%e3%82%8f%e3%81%a4%e3%82%80%e3%83%91%e3%83%b3%e3%83%9d%e3%83%bc%e3%83%81/",
       "source_url": "https://hmatoys.net/product/%e3%81%b5%e3%82%8f%e3%81%a4%e3%82%80%e3%83%91%e3%83%b3%e3%83%9d%e3%83%bc%e3%83%81/",
       "first_detected_at": "2026-05-15T19:01:52+09:00",
-      "last_checked_at": "2026-05-18T18:00:53+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
       "product_path": "products/hma-95470cf8da74.json"
     },
     {
@@ -2223,7 +2333,7 @@
       "official_url": "https://hmatoys.net/product/%e7%89%9b%e4%ba%ba%e3%81%ae%e3%81%bd%e3%81%a1%e3%82%83%e3%81%bd%e3%81%a1%e3%82%83%e3%81%8a%e3%82%ad%e3%83%a3%e3%83%83%e3%83%88%e6%a7%98-%e3%83%95%e3%83%ad%e3%83%83%e3%82%ad%e3%83%bc%e3%83%95-2/",
       "source_url": "https://hmatoys.net/product/%e7%89%9b%e4%ba%ba%e3%81%ae%e3%81%bd%e3%81%a1%e3%82%83%e3%81%bd%e3%81%a1%e3%82%83%e3%81%8a%e3%82%ad%e3%83%a3%e3%83%83%e3%83%88%e6%a7%98-%e3%83%95%e3%83%ad%e3%83%83%e3%82%ad%e3%83%bc%e3%83%95-2/",
       "first_detected_at": "2026-05-15T19:01:52+09:00",
-      "last_checked_at": "2026-05-18T18:00:53+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
       "product_path": "products/hma-2-7208bca0.json"
     },
     {
@@ -2267,7 +2377,7 @@
       "official_url": "https://capsule.k2-st.co.jp/lineup/meruhen-nuigurumi-shinsoban/",
       "source_url": "https://capsule.k2-st.co.jp/lineup/meruhen-nuigurumi-shinsoban/",
       "first_detected_at": "2026-05-15T15:03:59+09:00",
-      "last_checked_at": "2026-05-18T18:00:53+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
       "product_path": "products/k2-station-meruhen-nuigurumi-shinsoban.json"
     },
     {
@@ -2289,7 +2399,7 @@
       "official_url": "https://capsule.k2-st.co.jp/lineup/sst_facepouch/",
       "source_url": "https://capsule.k2-st.co.jp/lineup/sst_facepouch/",
       "first_detected_at": "2026-05-15T15:03:59+09:00",
-      "last_checked_at": "2026-05-18T18:00:53+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
       "product_path": "products/k2-station-sst-facepouch.json"
     },
     {
@@ -2311,7 +2421,7 @@
       "official_url": "https://capsule.k2-st.co.jp/lineup/ssct_shakashaka/",
       "source_url": "https://capsule.k2-st.co.jp/lineup/ssct_shakashaka/",
       "first_detected_at": "2026-05-15T15:03:59+09:00",
-      "last_checked_at": "2026-05-18T18:00:53+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
       "product_path": "products/k2-station-ssct-shakashaka.json"
     },
     {
@@ -2333,7 +2443,7 @@
       "official_url": "https://capsule.k2-st.co.jp/lineup/delmonte_miniature_collection/",
       "source_url": "https://capsule.k2-st.co.jp/lineup/delmonte_miniature_collection/",
       "first_detected_at": "2026-05-15T15:03:59+09:00",
-      "last_checked_at": "2026-05-18T18:00:53+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
       "product_path": "products/k2-station-delmonte-miniature-collection.json"
     },
     {

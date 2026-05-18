@@ -1,9 +1,53 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-05-18T18:25:13+09:00",
+  "generated_at": "2026-05-19T01:30:36+09:00",
   "year": 2023,
   "month": 8,
   "items": [
+    {
+      "id": "movic-03966-00603-00121",
+      "manufacturer_id": "movic",
+      "manufacturer_name": "ムービック",
+      "brand_name": "ムービック",
+      "series_name": null,
+      "product_name": "ゴールデンカムイ アニカプ（缶バッジ 全8種）",
+      "release_year": 2023,
+      "release_month": 8,
+      "release_week": null,
+      "release_date": "2023-08-04",
+      "preview_image_url": "https://d38cuxvdcwawa4.cloudfront.net/img/goods/L/03966-00603-00121.jpg",
+      "preview_image_source_url": "https://www.movic.jp/shop/g/g03966-00603-00121/",
+      "price_yen": 300,
+      "variant_count": 8,
+      "jan_code": "4549743895642",
+      "official_url": "https://www.movic.jp/shop/g/g03966-00603-00121/",
+      "source_url": "https://www.movic.jp/shop/g/g03966-00603-00121/",
+      "first_detected_at": "2026-05-18T07:37:57+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
+      "product_path": "products/movic-03966-00603-00121.json"
+    },
+    {
+      "id": "movic-04941-00603-00031",
+      "manufacturer_id": "movic",
+      "manufacturer_name": "ムービック",
+      "brand_name": "ムービック",
+      "series_name": null,
+      "product_name": "夢職人と忘れじの黒い妖精 アニカプ（缶バッジ 全18種） 第3弾",
+      "release_year": 2023,
+      "release_month": 8,
+      "release_week": null,
+      "release_date": "2023-08-11",
+      "preview_image_url": "https://d38cuxvdcwawa4.cloudfront.net/img/goods/L/04941-00603-00031.jpg",
+      "preview_image_source_url": "https://www.movic.jp/shop/g/g04941-00603-00031/",
+      "price_yen": 300,
+      "variant_count": 18,
+      "jan_code": "4549743895604",
+      "official_url": "https://www.movic.jp/shop/g/g04941-00603-00031/",
+      "source_url": "https://www.movic.jp/shop/g/g04941-00603-00031/",
+      "first_detected_at": "2026-05-18T07:37:57+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
+      "product_path": "products/movic-04941-00603-00031.json"
+    },
     {
       "id": "proof-20e18b68d3be",
       "manufacturer_id": "proof",
@@ -23,7 +67,7 @@
       "official_url": "https://www.proof-toy.com/2023/08/21/%e3%81%86%e3%81%95%e3%81%8e%e3%81%95%e3%82%93%e3%81%ae%e3%82%b1%e3%83%bc%e3%83%97-%e3%81%b9%e3%81%84%e3%81%b3%e3%83%bc/",
       "source_url": "https://www.proof-toy.com/2023/08/21/%e3%81%86%e3%81%95%e3%81%8e%e3%81%95%e3%82%93%e3%81%ae%e3%82%b1%e3%83%bc%e3%83%97-%e3%81%b9%e3%81%84%e3%81%b3%e3%83%bc/",
       "first_detected_at": "2026-05-15T08:21:48+09:00",
-      "last_checked_at": "2026-05-18T18:00:53+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
       "product_path": "products/proof-20e18b68d3be.json"
     },
     {
@@ -45,7 +89,7 @@
       "official_url": "https://www.proof-toy.com/2023/08/21/%e3%81%99%e3%82%84%e3%81%a3%e3%81%a8%e2%98%86%e5%90%9b%e8%89%b2%e3%81%8a%e3%81%8f%e3%82%8b%e3%81%bf/",
       "source_url": "https://www.proof-toy.com/2023/08/21/%e3%81%99%e3%82%84%e3%81%a3%e3%81%a8%e2%98%86%e5%90%9b%e8%89%b2%e3%81%8a%e3%81%8f%e3%82%8b%e3%81%bf/",
       "first_detected_at": "2026-05-15T08:21:48+09:00",
-      "last_checked_at": "2026-05-18T18:00:53+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
       "product_path": "products/proof-d0fe50fc9d20.json"
     },
     {
@@ -67,7 +111,7 @@
       "official_url": "https://www.proof-toy.com/2023/08/21/%e3%81%b1%e3%81%8f%e3%81%a3%e3%81%a8%ef%bc%81%e5%90%9b%e8%89%b2%e3%82%a2%e3%82%a4%e3%82%b9%e3%82%af%e3%83%aa%e3%83%bc%e3%83%a0%ef%bc%92%ef%bd%9e%e3%81%93%e3%82%93%e3%81%b3%e3%81%ad%e3%83%bc%e3%81%97/",
       "source_url": "https://www.proof-toy.com/2023/08/21/%e3%81%b1%e3%81%8f%e3%81%a3%e3%81%a8%ef%bc%81%e5%90%9b%e8%89%b2%e3%82%a2%e3%82%a4%e3%82%b9%e3%82%af%e3%83%aa%e3%83%bc%e3%83%a0%ef%bc%92%ef%bd%9e%e3%81%93%e3%82%93%e3%81%b3%e3%81%ad%e3%83%bc%e3%81%97/",
       "first_detected_at": "2026-05-15T08:21:48+09:00",
-      "last_checked_at": "2026-05-18T18:00:53+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
       "product_path": "products/proof-8470d2d38752.json"
     },
     {
@@ -89,8 +133,30 @@
       "official_url": "https://www.proof-toy.com/2023/08/23/%e9%98%aa%e7%a5%9e%e3%82%bf%e3%82%a4%e3%82%ac%e3%83%bc%e3%82%b9%e5%bf%9c%e6%8f%b4%e3%82%a2%e3%83%89%e3%83%90%e3%83%ab%e3%83%bc%e3%83%b3%e9%a2%a8%e3%82%ad%e3%83%bc%e3%83%9b%e3%83%ab%e3%83%80%e3%83%bc/",
       "source_url": "https://www.proof-toy.com/2023/08/23/%e9%98%aa%e7%a5%9e%e3%82%bf%e3%82%a4%e3%82%ac%e3%83%bc%e3%82%b9%e5%bf%9c%e6%8f%b4%e3%82%a2%e3%83%89%e3%83%90%e3%83%ab%e3%83%bc%e3%83%b3%e9%a2%a8%e3%82%ad%e3%83%bc%e3%83%9b%e3%83%ab%e3%83%80%e3%83%bc/",
       "first_detected_at": "2026-05-15T08:21:48+09:00",
-      "last_checked_at": "2026-05-18T18:00:53+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
       "product_path": "products/proof-0aaeb30dcec6.json"
+    },
+    {
+      "id": "movic-28065-00603-00025",
+      "manufacturer_id": "movic",
+      "manufacturer_name": "ムービック",
+      "brand_name": "ムービック",
+      "series_name": null,
+      "product_name": "純情ロマンチカ＆世界一初恋 アニカプ（缶バッジ 全8種）",
+      "release_year": 2023,
+      "release_month": 8,
+      "release_week": null,
+      "release_date": "2023-08-25",
+      "preview_image_url": "https://d38cuxvdcwawa4.cloudfront.net/img/goods/L/28065-00603-00025.jpg",
+      "preview_image_source_url": "https://www.movic.jp/shop/g/g28065-00603-00025/",
+      "price_yen": 300,
+      "variant_count": 8,
+      "jan_code": "4549743944029",
+      "official_url": "https://www.movic.jp/shop/g/g28065-00603-00025/",
+      "source_url": "https://www.movic.jp/shop/g/g28065-00603-00025/",
+      "first_detected_at": "2026-05-18T07:37:57+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
+      "product_path": "products/movic-28065-00603-00025.json"
     },
     {
       "id": "bandai-gashapon-4570117988875000",
@@ -2641,7 +2707,7 @@
       "official_url": "https://capsule.k2-st.co.jp/lineup/kurazushi_miniature_collection/",
       "source_url": "https://capsule.k2-st.co.jp/lineup/kurazushi_miniature_collection/",
       "first_detected_at": "2026-05-15T15:03:59+09:00",
-      "last_checked_at": "2026-05-18T18:00:53+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
       "product_path": "products/k2-station-kurazushi-miniature-collection.json"
     },
     {
@@ -2795,7 +2861,7 @@
       "official_url": "https://www.proof-toy.com/2023/08/08/%e9%98%aa%e7%a5%9e%e3%82%bf%e3%82%a4%e3%82%ac%e3%83%bc%e3%82%b9%e6%ad%b4%e4%bb%a3%e3%83%a6%e3%83%8b%e3%83%95%e3%82%a9%e3%83%bc%e3%83%a0%e9%a2%a8%e3%83%9f%e3%83%8b%e3%83%9f%e3%83%8b%e3%82%b7%e3%83%a3/",
       "source_url": "https://www.proof-toy.com/2023/08/08/%e9%98%aa%e7%a5%9e%e3%82%bf%e3%82%a4%e3%82%ac%e3%83%bc%e3%82%b9%e6%ad%b4%e4%bb%a3%e3%83%a6%e3%83%8b%e3%83%95%e3%82%a9%e3%83%bc%e3%83%a0%e9%a2%a8%e3%83%9f%e3%83%8b%e3%83%9f%e3%83%8b%e3%82%b7%e3%83%a3/",
       "first_detected_at": "2026-05-15T08:21:48+09:00",
-      "last_checked_at": "2026-05-18T18:00:53+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
       "product_path": "products/proof-3f4bdcbac8a2.json"
     },
     {

@@ -1,9 +1,31 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-05-18T18:25:13+09:00",
+  "generated_at": "2026-05-19T01:30:36+09:00",
   "year": 2023,
   "month": 5,
   "items": [
+    {
+      "id": "movic-04685-00220-00027",
+      "manufacturer_id": "movic",
+      "manufacturer_name": "ムービック",
+      "brand_name": "ムービック",
+      "series_name": null,
+      "product_name": "悪魔執事と黒い猫 アニカプ（ぱしゃこれ ミニアクリルキーホルダーコレクション 全13種）",
+      "release_year": 2023,
+      "release_month": 5,
+      "release_week": null,
+      "release_date": "2023-05-12",
+      "preview_image_url": "https://d38cuxvdcwawa4.cloudfront.net/img/goods/L/04685-00220-00027-l.jpg",
+      "preview_image_source_url": "https://www.movic.jp/shop/g/g04685-00220-00027/",
+      "price_yen": 400,
+      "variant_count": 13,
+      "jan_code": "4549743887814",
+      "official_url": "https://www.movic.jp/shop/g/g04685-00220-00027/",
+      "source_url": "https://www.movic.jp/shop/g/g04685-00220-00027/",
+      "first_detected_at": "2026-05-18T07:37:57+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
+      "product_path": "products/movic-04685-00220-00027.json"
+    },
     {
       "id": "proof-1e6a3b67550f",
       "manufacturer_id": "proof",
@@ -23,7 +45,7 @@
       "official_url": "https://www.proof-toy.com/2023/05/17/%e3%81%93%e3%82%93%e3%81%aa%e3%81%93%e3%81%84%e3%82%8b%e3%81%8b%e3%81%aa%e3%80%80%e3%82%a8%e3%82%b3%e3%83%90%e3%83%83%e3%82%b0/",
       "source_url": "https://www.proof-toy.com/2023/05/17/%e3%81%93%e3%82%93%e3%81%aa%e3%81%93%e3%81%84%e3%82%8b%e3%81%8b%e3%81%aa%e3%80%80%e3%82%a8%e3%82%b3%e3%83%90%e3%83%83%e3%82%b0/",
       "first_detected_at": "2026-05-15T08:21:48+09:00",
-      "last_checked_at": "2026-05-18T18:00:53+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
       "product_path": "products/proof-1e6a3b67550f.json"
     },
     {
@@ -45,7 +67,7 @@
       "official_url": "https://www.proof-toy.com/2023/05/17/%e3%81%ad%e3%81%93%e3%81%95%e3%82%93%e3%81%ae%e3%82%b1%e3%83%bc%e3%83%97%e3%80%80%e3%81%8a%e5%ad%90%e6%a7%98%e3%83%a9%e3%83%b3%e3%83%81/",
       "source_url": "https://www.proof-toy.com/2023/05/17/%e3%81%ad%e3%81%93%e3%81%95%e3%82%93%e3%81%ae%e3%82%b1%e3%83%bc%e3%83%97%e3%80%80%e3%81%8a%e5%ad%90%e6%a7%98%e3%83%a9%e3%83%b3%e3%83%81/",
       "first_detected_at": "2026-05-15T08:21:48+09:00",
-      "last_checked_at": "2026-05-18T18:00:53+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
       "product_path": "products/proof-56bb5ec69724.json"
     },
     {
@@ -67,7 +89,7 @@
       "official_url": "https://www.proof-toy.com/2023/05/17/%e3%82%82%e3%81%93%e3%82%82%e3%81%93%ef%bc%81%e3%81%9f%e3%82%8c%e3%81%bf%e3%81%bf%e3%81%86%e3%81%95%e3%81%8e%e3%81%95%e3%82%93%e3%81%ae%e3%82%b1%e3%83%bc%e3%83%97/",
       "source_url": "https://www.proof-toy.com/2023/05/17/%e3%82%82%e3%81%93%e3%82%82%e3%81%93%ef%bc%81%e3%81%9f%e3%82%8c%e3%81%bf%e3%81%bf%e3%81%86%e3%81%95%e3%81%8e%e3%81%95%e3%82%93%e3%81%ae%e3%82%b1%e3%83%bc%e3%83%97/",
       "first_detected_at": "2026-05-15T08:21:48+09:00",
-      "last_checked_at": "2026-05-18T18:00:53+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
       "product_path": "products/proof-3d53960816c4.json"
     },
     {
@@ -89,8 +111,52 @@
       "official_url": "https://www.proof-toy.com/2023/05/17/%e3%83%91%e3%83%b3%e3%83%80%e3%82%b3%e3%83%91%e3%83%b3%e3%83%80%e3%80%80%e3%82%a8%e3%82%b3%e3%83%90%e3%83%83%e3%82%b0/",
       "source_url": "https://www.proof-toy.com/2023/05/17/%e3%83%91%e3%83%b3%e3%83%80%e3%82%b3%e3%83%91%e3%83%b3%e3%83%80%e3%80%80%e3%82%a8%e3%82%b3%e3%83%90%e3%83%83%e3%82%b0/",
       "first_detected_at": "2026-05-15T08:21:48+09:00",
-      "last_checked_at": "2026-05-18T18:00:53+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
       "product_path": "products/proof-1ec51a3b968c.json"
+    },
+    {
+      "id": "movic-04301-00603-00096",
+      "manufacturer_id": "movic",
+      "manufacturer_name": "ムービック",
+      "brand_name": "ムービック",
+      "series_name": null,
+      "product_name": "TVアニメ「吸血鬼すぐ死ぬ2」 アニカプ（缶バッジ 全10種） 第2弾（パジャマ）",
+      "release_year": 2023,
+      "release_month": 5,
+      "release_week": null,
+      "release_date": "2023-05-19",
+      "preview_image_url": "https://d38cuxvdcwawa4.cloudfront.net/img/goods/L/04301-00603-00096.jpg",
+      "preview_image_source_url": "https://www.movic.jp/shop/g/g04301-00603-00096/",
+      "price_yen": 300,
+      "variant_count": 10,
+      "jan_code": "4549743871332",
+      "official_url": "https://www.movic.jp/shop/g/g04301-00603-00096/",
+      "source_url": "https://www.movic.jp/shop/g/g04301-00603-00096/",
+      "first_detected_at": "2026-05-18T07:37:57+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
+      "product_path": "products/movic-04301-00603-00096.json"
+    },
+    {
+      "id": "movic-02360-00603-00436",
+      "manufacturer_id": "movic",
+      "manufacturer_name": "ムービック",
+      "brand_name": "ムービック",
+      "series_name": null,
+      "product_name": "斉藤壮馬・石川界人のダメじゃないラジオ アニカプ（缶バッジ 全10種）",
+      "release_year": 2023,
+      "release_month": 5,
+      "release_week": null,
+      "release_date": "2023-05-26",
+      "preview_image_url": "https://d38cuxvdcwawa4.cloudfront.net/img/goods/L/02360-00603-00436.jpg",
+      "preview_image_source_url": "https://www.movic.jp/shop/g/g02360-00603-00436/",
+      "price_yen": 300,
+      "variant_count": 10,
+      "jan_code": "4549743895598",
+      "official_url": "https://www.movic.jp/shop/g/g02360-00603-00436/",
+      "source_url": "https://www.movic.jp/shop/g/g02360-00603-00436/",
+      "first_detected_at": "2026-05-18T07:37:57+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
+      "product_path": "products/movic-02360-00603-00436.json"
     },
     {
       "id": "bandai-gashapon-4549660796336000",

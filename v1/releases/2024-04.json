@@ -1,9 +1,75 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-05-18T18:25:13+09:00",
+  "generated_at": "2026-05-19T01:30:36+09:00",
   "year": 2024,
   "month": 4,
   "items": [
+    {
+      "id": "prestage-original-img01",
+      "manufacturer_id": "prestage",
+      "manufacturer_name": "プレステージ",
+      "brand_name": null,
+      "series_name": null,
+      "product_name": "デンシタコおすわりぬいぐるみ",
+      "release_year": 2024,
+      "release_month": 4,
+      "release_week": null,
+      "release_date": "2024-04-13",
+      "preview_image_url": "https://www.prestage.co.jp/assets/images/original/original_img01.jpg",
+      "preview_image_source_url": "https://www.prestage.co.jp/original/original.html",
+      "price_yen": 3300,
+      "variant_count": null,
+      "jan_code": null,
+      "official_url": "https://www.prestage.co.jp/original/original.html",
+      "source_url": "https://www.prestage.co.jp/original/original.html",
+      "first_detected_at": "2026-05-15T23:55:54+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
+      "product_path": "products/prestage-original-img01.json"
+    },
+    {
+      "id": "pokemon-center-original-4521329375830",
+      "manufacturer_id": "pokemon-center-original",
+      "manufacturer_name": "ポケモンセンターオリジナル",
+      "brand_name": "ポケモンセンターオリジナル",
+      "series_name": null,
+      "product_name": "ポケモン めじるしアクセサリー2",
+      "release_year": 2024,
+      "release_month": 4,
+      "release_week": null,
+      "release_date": "2024-04-25",
+      "preview_image_url": "https://www.pokemoncenter-online.com/a/img/item/4521329375830/M/8e1051d8bfb0fa3ba2fa885f1eda473809dd835d725125f6bdcdb3f186cd7626.jpg",
+      "preview_image_source_url": "https://www.pokemoncenter-online.com/4521329375830.html",
+      "price_yen": 300,
+      "variant_count": null,
+      "jan_code": "4521329375830",
+      "official_url": "https://www.pokemoncenter-online.com/4521329375830.html",
+      "source_url": "https://www.pokemoncenter-online.com/4521329375830.html",
+      "first_detected_at": "2026-05-18T18:07:49+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
+      "product_path": "products/pokemon-center-original-4521329375830.json"
+    },
+    {
+      "id": "prestage-original-img02",
+      "manufacturer_id": "prestage",
+      "manufacturer_name": "プレステージ",
+      "brand_name": null,
+      "series_name": null,
+      "product_name": "クオッカちゃんのわくわくおでかけマスコット2",
+      "release_year": 2024,
+      "release_month": 4,
+      "release_week": null,
+      "release_date": "2024-04-27",
+      "preview_image_url": "https://www.prestage.co.jp/assets/images/original/original_img02.jpg",
+      "preview_image_source_url": "https://www.prestage.co.jp/original/original.html",
+      "price_yen": 990,
+      "variant_count": null,
+      "jan_code": null,
+      "official_url": "https://www.prestage.co.jp/original/original.html",
+      "source_url": "https://www.prestage.co.jp/original/original.html",
+      "first_detected_at": "2026-05-15T23:55:16+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
+      "product_path": "products/prestage-original-img02.json"
+    },
     {
       "id": "bandai-gashapon-4570118184085000",
       "manufacturer_id": "bandai-gashapon",
@@ -2425,6 +2491,28 @@
       "product_path": "products/bandai-gashapon-4549660971870000.json"
     },
     {
+      "id": "dis-dcpt-0014",
+      "manufacturer_id": "dis",
+      "manufacturer_name": "ディーアイエス",
+      "brand_name": null,
+      "series_name": null,
+      "product_name": "猫好きのカラビニャ",
+      "release_year": 2024,
+      "release_month": 4,
+      "release_week": null,
+      "release_date": null,
+      "preview_image_url": "https://d-is.co.jp/capsuletoy/dcpt_0014.jpg",
+      "preview_image_source_url": "https://d-is.co.jp/capsuletoy.html",
+      "price_yen": null,
+      "variant_count": null,
+      "jan_code": null,
+      "official_url": "https://d-is.co.jp/capsuletoy.html",
+      "source_url": "https://d-is.co.jp/capsuletoy.html",
+      "first_detected_at": "2026-05-16T23:11:51+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
+      "product_path": "products/dis-dcpt-0014.json"
+    },
+    {
       "id": "funbox-302",
       "manufacturer_id": "funbox",
       "manufacturer_name": "funbox",
@@ -2531,7 +2619,7 @@
       "official_url": "https://hmatoys.net/product/gt-r-%e7%b4%94%e6%ad%a3%e3%82%b9%e3%83%86%e3%82%a2%e3%83%aa%e3%83%b3%e3%82%b0%e3%82%ad%e3%83%bc%e3%83%9b%e3%83%ab%e3%83%80%e3%83%bc%e3%82%b3%e3%83%ac%e3%82%af%e3%82%b7%e3%83%a7%e3%83%b3/",
       "source_url": "https://hmatoys.net/product/gt-r-%e7%b4%94%e6%ad%a3%e3%82%b9%e3%83%86%e3%82%a2%e3%83%aa%e3%83%b3%e3%82%b0%e3%82%ad%e3%83%bc%e3%83%9b%e3%83%ab%e3%83%80%e3%83%bc%e3%82%b3%e3%83%ac%e3%82%af%e3%82%b7%e3%83%a7%e3%83%b3/",
       "first_detected_at": "2026-05-15T16:54:18+09:00",
-      "last_checked_at": "2026-05-18T18:00:53+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
       "product_path": "products/hma-gt-r-1c47c512.json"
     },
     {
@@ -2553,7 +2641,7 @@
       "official_url": "https://hmatoys.net/product/manianis-shadow-monster-3/",
       "source_url": "https://hmatoys.net/product/manianis-shadow-monster-3/",
       "first_detected_at": "2026-05-15T16:54:18+09:00",
-      "last_checked_at": "2026-05-18T18:00:53+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
       "product_path": "products/hma-manianis-shadow-monster-3.json"
     },
     {
@@ -2575,7 +2663,7 @@
       "official_url": "https://hmatoys.net/product/%e3%82%b9%e3%82%a4%e3%82%ab%e3%82%b2%e3%83%bc%e3%83%a0%ef%bc%88r%e3%80%80%e3%82%b7%e3%83%a3%e3%82%ab%e3%82%b7%e3%83%a3%e3%82%ab%e3%82%a2%e3%82%af%e3%83%aa%e3%83%ab%e3%82%ad%e3%83%bc%e3%83%9b%e3%83%ab/",
       "source_url": "https://hmatoys.net/product/%e3%82%b9%e3%82%a4%e3%82%ab%e3%82%b2%e3%83%bc%e3%83%a0%ef%bc%88r%e3%80%80%e3%82%b7%e3%83%a3%e3%82%ab%e3%82%b7%e3%83%a3%e3%82%ab%e3%82%a2%e3%82%af%e3%83%aa%e3%83%ab%e3%82%ad%e3%83%bc%e3%83%9b%e3%83%ab/",
       "first_detected_at": "2026-05-15T19:01:52+09:00",
-      "last_checked_at": "2026-05-18T18:00:53+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
       "product_path": "products/hma-r-b6f8d203.json"
     },
     {
@@ -2597,7 +2685,7 @@
       "official_url": "https://hmatoys.net/product/%e3%82%b9%e3%82%a4%e3%82%ab%e3%82%b2%e3%83%bc%e3%83%a0%ef%bc%88r%e3%80%80%e3%83%a9%e3%83%90%e3%83%bc%e3%83%9e%e3%82%b9%e3%82%b3%e3%83%83%e3%83%88/",
       "source_url": "https://hmatoys.net/product/%e3%82%b9%e3%82%a4%e3%82%ab%e3%82%b2%e3%83%bc%e3%83%a0%ef%bc%88r%e3%80%80%e3%83%a9%e3%83%90%e3%83%bc%e3%83%9e%e3%82%b9%e3%82%b3%e3%83%83%e3%83%88/",
       "first_detected_at": "2026-05-15T19:01:52+09:00",
-      "last_checked_at": "2026-05-18T18:00:53+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
       "product_path": "products/hma-r-4a77c739.json"
     },
     {
@@ -2619,7 +2707,7 @@
       "official_url": "https://capsule.k2-st.co.jp/lineup/sst_mejirushi_charm/",
       "source_url": "https://capsule.k2-st.co.jp/lineup/sst_mejirushi_charm/",
       "first_detected_at": "2026-05-15T15:03:59+09:00",
-      "last_checked_at": "2026-05-18T18:00:53+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
       "product_path": "products/k2-station-sst-mejirushi-charm.json"
     },
     {
@@ -2641,7 +2729,7 @@
       "official_url": "https://capsule.k2-st.co.jp/lineup/haikyu_nuigurumi/",
       "source_url": "https://capsule.k2-st.co.jp/lineup/haikyu_nuigurumi/",
       "first_detected_at": "2026-05-15T15:03:59+09:00",
-      "last_checked_at": "2026-05-18T18:00:53+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
       "product_path": "products/k2-station-haikyu-nuigurumi.json"
     },
     {
@@ -3215,6 +3303,28 @@
       "first_detected_at": "2026-05-13T19:05:49+09:00",
       "last_checked_at": "2026-05-13T22:42:41+09:00",
       "product_path": "products/qualia-yakudo-kan-retoropudding-mf.json"
+    },
+    {
+      "id": "sega-fave-000000212-000016101-vol8",
+      "manufacturer_id": "sega-fave",
+      "manufacturer_name": "セガ フェイブ",
+      "brand_name": "プロジェクトセカイ カラフルステージ！ feat. 初音ミク",
+      "series_name": null,
+      "product_name": "プロジェクトセカイ カラフルステージ！ feat. 初音ミク カプセルメタルバナー キーチェーンコレクション Vol.8",
+      "release_year": 2024,
+      "release_month": 4,
+      "release_week": null,
+      "release_date": null,
+      "preview_image_url": "https://prcdn.freetls.fastly.net/release_image/16101/212/16101-212-81f435d8b506eabced12c0ad6f48f5ed-1000x1000.jpg?format=jpeg&auto=webp&quality=85,65&width=1950&height=1350&fit=bounds",
+      "preview_image_source_url": "https://prtimes.jp/main/html/rd/p/000000212.000016101.html",
+      "price_yen": 400,
+      "variant_count": 10,
+      "jan_code": null,
+      "official_url": "https://segaplaza.jp/lp/projectsekai/",
+      "source_url": "https://prtimes.jp/main/html/rd/p/000000212.000016101.html",
+      "first_detected_at": "2026-05-18T17:15:35+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
+      "product_path": "products/sega-fave-000000212-000016101-vol8.json"
     },
     {
       "id": "stand-stones-1-64plusfaihatsucanvas",

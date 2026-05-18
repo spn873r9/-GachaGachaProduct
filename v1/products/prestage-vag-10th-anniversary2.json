@@ -1,0 +1,28 @@
+{
+  "id": "prestage-vag-10th-anniversary2",
+  "manufacturer_id": "prestage",
+  "manufacturer_name": "プレステージ",
+  "brand_name": null,
+  "series_name": "VAG",
+  "product_name": "VAG『10th Anniversary2』",
+  "release_year": 2025,
+  "release_month": 5,
+  "release_week": null,
+  "release_date": null,
+  "preview_image_url": null,
+  "preview_image_source_url": null,
+  "price_yen": null,
+  "variant_count": null,
+  "jan_code": null,
+  "official_url": "https://www.prestage.co.jp/vag/vag.html",
+  "source_url": "https://www.prestage.co.jp/",
+  "first_detected_at": "2026-05-15T23:55:16+09:00",
+  "last_checked_at": "2026-05-19T00:58:38+09:00",
+  "product_path": "products/prestage-vag-10th-anniversary2.json",
+  "copyright_notice": null,
+  "data_policy": {
+    "source_verified": true,
+    "uses_official_image": false,
+    "uses_official_description": false
+  }
+}

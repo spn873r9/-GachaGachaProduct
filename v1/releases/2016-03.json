@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-05-18T18:25:13+09:00",
+  "generated_at": "2026-05-19T01:30:36+09:00",
   "year": 2016,
   "month": 3,
   "items": [
@@ -773,6 +773,28 @@
       "first_detected_at": "2026-05-14T16:31:22+09:00",
       "last_checked_at": "2026-05-14T16:31:22+09:00",
       "product_path": "products/bandai-gashapon-4549660029489000.json"
+    },
+    {
+      "id": "megahouse-1835",
+      "manufacturer_id": "megahouse",
+      "manufacturer_name": "メガハウス",
+      "brand_name": "ドラゴンボールカプセル",
+      "series_name": "ドラゴンボールカプセル",
+      "product_name": "ドラカプメモリアル 01 孫悟空/02 超サイヤ人 孫悟空/03 超サイヤ人3孫悟空",
+      "release_year": 2016,
+      "release_month": 3,
+      "release_week": null,
+      "release_date": null,
+      "preview_image_url": "https://www.megahobby.jp/images/item/item_0000001835_01.jpg",
+      "preview_image_source_url": "https://www.megahobby.jp/products/item/1835/",
+      "price_yen": 1650,
+      "variant_count": null,
+      "jan_code": null,
+      "official_url": "https://www.megahobby.jp/products/item/1835/",
+      "source_url": "https://www.megahobby.jp/products/item/1835/",
+      "first_detected_at": "2026-05-17T18:40:35+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
+      "product_path": "products/megahouse-1835.json"
     },
     {
       "id": "takaratomy-arts-y833977",

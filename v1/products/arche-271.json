@@ -1,0 +1,28 @@
+{
+  "id": "arche-271",
+  "manufacturer_id": "arche",
+  "manufacturer_name": "アルシェ",
+  "brand_name": "ガチャタマ",
+  "series_name": null,
+  "product_name": "大宮ガチャタマ第一弾",
+  "release_year": null,
+  "release_month": null,
+  "release_week": null,
+  "release_date": null,
+  "preview_image_url": "https://www.arche.ne.jp/wp-content/themes/arche/assets/img/icon_shop_b.png",
+  "preview_image_source_url": "https://www.arche.ne.jp/news/271",
+  "price_yen": 300,
+  "variant_count": 8,
+  "jan_code": null,
+  "official_url": "https://www.arche.ne.jp/news/271",
+  "source_url": "https://www.arche.ne.jp/news/271",
+  "first_detected_at": "2026-05-18T22:32:37+09:00",
+  "last_checked_at": "2026-05-19T00:58:38+09:00",
+  "product_path": "products/arche-271.json",
+  "copyright_notice": "© 2021 ARCHE All Rights Reserved.",
+  "data_policy": {
+    "source_verified": true,
+    "uses_official_image": false,
+    "uses_official_description": false
+  }
+}

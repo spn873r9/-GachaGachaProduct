@@ -1,9 +1,97 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-05-18T18:25:13+09:00",
+  "generated_at": "2026-05-19T01:30:36+09:00",
   "year": 2026,
   "month": 1,
   "items": [
+    {
+      "id": "nic-goods3",
+      "manufacturer_id": "nic",
+      "manufacturer_name": "NIC",
+      "brand_name": "SANDA",
+      "series_name": null,
+      "product_name": "【カプセルトイ】アクリルスタンド",
+      "release_year": 2026,
+      "release_month": 1,
+      "release_week": null,
+      "release_date": "2026-01-01",
+      "preview_image_url": "https://sanda.red/goods/img/g03.jpg",
+      "preview_image_source_url": "https://sanda.red/goods/goods3.html",
+      "price_yen": 300,
+      "variant_count": null,
+      "jan_code": null,
+      "official_url": "https://sanda.red/goods/goods3.html",
+      "source_url": "https://sanda.red/goods/goods3.html",
+      "first_detected_at": "2026-05-18T19:45:02+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
+      "product_path": "products/nic-goods3.json"
+    },
+    {
+      "id": "tokagedo-f0e96cae771e",
+      "manufacturer_id": "tokagedo",
+      "manufacturer_name": "十影堂エンターテイメント",
+      "brand_name": "十影堂エンターテイメント",
+      "series_name": null,
+      "product_name": "わいわいおばけフレンズ",
+      "release_year": 2026,
+      "release_month": 1,
+      "release_week": null,
+      "release_date": "2026-01-08",
+      "preview_image_url": "https://www.tokagedo.co.jp/wp/wp-content/uploads/2026/01/1db31d4050962c2bf0f1c5c7623ad918-878x1024.jpg",
+      "preview_image_source_url": "https://www.tokagedo.co.jp/capsuletoy/7052",
+      "price_yen": 200,
+      "variant_count": 6,
+      "jan_code": null,
+      "official_url": "https://www.tokagedo.co.jp/capsuletoy/7052",
+      "source_url": "https://www.tokagedo.co.jp/capsuletoy/7052",
+      "first_detected_at": "2026-05-17T23:14:02+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
+      "product_path": "products/tokagedo-f0e96cae771e.json"
+    },
+    {
+      "id": "tokagedo-9c76f495ccb3",
+      "manufacturer_id": "tokagedo",
+      "manufacturer_name": "十影堂エンターテイメント",
+      "brand_name": "十影堂エンターテイメント",
+      "series_name": null,
+      "product_name": "アニマルハンドスピナー",
+      "release_year": 2026,
+      "release_month": 1,
+      "release_week": null,
+      "release_date": "2026-01-08",
+      "preview_image_url": "https://www.tokagedo.co.jp/wp/wp-content/uploads/2026/01/1db31d4050962c2bf0f1c5c7623ad918-878x1024.jpg",
+      "preview_image_source_url": "https://www.tokagedo.co.jp/capsuletoy/7052",
+      "price_yen": 200,
+      "variant_count": 5,
+      "jan_code": null,
+      "official_url": "https://www.tokagedo.co.jp/capsuletoy/7052",
+      "source_url": "https://www.tokagedo.co.jp/capsuletoy/7052",
+      "first_detected_at": "2026-05-17T23:14:02+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
+      "product_path": "products/tokagedo-9c76f495ccb3.json"
+    },
+    {
+      "id": "tokagedo-5a49c63962db",
+      "manufacturer_id": "tokagedo",
+      "manufacturer_name": "十影堂エンターテイメント",
+      "brand_name": "十影堂エンターテイメント",
+      "series_name": null,
+      "product_name": "恐竜ビーズスクイーズ",
+      "release_year": 2026,
+      "release_month": 1,
+      "release_week": null,
+      "release_date": "2026-01-08",
+      "preview_image_url": "https://www.tokagedo.co.jp/wp/wp-content/uploads/2026/01/1db31d4050962c2bf0f1c5c7623ad918-878x1024.jpg",
+      "preview_image_source_url": "https://www.tokagedo.co.jp/capsuletoy/7052",
+      "price_yen": 200,
+      "variant_count": 6,
+      "jan_code": null,
+      "official_url": "https://www.tokagedo.co.jp/capsuletoy/7052",
+      "source_url": "https://www.tokagedo.co.jp/capsuletoy/7052",
+      "first_detected_at": "2026-05-17T23:14:02+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
+      "product_path": "products/tokagedo-5a49c63962db.json"
+    },
     {
       "id": "bloom-cp-pyos",
       "manufacturer_id": "bloom",
@@ -23,7 +111,7 @@
       "official_url": "https://i-bloom.shop/products/cp_pyos",
       "source_url": "https://i-bloom-squishy.com/products/capsuletoys/",
       "first_detected_at": "2026-05-15T11:44:32+09:00",
-      "last_checked_at": "2026-05-18T18:00:53+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
       "product_path": "products/bloom-cp-pyos.json"
     },
     {
@@ -111,7 +199,7 @@
       "official_url": "https://www.proof-toy.com/2026/01/14/%e5%bf%8d%e3%81%9f%e3%81%be%e4%b9%b1%e5%a4%aa%e9%83%8e-%e3%83%9f%e3%83%8b%e3%83%9f%e3%83%8b%e3%81%be%e3%81%8f%e3%82%89%e3%82%ad%e3%83%bc%e3%83%9b%e3%83%ab%e3%83%80%e3%83%bc/",
       "source_url": "https://www.proof-toy.com/2026/01/14/%e5%bf%8d%e3%81%9f%e3%81%be%e4%b9%b1%e5%a4%aa%e9%83%8e-%e3%83%9f%e3%83%8b%e3%83%9f%e3%83%8b%e3%81%be%e3%81%8f%e3%82%89%e3%82%ad%e3%83%bc%e3%83%9b%e3%83%ab%e3%83%80%e3%83%bc/",
       "first_detected_at": "2026-05-15T08:21:48+09:00",
-      "last_checked_at": "2026-05-18T18:00:53+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
       "product_path": "products/proof-154f25136953.json"
     },
     {
@@ -133,7 +221,7 @@
       "official_url": "https://www.proof-toy.com/2026/01/15/coji-coji-%e3%81%8a%e3%81%a7%e3%81%8b%e3%81%91%e7%bc%b6%e3%83%9f%e3%83%a9%e3%83%bc/",
       "source_url": "https://www.proof-toy.com/2026/01/15/coji-coji-%e3%81%8a%e3%81%a7%e3%81%8b%e3%81%91%e7%bc%b6%e3%83%9f%e3%83%a9%e3%83%bc/",
       "first_detected_at": "2026-05-15T08:21:48+09:00",
-      "last_checked_at": "2026-05-18T18:00:53+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
       "product_path": "products/proof-coji-coji-927e5223.json"
     },
     {
@@ -155,7 +243,7 @@
       "official_url": "https://www.proof-toy.com/2026/01/14/%e3%81%b1%e3%81%8f%e3%81%a3%e3%81%a8%ef%bc%81%e5%90%9b%e8%89%b2%e3%81%8a%e3%81%99%e3%81%97%ef%bd%9e%e3%81%93%e3%82%93%e3%81%b3%e3%81%ad%e3%83%bc%e3%81%97%e3%82%87%e3%82%93%ef%bd%9e/",
       "source_url": "https://www.proof-toy.com/2026/01/14/%e3%81%b1%e3%81%8f%e3%81%a3%e3%81%a8%ef%bc%81%e5%90%9b%e8%89%b2%e3%81%8a%e3%81%99%e3%81%97%ef%bd%9e%e3%81%93%e3%82%93%e3%81%b3%e3%81%ad%e3%83%bc%e3%81%97%e3%82%87%e3%82%93%ef%bd%9e/",
       "first_detected_at": "2026-05-15T08:21:48+09:00",
-      "last_checked_at": "2026-05-18T18:00:53+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
       "product_path": "products/proof-9414cbc44362.json"
     },
     {
@@ -177,7 +265,7 @@
       "official_url": "https://www.proof-toy.com/2026/01/14/%e3%81%ad%e3%81%93%e3%81%95%e3%82%93%e3%81%ae%e3%82%b1%e3%83%bc%e3%83%97-%e7%84%a1%e6%95%b5%e3%81%aa%e3%83%92%e3%83%bc%e3%83%ad%e3%83%bc%ef%bc%81/",
       "source_url": "https://www.proof-toy.com/2026/01/14/%e3%81%ad%e3%81%93%e3%81%95%e3%82%93%e3%81%ae%e3%82%b1%e3%83%bc%e3%83%97-%e7%84%a1%e6%95%b5%e3%81%aa%e3%83%92%e3%83%bc%e3%83%ad%e3%83%bc%ef%bc%81/",
       "first_detected_at": "2026-05-15T08:21:48+09:00",
-      "last_checked_at": "2026-05-18T18:00:53+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
       "product_path": "products/proof-b5046d9fb81e.json"
     },
     {
@@ -265,7 +353,7 @@
       "official_url": "https://www.proof-toy.com/2026/01/15/%e5%bf%8d%e3%81%9f%e3%81%be%e4%b9%b1%e5%a4%aa%e9%83%8e-%e3%83%9f%e3%83%8b%e3%83%9d%e3%83%bc%e3%83%81%e3%82%ad%e3%83%bc%e3%83%9b%e3%83%ab%e3%83%80%e3%83%bc-%e4%ba%94%e3%81%ae%e6%ae%b5/",
       "source_url": "https://www.proof-toy.com/2026/01/15/%e5%bf%8d%e3%81%9f%e3%81%be%e4%b9%b1%e5%a4%aa%e9%83%8e-%e3%83%9f%e3%83%8b%e3%83%9d%e3%83%bc%e3%83%81%e3%82%ad%e3%83%bc%e3%83%9b%e3%83%ab%e3%83%80%e3%83%bc-%e4%ba%94%e3%81%ae%e6%ae%b5/",
       "first_detected_at": "2026-05-15T08:21:48+09:00",
-      "last_checked_at": "2026-05-18T18:00:53+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
       "product_path": "products/proof-06d78944b98e.json"
     },
     {
@@ -3943,6 +4031,270 @@
       "product_path": "products/bandai-gashapon-4570118238290000.json"
     },
     {
+      "id": "amuse-c65923",
+      "manufacturer_id": "amuse",
+      "manufacturer_name": "アミューズ",
+      "brand_name": null,
+      "series_name": null,
+      "product_name": "とらんすふぉーむぷちぐるみ",
+      "release_year": 2026,
+      "release_month": 1,
+      "release_week": null,
+      "release_date": null,
+      "preview_image_url": "https://www.a-muzu.com/client_info/FUNBOX01/itemimage/C65923/C65923_%EF%BE%84%EF%BE%97%EF%BE%9D%EF%BD%BD%EF%BE%8C%EF%BD%AB%EF%BD%B0%EF%BE%91%EF%BE%8C%EF%BE%9F%EF%BE%81%EF%BD%B8%EF%BE%9E%EF%BE%99%EF%BE%90_w.jpg",
+      "preview_image_source_url": "https://www.a-muzu.com/item/C65923.html",
+      "price_yen": 400,
+      "variant_count": 4,
+      "jan_code": null,
+      "official_url": "https://www.a-muzu.com/item/C65923.html",
+      "source_url": "https://www.a-muzu.com/category/CAPSULE_TOY_001/C65923.html",
+      "first_detected_at": "2026-05-19T00:58:38+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
+      "product_path": "products/amuse-c65923.json"
+    },
+    {
+      "id": "amuse-c65929",
+      "manufacturer_id": "amuse",
+      "manufacturer_name": "アミューズ",
+      "brand_name": null,
+      "series_name": null,
+      "product_name": "シュナとボブのヘアバンド",
+      "release_year": 2026,
+      "release_month": 1,
+      "release_week": null,
+      "release_date": null,
+      "preview_image_url": "https://www.a-muzu.com/client_info/FUNBOX01/itemimage/C65929/C65929_%EF%BD%BC%EF%BD%AD%EF%BE%85%EF%BE%84%EF%BE%8E%EF%BE%9E%EF%BE%8C%EF%BE%9E%EF%BE%89%EF%BE%8D%EF%BD%B1%EF%BE%8A%EF%BE%9E%EF%BE%9D%EF%BE%84%EF%BE%9E_w.jpg",
+      "preview_image_source_url": "https://www.a-muzu.com/item/C65929.html",
+      "price_yen": 400,
+      "variant_count": 4,
+      "jan_code": null,
+      "official_url": "https://www.a-muzu.com/item/C65929.html",
+      "source_url": "https://www.a-muzu.com/category/CAPSULE_TOY_001/C65929.html",
+      "first_detected_at": "2026-05-19T00:58:38+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
+      "product_path": "products/amuse-c65929.json"
+    },
+    {
+      "id": "amuse-c65931",
+      "manufacturer_id": "amuse",
+      "manufacturer_name": "アミューズ",
+      "brand_name": null,
+      "series_name": null,
+      "product_name": "シュナとボブぶらさがりフィギュア",
+      "release_year": 2026,
+      "release_month": 1,
+      "release_week": null,
+      "release_date": null,
+      "preview_image_url": "https://www.a-muzu.com/client_info/FUNBOX01/itemimage/C65931/C65931_%EF%BD%BC%EF%BD%AD%EF%BE%85%EF%BE%84%EF%BE%8E%EF%BE%9E%EF%BE%8C%EF%BE%9E_%EF%BE%8C%EF%BE%9E%EF%BE%97%EF%BD%BB%EF%BD%B6%EF%BE%9E%EF%BE%98%EF%BE%8C%EF%BD%A8%EF%BD%B7%EF%BE%9E%EF%BD%AD%EF%BD%B1_w.jpg",
+      "preview_image_source_url": "https://www.a-muzu.com/item/C65931.html",
+      "price_yen": 400,
+      "variant_count": 5,
+      "jan_code": null,
+      "official_url": "https://www.a-muzu.com/item/C65931.html",
+      "source_url": "https://www.a-muzu.com/category/CAPSULE_TOY_001/C65931.html",
+      "first_detected_at": "2026-05-19T00:58:38+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
+      "product_path": "products/amuse-c65931.json"
+    },
+    {
+      "id": "amuse-c65914",
+      "manufacturer_id": "amuse",
+      "manufacturer_name": "アミューズ",
+      "brand_name": null,
+      "series_name": null,
+      "product_name": "ハングリーあんぐりー",
+      "release_year": 2026,
+      "release_month": 1,
+      "release_week": null,
+      "release_date": null,
+      "preview_image_url": "https://www.a-muzu.com/client_info/FUNBOX01/itemimage/C65914/C65914_%EF%BE%8A%EF%BE%9D%EF%BD%B8%EF%BE%9E%EF%BE%98%EF%BD%B0%EF%BD%B1%EF%BE%9D%EF%BD%B8%EF%BE%9E%EF%BE%98%EF%BD%B0_w.jpg",
+      "preview_image_source_url": "https://www.a-muzu.com/item/C65914.html",
+      "price_yen": 300,
+      "variant_count": 5,
+      "jan_code": null,
+      "official_url": "https://www.a-muzu.com/item/C65914.html",
+      "source_url": "https://www.a-muzu.com/category/CAPSULE_TOY_001/C65914.html",
+      "first_detected_at": "2026-05-19T00:58:38+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
+      "product_path": "products/amuse-c65914.json"
+    },
+    {
+      "id": "amuse-c65916",
+      "manufacturer_id": "amuse",
+      "manufacturer_name": "アミューズ",
+      "brand_name": null,
+      "series_name": null,
+      "product_name": "寒空のおともだち アイスフィギュアセット",
+      "release_year": 2026,
+      "release_month": 1,
+      "release_week": null,
+      "release_date": null,
+      "preview_image_url": "https://www.a-muzu.com/client_info/FUNBOX01/itemimage/C65916/C65916_%EF%BD%BB%EF%BE%91%EF%BD%BF%EF%BE%9E%EF%BE%97%EF%BE%89%EF%BD%B5%EF%BE%84%EF%BE%93%EF%BE%80%EF%BE%9E%EF%BE%81_%EF%BD%B1%EF%BD%B2%EF%BD%BD%EF%BE%8C%EF%BD%A8%EF%BD%B7%EF%BE%9E%EF%BD%AD%EF%BD%B1%EF%BD%BE%EF%BD%AF%EF%BE%84_w.jpg",
+      "preview_image_source_url": "https://www.a-muzu.com/item/C65916.html",
+      "price_yen": 300,
+      "variant_count": 5,
+      "jan_code": null,
+      "official_url": "https://www.a-muzu.com/item/C65916.html",
+      "source_url": "https://www.a-muzu.com/category/CAPSULE_TOY_001/C65916.html",
+      "first_detected_at": "2026-05-19T00:58:38+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
+      "product_path": "products/amuse-c65916.json"
+    },
+    {
+      "id": "beam-c66185",
+      "manufacturer_id": "beam",
+      "manufacturer_name": "ビーム",
+      "brand_name": null,
+      "series_name": null,
+      "product_name": "JR東日本プルバック トレインキーホルダー",
+      "release_year": 2026,
+      "release_month": 1,
+      "release_week": null,
+      "release_date": null,
+      "preview_image_url": "https://www.a-muzu.com/client_info/FUNBOX01/itemimage/C66185/C66185_JR%EF%BE%8B%EF%BD%B6%EF%BE%9E%EF%BD%BC%EF%BE%86%EF%BE%8E%EF%BE%9D%EF%BE%8C%EF%BE%9F%EF%BE%99%EF%BE%8A%EF%BE%9E%EF%BD%AF%EF%BD%B8_%EF%BE%84%EF%BE%9A%EF%BD%B2%EF%BE%9D%EF%BD%B7%EF%BD%B0%EF%BE%8E%EF%BE%99%EF%BE%80%EF%BE%9E%EF%BD%B0_w.jpg",
+      "preview_image_source_url": "https://www.a-muzu.com/item/C66185.html",
+      "price_yen": 300,
+      "variant_count": 5,
+      "jan_code": null,
+      "official_url": "https://www.a-muzu.com/item/C66185.html",
+      "source_url": "https://www.a-muzu.com/item/C66185.html",
+      "first_detected_at": "2026-05-19T00:58:38+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
+      "product_path": "products/beam-c66185.json"
+    },
+    {
+      "id": "beam-c66191",
+      "manufacturer_id": "beam",
+      "manufacturer_name": "ビーム",
+      "brand_name": null,
+      "series_name": null,
+      "product_name": "さきのばしサイコロ",
+      "release_year": 2026,
+      "release_month": 1,
+      "release_week": null,
+      "release_date": null,
+      "preview_image_url": "https://www.a-muzu.com/client_info/FUNBOX01/itemimage/C66191/%EF%BD%BB%EF%BD%B7%EF%BE%89%EF%BE%8A%EF%BE%9E%EF%BD%BC%EF%BD%BB%EF%BD%B2%EF%BD%BA%EF%BE%9B_w.jpg",
+      "preview_image_source_url": "https://www.a-muzu.com/item/C66191.html",
+      "price_yen": 300,
+      "variant_count": 5,
+      "jan_code": null,
+      "official_url": "https://www.a-muzu.com/item/C66191.html",
+      "source_url": "https://www.a-muzu.com/item/C66191.html",
+      "first_detected_at": "2026-05-19T00:58:38+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
+      "product_path": "products/beam-c66191.json"
+    },
+    {
+      "id": "beam-c66187",
+      "manufacturer_id": "beam",
+      "manufacturer_name": "ビーム",
+      "brand_name": null,
+      "series_name": null,
+      "product_name": "ちいさなランタンライト",
+      "release_year": 2026,
+      "release_month": 1,
+      "release_week": null,
+      "release_date": null,
+      "preview_image_url": "https://www.a-muzu.com/client_info/FUNBOX01/itemimage/C66187/C66187_%EF%BE%81%EF%BD%B2%EF%BD%BB%EF%BE%85%EF%BE%97%EF%BE%9D%EF%BE%80%EF%BE%9D%EF%BE%97%EF%BD%B2%EF%BE%84_w.jpg",
+      "preview_image_source_url": "https://www.a-muzu.com/item/C66187.html",
+      "price_yen": 300,
+      "variant_count": 4,
+      "jan_code": null,
+      "official_url": "https://www.a-muzu.com/item/C66187.html",
+      "source_url": "https://www.a-muzu.com/item/C66187.html",
+      "first_detected_at": "2026-05-19T00:58:38+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
+      "product_path": "products/beam-c66187.json"
+    },
+    {
+      "id": "beam-c66188",
+      "manufacturer_id": "beam",
+      "manufacturer_name": "ビーム",
+      "brand_name": null,
+      "series_name": null,
+      "product_name": "もぎたてっ！輝き葡萄玉！",
+      "release_year": 2026,
+      "release_month": 1,
+      "release_week": null,
+      "release_date": null,
+      "preview_image_url": "https://www.a-muzu.com/client_info/FUNBOX01/itemimage/C66188/%EF%BE%93%EF%BD%B7%EF%BE%9E%EF%BE%80%EF%BE%83%EF%BD%AF%21%EF%BD%B6%EF%BD%B6%EF%BE%9E%EF%BE%94%EF%BD%B7%EF%BE%8C%EF%BE%9E%EF%BE%84%EF%BE%9E%EF%BD%B3%EF%BE%80%EF%BE%9E%EF%BE%8F%21_w.jpg",
+      "preview_image_source_url": "https://www.a-muzu.com/item/C66188.html",
+      "price_yen": 300,
+      "variant_count": 5,
+      "jan_code": null,
+      "official_url": "https://www.a-muzu.com/item/C66188.html",
+      "source_url": "https://www.a-muzu.com/item/C66188.html",
+      "first_detected_at": "2026-05-19T00:58:38+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
+      "product_path": "products/beam-c66188.json"
+    },
+    {
+      "id": "beam-c66190",
+      "manufacturer_id": "beam",
+      "manufacturer_name": "ビーム",
+      "brand_name": null,
+      "series_name": null,
+      "product_name": "ポテモジ",
+      "release_year": 2026,
+      "release_month": 1,
+      "release_week": null,
+      "release_date": null,
+      "preview_image_url": "https://www.a-muzu.com/client_info/FUNBOX01/itemimage/C66190/%EF%BE%8E%EF%BE%9F%EF%BE%83%EF%BE%93%EF%BD%BC%EF%BE%9E_w.jpg",
+      "preview_image_source_url": "https://www.a-muzu.com/item/C66190.html",
+      "price_yen": 300,
+      "variant_count": 5,
+      "jan_code": null,
+      "official_url": "https://www.a-muzu.com/item/C66190.html",
+      "source_url": "https://www.a-muzu.com/item/C66190.html",
+      "first_detected_at": "2026-05-19T00:58:38+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
+      "product_path": "products/beam-c66190.json"
+    },
+    {
+      "id": "beam-c66186",
+      "manufacturer_id": "beam",
+      "manufacturer_name": "ビーム",
+      "brand_name": null,
+      "series_name": null,
+      "product_name": "猫の肉球キーボード めじるチャーム",
+      "release_year": 2026,
+      "release_month": 1,
+      "release_week": null,
+      "release_date": null,
+      "preview_image_url": "https://www.a-muzu.com/client_info/FUNBOX01/itemimage/C66186/C66186_%EF%BE%88%EF%BD%BA%EF%BE%89%EF%BE%86%EF%BD%B8%EF%BD%B7%EF%BD%AD%EF%BD%B3%EF%BD%B7%EF%BD%B0%EF%BE%8E%EF%BE%9E%EF%BD%B0%EF%BE%84%EF%BE%9E_%EF%BE%92%EF%BD%BC%EF%BE%9E%EF%BE%99%EF%BD%BC%EF%BE%81%EF%BD%AC%EF%BD%B0%EF%BE%91_w.jpg",
+      "preview_image_source_url": "https://www.a-muzu.com/item/C66186.html",
+      "price_yen": 300,
+      "variant_count": 4,
+      "jan_code": null,
+      "official_url": "https://www.a-muzu.com/item/C66186.html",
+      "source_url": "https://www.a-muzu.com/item/C66186.html",
+      "first_detected_at": "2026-05-19T00:58:38+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
+      "product_path": "products/beam-c66186.json"
+    },
+    {
+      "id": "beam-c65522",
+      "manufacturer_id": "beam",
+      "manufacturer_name": "ビーム",
+      "brand_name": null,
+      "series_name": null,
+      "product_name": "魚肉加工品ボールチェーン",
+      "release_year": 2026,
+      "release_month": 1,
+      "release_week": null,
+      "release_date": null,
+      "preview_image_url": "https://www.a-muzu.com/client_info/FUNBOX01/itemimage/C65522/C65522_%EF%BD%B7%EF%BE%9E%EF%BD%AE%EF%BE%86%EF%BD%B8%EF%BD%B6%EF%BD%BA%EF%BD%B3%EF%BE%8B%EF%BE%9D%EF%BE%8E%EF%BE%9E%EF%BD%B0%EF%BE%99%EF%BE%81%EF%BD%AA%EF%BD%B0%EF%BE%9D_w.jpg",
+      "preview_image_source_url": "https://www.a-muzu.com/item/C65522.html",
+      "price_yen": 200,
+      "variant_count": 5,
+      "jan_code": null,
+      "official_url": "https://www.a-muzu.com/item/C65522.html",
+      "source_url": "https://www.a-muzu.com/item/C65522.html",
+      "first_detected_at": "2026-05-19T00:58:38+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
+      "product_path": "products/beam-c65522.json"
+    },
+    {
       "id": "benelic-202601-7",
       "manufacturer_id": "benelic",
       "manufacturer_name": "ベネリック",
@@ -3961,7 +4313,7 @@
       "official_url": "https://benelic.com/capsuletoy/news/202601_7/",
       "source_url": "https://benelic.com/capsuletoy/news/202601_7/",
       "first_detected_at": "2026-05-15T11:44:32+09:00",
-      "last_checked_at": "2026-05-18T18:00:53+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
       "product_path": "products/benelic-202601-7.json"
     },
     {
@@ -3983,7 +4335,7 @@
       "official_url": "https://benelic.com/capsuletoy/news/202601_4/",
       "source_url": "https://benelic.com/capsuletoy/news/202601_4/",
       "first_detected_at": "2026-05-15T11:44:32+09:00",
-      "last_checked_at": "2026-05-18T18:00:53+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
       "product_path": "products/benelic-202601-4.json"
     },
     {
@@ -4005,7 +4357,7 @@
       "official_url": "https://benelic.com/capsuletoy/news/202601_9/",
       "source_url": "https://benelic.com/capsuletoy/news/202601_9/",
       "first_detected_at": "2026-05-15T11:44:32+09:00",
-      "last_checked_at": "2026-05-18T18:00:53+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
       "product_path": "products/benelic-202601-9.json"
     },
     {
@@ -4027,7 +4379,7 @@
       "official_url": "https://benelic.com/capsuletoy/news/202601_8/",
       "source_url": "https://benelic.com/capsuletoy/news/202601_8/",
       "first_detected_at": "2026-05-15T11:44:32+09:00",
-      "last_checked_at": "2026-05-18T18:00:53+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
       "product_path": "products/benelic-202601-8.json"
     },
     {
@@ -4049,7 +4401,7 @@
       "official_url": "https://benelic.com/capsuletoy/news/202601_3/",
       "source_url": "https://benelic.com/capsuletoy/news/202601_3/",
       "first_detected_at": "2026-05-15T11:44:32+09:00",
-      "last_checked_at": "2026-05-18T18:00:53+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
       "product_path": "products/benelic-202601-3.json"
     },
     {
@@ -4071,7 +4423,7 @@
       "official_url": "https://benelic.com/capsuletoy/news/202601_2/",
       "source_url": "https://benelic.com/capsuletoy/news/202601_2/",
       "first_detected_at": "2026-05-15T11:44:32+09:00",
-      "last_checked_at": "2026-05-18T18:00:53+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
       "product_path": "products/benelic-202601-2.json"
     },
     {
@@ -4093,7 +4445,7 @@
       "official_url": "https://benelic.com/capsuletoy/news/202601_5/",
       "source_url": "https://benelic.com/capsuletoy/news/202601_5/",
       "first_detected_at": "2026-05-15T11:44:32+09:00",
-      "last_checked_at": "2026-05-18T18:00:53+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
       "product_path": "products/benelic-202601-5.json"
     },
     {
@@ -4115,7 +4467,7 @@
       "official_url": "https://benelic.com/capsuletoy/news/202601_6/",
       "source_url": "https://benelic.com/capsuletoy/news/202601_6/",
       "first_detected_at": "2026-05-15T11:44:32+09:00",
-      "last_checked_at": "2026-05-18T18:00:53+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
       "product_path": "products/benelic-202601-6.json"
     },
     {
@@ -4137,8 +4489,30 @@
       "official_url": "https://benelic.com/capsuletoy/news/202601_1/",
       "source_url": "https://benelic.com/capsuletoy/news/202601_1/",
       "first_detected_at": "2026-05-15T11:44:32+09:00",
-      "last_checked_at": "2026-05-18T18:00:53+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
       "product_path": "products/benelic-202601-1.json"
+    },
+    {
+      "id": "blue-mountain-8483",
+      "manufacturer_id": "blue-mountain",
+      "manufacturer_name": "ブルーマウンテン",
+      "brand_name": null,
+      "series_name": null,
+      "product_name": "バンドール エイとマンタ",
+      "release_year": 2026,
+      "release_month": 1,
+      "release_week": null,
+      "release_date": null,
+      "preview_image_url": "https://bluemountains.co.jp/wp-content/uploads/bm_003.png",
+      "preview_image_source_url": "https://bluemountains.co.jp/8483/",
+      "price_yen": 300,
+      "variant_count": 5,
+      "jan_code": null,
+      "official_url": "https://bluemountains.co.jp/8483/",
+      "source_url": "https://bluemountains.co.jp/8483/",
+      "first_detected_at": "2026-05-16T09:46:36+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
+      "product_path": "products/blue-mountain-8483.json"
     },
     {
       "id": "brightlink-3184",
@@ -4361,6 +4735,94 @@
       "product_path": "products/brightlink-3169.json"
     },
     {
+      "id": "bunbun-c65944",
+      "manufacturer_id": "bunbun",
+      "manufacturer_name": "BUNBUN",
+      "brand_name": null,
+      "series_name": null,
+      "product_name": "クローバー チャームコレクション",
+      "release_year": 2026,
+      "release_month": 1,
+      "release_week": null,
+      "release_date": null,
+      "preview_image_url": "https://www.a-muzu.com/client_info/FUNBOX01/itemimage/C65944/%EF%BD%B8%EF%BE%9B%EF%BD%B0%EF%BE%8A%EF%BE%9E%EF%BD%B0%EF%BD%A5%EF%BE%81%EF%BD%AC%EF%BD%B0%EF%BE%91%EF%BD%BA%EF%BE%9A%EF%BD%B8%EF%BD%BC%EF%BD%AE%EF%BE%9D_w.jpg",
+      "preview_image_source_url": "https://www.a-muzu.com/item/C65944.html",
+      "price_yen": 300,
+      "variant_count": 4,
+      "jan_code": null,
+      "official_url": "https://www.a-muzu.com/item/C65944.html",
+      "source_url": "https://www.a-muzu.com/item/C65944.html",
+      "first_detected_at": "2026-05-18T21:36:28+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
+      "product_path": "products/bunbun-c65944.json"
+    },
+    {
+      "id": "cotoful-spalding-pouch",
+      "manufacturer_id": "cotoful",
+      "manufacturer_name": "コトフル",
+      "brand_name": null,
+      "series_name": null,
+      "product_name": "「SPALDING」のバスケットボールがポーチになって登場！",
+      "release_year": 2026,
+      "release_month": 1,
+      "release_week": null,
+      "release_date": null,
+      "preview_image_url": "https://storage.googleapis.com/studio-cms-assets/projects/9YWy5yejWM/s-1615x1882_v-frms_webp_1c5be1b7-26b6-4c2c-994f-b84b8232e434.png",
+      "preview_image_source_url": "https://cotoful.com/blog/spalding-pouch",
+      "price_yen": null,
+      "variant_count": null,
+      "jan_code": null,
+      "official_url": "https://cotoful.com/blog/spalding-pouch",
+      "source_url": "https://cotoful.com/blog/spalding-pouch",
+      "first_detected_at": "2026-05-16T11:51:31+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
+      "product_path": "products/cotoful-spalding-pouch.json"
+    },
+    {
+      "id": "cotoful-mejirushi-chojugiga",
+      "manufacturer_id": "cotoful",
+      "manufacturer_name": "コトフル",
+      "brand_name": null,
+      "series_name": null,
+      "product_name": "めじるしますこっと 鳥獣戯画",
+      "release_year": 2026,
+      "release_month": 1,
+      "release_week": null,
+      "release_date": null,
+      "preview_image_url": "https://storage.googleapis.com/studio-cms-assets/projects/9YWy5yejWM/s-1820x2125_v-frms_webp_ef86deaf-033b-4052-a030-1eefc92fcb58.png",
+      "preview_image_source_url": "https://cotoful.com/blog/mejirushi-chojugiga",
+      "price_yen": null,
+      "variant_count": null,
+      "jan_code": null,
+      "official_url": "https://cotoful.com/blog/mejirushi-chojugiga",
+      "source_url": "https://cotoful.com/blog/mejirushi-chojugiga",
+      "first_detected_at": "2026-05-16T11:51:31+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
+      "product_path": "products/cotoful-mejirushi-chojugiga.json"
+    },
+    {
+      "id": "cotoful-target-mamehon",
+      "manufacturer_id": "cotoful",
+      "manufacturer_name": "コトフル",
+      "brand_name": null,
+      "series_name": null,
+      "product_name": "英単語ターゲット豆本コレクション",
+      "release_year": 2026,
+      "release_month": 1,
+      "release_week": null,
+      "release_date": null,
+      "preview_image_url": "https://storage.googleapis.com/studio-cms-assets/projects/9YWy5yejWM/s-1615x1882_v-frms_webp_f18d9fb5-0194-4791-8f54-c1a3fa51c592.png",
+      "preview_image_source_url": "https://cotoful.com/blog/target-mamehon",
+      "price_yen": null,
+      "variant_count": null,
+      "jan_code": null,
+      "official_url": "https://cotoful.com/blog/target-mamehon",
+      "source_url": "https://cotoful.com/blog/target-mamehon",
+      "first_detected_at": "2026-05-16T11:51:31+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
+      "product_path": "products/cotoful-target-mamehon.json"
+    },
+    {
       "id": "fukuya-221df1d5d426",
       "manufacturer_id": "fukuya",
       "manufacturer_name": "フクヤ",
@@ -4379,7 +4841,7 @@
       "official_url": "https://www.fancy-fukuya.co.jp/goods/gc/%e3%82%ab%e3%83%97%e3%82%bb%e3%83%ab%e3%83%88%e3%82%a4/page/2/",
       "source_url": "https://www.fancy-fukuya.co.jp/goods/gc/%e3%82%ab%e3%83%97%e3%82%bb%e3%83%ab%e3%83%88%e3%82%a4/page/2/",
       "first_detected_at": "2026-05-15T09:26:08+09:00",
-      "last_checked_at": "2026-05-18T18:00:53+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
       "product_path": "products/fukuya-221df1d5d426.json"
     },
     {
@@ -4401,7 +4863,7 @@
       "official_url": "https://www.fancy-fukuya.co.jp/goods/gc/%e3%82%ab%e3%83%97%e3%82%bb%e3%83%ab%e3%83%88%e3%82%a4/page/2/",
       "source_url": "https://www.fancy-fukuya.co.jp/goods/gc/%e3%82%ab%e3%83%97%e3%82%bb%e3%83%ab%e3%83%88%e3%82%a4/page/2/",
       "first_detected_at": "2026-05-15T09:26:08+09:00",
-      "last_checked_at": "2026-05-18T18:00:53+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
       "product_path": "products/fukuya-75ed4d5037de.json"
     },
     {
@@ -4423,7 +4885,7 @@
       "official_url": "https://www.fancy-fukuya.co.jp/goods/gc/%e3%82%ab%e3%83%97%e3%82%bb%e3%83%ab%e3%83%88%e3%82%a4/page/2/",
       "source_url": "https://www.fancy-fukuya.co.jp/goods/gc/%e3%82%ab%e3%83%97%e3%82%bb%e3%83%ab%e3%83%88%e3%82%a4/page/2/",
       "first_detected_at": "2026-05-15T09:26:08+09:00",
-      "last_checked_at": "2026-05-18T18:00:53+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
       "product_path": "products/fukuya-0900e2c182eb.json"
     },
     {
@@ -4445,7 +4907,7 @@
       "official_url": "https://www.fancy-fukuya.co.jp/goods/gc/%e3%82%ab%e3%83%97%e3%82%bb%e3%83%ab%e3%83%88%e3%82%a4/page/2/",
       "source_url": "https://www.fancy-fukuya.co.jp/goods/gc/%e3%82%ab%e3%83%97%e3%82%bb%e3%83%ab%e3%83%88%e3%82%a4/page/2/",
       "first_detected_at": "2026-05-15T09:26:08+09:00",
-      "last_checked_at": "2026-05-18T18:00:53+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
       "product_path": "products/fukuya-469e91e285e2.json"
     },
     {
@@ -4467,7 +4929,7 @@
       "official_url": "https://www.fancy-fukuya.co.jp/goods/gc/%e3%82%ab%e3%83%97%e3%82%bb%e3%83%ab%e3%83%88%e3%82%a4/",
       "source_url": "https://www.fancy-fukuya.co.jp/goods/gc/%e3%82%ab%e3%83%97%e3%82%bb%e3%83%ab%e3%83%88%e3%82%a4/",
       "first_detected_at": "2026-05-15T09:26:08+09:00",
-      "last_checked_at": "2026-05-18T18:00:53+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
       "product_path": "products/fukuya-3dc37e1b30cb.json"
     },
     {
@@ -4489,7 +4951,7 @@
       "official_url": "https://www.fancy-fukuya.co.jp/goods/gc/%e3%82%ab%e3%83%97%e3%82%bb%e3%83%ab%e3%83%88%e3%82%a4/",
       "source_url": "https://www.fancy-fukuya.co.jp/goods/gc/%e3%82%ab%e3%83%97%e3%82%bb%e3%83%ab%e3%83%88%e3%82%a4/",
       "first_detected_at": "2026-05-15T09:26:08+09:00",
-      "last_checked_at": "2026-05-18T18:00:53+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
       "product_path": "products/fukuya-d285b180ce35.json"
     },
     {
@@ -4511,8 +4973,30 @@
       "official_url": "https://www.fancy-fukuya.co.jp/goods/gc/%e3%82%ab%e3%83%97%e3%82%bb%e3%83%ab%e3%83%88%e3%82%a4/",
       "source_url": "https://www.fancy-fukuya.co.jp/goods/gc/%e3%82%ab%e3%83%97%e3%82%bb%e3%83%ab%e3%83%88%e3%82%a4/",
       "first_detected_at": "2026-05-15T09:26:08+09:00",
-      "last_checked_at": "2026-05-18T18:00:53+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
       "product_path": "products/fukuya-a222c5b34bbd.json"
+    },
+    {
+      "id": "fusee-c65723",
+      "manufacturer_id": "fusee",
+      "manufacturer_name": "フュージー",
+      "brand_name": null,
+      "series_name": null,
+      "product_name": "CHOCONOKOGOO-フェイスポーチ-",
+      "release_year": 2026,
+      "release_month": 1,
+      "release_week": null,
+      "release_date": null,
+      "preview_image_url": "https://www.a-muzu.com/client_info/FUNBOX01/itemimage/C65723/C65723_CHOCONOKOGOO-%EF%BE%8C%EF%BD%AA%EF%BD%B2%EF%BD%BD%EF%BE%8E%EF%BE%9F%EF%BD%B0%EF%BE%81%EF%BD%B0_%EF%BD%B5%EF%BE%93%EF%BE%83_w.jpg",
+      "preview_image_source_url": "https://www.a-muzu.com/item/C65723.html",
+      "price_yen": 500,
+      "variant_count": 5,
+      "jan_code": null,
+      "official_url": "https://www.a-muzu.com/item/C65723.html",
+      "source_url": "https://www.a-muzu.com/item/C65723.html",
+      "first_detected_at": "2026-05-18T21:55:49+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
+      "product_path": "products/fusee-c65723.json"
     },
     {
       "id": "ip4-2026-01-tama-kinchakupouch",
@@ -5281,7 +5765,7 @@
       "official_url": "https://e-jdream.co.jp/product/",
       "source_url": "https://e-jdream.co.jp/product/",
       "first_detected_at": "2026-05-13T16:19:49+09:00",
-      "last_checked_at": "2026-05-18T18:00:53+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
       "product_path": "products/jdream-4571596299391.json"
     },
     {
@@ -5303,7 +5787,7 @@
       "official_url": "https://e-jdream.co.jp/product/",
       "source_url": "https://e-jdream.co.jp/product/",
       "first_detected_at": "2026-05-13T16:19:49+09:00",
-      "last_checked_at": "2026-05-18T18:00:53+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
       "product_path": "products/jdream-4571596299346.json"
     },
     {
@@ -5325,7 +5809,7 @@
       "official_url": "https://e-jdream.co.jp/product/",
       "source_url": "https://e-jdream.co.jp/product/",
       "first_detected_at": "2026-05-13T16:19:49+09:00",
-      "last_checked_at": "2026-05-18T18:00:53+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
       "product_path": "products/jdream-4571596299438.json"
     },
     {
@@ -5347,7 +5831,7 @@
       "official_url": "https://e-jdream.co.jp/product/",
       "source_url": "https://e-jdream.co.jp/product/",
       "first_detected_at": "2026-05-13T16:19:49+09:00",
-      "last_checked_at": "2026-05-18T18:00:53+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
       "product_path": "products/jdream-4571596299407.json"
     },
     {
@@ -5369,7 +5853,7 @@
       "official_url": "https://e-jdream.co.jp/product/",
       "source_url": "https://e-jdream.co.jp/product/",
       "first_detected_at": "2026-05-13T16:19:49+09:00",
-      "last_checked_at": "2026-05-18T18:00:53+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
       "product_path": "products/jdream-4571596299353.json"
     },
     {
@@ -5391,7 +5875,7 @@
       "official_url": "https://e-jdream.co.jp/product/",
       "source_url": "https://e-jdream.co.jp/product/",
       "first_detected_at": "2026-05-13T16:19:49+09:00",
-      "last_checked_at": "2026-05-18T18:00:53+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
       "product_path": "products/jdream-4571596299414.json"
     },
     {
@@ -5413,7 +5897,7 @@
       "official_url": "https://e-jdream.co.jp/product/",
       "source_url": "https://e-jdream.co.jp/product/",
       "first_detected_at": "2026-05-13T16:19:49+09:00",
-      "last_checked_at": "2026-05-18T18:00:53+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
       "product_path": "products/jdream-4571596299377.json"
     },
     {
@@ -5435,7 +5919,7 @@
       "official_url": "https://e-jdream.co.jp/product/",
       "source_url": "https://e-jdream.co.jp/product/",
       "first_detected_at": "2026-05-13T16:19:49+09:00",
-      "last_checked_at": "2026-05-18T18:00:53+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
       "product_path": "products/jdream-4571596299360.json"
     },
     {
@@ -5457,7 +5941,7 @@
       "official_url": "https://kitan.jp/products/kkn_bigkuma/",
       "source_url": "https://kitan.jp/products/kkn_bigkuma/",
       "first_detected_at": "2026-05-14T09:13:25+09:00",
-      "last_checked_at": "2026-05-18T18:00:53+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
       "product_path": "products/kitanclub-kkn-bigkuma.json"
     },
     {
@@ -5479,7 +5963,7 @@
       "official_url": "https://kitan.jp/products/nekoashi_ochoko/",
       "source_url": "https://kitan.jp/products/nekoashi_ochoko/",
       "first_detected_at": "2026-05-14T09:13:25+09:00",
-      "last_checked_at": "2026-05-18T18:00:53+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
       "product_path": "products/kitanclub-nekoashi-ochoko.json"
     },
     {
@@ -5501,8 +5985,52 @@
       "official_url": "https://kitan.jp/products/sanrio_watch2/",
       "source_url": "https://kitan.jp/products/sanrio_watch2/",
       "first_detected_at": "2026-05-14T09:13:25+09:00",
-      "last_checked_at": "2026-05-18T18:00:53+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
       "product_path": "products/kitanclub-sanrio-watch2.json"
+    },
+    {
+      "id": "kurinbou-c66313",
+      "manufacturer_id": "kurinbou",
+      "manufacturer_name": "くりんぼう",
+      "brand_name": null,
+      "series_name": null,
+      "product_name": "にんぎょ姫",
+      "release_year": 2026,
+      "release_month": 1,
+      "release_week": null,
+      "release_date": null,
+      "preview_image_url": "https://www.a-muzu.com/client_info/FUNBOX01/itemimage/C66313/3_%EF%BE%86%EF%BE%9D%EF%BD%B7%EF%BE%9E%EF%BD%AE%EF%BE%8B%EF%BE%92_w.jpg",
+      "preview_image_source_url": "https://www.a-muzu.com/item/C66313.html",
+      "price_yen": 300,
+      "variant_count": null,
+      "jan_code": null,
+      "official_url": "https://www.a-muzu.com/item/C66313.html",
+      "source_url": "https://www.a-muzu.com/item/C66313.html",
+      "first_detected_at": "2026-05-19T00:58:38+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
+      "product_path": "products/kurinbou-c66313.json"
+    },
+    {
+      "id": "kurinbou-c66320",
+      "manufacturer_id": "kurinbou",
+      "manufacturer_name": "くりんぼう",
+      "brand_name": null,
+      "series_name": null,
+      "product_name": "パタパタアニメマシーン",
+      "release_year": 2026,
+      "release_month": 1,
+      "release_week": null,
+      "release_date": null,
+      "preview_image_url": "https://www.a-muzu.com/client_info/FUNBOX01/itemimage/C66320/C66320_%EF%BE%8A%EF%BE%9F%EF%BE%80%EF%BE%8A%EF%BE%9F%EF%BE%80%EF%BD%B1%EF%BE%86%EF%BE%92%EF%BE%8F%EF%BD%BC%EF%BD%B0%EF%BE%9D_w.jpg",
+      "preview_image_source_url": "https://www.a-muzu.com/item/C66320.html",
+      "price_yen": 500,
+      "variant_count": 4,
+      "jan_code": null,
+      "official_url": "https://www.a-muzu.com/item/C66320.html",
+      "source_url": "https://www.a-muzu.com/item/C66320.html",
+      "first_detected_at": "2026-05-19T00:58:38+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
+      "product_path": "products/kurinbou-c66320.json"
     },
     {
       "id": "qualia-lovelymongmong-nui",
@@ -5699,7 +6227,7 @@
       "official_url": "https://qualia-45.jp/distinations/niccolino_sumida_nui/",
       "source_url": "https://qualia-45.jp/distinations/niccolino_sumida_nui/",
       "first_detected_at": "2026-05-12T17:23:30+09:00",
-      "last_checked_at": "2026-05-18T18:00:53+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
       "product_path": "products/qualia-niccolino-sumida-nui.json"
     },
     {
@@ -5967,6 +6495,28 @@
       "product_path": "products/qualia-nijiryu-mf3.json"
     },
     {
+      "id": "s-trust-c65376",
+      "manufacturer_id": "s-trust",
+      "manufacturer_name": "エス・トラスト",
+      "brand_name": null,
+      "series_name": null,
+      "product_name": "おはじきシール風 めじるしチャーム",
+      "release_year": 2026,
+      "release_month": 1,
+      "release_week": null,
+      "release_date": null,
+      "preview_image_url": "https://www.a-muzu.com/client_info/FUNBOX01/itemimage/C65376/C65376_%EF%BD%B5%EF%BE%8A%EF%BD%BC%EF%BE%9E%EF%BD%B7%EF%BD%BC%EF%BD%B0%EF%BE%99%EF%BE%8C%EF%BD%B3%EF%BE%92%EF%BD%BC%EF%BE%9E%EF%BE%99%EF%BD%BC%EF%BE%81%EF%BD%AC%EF%BD%B0%EF%BE%91_w.jpg",
+      "preview_image_source_url": "https://www.a-muzu.com/item/C65376.html",
+      "price_yen": 300,
+      "variant_count": 5,
+      "jan_code": null,
+      "official_url": "https://www.a-muzu.com/item/C65376.html",
+      "source_url": "https://www.a-muzu.com/item/C65376.html",
+      "first_detected_at": "2026-05-19T00:58:38+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
+      "product_path": "products/s-trust-c65376.json"
+    },
+    {
       "id": "sk-japan-2601-evapocket",
       "manufacturer_id": "sk-japan",
       "manufacturer_name": "エスケイジャパン",
@@ -5985,7 +6535,7 @@
       "official_url": "https://www.sk-japan.co.jp/capsule-toy/archive/2601-evapocket",
       "source_url": "https://www.sk-japan.co.jp/capsule-toy/archive/2601-evapocket",
       "first_detected_at": "2026-05-15T08:36:26+09:00",
-      "last_checked_at": "2026-05-18T18:00:53+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
       "product_path": "products/sk-japan-2601-evapocket.json"
     },
     {
@@ -6007,7 +6557,7 @@
       "official_url": "https://www.sk-japan.co.jp/capsule-toy/archive/2601-enstarshairclip3",
       "source_url": "https://www.sk-japan.co.jp/capsule-toy/archive/2601-enstarshairclip3",
       "first_detected_at": "2026-05-15T08:36:26+09:00",
-      "last_checked_at": "2026-05-18T18:00:53+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
       "product_path": "products/sk-japan-2601-enstarshairclip3.json"
     },
     {
@@ -6029,7 +6579,7 @@
       "official_url": "https://www.sk-japan.co.jp/capsule-toy/archive/2601-enstarshairclip4",
       "source_url": "https://www.sk-japan.co.jp/capsule-toy/archive/2601-enstarshairclip4",
       "first_detected_at": "2026-05-15T08:36:26+09:00",
-      "last_checked_at": "2026-05-18T18:00:53+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
       "product_path": "products/sk-japan-2601-enstarshairclip4.json"
     },
     {
@@ -6051,7 +6601,7 @@
       "official_url": "https://www.sk-japan.co.jp/capsule-toy/archive/2601-enstarshairclip5",
       "source_url": "https://www.sk-japan.co.jp/capsule-toy/archive/2601-enstarshairclip5",
       "first_detected_at": "2026-05-15T08:36:26+09:00",
-      "last_checked_at": "2026-05-18T18:00:53+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
       "product_path": "products/sk-japan-2601-enstarshairclip5.json"
     },
     {
@@ -6073,7 +6623,7 @@
       "official_url": "https://www.sk-japan.co.jp/capsule-toy/archive/2601-piyonotebook",
       "source_url": "https://www.sk-japan.co.jp/capsule-toy/archive/2601-piyonotebook",
       "first_detected_at": "2026-05-15T08:36:26+09:00",
-      "last_checked_at": "2026-05-18T18:00:53+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
       "product_path": "products/sk-japan-2601-piyonotebook.json"
     },
     {
@@ -6095,7 +6645,7 @@
       "official_url": "https://www.sk-japan.co.jp/capsule-toy/archive/2601-haikyutag",
       "source_url": "https://www.sk-japan.co.jp/capsule-toy/archive/2601-haikyutag",
       "first_detected_at": "2026-05-15T08:36:26+09:00",
-      "last_checked_at": "2026-05-18T18:00:53+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
       "product_path": "products/sk-japan-2601-haikyutag.json"
     },
     {
@@ -6117,7 +6667,7 @@
       "official_url": "https://www.sk-japan.co.jp/capsule-toy/archive/2601-nintamayurayura1",
       "source_url": "https://www.sk-japan.co.jp/capsule-toy/archive/2601-nintamayurayura1",
       "first_detected_at": "2026-05-15T08:36:26+09:00",
-      "last_checked_at": "2026-05-18T18:00:53+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
       "product_path": "products/sk-japan-2601-nintamayurayura1.json"
     },
     {
@@ -6139,7 +6689,7 @@
       "official_url": "https://www.sk-japan.co.jp/capsule-toy/archive/2601-initiald",
       "source_url": "https://www.sk-japan.co.jp/capsule-toy/archive/2601-initiald",
       "first_detected_at": "2026-05-15T08:36:26+09:00",
-      "last_checked_at": "2026-05-18T18:00:53+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
       "product_path": "products/sk-japan-2601-initiald.json"
     },
     {
@@ -6161,7 +6711,7 @@
       "official_url": "https://www.so-ta.com/products_detail/box-toy/dollel3-2/",
       "source_url": "https://www.so-ta.com/products_detail/box-toy/dollel3-2/",
       "first_detected_at": "2026-05-13T16:15:44+09:00",
-      "last_checked_at": "2026-05-18T18:00:53+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
       "product_path": "products/sota-dollel3-2.json"
     },
     {
@@ -6183,7 +6733,7 @@
       "official_url": "https://www.so-ta.com/products_detail/capsuletoy/dollel3/",
       "source_url": "https://www.so-ta.com/products_detail/capsuletoy/dollel3/",
       "first_detected_at": "2026-05-13T16:15:44+09:00",
-      "last_checked_at": "2026-05-18T18:00:53+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
       "product_path": "products/sota-dollel3.json"
     },
     {
@@ -6205,7 +6755,7 @@
       "official_url": "https://www.so-ta.com/products_detail/box-toy/form_bits_rabbit_bits-2/",
       "source_url": "https://www.so-ta.com/products_detail/box-toy/form_bits_rabbit_bits-2/",
       "first_detected_at": "2026-05-13T16:15:44+09:00",
-      "last_checked_at": "2026-05-18T18:00:53+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
       "product_path": "products/sota-form-bits-rabbit-bits-2.json"
     },
     {
@@ -6227,7 +6777,7 @@
       "official_url": "https://www.so-ta.com/products_detail/box-toy/armoredcore6_emblem3-2/",
       "source_url": "https://www.so-ta.com/products_detail/box-toy/armoredcore6_emblem3-2/",
       "first_detected_at": "2026-05-13T16:15:44+09:00",
-      "last_checked_at": "2026-05-18T18:00:53+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
       "product_path": "products/sota-armoredcore6-emblem3-2.json"
     },
     {
@@ -6249,7 +6799,7 @@
       "official_url": "https://www.so-ta.com/products_detail/capsuletoy/eyebat_beast_oneup2/",
       "source_url": "https://www.so-ta.com/products_detail/capsuletoy/eyebat_beast_oneup2/",
       "first_detected_at": "2026-05-13T16:15:44+09:00",
-      "last_checked_at": "2026-05-18T18:00:53+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
       "product_path": "products/sota-eyebat-beast-oneup2.json"
     },
     {
@@ -6271,7 +6821,7 @@
       "official_url": "https://www.so-ta.com/products_detail/box-toy/eyebat_beast2-2/",
       "source_url": "https://www.so-ta.com/products_detail/box-toy/eyebat_beast2-2/",
       "first_detected_at": "2026-05-13T16:15:44+09:00",
-      "last_checked_at": "2026-05-18T18:00:53+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
       "product_path": "products/sota-eyebat-beast2-2.json"
     },
     {
@@ -6293,7 +6843,7 @@
       "official_url": "https://www.so-ta.com/products_detail/capsuletoy/arukikata/",
       "source_url": "https://www.so-ta.com/products_detail/capsuletoy/arukikata/",
       "first_detected_at": "2026-05-13T16:15:44+09:00",
-      "last_checked_at": "2026-05-18T18:00:53+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
       "product_path": "products/sota-arukikata.json"
     },
     {
@@ -6315,7 +6865,7 @@
       "official_url": "https://www.so-ta.com/products_detail/box-toy/kagaku_to_gakusyu-2/",
       "source_url": "https://www.so-ta.com/products_detail/box-toy/kagaku_to_gakusyu-2/",
       "first_detected_at": "2026-05-13T16:15:44+09:00",
-      "last_checked_at": "2026-05-18T18:00:53+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
       "product_path": "products/sota-kagaku-to-gakusyu-2.json"
     },
     {
@@ -6337,7 +6887,7 @@
       "official_url": "https://www.so-ta.com/products_detail/capsuletoy/kagaku_to_gakusyu/",
       "source_url": "https://www.so-ta.com/products_detail/capsuletoy/kagaku_to_gakusyu/",
       "first_detected_at": "2026-05-13T16:15:44+09:00",
-      "last_checked_at": "2026-05-18T18:00:53+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
       "product_path": "products/sota-kagaku-to-gakusyu.json"
     },
     {
@@ -6359,7 +6909,7 @@
       "official_url": "https://stasto.co.jp/products_ss/ccc8/",
       "source_url": "https://stasto.co.jp/products_ss/ccc8/",
       "first_detected_at": "2026-05-14T00:50:21+09:00",
-      "last_checked_at": "2026-05-18T18:00:53+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
       "product_path": "products/stand-stones-ccc8.json"
     },
     {
@@ -6381,7 +6931,7 @@
       "official_url": "https://stasto.co.jp/products_ss/%e3%80%8e%e7%94%9f%e7%89%a9x%e5%ae%9d%e7%9f%b3%e3%80%8f%e9%a3%9f%e7%89%a9%e7%b7%a8/",
       "source_url": "https://stasto.co.jp/products_ss/%e3%80%8e%e7%94%9f%e7%89%a9x%e5%ae%9d%e7%9f%b3%e3%80%8f%e9%a3%9f%e7%89%a9%e7%b7%a8/",
       "first_detected_at": "2026-05-14T00:50:21+09:00",
-      "last_checked_at": "2026-05-18T18:00:53+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
       "product_path": "products/stand-stones-x.json"
     },
     {
@@ -6403,7 +6953,7 @@
       "official_url": "https://stasto.co.jp/products_ss/onemutankimetsu11/",
       "source_url": "https://stasto.co.jp/products_ss/onemutankimetsu11/",
       "first_detected_at": "2026-05-14T00:50:21+09:00",
-      "last_checked_at": "2026-05-18T18:00:53+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
       "product_path": "products/stand-stones-onemutankimetsu11.json"
     },
     {
@@ -6425,7 +6975,7 @@
       "official_url": "https://stasto.co.jp/products_ss/onemumadomagi/",
       "source_url": "https://stasto.co.jp/products_ss/onemumadomagi/",
       "first_detected_at": "2026-05-14T00:50:21+09:00",
-      "last_checked_at": "2026-05-18T18:00:53+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
       "product_path": "products/stand-stones-onemumadomagi.json"
     },
     {
@@ -6447,7 +6997,7 @@
       "official_url": "https://stasto.co.jp/products_ss/bbtanbluelock/",
       "source_url": "https://stasto.co.jp/products_ss/bbtanbluelock/",
       "first_detected_at": "2026-05-14T00:50:21+09:00",
-      "last_checked_at": "2026-05-18T18:00:53+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
       "product_path": "products/stand-stones-bbtanbluelock.json"
     },
     {
@@ -6469,7 +7019,7 @@
       "official_url": "https://stasto.co.jp/products_ss/putibreheroaca/",
       "source_url": "https://stasto.co.jp/products_ss/putibreheroaca/",
       "first_detected_at": "2026-05-14T00:50:21+09:00",
-      "last_checked_at": "2026-05-18T18:00:53+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
       "product_path": "products/stand-stones-putibreheroaca.json"
     },
     {
@@ -6491,7 +7041,7 @@
       "official_url": "https://stasto.co.jp/products_ss/hiqtunagua/",
       "source_url": "https://stasto.co.jp/products_ss/hiqtunagua/",
       "first_detected_at": "2026-05-14T00:50:21+09:00",
-      "last_checked_at": "2026-05-18T18:00:53+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
       "product_path": "products/stand-stones-hiqtunagua.json"
     },
     {
@@ -6513,7 +7063,7 @@
       "official_url": "https://stasto.co.jp/products_ss/hiqtsunagub/",
       "source_url": "https://stasto.co.jp/products_ss/hiqtsunagub/",
       "first_detected_at": "2026-05-14T00:50:21+09:00",
-      "last_checked_at": "2026-05-18T18:00:53+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
       "product_path": "products/stand-stones-hiqtsunagub.json"
     },
     {
@@ -6535,7 +7085,7 @@
       "official_url": "https://stasto.co.jp/products_ss/%e6%a0%bc%e8%a8%80%e3%81%8f%e3%82%93/",
       "source_url": "https://stasto.co.jp/products_ss/%e6%a0%bc%e8%a8%80%e3%81%8f%e3%82%93/",
       "first_detected_at": "2026-05-14T00:50:21+09:00",
-      "last_checked_at": "2026-05-18T18:00:53+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
       "product_path": "products/stand-stones-0b2f1fb53579.json"
     },
     {
@@ -6755,7 +7305,7 @@
       "official_url": "http://www.toysp.co.jp/2601avirex.html",
       "source_url": "http://www.toysp.co.jp/2601avirex.html",
       "first_detected_at": "2026-05-15T09:13:50+09:00",
-      "last_checked_at": "2026-05-18T18:00:53+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
       "product_path": "products/toys-spirits-2601avirex.json"
     },
     {
@@ -6777,7 +7327,7 @@
       "official_url": "http://www.toysp.co.jp/2601eastboy.html",
       "source_url": "http://www.toysp.co.jp/2601eastboy.html",
       "first_detected_at": "2026-05-15T09:13:50+09:00",
-      "last_checked_at": "2026-05-18T18:00:53+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
       "product_path": "products/toys-spirits-2601eastboy.json"
     },
     {
@@ -6799,7 +7349,7 @@
       "official_url": "http://www.toysp.co.jp/2601jillby.html",
       "source_url": "http://www.toysp.co.jp/2601jillby.html",
       "first_detected_at": "2026-05-15T09:13:50+09:00",
-      "last_checked_at": "2026-05-18T18:00:53+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
       "product_path": "products/toys-spirits-2601jillby.json"
     },
     {
@@ -6821,7 +7371,7 @@
       "official_url": "http://www.toysp.co.jp/2601milkyhug.html",
       "source_url": "http://www.toysp.co.jp/2601milkyhug.html",
       "first_detected_at": "2026-05-15T09:13:50+09:00",
-      "last_checked_at": "2026-05-18T18:00:53+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
       "product_path": "products/toys-spirits-2601milkyhug.json"
     },
     {
@@ -6843,7 +7393,7 @@
       "official_url": "http://www.toysp.co.jp/2601peronyan.html",
       "source_url": "http://www.toysp.co.jp/2601peronyan.html",
       "first_detected_at": "2026-05-15T09:13:50+09:00",
-      "last_checked_at": "2026-05-18T18:00:53+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
       "product_path": "products/toys-spirits-2601peronyan.json"
     },
     {
@@ -6865,7 +7415,7 @@
       "official_url": "http://www.toysp.co.jp/2601gohoubichoco.html",
       "source_url": "http://www.toysp.co.jp/2601gohoubichoco.html",
       "first_detected_at": "2026-05-15T09:13:50+09:00",
-      "last_checked_at": "2026-05-18T18:00:53+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
       "product_path": "products/toys-spirits-2601gohoubichoco.json"
     },
     {
@@ -6887,7 +7437,7 @@
       "official_url": "http://www.toysp.co.jp/2601bedpouch.html",
       "source_url": "http://www.toysp.co.jp/2601bedpouch.html",
       "first_detected_at": "2026-05-15T09:13:50+09:00",
-      "last_checked_at": "2026-05-18T18:00:53+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
       "product_path": "products/toys-spirits-2601bedpouch.json"
     },
     {
@@ -6909,7 +7459,7 @@
       "official_url": "http://www.toysp.co.jp/2601tatunoko.html",
       "source_url": "http://www.toysp.co.jp/2601tatunoko.html",
       "first_detected_at": "2026-05-15T09:13:50+09:00",
-      "last_checked_at": "2026-05-18T18:00:53+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
       "product_path": "products/toys-spirits-2601tatunoko.json"
     },
     {
@@ -6931,7 +7481,7 @@
       "official_url": "http://www.toysp.co.jp/2601animo.html",
       "source_url": "http://www.toysp.co.jp/2601animo.html",
       "first_detected_at": "2026-05-15T09:13:50+09:00",
-      "last_checked_at": "2026-05-18T18:00:53+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
       "product_path": "products/toys-spirits-2601animo.json"
     },
     {
@@ -6953,7 +7503,7 @@
       "official_url": "http://www.toysp.co.jp/2601kesigomu.html",
       "source_url": "http://www.toysp.co.jp/2601kesigomu.html",
       "first_detected_at": "2026-05-15T09:13:50+09:00",
-      "last_checked_at": "2026-05-18T18:00:53+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
       "product_path": "products/toys-spirits-2601kesigomu.json"
     },
     {
@@ -6975,7 +7525,7 @@
       "official_url": "http://www.toysp.co.jp/2601himokuma.html",
       "source_url": "http://www.toysp.co.jp/2601himokuma.html",
       "first_detected_at": "2026-05-15T09:13:50+09:00",
-      "last_checked_at": "2026-05-18T18:00:53+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
       "product_path": "products/toys-spirits-2601himokuma.json"
     },
     {
@@ -6997,7 +7547,7 @@
       "official_url": "http://www.toysp.co.jp/2601haertchoco.html",
       "source_url": "http://www.toysp.co.jp/2601haertchoco.html",
       "first_detected_at": "2026-05-15T09:13:50+09:00",
-      "last_checked_at": "2026-05-18T18:00:53+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
       "product_path": "products/toys-spirits-2601haertchoco.json"
     },
     {
@@ -7019,7 +7569,7 @@
       "official_url": "http://www.toysp.co.jp/2601dragon.html",
       "source_url": "http://www.toysp.co.jp/2601dragon.html",
       "first_detected_at": "2026-05-15T09:13:50+09:00",
-      "last_checked_at": "2026-05-18T18:00:53+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
       "product_path": "products/toys-spirits-2601dragon.json"
     },
     {
@@ -7041,7 +7591,7 @@
       "official_url": "http://www.toysp.co.jp/2601pajama.html",
       "source_url": "http://www.toysp.co.jp/2601pajama.html",
       "first_detected_at": "2026-05-15T09:13:50+09:00",
-      "last_checked_at": "2026-05-18T18:00:53+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
       "product_path": "products/toys-spirits-2601pajama.json"
     },
     {
@@ -7063,7 +7613,7 @@
       "official_url": "http://www.toysp.co.jp/2601rosette.html",
       "source_url": "http://www.toysp.co.jp/2601rosette.html",
       "first_detected_at": "2026-05-15T09:13:50+09:00",
-      "last_checked_at": "2026-05-18T18:00:53+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
       "product_path": "products/toys-spirits-2601rosette.json"
     },
     {
@@ -7085,7 +7635,7 @@
       "official_url": "http://www.toysp.co.jp/2601portablegame.html",
       "source_url": "http://www.toysp.co.jp/2601portablegame.html",
       "first_detected_at": "2026-05-15T09:13:50+09:00",
-      "last_checked_at": "2026-05-18T18:00:53+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
       "product_path": "products/toys-spirits-2601portablegame.json"
     },
     {
@@ -7107,7 +7657,7 @@
       "official_url": "http://www.toysp.co.jp/2601otukuri.html",
       "source_url": "http://www.toysp.co.jp/2601otukuri.html",
       "first_detected_at": "2026-05-15T09:13:50+09:00",
-      "last_checked_at": "2026-05-18T18:00:53+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
       "product_path": "products/toys-spirits-2601otukuri.json"
     },
     {
@@ -7129,7 +7679,7 @@
       "official_url": "http://www.toysp.co.jp/2601awamokonui.html",
       "source_url": "http://www.toysp.co.jp/2601awamokonui.html",
       "first_detected_at": "2026-05-15T09:13:50+09:00",
-      "last_checked_at": "2026-05-18T18:00:53+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
       "product_path": "products/toys-spirits-2601awamokonui.json"
     },
     {
@@ -7151,7 +7701,7 @@
       "official_url": "https://toyscabin.com/product/20251004_1317.php",
       "source_url": "https://toyscabin.com/product/20251004_1317.php",
       "first_detected_at": "2026-05-13T16:15:44+09:00",
-      "last_checked_at": "2026-05-18T18:00:53+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
       "product_path": "products/toyscabin-20251004-1317.json"
     },
     {
@@ -7173,7 +7723,7 @@
       "official_url": "https://toyscabin.com/product/20251004_1315.php",
       "source_url": "https://toyscabin.com/product/20251004_1315.php",
       "first_detected_at": "2026-05-13T16:15:44+09:00",
-      "last_checked_at": "2026-05-18T18:00:53+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
       "product_path": "products/toyscabin-20251004-1315.json"
     },
     {
@@ -7195,7 +7745,7 @@
       "official_url": "https://toyscabin.com/product/20251004_1316.php",
       "source_url": "https://toyscabin.com/product/20251004_1316.php",
       "first_detected_at": "2026-05-13T16:15:44+09:00",
-      "last_checked_at": "2026-05-18T18:00:53+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
       "product_path": "products/toyscabin-20251004-1316.json"
     },
     {
@@ -7217,7 +7767,7 @@
       "official_url": "https://toyscabin.com/product/20251004_1319.php",
       "source_url": "https://toyscabin.com/product/20251004_1319.php",
       "first_detected_at": "2026-05-13T16:15:44+09:00",
-      "last_checked_at": "2026-05-18T18:00:53+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
       "product_path": "products/toyscabin-20251004-1319.json"
     },
     {
@@ -7239,7 +7789,7 @@
       "official_url": "https://toyscabin.com/product/20251004_1320.php",
       "source_url": "https://toyscabin.com/product/20251004_1320.php",
       "first_detected_at": "2026-05-13T16:15:44+09:00",
-      "last_checked_at": "2026-05-18T18:00:53+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
       "product_path": "products/toyscabin-20251004-1320.json"
     },
     {
@@ -7261,7 +7811,7 @@
       "official_url": "https://toyscabin.com/product/20251004_1314.php",
       "source_url": "https://toyscabin.com/product/20251004_1314.php",
       "first_detected_at": "2026-05-13T16:15:44+09:00",
-      "last_checked_at": "2026-05-18T18:00:53+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
       "product_path": "products/toyscabin-20251004-1314.json"
     },
     {
@@ -7283,7 +7833,7 @@
       "official_url": "https://toyscabin.com/product/20251004_1318.php",
       "source_url": "https://toyscabin.com/product/20251004_1318.php",
       "first_detected_at": "2026-05-13T16:15:44+09:00",
-      "last_checked_at": "2026-05-18T18:00:53+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
       "product_path": "products/toyscabin-20251004-1318.json"
     },
     {
@@ -7305,7 +7855,7 @@
       "official_url": "https://www.u-np.jp/product/cocoichiminimcvol2/",
       "source_url": "https://www.u-np.jp/product/cocoichiminimcvol2/",
       "first_detected_at": "2026-05-15T16:18:44+09:00",
-      "last_checked_at": "2026-05-18T18:00:53+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
       "product_path": "products/ultra-new-planning-cocoichiminimcvol2.json"
     },
     {
@@ -7327,7 +7877,7 @@
       "official_url": "https://www.u-np.jp/product/lottegamaguchiporch/",
       "source_url": "https://www.u-np.jp/product/lottegamaguchiporch/",
       "first_detected_at": "2026-05-15T16:18:44+09:00",
-      "last_checked_at": "2026-05-18T18:00:53+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
       "product_path": "products/ultra-new-planning-lottegamaguchiporch.json"
     },
     {
@@ -7349,7 +7899,7 @@
       "official_url": "https://www.u-np.jp/product/ultra-umai-series-kanimaturi/",
       "source_url": "https://www.u-np.jp/product/ultra-umai-series-kanimaturi/",
       "first_detected_at": "2026-05-15T16:18:44+09:00",
-      "last_checked_at": "2026-05-18T18:00:53+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
       "product_path": "products/ultra-new-planning-ultra-umai-series-kanimaturi.json"
     },
     {
@@ -7371,7 +7921,7 @@
       "official_url": "https://www.u-np.jp/product/kumakaron/",
       "source_url": "https://www.u-np.jp/product/kumakaron/",
       "first_detected_at": "2026-05-15T16:18:44+09:00",
-      "last_checked_at": "2026-05-18T18:00:53+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
       "product_path": "products/ultra-new-planning-kumakaron.json"
     },
     {
@@ -7393,7 +7943,7 @@
       "official_url": "https://www.u-np.jp/product/cutecreaturesminimc-densetu/",
       "source_url": "https://www.u-np.jp/product/cutecreaturesminimc-densetu/",
       "first_detected_at": "2026-05-15T16:18:44+09:00",
-      "last_checked_at": "2026-05-18T18:00:53+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
       "product_path": "products/ultra-new-planning-cutecreaturesminimc-densetu.json"
     },
     {
@@ -7415,7 +7965,7 @@
       "official_url": "https://www.u-np.jp/product/fuwa2partyfriends/",
       "source_url": "https://www.u-np.jp/product/fuwa2partyfriends/",
       "first_detected_at": "2026-05-15T16:18:44+09:00",
-      "last_checked_at": "2026-05-18T18:00:53+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
       "product_path": "products/ultra-new-planning-fuwa2partyfriends.json"
     },
     {
@@ -7437,7 +7987,7 @@
       "official_url": "https://www.u-np.jp/product/huwarinmashnuiclip/",
       "source_url": "https://www.u-np.jp/product/huwarinmashnuiclip/",
       "first_detected_at": "2026-05-15T16:18:44+09:00",
-      "last_checked_at": "2026-05-18T18:00:53+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
       "product_path": "products/ultra-new-planning-huwarinmashnuiclip.json"
     },
     {
@@ -7459,7 +8009,7 @@
       "official_url": "https://www.u-np.jp/product/mizumoriadorubberhairclip/",
       "source_url": "https://www.u-np.jp/product/mizumoriadorubberhairclip/",
       "first_detected_at": "2026-05-15T16:18:44+09:00",
-      "last_checked_at": "2026-05-18T18:00:53+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
       "product_path": "products/ultra-new-planning-mizumoriadorubberhairclip.json"
     },
     {
@@ -7481,8 +8031,30 @@
       "official_url": "https://www.u-np.jp/product/umi-tateyoko-rubber1/",
       "source_url": "https://www.u-np.jp/product/umi-tateyoko-rubber1/",
       "first_detected_at": "2026-05-15T16:18:44+09:00",
-      "last_checked_at": "2026-05-18T18:00:53+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
       "product_path": "products/ultra-new-planning-umi-tateyoko-rubber1.json"
+    },
+    {
+      "id": "wonderful-one-kabuto-exceed-2-8d9c5a56",
+      "manufacturer_id": "wonderful-one",
+      "manufacturer_name": "ワンダフルワン",
+      "brand_name": "ワンダフルワン",
+      "series_name": null,
+      "product_name": "Kabuto EXCEED-2 ミニチュアヘルメットキーホルダー カプセルエディション",
+      "release_year": 2026,
+      "release_month": 1,
+      "release_week": null,
+      "release_date": null,
+      "preview_image_url": "https://wonderful-1.com/main/wp-content/uploads/2025/09/OGK_annai_HP_X_capsule.png",
+      "preview_image_source_url": "https://wonderful-1.com/main/archives/showroom/kabuto-exceed-2-%e3%83%9f%e3%83%8b%e3%83%81%e3%83%a5%e3%82%a2%e3%83%98%e3%83%ab%e3%83%a1%e3%83%83%e3%83%88%e3%82%ad%e3%83%bc%e3%83%9b%e3%83%ab%e3%83%80%e3%83%bc-%e3%82%ab%e3%83%97%e3%82%bb%e3%83%ab",
+      "price_yen": 500,
+      "variant_count": 6,
+      "jan_code": "4571600540211",
+      "official_url": "https://wonderful-1.com/main/archives/showroom/kabuto-exceed-2-%e3%83%9f%e3%83%8b%e3%83%81%e3%83%a5%e3%82%a2%e3%83%98%e3%83%ab%e3%83%a1%e3%83%83%e3%83%88%e3%82%ad%e3%83%bc%e3%83%9b%e3%83%ab%e3%83%80%e3%83%bc-%e3%82%ab%e3%83%97%e3%82%bb%e3%83%ab",
+      "source_url": "https://wonderful-1.com/main/archives/showroom/kabuto-exceed-2-%e3%83%9f%e3%83%8b%e3%83%81%e3%83%a5%e3%82%a2%e3%83%98%e3%83%ab%e3%83%a1%e3%83%83%e3%83%88%e3%82%ad%e3%83%bc%e3%83%9b%e3%83%ab%e3%83%80%e3%83%bc-%e3%82%ab%e3%83%97%e3%82%bb%e3%83%ab",
+      "first_detected_at": "2026-05-17T23:33:22+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
+      "product_path": "products/wonderful-one-kabuto-exceed-2-8d9c5a56.json"
     }
   ]
 }

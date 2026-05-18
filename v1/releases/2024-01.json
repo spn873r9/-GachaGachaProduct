@@ -1,9 +1,31 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-05-18T18:25:13+09:00",
+  "generated_at": "2026-05-19T01:30:36+09:00",
   "year": 2024,
   "month": 1,
   "items": [
+    {
+      "id": "idea-000000003-000123933",
+      "manufacturer_id": "idea",
+      "manufacturer_name": "アイデア",
+      "brand_name": "しろくまシリーズ",
+      "series_name": null,
+      "product_name": "おいしそうなアクリルキーホルダー",
+      "release_year": 2024,
+      "release_month": 1,
+      "release_week": null,
+      "release_date": "2024-01-04",
+      "preview_image_url": "https://prcdn.freetls.fastly.net/release_image/123933/3/123933-3-5f39c890bfd461a0b6abf80a6c780dc9-800x1000.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+      "preview_image_source_url": "https://prtimes.jp/main/html/rd/p/000000003.000123933.html",
+      "price_yen": 300,
+      "variant_count": 5,
+      "jan_code": null,
+      "official_url": "https://prtimes.jp/main/html/rd/p/000000003.000123933.html",
+      "source_url": "https://prtimes.jp/main/html/rd/p/000000003.000123933.html",
+      "first_detected_at": "2026-05-18T07:50:20+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
+      "product_path": "products/idea-000000003-000123933.json"
+    },
     {
       "id": "bandai-gashapon-4549660949015000",
       "manufacturer_id": "bandai-gashapon",
@@ -2399,7 +2421,7 @@
       "official_url": "https://capsule.k2-st.co.jp/lineup/hbaf_charm/",
       "source_url": "https://capsule.k2-st.co.jp/lineup/hbaf_charm/",
       "first_detected_at": "2026-05-15T15:03:59+09:00",
-      "last_checked_at": "2026-05-18T18:00:53+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
       "product_path": "products/k2-station-hbaf-charm.json"
     },
     {
@@ -2421,7 +2443,7 @@
       "official_url": "https://capsule.k2-st.co.jp/lineup/okamotocollection003clearpouch/",
       "source_url": "https://capsule.k2-st.co.jp/lineup/okamotocollection003clearpouch/",
       "first_detected_at": "2026-05-15T15:03:59+09:00",
-      "last_checked_at": "2026-05-18T18:00:53+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
       "product_path": "products/k2-station-okamotocollection003clearpouch.json"
     },
     {
@@ -2443,7 +2465,7 @@
       "official_url": "https://capsule.k2-st.co.jp/lineup/itohamu-shakashaka_acryliccharm/",
       "source_url": "https://capsule.k2-st.co.jp/lineup/itohamu-shakashaka_acryliccharm/",
       "first_detected_at": "2026-05-15T15:03:59+09:00",
-      "last_checked_at": "2026-05-18T18:00:53+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
       "product_path": "products/k2-station-itohamu-shakashaka-acryliccharm.json"
     },
     {
@@ -2465,7 +2487,7 @@
       "official_url": "https://capsule.k2-st.co.jp/lineup/inutaurosu_acrylicblock/",
       "source_url": "https://capsule.k2-st.co.jp/lineup/inutaurosu_acrylicblock/",
       "first_detected_at": "2026-05-15T15:03:59+09:00",
-      "last_checked_at": "2026-05-18T18:00:53+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
       "product_path": "products/k2-station-inutaurosu-acrylicblock.json"
     },
     {

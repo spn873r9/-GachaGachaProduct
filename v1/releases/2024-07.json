@@ -1,9 +1,31 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-05-18T18:25:13+09:00",
+  "generated_at": "2026-05-19T01:30:36+09:00",
   "year": 2024,
   "month": 7,
   "items": [
+    {
+      "id": "toshin-3322",
+      "manufacturer_id": "toshin",
+      "manufacturer_name": "トーシン",
+      "brand_name": "#C-pla",
+      "series_name": "#C-pla限定",
+      "product_name": "スイカゲーム つながるマスコット",
+      "release_year": 2024,
+      "release_month": 7,
+      "release_week": null,
+      "release_date": "2024-07-05",
+      "preview_image_url": "https://toshin.jpn.com/wp/wp-content/uploads/2024/07/DP_suikagametunagarumc-255x300.jpg",
+      "preview_image_source_url": "https://toshin.jpn.com/%ef%bc%83c-plax%e3%82%b9%e3%82%a4%e3%82%ab%e3%82%b2%e3%83%bc%e3%83%a0%ef%b8%8f%e3%81%ae%e3%82%aa%e3%83%aa%e3%82%b8%e3%83%8a%e3%83%ab%e5%95%86%e5%93%81%e3%81%8c7%e6%9c%885%e6%97%a5%e3%82%88/",
+      "price_yen": 400,
+      "variant_count": 11,
+      "jan_code": null,
+      "official_url": "https://toshin.jpn.com/%ef%bc%83c-plax%e3%82%b9%e3%82%a4%e3%82%ab%e3%82%b2%e3%83%bc%e3%83%a0%ef%b8%8f%e3%81%ae%e3%82%aa%e3%83%aa%e3%82%b8%e3%83%8a%e3%83%ab%e5%95%86%e5%93%81%e3%81%8c7%e6%9c%885%e6%97%a5%e3%82%88/",
+      "source_url": "https://toshin.jpn.com/%ef%bc%83c-plax%e3%82%b9%e3%82%a4%e3%82%ab%e3%82%b2%e3%83%bc%e3%83%a0%ef%b8%8f%e3%81%ae%e3%82%aa%e3%83%aa%e3%82%b8%e3%83%8a%e3%83%ab%e5%95%86%e5%93%81%e3%81%8c7%e6%9c%885%e6%97%a5%e3%82%88/",
+      "first_detected_at": "2026-05-17T22:54:57+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
+      "product_path": "products/toshin-3322.json"
+    },
     {
       "id": "bandai-gashapon-4570118210784000",
       "manufacturer_id": "bandai-gashapon",
@@ -2557,6 +2579,50 @@
       "product_path": "products/bandai-gashapon-4570118165138000.json"
     },
     {
+      "id": "cotoful-mikasa-d0bd83b4",
+      "manufacturer_id": "cotoful",
+      "manufacturer_name": "コトフル",
+      "brand_name": null,
+      "series_name": null,
+      "product_name": "MIKASA バレーボールキーホルダーコレクション",
+      "release_year": 2024,
+      "release_month": 7,
+      "release_week": null,
+      "release_date": null,
+      "preview_image_url": "https://storage.googleapis.com/studio-cms-assets/projects/9YWy5yejWM/s-1172x1365_v-fms_webp_4781f8ae-61ba-4de1-abfa-27d12fbcbc06.jpg",
+      "preview_image_source_url": "https://cotoful.com/blog/MIKASA%E3%83%9F%E3%82%AB%E3%82%B5%E3%83%90%E3%83%AC%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%AB%E3%82%AD%E3%83%BC%E3%83%9B%E3%83%AB%E3%83%80%E3%83%BC%E3%82%B3%E3%83%AC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3",
+      "price_yen": null,
+      "variant_count": null,
+      "jan_code": null,
+      "official_url": "https://cotoful.com/blog/MIKASA%E3%83%9F%E3%82%AB%E3%82%B5%E3%83%90%E3%83%AC%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%AB%E3%82%AD%E3%83%BC%E3%83%9B%E3%83%AB%E3%83%80%E3%83%BC%E3%82%B3%E3%83%AC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3",
+      "source_url": "https://cotoful.com/blog/MIKASA%E3%83%9F%E3%82%AB%E3%82%B5%E3%83%90%E3%83%AC%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%AB%E3%82%AD%E3%83%BC%E3%83%9B%E3%83%AB%E3%83%80%E3%83%BC%E3%82%B3%E3%83%AC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3",
+      "first_detected_at": "2026-05-16T11:51:31+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
+      "product_path": "products/cotoful-mikasa-d0bd83b4.json"
+    },
+    {
+      "id": "dis-dcpt-0017",
+      "manufacturer_id": "dis",
+      "manufacturer_name": "ディーアイエス",
+      "brand_name": null,
+      "series_name": null,
+      "product_name": "とある組織のモニター画面アクリルボールチェーン",
+      "release_year": 2024,
+      "release_month": 7,
+      "release_week": null,
+      "release_date": null,
+      "preview_image_url": "https://d-is.co.jp/capsuletoy/dcpt_0017.jpg",
+      "preview_image_source_url": "https://d-is.co.jp/capsuletoy.html",
+      "price_yen": null,
+      "variant_count": null,
+      "jan_code": null,
+      "official_url": "https://d-is.co.jp/capsuletoy.html",
+      "source_url": "https://d-is.co.jp/capsuletoy.html",
+      "first_detected_at": "2026-05-16T23:11:51+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
+      "product_path": "products/dis-dcpt-0017.json"
+    },
+    {
       "id": "funbox-274",
       "manufacturer_id": "funbox",
       "manufacturer_name": "funbox",
@@ -2597,7 +2663,7 @@
       "official_url": "https://hmatoys.net/product/sweet_tooth-milky%e3%82%bd%e3%83%95%e3%83%93%e3%83%9e%e3%82%b9%e3%82%b3%e3%83%83%e3%83%88/",
       "source_url": "https://hmatoys.net/product/sweet_tooth-milky%e3%82%bd%e3%83%95%e3%83%93%e3%83%9e%e3%82%b9%e3%82%b3%e3%83%83%e3%83%88/",
       "first_detected_at": "2026-05-15T16:54:18+09:00",
-      "last_checked_at": "2026-05-18T18:00:53+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
       "product_path": "products/hma-sweet-tooth-milky-6a7f22c0.json"
     },
     {
@@ -2641,7 +2707,7 @@
       "official_url": "https://capsule.k2-st.co.jp/lineup/gotouchi_gyunyu_collection2/",
       "source_url": "https://capsule.k2-st.co.jp/lineup/gotouchi_gyunyu_collection2/",
       "first_detected_at": "2026-05-15T15:03:59+09:00",
-      "last_checked_at": "2026-05-18T18:00:53+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
       "product_path": "products/k2-station-gotouchi-gyunyu-collection2.json"
     },
     {
@@ -2663,7 +2729,7 @@
       "official_url": "https://capsule.k2-st.co.jp/lineup/sanrio_tokotoko_nuigurumi3/",
       "source_url": "https://capsule.k2-st.co.jp/lineup/sanrio_tokotoko_nuigurumi3/",
       "first_detected_at": "2026-05-15T15:03:59+09:00",
-      "last_checked_at": "2026-05-18T18:00:53+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
       "product_path": "products/k2-station-sanrio-tokotoko-nuigurumi3.json"
     },
     {
@@ -3215,6 +3281,28 @@
       "first_detected_at": "2026-05-13T19:05:49+09:00",
       "last_checked_at": "2026-05-13T22:42:41+09:00",
       "product_path": "products/qualia-mimi-hazusemasu-mf.json"
+    },
+    {
+      "id": "rainbow-000000041-000117096",
+      "manufacturer_id": "rainbow",
+      "manufacturer_name": "レインボー",
+      "brand_name": "スパゲッティーのパンチョ",
+      "series_name": null,
+      "product_name": "スパゲッティーのパンチョ ミニチュアコレクション",
+      "release_year": 2024,
+      "release_month": 7,
+      "release_week": null,
+      "release_date": null,
+      "preview_image_url": "https://prcdn.freetls.fastly.net/release_image/117096/41/117096-41-5d2b1e05ad09759a83458c0459e1a6e8-1200x1201.png?width=1950&height=1350&quality=85,65&format=jpeg&auto=webp&fit=bounds&bg-color=fff",
+      "preview_image_source_url": "https://prtimes.jp/main/html/rd/p/000000041.000117096.html",
+      "price_yen": 500,
+      "variant_count": 6,
+      "jan_code": null,
+      "official_url": "https://prtimes.jp/main/html/rd/p/000000041.000117096.html",
+      "source_url": "https://prtimes.jp/main/html/rd/p/000000041.000117096.html",
+      "first_detected_at": "2026-05-18T13:53:10+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
+      "product_path": "products/rainbow-000000041-000117096.json"
     },
     {
       "id": "stand-stones-putibarth-heroaca2",
@@ -4161,6 +4249,28 @@
       "first_detected_at": "2026-05-13T19:05:49+09:00",
       "last_checked_at": "2026-05-13T19:05:49+09:00",
       "product_path": "products/toyscabin-20240403-713.json"
+    },
+    {
+      "id": "wonderful-one-osiriman",
+      "manufacturer_id": "wonderful-one",
+      "manufacturer_name": "ワンダフルワン",
+      "brand_name": "ワンダフルワン",
+      "series_name": null,
+      "product_name": "おしり前マン アクリルキーホルダーvol.1",
+      "release_year": 2024,
+      "release_month": 7,
+      "release_week": null,
+      "release_date": null,
+      "preview_image_url": "https://wonderful-1.com/main/wp-content/uploads/2024/02/oshiri_info.jpg",
+      "preview_image_source_url": "https://wonderful-1.com/main/archives/showroom/osiriman",
+      "price_yen": 300,
+      "variant_count": null,
+      "jan_code": "4571600540013",
+      "official_url": "https://wonderful-1.com/main/archives/showroom/osiriman",
+      "source_url": "https://wonderful-1.com/main/archives/showroom/osiriman",
+      "first_detected_at": "2026-05-17T23:33:22+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
+      "product_path": "products/wonderful-one-osiriman.json"
     }
   ]
 }

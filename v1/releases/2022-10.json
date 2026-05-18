@@ -1,9 +1,53 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-05-18T18:25:13+09:00",
+  "generated_at": "2026-05-19T01:30:36+09:00",
   "year": 2022,
   "month": 10,
   "items": [
+    {
+      "id": "movic-02151-00603-00057",
+      "manufacturer_id": "movic",
+      "manufacturer_name": "ムービック",
+      "brand_name": "ムービック",
+      "series_name": null,
+      "product_name": "魔法少女まどか☆マギカ アニカプ（缶バッジ 全5種）",
+      "release_year": 2022,
+      "release_month": 10,
+      "release_week": null,
+      "release_date": "2022-10-01",
+      "preview_image_url": "https://d38cuxvdcwawa4.cloudfront.net/img/goods/L/02151-00603-00057-l.jpg",
+      "preview_image_source_url": "https://www.movic.jp/shop/g/g02151-00603-00057/",
+      "price_yen": 300,
+      "variant_count": 5,
+      "jan_code": "4549743732060",
+      "official_url": "https://www.movic.jp/shop/g/g02151-00603-00057/",
+      "source_url": "https://www.movic.jp/shop/g/g02151-00603-00057/",
+      "first_detected_at": "2026-05-18T07:37:57+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
+      "product_path": "products/movic-02151-00603-00057.json"
+    },
+    {
+      "id": "movic-02246-00603-00044",
+      "manufacturer_id": "movic",
+      "manufacturer_name": "ムービック",
+      "brand_name": "ムービック",
+      "series_name": null,
+      "product_name": "TIGER & BUNNY 2 アニカプ（缶バッジ 全13種）",
+      "release_year": 2022,
+      "release_month": 10,
+      "release_week": null,
+      "release_date": "2022-10-15",
+      "preview_image_url": "https://d38cuxvdcwawa4.cloudfront.net/img/goods/L/02246-00603-00044-l.jpg",
+      "preview_image_source_url": "https://www.movic.jp/shop/g/g02246-00603-00044/",
+      "price_yen": 300,
+      "variant_count": 13,
+      "jan_code": "4549743774268",
+      "official_url": "https://www.movic.jp/shop/g/g02246-00603-00044/",
+      "source_url": "https://www.movic.jp/shop/g/g02246-00603-00044/",
+      "first_detected_at": "2026-05-18T07:37:57+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
+      "product_path": "products/movic-02246-00603-00044.json"
+    },
     {
       "id": "bandai-gashapon-4549660762270000",
       "manufacturer_id": "bandai-gashapon",
@@ -1761,7 +1805,7 @@
       "official_url": "https://kaiyodo.co.jp/items/capsule/cqm131/",
       "source_url": "https://kaiyodo.co.jp/items/capsule/",
       "first_detected_at": "2026-05-15T14:15:49+09:00",
-      "last_checked_at": "2026-05-18T18:00:53+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
       "product_path": "products/kaiyodo-capsule-cqm131.json"
     },
     {
@@ -1783,7 +1827,7 @@
       "official_url": "https://kaiyodo.co.jp/items/capsule/butsuzo04/",
       "source_url": "https://kaiyodo.co.jp/items/capsule/",
       "first_detected_at": "2026-05-15T14:15:49+09:00",
-      "last_checked_at": "2026-05-18T18:00:53+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
       "product_path": "products/kaiyodo-capsule-butsuzo04.json"
     },
     {

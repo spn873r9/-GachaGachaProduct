@@ -1,0 +1,30 @@
+{
+  "schema_version": "1.0.0",
+  "generated_at": "2026-05-19T01:30:36+09:00",
+  "year": 2001,
+  "month": 1,
+  "items": [
+    {
+      "id": "megahouse-481",
+      "manufacturer_id": "megahouse",
+      "manufacturer_name": "メガハウス",
+      "brand_name": "ドラゴンボールカプセル",
+      "series_name": "ドラゴンボールカプセル",
+      "product_name": "ドラゴンボールカプセル はじまりは四星球 ドラゴンボールメモリーズ編",
+      "release_year": 2001,
+      "release_month": 1,
+      "release_week": null,
+      "release_date": null,
+      "preview_image_url": "https://www.megahobby.jp/images/item/item_0000000481_01.jpg",
+      "preview_image_source_url": "https://www.megahobby.jp/products/item/481/",
+      "price_yen": 528,
+      "variant_count": 7,
+      "jan_code": null,
+      "official_url": "https://www.megahobby.jp/products/item/481/",
+      "source_url": "https://www.megahobby.jp/products/item/481/",
+      "first_detected_at": "2026-05-17T18:40:35+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
+      "product_path": "products/megahouse-481.json"
+    }
+  ]
+}

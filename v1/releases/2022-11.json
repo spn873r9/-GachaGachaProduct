@@ -1,9 +1,31 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-05-18T18:25:13+09:00",
+  "generated_at": "2026-05-19T01:30:36+09:00",
   "year": 2022,
   "month": 11,
   "items": [
+    {
+      "id": "movic-01870-00603-00631",
+      "manufacturer_id": "movic",
+      "manufacturer_name": "ムービック",
+      "brand_name": "ムービック",
+      "series_name": null,
+      "product_name": "劇場版 うたの☆プリンスさまっ♪ マジLOVEスターリッシュツアーズ アニカプ（缶バッジ 全7種）",
+      "release_year": 2022,
+      "release_month": 11,
+      "release_week": null,
+      "release_date": "2022-11-25",
+      "preview_image_url": "https://d38cuxvdcwawa4.cloudfront.net/img/goods/L/01870-00603-00631-l.jpg",
+      "preview_image_source_url": "https://www.movic.jp/shop/g/g01870-00603-00631/",
+      "price_yen": 300,
+      "variant_count": 7,
+      "jan_code": "4549743772097",
+      "official_url": "https://www.movic.jp/shop/g/g01870-00603-00631/",
+      "source_url": "https://www.movic.jp/shop/g/g01870-00603-00631/",
+      "first_detected_at": "2026-05-18T07:37:57+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
+      "product_path": "products/movic-01870-00603-00631.json"
+    },
     {
       "id": "bandai-gashapon-4549660781370000",
       "manufacturer_id": "bandai-gashapon",
@@ -2267,7 +2289,7 @@
       "official_url": "https://www.proof-toy.com/2022/11/27/%e3%81%ad%e3%81%93%e3%81%95%e3%82%93%e3%81%ae%e3%82%b1%e3%83%bc%e3%83%97-%e3%82%af%e3%83%aa%e3%82%b9%e3%83%9e%e3%82%b9%e3%83%81%e3%83%a3%e3%83%9a%e3%83%ab/",
       "source_url": "https://www.proof-toy.com/2022/11/27/%e3%81%ad%e3%81%93%e3%81%95%e3%82%93%e3%81%ae%e3%82%b1%e3%83%bc%e3%83%97-%e3%82%af%e3%83%aa%e3%82%b9%e3%83%9e%e3%82%b9%e3%83%81%e3%83%a3%e3%83%9a%e3%83%ab/",
       "first_detected_at": "2026-05-15T08:21:48+09:00",
-      "last_checked_at": "2026-05-18T18:00:53+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
       "product_path": "products/proof-97b085b76d69.json"
     },
     {

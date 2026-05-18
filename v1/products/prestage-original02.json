@@ -1,0 +1,28 @@
+{
+  "id": "prestage-original02",
+  "manufacturer_id": "prestage",
+  "manufacturer_name": "プレステージ",
+  "brand_name": null,
+  "series_name": null,
+  "product_name": "ボーはいつでもうわのそら いっしょにおでかけマスコット",
+  "release_year": 2025,
+  "release_month": 9,
+  "release_week": null,
+  "release_date": null,
+  "preview_image_url": "https://www.prestage.co.jp/assets/images/original/original_img07.jpg",
+  "preview_image_source_url": "https://www.prestage.co.jp/original/original.html#original02",
+  "price_yen": 1000,
+  "variant_count": null,
+  "jan_code": null,
+  "official_url": "https://www.prestage.co.jp/original/original.html#original02",
+  "source_url": "https://www.prestage.co.jp/original/original.html",
+  "first_detected_at": "2026-05-15T23:55:16+09:00",
+  "last_checked_at": "2026-05-19T00:58:38+09:00",
+  "product_path": "products/prestage-original02.json",
+  "copyright_notice": null,
+  "data_policy": {
+    "source_verified": true,
+    "uses_official_image": false,
+    "uses_official_description": false
+  }
+}

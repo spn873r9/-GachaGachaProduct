@@ -1,0 +1,28 @@
+{
+  "id": "prestage-original-img01",
+  "manufacturer_id": "prestage",
+  "manufacturer_name": "プレステージ",
+  "brand_name": null,
+  "series_name": null,
+  "product_name": "デンシタコおすわりぬいぐるみ",
+  "release_year": 2024,
+  "release_month": 4,
+  "release_week": null,
+  "release_date": "2024-04-13",
+  "preview_image_url": "https://www.prestage.co.jp/assets/images/original/original_img01.jpg",
+  "preview_image_source_url": "https://www.prestage.co.jp/original/original.html",
+  "price_yen": 3300,
+  "variant_count": null,
+  "jan_code": null,
+  "official_url": "https://www.prestage.co.jp/original/original.html",
+  "source_url": "https://www.prestage.co.jp/original/original.html",
+  "first_detected_at": "2026-05-15T23:55:54+09:00",
+  "last_checked_at": "2026-05-19T00:58:38+09:00",
+  "product_path": "products/prestage-original-img01.json",
+  "copyright_notice": null,
+  "data_policy": {
+    "source_verified": true,
+    "uses_official_image": false,
+    "uses_official_description": false
+  }
+}

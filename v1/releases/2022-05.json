@@ -1,9 +1,31 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-05-18T18:25:13+09:00",
+  "generated_at": "2026-05-19T01:30:36+09:00",
   "year": 2022,
   "month": 5,
   "items": [
+    {
+      "id": "movic-00417-00603-00405",
+      "manufacturer_id": "movic",
+      "manufacturer_name": "ムービック",
+      "brand_name": "ムービック",
+      "series_name": null,
+      "product_name": "新テニスの王子様 アニカプ（缶バッジ 全8種） パジャマ vol.1",
+      "release_year": 2022,
+      "release_month": 5,
+      "release_week": null,
+      "release_date": "2022-05-27",
+      "preview_image_url": "https://d38cuxvdcwawa4.cloudfront.net/img/goods/L/00417-00603-00405.jpg",
+      "preview_image_source_url": "https://www.movic.jp/shop/g/g00417-00603-00405/",
+      "price_yen": 300,
+      "variant_count": 8,
+      "jan_code": "4549743722139",
+      "official_url": "https://www.movic.jp/shop/g/g00417-00603-00405/",
+      "source_url": "https://www.movic.jp/shop/g/g00417-00603-00405/",
+      "first_detected_at": "2026-05-18T07:37:57+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
+      "product_path": "products/movic-00417-00603-00405.json"
+    },
     {
       "id": "bandai-gashapon-4549660733317000",
       "manufacturer_id": "bandai-gashapon",
@@ -1585,7 +1607,7 @@
       "official_url": "https://kaiyodo.co.jp/items/capsule/cqc020/",
       "source_url": "https://kaiyodo.co.jp/items/capsule/",
       "first_detected_at": "2026-05-15T14:15:49+09:00",
-      "last_checked_at": "2026-05-18T18:00:53+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
       "product_path": "products/kaiyodo-capsule-cqc020.json"
     },
     {
@@ -1607,7 +1629,7 @@
       "official_url": "https://kaiyodo.co.jp/items/capsule/cqm139/",
       "source_url": "https://kaiyodo.co.jp/items/capsule/",
       "first_detected_at": "2026-05-15T14:15:49+09:00",
-      "last_checked_at": "2026-05-18T18:00:53+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
       "product_path": "products/kaiyodo-capsule-cqm139.json"
     },
     {
@@ -2159,6 +2181,28 @@
       "first_detected_at": "2026-05-13T19:05:49+09:00",
       "last_checked_at": "2026-05-13T22:42:41+09:00",
       "product_path": "products/qualia-bikyaku-shark-mf.json"
+    },
+    {
+      "id": "raise-290178",
+      "manufacturer_id": "raise",
+      "manufacturer_name": "レイズ",
+      "brand_name": null,
+      "series_name": null,
+      "product_name": "岡崎アクリルキーホルダー",
+      "release_year": 2022,
+      "release_month": 5,
+      "release_week": null,
+      "release_date": null,
+      "preview_image_url": "https://files.value-press.com/czMjYXJ0aWNsZSM3MjMwMiMyOTAxNzgjNzIzMDJfZExFeERLQVZjbC5qcGc.jpg",
+      "preview_image_source_url": "https://www.value-press.com/pressrelease/290178",
+      "price_yen": 300,
+      "variant_count": 8,
+      "jan_code": null,
+      "official_url": "https://www.value-press.com/pressrelease/290178",
+      "source_url": "https://www.value-press.com/pressrelease/290178",
+      "first_detected_at": "2026-05-18T16:49:25+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
+      "product_path": "products/raise-290178.json"
     },
     {
       "id": "stand-stones-3dkimetsukasa",

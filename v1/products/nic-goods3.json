@@ -1,0 +1,28 @@
+{
+  "id": "nic-goods3",
+  "manufacturer_id": "nic",
+  "manufacturer_name": "NIC",
+  "brand_name": "SANDA",
+  "series_name": null,
+  "product_name": "【カプセルトイ】アクリルスタンド",
+  "release_year": 2026,
+  "release_month": 1,
+  "release_week": null,
+  "release_date": "2026-01-01",
+  "preview_image_url": "https://sanda.red/goods/img/g03.jpg",
+  "preview_image_source_url": "https://sanda.red/goods/goods3.html",
+  "price_yen": 300,
+  "variant_count": null,
+  "jan_code": null,
+  "official_url": "https://sanda.red/goods/goods3.html",
+  "source_url": "https://sanda.red/goods/goods3.html",
+  "first_detected_at": "2026-05-18T19:45:02+09:00",
+  "last_checked_at": "2026-05-19T00:58:38+09:00",
+  "product_path": "products/nic-goods3.json",
+  "copyright_notice": "©板垣巴留（秋田書店）／SANDA製作委員会",
+  "data_policy": {
+    "source_verified": true,
+    "uses_official_image": false,
+    "uses_official_description": false
+  }
+}

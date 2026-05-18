@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-05-18T18:25:13+09:00",
+  "generated_at": "2026-05-19T01:30:36+09:00",
   "year": 2025,
   "month": 3,
   "items": [
@@ -23,7 +23,7 @@
       "official_url": "https://www.proof-toy.com/2025/03/13/%e5%bf%8d%e3%81%9f%e3%81%be%e4%b9%b1%e5%a4%aa%e9%83%8e%e3%81%ae%e3%82%b1%e3%83%bc%e3%83%97%e3%82%ad%e3%83%bc%e3%83%9b%e3%83%ab%e3%83%80%e3%83%bc-vol-2/",
       "source_url": "https://www.proof-toy.com/2025/03/13/%e5%bf%8d%e3%81%9f%e3%81%be%e4%b9%b1%e5%a4%aa%e9%83%8e%e3%81%ae%e3%82%b1%e3%83%bc%e3%83%97%e3%82%ad%e3%83%bc%e3%83%9b%e3%83%ab%e3%83%80%e3%83%bc-vol-2/",
       "first_detected_at": "2026-05-15T08:21:48+09:00",
-      "last_checked_at": "2026-05-18T18:00:53+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
       "product_path": "products/proof-vol-2-d9b393e0.json"
     },
     {
@@ -45,7 +45,7 @@
       "official_url": "https://www.proof-toy.com/2025/03/14/%e3%81%86%e3%81%95%e3%81%8e%e3%81%ae%e5%9b%bd%e3%81%ae%e7%8e%8b%e5%ad%90%e6%a7%98%e3%82%b1%e3%83%bc%e3%83%97%ef%bc%92-%e3%81%8a%e3%81%a8%e3%81%aa%e3%82%ab%e3%83%a9%e3%83%bc%ef%bc%81/",
       "source_url": "https://www.proof-toy.com/2025/03/14/%e3%81%86%e3%81%95%e3%81%8e%e3%81%ae%e5%9b%bd%e3%81%ae%e7%8e%8b%e5%ad%90%e6%a7%98%e3%82%b1%e3%83%bc%e3%83%97%ef%bc%92-%e3%81%8a%e3%81%a8%e3%81%aa%e3%82%ab%e3%83%a9%e3%83%bc%ef%bc%81/",
       "first_detected_at": "2026-05-15T08:21:48+09:00",
-      "last_checked_at": "2026-05-18T18:00:53+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
       "product_path": "products/proof-645dff9aa547.json"
     },
     {
@@ -971,6 +971,28 @@
       "first_detected_at": "2026-05-14T10:48:33+09:00",
       "last_checked_at": "2026-05-14T10:48:33+09:00",
       "product_path": "products/bandai-gashapon-4582769809385000.json"
+    },
+    {
+      "id": "hotline-000000594-000041274",
+      "manufacturer_id": "hotline",
+      "manufacturer_name": "ホットライン",
+      "brand_name": "ヒトツブカンロ",
+      "series_name": null,
+      "product_name": "ヒトツブカンロ 小さな缶キャンディマスコット",
+      "release_year": 2025,
+      "release_month": 3,
+      "release_week": 3,
+      "release_date": null,
+      "preview_image_url": "https://prcdn.freetls.fastly.net/release_image/41274/594/41274-594-a9a29e15aed94d3d2659f97801c9ad5d-1920x1821.jpg?width=1950&height=1350&quality=85,65&format=jpeg&auto=webp&fit=bounds&bg-color=fff",
+      "preview_image_source_url": "https://prtimes.jp/main/html/rd/p/000000594.000041274.html",
+      "price_yen": 500,
+      "variant_count": 6,
+      "jan_code": null,
+      "official_url": "https://prtimes.jp/main/html/rd/p/000000594.000041274.html",
+      "source_url": "https://prtimes.jp/main/html/rd/p/000000594.000041274.html",
+      "first_detected_at": "2026-05-18T17:55:57+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
+      "product_path": "products/hotline-000000594-000041274.json"
     },
     {
       "id": "bandai-gashapon-4582769740107000",
@@ -2755,6 +2777,94 @@
       "product_path": "products/bandai-gashapon-4582769808937000.json"
     },
     {
+      "id": "cotoful-spalding",
+      "manufacturer_id": "cotoful",
+      "manufacturer_name": "コトフル",
+      "brand_name": null,
+      "series_name": null,
+      "product_name": "SPALDING BASKETBALL SWING",
+      "release_year": 2025,
+      "release_month": 3,
+      "release_week": null,
+      "release_date": null,
+      "preview_image_url": "https://storage.googleapis.com/studio-cms-assets/projects/9YWy5yejWM/s-1011x1172_v-fs_webp_3c288077-cb38-431e-ae70-694210a66307.jpg",
+      "preview_image_source_url": "https://cotoful.com/blog/SPALDING",
+      "price_yen": null,
+      "variant_count": null,
+      "jan_code": null,
+      "official_url": "https://cotoful.com/blog/SPALDING",
+      "source_url": "https://cotoful.com/blog/SPALDING",
+      "first_detected_at": "2026-05-16T11:51:31+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
+      "product_path": "products/cotoful-spalding.json"
+    },
+    {
+      "id": "dis-dcpt-0032",
+      "manufacturer_id": "dis",
+      "manufacturer_name": "ディーアイエス",
+      "brand_name": null,
+      "series_name": null,
+      "product_name": "ちいさな歯のスツール",
+      "release_year": 2025,
+      "release_month": 3,
+      "release_week": null,
+      "release_date": null,
+      "preview_image_url": "https://d-is.co.jp/capsuletoy/dcpt_0032.jpg",
+      "preview_image_source_url": "https://d-is.co.jp/capsuletoy.html",
+      "price_yen": null,
+      "variant_count": null,
+      "jan_code": null,
+      "official_url": "https://d-is.co.jp/capsuletoy.html",
+      "source_url": "https://d-is.co.jp/capsuletoy.html",
+      "first_detected_at": "2026-05-16T23:11:51+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
+      "product_path": "products/dis-dcpt-0032.json"
+    },
+    {
+      "id": "dis-dcpt-0034",
+      "manufacturer_id": "dis",
+      "manufacturer_name": "ディーアイエス",
+      "brand_name": null,
+      "series_name": null,
+      "product_name": "サメ好きのカラビナ",
+      "release_year": 2025,
+      "release_month": 3,
+      "release_week": null,
+      "release_date": null,
+      "preview_image_url": "https://d-is.co.jp/capsuletoy/dcpt_0034.jpg",
+      "preview_image_source_url": "https://d-is.co.jp/capsuletoy.html",
+      "price_yen": null,
+      "variant_count": null,
+      "jan_code": null,
+      "official_url": "https://d-is.co.jp/capsuletoy.html",
+      "source_url": "https://d-is.co.jp/capsuletoy.html",
+      "first_detected_at": "2026-05-16T23:11:51+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
+      "product_path": "products/dis-dcpt-0034.json"
+    },
+    {
+      "id": "dis-dcpt-0031",
+      "manufacturer_id": "dis",
+      "manufacturer_name": "ディーアイエス",
+      "brand_name": null,
+      "series_name": null,
+      "product_name": "背負い寿司ぬいマスコット",
+      "release_year": 2025,
+      "release_month": 3,
+      "release_week": null,
+      "release_date": null,
+      "preview_image_url": "https://d-is.co.jp/capsuletoy/dcpt_0031.jpg",
+      "preview_image_source_url": "https://d-is.co.jp/capsuletoy.html",
+      "price_yen": null,
+      "variant_count": null,
+      "jan_code": null,
+      "official_url": "https://d-is.co.jp/capsuletoy.html",
+      "source_url": "https://d-is.co.jp/capsuletoy.html",
+      "first_detected_at": "2026-05-16T23:11:51+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
+      "product_path": "products/dis-dcpt-0031.json"
+    },
+    {
       "id": "funbox-260",
       "manufacturer_id": "funbox",
       "manufacturer_name": "funbox",
@@ -2777,6 +2887,28 @@
       "product_path": "products/funbox-260.json"
     },
     {
+      "id": "genco-orekaeru-orekaeru-vol04",
+      "manufacturer_id": "genco",
+      "manufacturer_name": "ジェンコ",
+      "brand_name": "ジェンコトイ",
+      "series_name": "俺、今日からかえる",
+      "product_name": "俺、今日からかえる カプセル玩具シリーズ 第4弾",
+      "release_year": 2025,
+      "release_month": 3,
+      "release_week": null,
+      "release_date": null,
+      "preview_image_url": "https://toys.genco.co.jp/gencotoywp/wp-content/uploads/2025/02/flier_orekaeru_vol04_d.png",
+      "preview_image_source_url": "https://toys.genco.co.jp/product/orekaeru/orekaeru_vol04/",
+      "price_yen": 300,
+      "variant_count": 8,
+      "jan_code": null,
+      "official_url": "https://toys.genco.co.jp/product/orekaeru/orekaeru_vol04/",
+      "source_url": "https://toys.genco.co.jp/product/orekaeru/orekaeru_vol04/",
+      "first_detected_at": "2026-05-17T17:49:03+09:00",
+      "last_checked_at": "2026-05-17T17:49:03+09:00",
+      "product_path": "products/genco-orekaeru-orekaeru-vol04.json"
+    },
+    {
       "id": "hma-b-04289ebe",
       "manufacturer_id": "hma",
       "manufacturer_name": "エイチエムエー",
@@ -2795,7 +2927,7 @@
       "official_url": "https://hmatoys.net/product/%e3%83%92%e3%83%a8%e3%82%b3%e3%83%8b%e3%83%8a%e3%83%bc%e3%83%abb%e9%8c%a0-%e3%82%b8%e3%82%a7%e3%83%8d%e3%83%aa%e3%83%83%e3%82%af%e3%83%81%e3%83%a3%e3%83%bc%e3%83%a0/",
       "source_url": "https://hmatoys.net/product/%e3%83%92%e3%83%a8%e3%82%b3%e3%83%8b%e3%83%8a%e3%83%bc%e3%83%abb%e9%8c%a0-%e3%82%b8%e3%82%a7%e3%83%8d%e3%83%aa%e3%83%83%e3%82%af%e3%83%81%e3%83%a3%e3%83%bc%e3%83%a0/",
       "first_detected_at": "2026-05-15T16:54:18+09:00",
-      "last_checked_at": "2026-05-18T18:00:53+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
       "product_path": "products/hma-b-04289ebe.json"
     },
     {
@@ -3367,7 +3499,7 @@
       "official_url": "https://e-jdream.co.jp/product/",
       "source_url": "https://e-jdream.co.jp/product/",
       "first_detected_at": "2026-05-13T16:19:49+09:00",
-      "last_checked_at": "2026-05-18T18:00:53+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
       "product_path": "products/jdream-4571596297434.json"
     },
     {
@@ -3389,7 +3521,7 @@
       "official_url": "https://e-jdream.co.jp/product/",
       "source_url": "https://e-jdream.co.jp/product/",
       "first_detected_at": "2026-05-13T16:19:49+09:00",
-      "last_checked_at": "2026-05-18T18:00:53+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
       "product_path": "products/jdream-4571596297304.json"
     },
     {
@@ -3433,7 +3565,7 @@
       "official_url": "https://e-jdream.co.jp/product/",
       "source_url": "https://e-jdream.co.jp/product/",
       "first_detected_at": "2026-05-13T16:19:49+09:00",
-      "last_checked_at": "2026-05-18T18:00:53+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
       "product_path": "products/jdream-4571596297410.json"
     },
     {
@@ -3477,7 +3609,7 @@
       "official_url": "https://e-jdream.co.jp/product/",
       "source_url": "https://e-jdream.co.jp/product/",
       "first_detected_at": "2026-05-13T16:19:49+09:00",
-      "last_checked_at": "2026-05-18T18:00:53+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
       "product_path": "products/jdream-4571596294211.json"
     },
     {
@@ -3499,7 +3631,7 @@
       "official_url": "https://capsule.k2-st.co.jp/lineup/chibimaruko_sacoche_2/",
       "source_url": "https://capsule.k2-st.co.jp/lineup/chibimaruko_sacoche_2/",
       "first_detected_at": "2026-05-15T15:03:59+09:00",
-      "last_checked_at": "2026-05-18T18:00:53+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
       "product_path": "products/k2-station-chibimaruko-sacoche-2.json"
     },
     {
@@ -3521,7 +3653,7 @@
       "official_url": "https://capsule.k2-st.co.jp/lineup/sanrio_hunglename/",
       "source_url": "https://capsule.k2-st.co.jp/lineup/sanrio_hunglename/",
       "first_detected_at": "2026-05-15T15:03:59+09:00",
-      "last_checked_at": "2026-05-18T18:00:53+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
       "product_path": "products/k2-station-sanrio-hunglename.json"
     },
     {
@@ -3543,7 +3675,7 @@
       "official_url": "https://capsule.k2-st.co.jp/lineup/hq_miniphoto_2/",
       "source_url": "https://capsule.k2-st.co.jp/lineup/hq_miniphoto_2/",
       "first_detected_at": "2026-05-15T15:03:59+09:00",
-      "last_checked_at": "2026-05-18T18:00:53+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
       "product_path": "products/k2-station-hq-miniphoto-2.json"
     },
     {
@@ -3565,7 +3697,7 @@
       "official_url": "https://kitan.jp/products/chiikawa_rubberband/",
       "source_url": "https://kitan.jp/products/chiikawa_rubberband/",
       "first_detected_at": "2026-05-14T09:13:25+09:00",
-      "last_checked_at": "2026-05-18T18:00:53+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
       "product_path": "products/kitanclub-chiikawa-rubberband.json"
     },
     {
@@ -3587,8 +3719,30 @@
       "official_url": "https://kitan.jp/products/moomindoll2/",
       "source_url": "https://kitan.jp/products/moomindoll2/",
       "first_detected_at": "2026-05-14T09:13:25+09:00",
-      "last_checked_at": "2026-05-18T18:00:53+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
       "product_path": "products/kitanclub-moomindoll2.json"
+    },
+    {
+      "id": "prestage-vag-42",
+      "manufacturer_id": "prestage",
+      "manufacturer_name": "プレステージ",
+      "brand_name": null,
+      "series_name": "VAG",
+      "product_name": "VAGシリーズ42",
+      "release_year": 2025,
+      "release_month": 3,
+      "release_week": null,
+      "release_date": null,
+      "preview_image_url": null,
+      "preview_image_source_url": null,
+      "price_yen": null,
+      "variant_count": null,
+      "jan_code": null,
+      "official_url": "https://www.prestage.co.jp/vag/vag.html",
+      "source_url": "https://www.prestage.co.jp/",
+      "first_detected_at": "2026-05-15T23:55:16+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
+      "product_path": "products/prestage-vag-42.json"
     },
     {
       "id": "qualia-pukonnu-nui",
@@ -4733,6 +4887,28 @@
       "first_detected_at": "2026-05-14T08:57:16+09:00",
       "last_checked_at": "2026-05-14T08:57:16+09:00",
       "product_path": "products/takaratomy-arts-y088865.json"
+    },
+    {
+      "id": "tokagedo-e119417cd491",
+      "manufacturer_id": "tokagedo",
+      "manufacturer_name": "十影堂エンターテイメント",
+      "brand_name": "十影堂エンターテイメント",
+      "series_name": null,
+      "product_name": "懐かしレトロ看板マグネット",
+      "release_year": 2025,
+      "release_month": 3,
+      "release_week": null,
+      "release_date": null,
+      "preview_image_url": "https://www.tokagedo.co.jp/wp/wp-content/uploads/2024/12/2a17e15a4d3abdecd81dfeb121acea74.jpg",
+      "preview_image_source_url": "https://www.tokagedo.co.jp/capsuletoy/6779",
+      "price_yen": null,
+      "variant_count": 6,
+      "jan_code": null,
+      "official_url": "https://www.tokagedo.co.jp/capsuletoy/6779",
+      "source_url": "https://www.tokagedo.co.jp/capsuletoy/6779",
+      "first_detected_at": "2026-05-17T23:15:23+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
+      "product_path": "products/tokagedo-e119417cd491.json"
     },
     {
       "id": "toyscabin-20241109-772",

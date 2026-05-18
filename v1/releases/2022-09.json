@@ -1,9 +1,53 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-05-18T18:25:13+09:00",
+  "generated_at": "2026-05-19T01:30:36+09:00",
   "year": 2022,
   "month": 9,
   "items": [
+    {
+      "id": "movic-04301-00603-00020",
+      "manufacturer_id": "movic",
+      "manufacturer_name": "ムービック",
+      "brand_name": "ムービック",
+      "series_name": null,
+      "product_name": "TVアニメ「吸血鬼すぐ死ぬ」 アニカプ（缶バッジ 全11種）",
+      "release_year": 2022,
+      "release_month": 9,
+      "release_week": null,
+      "release_date": "2022-09-02",
+      "preview_image_url": "https://d38cuxvdcwawa4.cloudfront.net/img/goods/L/04301-00603-00020-l.jpg",
+      "preview_image_source_url": "https://www.movic.jp/shop/g/g04301-00603-00020/",
+      "price_yen": 300,
+      "variant_count": 11,
+      "jan_code": "4549743732015",
+      "official_url": "https://www.movic.jp/shop/g/g04301-00603-00020/",
+      "source_url": "https://www.movic.jp/shop/g/g04301-00603-00020/",
+      "first_detected_at": "2026-05-18T07:37:57+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
+      "product_path": "products/movic-04301-00603-00020.json"
+    },
+    {
+      "id": "movic-04553-00603-00012",
+      "manufacturer_id": "movic",
+      "manufacturer_name": "ムービック",
+      "brand_name": "ムービック",
+      "series_name": null,
+      "product_name": "その着せ替え人形は恋をする アニカプ（缶バッジ 全7種）",
+      "release_year": 2022,
+      "release_month": 9,
+      "release_week": null,
+      "release_date": "2022-09-09",
+      "preview_image_url": "https://d38cuxvdcwawa4.cloudfront.net/img/goods/L/04553-00603-00012.jpg",
+      "preview_image_source_url": "https://www.movic.jp/shop/g/g04553-00603-00012/",
+      "price_yen": 300,
+      "variant_count": 7,
+      "jan_code": "4549743731988",
+      "official_url": "https://www.movic.jp/shop/g/g04553-00603-00012/",
+      "source_url": "https://www.movic.jp/shop/g/g04553-00603-00012/",
+      "first_detected_at": "2026-05-18T07:37:57+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
+      "product_path": "products/movic-04553-00603-00012.json"
+    },
     {
       "id": "qualia-sagan-tosu",
       "manufacturer_id": "qualia",
@@ -45,7 +89,7 @@
       "official_url": "https://kaiyodo.co.jp/items/capsule/cqm096/",
       "source_url": "https://kaiyodo.co.jp/items/capsule/",
       "first_detected_at": "2026-05-15T14:15:49+09:00",
-      "last_checked_at": "2026-05-18T18:00:53+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
       "product_path": "products/kaiyodo-capsule-cqm096.json"
     },
     {
@@ -1937,7 +1981,7 @@
       "official_url": "https://kaiyodo.co.jp/items/capsule/cqm142/",
       "source_url": "https://kaiyodo.co.jp/items/capsule/",
       "first_detected_at": "2026-05-15T14:15:49+09:00",
-      "last_checked_at": "2026-05-18T18:00:53+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
       "product_path": "products/kaiyodo-capsule-cqm142.json"
     },
     {
@@ -1959,7 +2003,7 @@
       "official_url": "https://kaiyodo.co.jp/items/capsule/cqm141/",
       "source_url": "https://kaiyodo.co.jp/items/capsule/",
       "first_detected_at": "2026-05-15T14:15:49+09:00",
-      "last_checked_at": "2026-05-18T18:00:53+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
       "product_path": "products/kaiyodo-capsule-cqm141.json"
     },
     {

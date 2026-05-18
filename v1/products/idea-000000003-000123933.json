@@ -1,0 +1,28 @@
+{
+  "id": "idea-000000003-000123933",
+  "manufacturer_id": "idea",
+  "manufacturer_name": "アイデア",
+  "brand_name": "しろくまシリーズ",
+  "series_name": null,
+  "product_name": "おいしそうなアクリルキーホルダー",
+  "release_year": 2024,
+  "release_month": 1,
+  "release_week": null,
+  "release_date": "2024-01-04",
+  "preview_image_url": "https://prcdn.freetls.fastly.net/release_image/123933/3/123933-3-5f39c890bfd461a0b6abf80a6c780dc9-800x1000.png?format=jpeg&auto=webp&fit=bounds&width=2400&height=1260",
+  "preview_image_source_url": "https://prtimes.jp/main/html/rd/p/000000003.000123933.html",
+  "price_yen": 300,
+  "variant_count": 5,
+  "jan_code": null,
+  "official_url": "https://prtimes.jp/main/html/rd/p/000000003.000123933.html",
+  "source_url": "https://prtimes.jp/main/html/rd/p/000000003.000123933.html",
+  "first_detected_at": "2026-05-18T07:50:20+09:00",
+  "last_checked_at": "2026-05-19T00:58:38+09:00",
+  "product_path": "products/idea-000000003-000123933.json",
+  "copyright_notice": "©Keiko Shibata/PHP Institute,Inc.",
+  "data_policy": {
+    "source_verified": true,
+    "uses_official_image": false,
+    "uses_official_description": false
+  }
+}

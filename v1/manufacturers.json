@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-05-18T18:25:13+09:00",
+  "generated_at": "2026-05-19T01:30:36+09:00",
   "items": [
     {
       "id": "a3",
@@ -9,9 +9,51 @@
       "enabled": true
     },
     {
+      "id": "albatro-design",
+      "name": "Albatro Design",
+      "official_url": "https://www.albatro.jp/",
+      "enabled": true
+    },
+    {
+      "id": "amuse",
+      "name": "アミューズ",
+      "official_url": "https://www.a-muzu.com/",
+      "enabled": true
+    },
+    {
+      "id": "aopop",
+      "name": "アオポップ",
+      "official_url": "https://aopop.co.jp/",
+      "enabled": true
+    },
+    {
+      "id": "arche",
+      "name": "アルシェ",
+      "official_url": "https://www.arche.ne.jp/",
+      "enabled": true
+    },
+    {
+      "id": "artemis",
+      "name": "アルテミス",
+      "official_url": "https://www.artemis-inc.co.jp/",
+      "enabled": true
+    },
+    {
+      "id": "asobi-kenkyusho",
+      "name": "あそび研究所",
+      "official_url": "https://www.a-muzu.com/",
+      "enabled": true
+    },
+    {
       "id": "bandai-gashapon",
       "name": "バンダイ ガシャポン",
       "official_url": "https://gashapon.jp/",
+      "enabled": true
+    },
+    {
+      "id": "beam",
+      "name": "ビーム",
+      "official_url": "https://www.a-muzu.com/",
       "enabled": true
     },
     {
@@ -27,9 +69,27 @@
       "enabled": true
     },
     {
+      "id": "blue-mountain",
+      "name": "ブルーマウンテン",
+      "official_url": "https://bluemountains.co.jp/",
+      "enabled": true
+    },
+    {
+      "id": "bright-communication",
+      "name": "ブライトコミュニケーション",
+      "official_url": "https://www.a-muzu.com/",
+      "enabled": true
+    },
+    {
       "id": "brightlink",
       "name": "ブライトリンク",
       "official_url": "https://brightlink.co.jp/",
+      "enabled": true
+    },
+    {
+      "id": "bunbun",
+      "name": "BUNBUN",
+      "official_url": "https://www.a-muzu.com/",
       "enabled": true
     },
     {
@@ -39,9 +99,69 @@
       "enabled": true
     },
     {
+      "id": "cotoful",
+      "name": "コトフル",
+      "official_url": "https://cotoful.com/",
+      "enabled": true
+    },
+    {
+      "id": "creation-com",
+      "name": "クリエイション・コム",
+      "official_url": "https://job-gear.net/kkcc/",
+      "enabled": true
+    },
+    {
       "id": "crux",
       "name": "クラックス",
       "official_url": "https://crux.jp/",
+      "enabled": true
+    },
+    {
+      "id": "dis",
+      "name": "ディーアイエス",
+      "official_url": "https://d-is.co.jp/",
+      "enabled": true
+    },
+    {
+      "id": "dream-capsule",
+      "name": "ドリームカプセル",
+      "official_url": "https://www.dreamcapsule.co.jp/",
+      "enabled": true
+    },
+    {
+      "id": "dreams",
+      "name": "ドリームズ",
+      "official_url": "https://www.dreams6.com/",
+      "enabled": true
+    },
+    {
+      "id": "eikoh",
+      "name": "エイコー",
+      "official_url": "https://www.e-eikoh.co.jp/",
+      "enabled": true
+    },
+    {
+      "id": "empty",
+      "name": "エンプティ",
+      "official_url": "https://www.empty.co.jp/",
+      "enabled": true
+    },
+    {
+      "id": "enami-sangyo",
+      "name": "榎並産業",
+      "official_url": "https://www.a-muzu.com/",
+      "enabled": true
+    },
+    {
+      "id": "epoch",
+      "name": "エポック",
+      "official_url": "https://epoch.jp/",
+      "enabled": true
+    },
+    {
+      "id": "f-heart",
+      "name": "エフドットハート",
+      "official_url": "https://www.f-heart.jp/",
       "enabled": true
     },
     {
@@ -57,9 +177,51 @@
       "enabled": true
     },
     {
+      "id": "fusee",
+      "name": "フュージー",
+      "official_url": "https://www.a-muzu.com/",
+      "enabled": true
+    },
+    {
+      "id": "genco",
+      "name": "ジェンコ",
+      "official_url": "https://toys.genco.co.jp/",
+      "enabled": true
+    },
+    {
+      "id": "goforward",
+      "name": "ゴーフォワード",
+      "official_url": "https://goforward.co.jp/",
+      "enabled": true
+    },
+    {
+      "id": "hakuhodo-products",
+      "name": "博報堂プロダクツ",
+      "official_url": "https://www.h-products.co.jp/",
+      "enabled": true
+    },
+    {
       "id": "hma",
       "name": "エイチエムエー",
       "official_url": "https://hmatoys.net/",
+      "enabled": true
+    },
+    {
+      "id": "hotline",
+      "name": "ホットライン",
+      "official_url": "https://hot-line.jimdofree.com/",
+      "enabled": true
+    },
+    {
+      "id": "hunet",
+      "name": "ヒューネット",
+      "official_url": "https://www.hunet-corp.co.jp/",
+      "enabled": true
+    },
+    {
+      "id": "idea",
+      "name": "アイデア",
+      "official_url": "https://idajapan.jp/",
       "enabled": true
     },
     {
@@ -99,6 +261,18 @@
       "enabled": true
     },
     {
+      "id": "kazenishi",
+      "name": "風ハ西カラ",
+      "official_url": "https://tomiya-gacha.co.jp/",
+      "enabled": true
+    },
+    {
+      "id": "kcompany",
+      "name": "ケイカンパニー",
+      "official_url": "https://kcompany.co.jp/",
+      "enabled": true
+    },
+    {
       "id": "kenelephant",
       "name": "ケンエレファント",
       "official_url": "https://kenelephant.co.jp/",
@@ -117,9 +291,75 @@
       "enabled": true
     },
     {
+      "id": "kk-toys",
+      "name": "KK TOYS",
+      "official_url": "https://www.a-muzu.com/",
+      "enabled": true
+    },
+    {
+      "id": "kurinbou",
+      "name": "くりんぼう",
+      "official_url": "https://www.a-muzu.com/",
+      "enabled": true
+    },
+    {
+      "id": "lawson",
+      "name": "ローソン",
+      "official_url": "http://www.ent.lawson.co.jp",
+      "enabled": true
+    },
+    {
+      "id": "legs",
+      "name": "レッグス",
+      "official_url": "https://www.legs.co.jp/",
+      "enabled": true
+    },
+    {
+      "id": "lianqlabo",
+      "name": "リアンキューラボ",
+      "official_url": "https://qlabo-inc.com/",
+      "enabled": true
+    },
+    {
+      "id": "maruka",
+      "name": "マルカ",
+      "official_url": "https://www.a-muzu.com/",
+      "enabled": true
+    },
+    {
+      "id": "megahouse",
+      "name": "メガハウス",
+      "official_url": "https://www.megahouse.co.jp/",
+      "enabled": true
+    },
+    {
+      "id": "mikazuki-usagi",
+      "name": "三日月うさぎ",
+      "official_url": "https://www.a-muzu.com/",
+      "enabled": true
+    },
+    {
+      "id": "movic",
+      "name": "ムービック",
+      "official_url": "https://www.movic.jp/",
+      "enabled": true
+    },
+    {
       "id": "muzzle",
       "name": "マズル",
       "official_url": "https://www.muzzle.co.jp/",
+      "enabled": true
+    },
+    {
+      "id": "nic",
+      "name": "NIC",
+      "official_url": "https://www.n-i-c.jp/",
+      "enabled": true
+    },
+    {
+      "id": "onoe-man",
+      "name": "尾上萬",
+      "official_url": "https://www.a-muzu.com/",
       "enabled": true
     },
     {
@@ -129,9 +369,39 @@
       "enabled": true
     },
     {
+      "id": "paradox",
+      "name": "パラドックス",
+      "official_url": "https://www.a-muzu.com/",
+      "enabled": true
+    },
+    {
+      "id": "partners",
+      "name": "パートナーズ",
+      "official_url": "https://www.a-muzu.com/",
+      "enabled": true
+    },
+    {
       "id": "peanuts-club",
       "name": "ピーナッツクラブ",
       "official_url": "https://www.peanuts-club.co.jp/",
+      "enabled": true
+    },
+    {
+      "id": "platz",
+      "name": "プラッツ",
+      "official_url": "https://platz-media.com/blog/",
+      "enabled": true
+    },
+    {
+      "id": "pokemon-center-original",
+      "name": "ポケモンセンターオリジナル",
+      "official_url": "https://www.pokemoncenter-online.com/",
+      "enabled": true
+    },
+    {
+      "id": "prestage",
+      "name": "プレステージ",
+      "official_url": "https://www.prestage.co.jp/",
       "enabled": true
     },
     {
@@ -147,9 +417,51 @@
       "enabled": true
     },
     {
+      "id": "rainbow",
+      "name": "レインボー",
+      "official_url": "https://prtimes.jp/main/html/searchrlp/company_id/69677",
+      "enabled": true
+    },
+    {
+      "id": "raise",
+      "name": "レイズ",
+      "official_url": "https://www.value-press.com/corporation/72302",
+      "enabled": true
+    },
+    {
+      "id": "realize",
+      "name": "リアライズ",
+      "official_url": "https://realize-group.co.jp/",
+      "enabled": true
+    },
+    {
+      "id": "s-trust",
+      "name": "エス・トラスト",
+      "official_url": "https://s-trust.jp/",
+      "enabled": true
+    },
+    {
       "id": "sanyodo",
       "name": "三洋堂",
       "official_url": "https://sanyodo.ne.jp/",
+      "enabled": true
+    },
+    {
+      "id": "sega-fave",
+      "name": "セガ フェイブ",
+      "official_url": "https://www.segafave.co.jp/",
+      "enabled": true
+    },
+    {
+      "id": "shing",
+      "name": "シャイング",
+      "official_url": "https://www.a-muzu.com/",
+      "enabled": true
+    },
+    {
+      "id": "shoyo-japan",
+      "name": "翔洋ジャパン",
+      "official_url": "https://www.a-muzu.com/",
       "enabled": true
     },
     {
@@ -165,9 +477,27 @@
       "enabled": true
     },
     {
+      "id": "square-enix",
+      "name": "スクウェアエニックス",
+      "official_url": "https://www.jp.square-enix.com/",
+      "enabled": true
+    },
+    {
       "id": "stand-stones",
       "name": "スタンド・ストーンズ",
       "official_url": "https://stasto.co.jp/",
+      "enabled": true
+    },
+    {
+      "id": "standby",
+      "name": "スタンバイ",
+      "official_url": "https://www.a-muzu.com/",
+      "enabled": true
+    },
+    {
+      "id": "sunhoseki",
+      "name": "サン宝石",
+      "official_url": "https://sunho.store/",
       "enabled": true
     },
     {
@@ -183,6 +513,24 @@
       "enabled": true
     },
     {
+      "id": "the-access",
+      "name": "ザ・アクセス",
+      "official_url": "https://access-toy.com/",
+      "enabled": true
+    },
+    {
+      "id": "tokagedo",
+      "name": "十影堂エンターテイメント",
+      "official_url": "https://www.tokagedo.co.jp/",
+      "enabled": true
+    },
+    {
+      "id": "toshin",
+      "name": "トーシン",
+      "official_url": "https://toshin.jpn.com/",
+      "enabled": true
+    },
+    {
       "id": "toys-spirits",
       "name": "トイズスピリッツ",
       "official_url": "https://toysp.co.jp/",
@@ -195,9 +543,45 @@
       "enabled": true
     },
     {
+      "id": "toysking",
+      "name": "トイズキング",
+      "official_url": "https://www.tbase-toy.com/",
+      "enabled": true
+    },
+    {
       "id": "ultra-new-planning",
       "name": "ウルトラニュープランニング",
       "official_url": "https://www.u-np.jp/",
+      "enabled": true
+    },
+    {
+      "id": "union-creative",
+      "name": "ユニオンクリエイティブ",
+      "official_url": "https://union-creative.jp/",
+      "enabled": true
+    },
+    {
+      "id": "wonderful-one",
+      "name": "ワンダフルワン",
+      "official_url": "https://wonderful-1.com/main/",
+      "enabled": true
+    },
+    {
+      "id": "yell",
+      "name": "エール",
+      "official_url": "https://yell-world.jp/",
+      "enabled": true
+    },
+    {
+      "id": "yellow",
+      "name": "イエロー",
+      "official_url": "https://shop.yellows.co.jp/",
+      "enabled": true
+    },
+    {
+      "id": "yoshioka-kogyosyo",
+      "name": "吉岡工業所",
+      "official_url": "https://www.yoshioka-kogyosyo.com/",
       "enabled": true
     },
     {

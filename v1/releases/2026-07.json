@@ -1,9 +1,97 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-05-18T18:25:13+09:00",
+  "generated_at": "2026-05-19T01:30:36+09:00",
   "year": 2026,
   "month": 7,
   "items": [
+    {
+      "id": "blue-mountain-9039",
+      "manufacturer_id": "blue-mountain",
+      "manufacturer_name": "ブルーマウンテン",
+      "brand_name": null,
+      "series_name": null,
+      "product_name": "Listen to art -音で聴く名画- ゴッホサウンドキーホルダー",
+      "release_year": 2026,
+      "release_month": 7,
+      "release_week": null,
+      "release_date": null,
+      "preview_image_url": "https://bluemountains.co.jp/wp-content/uploads/2607_GoghSoundKeyHolder.jpg",
+      "preview_image_source_url": "https://bluemountains.co.jp/9039/",
+      "price_yen": 400,
+      "variant_count": 4,
+      "jan_code": null,
+      "official_url": "https://bluemountains.co.jp/9039/",
+      "source_url": "https://bluemountains.co.jp/9039/",
+      "first_detected_at": "2026-05-16T09:46:36+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
+      "product_path": "products/blue-mountain-9039.json"
+    },
+    {
+      "id": "blue-mountain-9118",
+      "manufacturer_id": "blue-mountain",
+      "manufacturer_name": "ブルーマウンテン",
+      "brand_name": null,
+      "series_name": null,
+      "product_name": "しろくまのいる生活 ［ 3 ］ フルーツベアフロッキーコレクション",
+      "release_year": 2026,
+      "release_month": 7,
+      "release_week": null,
+      "release_date": null,
+      "preview_image_url": "https://bluemountains.co.jp/wp-content/uploads/2607_LK03_FruitBear.jpg",
+      "preview_image_source_url": "https://bluemountains.co.jp/9118/",
+      "price_yen": 500,
+      "variant_count": 5,
+      "jan_code": null,
+      "official_url": "https://bluemountains.co.jp/9118/",
+      "source_url": "https://bluemountains.co.jp/9118/",
+      "first_detected_at": "2026-05-16T09:46:36+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
+      "product_path": "products/blue-mountain-9118.json"
+    },
+    {
+      "id": "bright-communication-c69540",
+      "manufacturer_id": "bright-communication",
+      "manufacturer_name": "ブライトコミュニケーション",
+      "brand_name": null,
+      "series_name": null,
+      "product_name": "SEGA セガサターン ミニチュアコレクション",
+      "release_year": 2026,
+      "release_month": 7,
+      "release_week": null,
+      "release_date": null,
+      "preview_image_url": "https://www.a-muzu.com/client_info/FUNBOX01/itemimage/C69540/%EF%BD%BE%EF%BD%B6%EF%BE%9E%EF%BD%BB%EF%BE%80%EF%BD%B0%EF%BE%9D_%EF%BE%90%EF%BE%86%EF%BE%81%EF%BD%AD%EF%BD%B1%EF%BD%BA%EF%BE%9A%EF%BD%B8%EF%BD%BC%EF%BD%AE%EF%BE%9D_w.jpg",
+      "preview_image_source_url": "https://www.a-muzu.com/item/C69540.html",
+      "price_yen": 400,
+      "variant_count": 6,
+      "jan_code": null,
+      "official_url": "https://www.a-muzu.com/item/C69540.html",
+      "source_url": "https://www.a-muzu.com/item/C69540.html",
+      "first_detected_at": "2026-05-18T22:01:43+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
+      "product_path": "products/bright-communication-c69540.json"
+    },
+    {
+      "id": "bunbun-c69331",
+      "manufacturer_id": "bunbun",
+      "manufacturer_name": "BUNBUN",
+      "brand_name": null,
+      "series_name": null,
+      "product_name": "キラキラキャンディめじるしチャーム",
+      "release_year": 2026,
+      "release_month": 7,
+      "release_week": null,
+      "release_date": null,
+      "preview_image_url": "https://www.a-muzu.com/client_info/FUNBOX01/itemimage/C69331/%EF%BD%B7%EF%BE%97%EF%BD%B7%EF%BE%97%EF%BD%B7%EF%BD%AC%EF%BE%9D%EF%BE%83%EF%BE%9E%EF%BD%A8%EF%BE%92%EF%BD%BC%EF%BE%9E%EF%BE%99%EF%BD%BC%EF%BE%81%EF%BD%AC%EF%BD%B0%EF%BE%91_w.jpg",
+      "preview_image_source_url": "https://www.a-muzu.com/item/C69331.html",
+      "price_yen": 200,
+      "variant_count": 5,
+      "jan_code": null,
+      "official_url": "https://www.a-muzu.com/item/C69331.html",
+      "source_url": "https://www.a-muzu.com/item/C69331.html",
+      "first_detected_at": "2026-05-19T00:58:38+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
+      "product_path": "products/bunbun-c69331.json"
+    },
     {
       "id": "bushiroad-creative-9893",
       "manufacturer_id": "bushiroad-creative",
@@ -23,7 +111,7 @@
       "official_url": "https://capsule.bushiroad-creative.com/product/9893/",
       "source_url": "https://capsule.bushiroad-creative.com/product/9893/",
       "first_detected_at": "2026-05-15T09:26:08+09:00",
-      "last_checked_at": "2026-05-18T18:00:53+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
       "product_path": "products/bushiroad-creative-9893.json"
     },
     {
@@ -45,7 +133,7 @@
       "official_url": "https://capsule.bushiroad-creative.com/product/9926/",
       "source_url": "https://capsule.bushiroad-creative.com/product/9926/",
       "first_detected_at": "2026-05-15T09:26:08+09:00",
-      "last_checked_at": "2026-05-18T18:00:53+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
       "product_path": "products/bushiroad-creative-9926.json"
     },
     {
@@ -67,7 +155,7 @@
       "official_url": "https://capsule.bushiroad-creative.com/product/9962/",
       "source_url": "https://capsule.bushiroad-creative.com/product/9962/",
       "first_detected_at": "2026-05-15T09:26:08+09:00",
-      "last_checked_at": "2026-05-18T18:00:53+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
       "product_path": "products/bushiroad-creative-9962.json"
     },
     {
@@ -89,7 +177,7 @@
       "official_url": "https://capsule.bushiroad-creative.com/product/9850/",
       "source_url": "https://capsule.bushiroad-creative.com/product/9850/",
       "first_detected_at": "2026-05-15T09:26:08+09:00",
-      "last_checked_at": "2026-05-18T18:00:53+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
       "product_path": "products/bushiroad-creative-9850.json"
     },
     {
@@ -111,7 +199,7 @@
       "official_url": "https://capsule.bushiroad-creative.com/product/9948/",
       "source_url": "https://capsule.bushiroad-creative.com/product/9948/",
       "first_detected_at": "2026-05-15T09:26:08+09:00",
-      "last_checked_at": "2026-05-18T18:00:53+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
       "product_path": "products/bushiroad-creative-9948.json"
     },
     {
@@ -133,7 +221,7 @@
       "official_url": "https://capsule.bushiroad-creative.com/product/9934/",
       "source_url": "https://capsule.bushiroad-creative.com/product/9934/",
       "first_detected_at": "2026-05-15T09:26:08+09:00",
-      "last_checked_at": "2026-05-18T18:00:53+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
       "product_path": "products/bushiroad-creative-9934.json"
     },
     {
@@ -155,7 +243,7 @@
       "official_url": "https://capsule.bushiroad-creative.com/product/9941/",
       "source_url": "https://capsule.bushiroad-creative.com/product/9941/",
       "first_detected_at": "2026-05-15T09:26:08+09:00",
-      "last_checked_at": "2026-05-18T18:00:53+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
       "product_path": "products/bushiroad-creative-9941.json"
     },
     {
@@ -177,7 +265,7 @@
       "official_url": "https://capsule.bushiroad-creative.com/product/9942/",
       "source_url": "https://capsule.bushiroad-creative.com/product/9942/",
       "first_detected_at": "2026-05-15T09:26:08+09:00",
-      "last_checked_at": "2026-05-18T18:00:53+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
       "product_path": "products/bushiroad-creative-9942.json"
     },
     {
@@ -199,7 +287,7 @@
       "official_url": "https://capsule.bushiroad-creative.com/product/9904/",
       "source_url": "https://capsule.bushiroad-creative.com/product/9904/",
       "first_detected_at": "2026-05-15T09:26:08+09:00",
-      "last_checked_at": "2026-05-18T18:00:53+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
       "product_path": "products/bushiroad-creative-9904.json"
     },
     {
@@ -221,7 +309,7 @@
       "official_url": "https://capsule.bushiroad-creative.com/product/9937/",
       "source_url": "https://capsule.bushiroad-creative.com/product/9937/",
       "first_detected_at": "2026-05-15T09:26:08+09:00",
-      "last_checked_at": "2026-05-18T18:00:53+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
       "product_path": "products/bushiroad-creative-9937.json"
     },
     {
@@ -243,7 +331,7 @@
       "official_url": "https://capsule.bushiroad-creative.com/product/9921/",
       "source_url": "https://capsule.bushiroad-creative.com/product/9921/",
       "first_detected_at": "2026-05-15T09:26:08+09:00",
-      "last_checked_at": "2026-05-18T18:00:53+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
       "product_path": "products/bushiroad-creative-9921.json"
     },
     {
@@ -265,7 +353,7 @@
       "official_url": "https://capsule.bushiroad-creative.com/product/9925/",
       "source_url": "https://capsule.bushiroad-creative.com/product/9925/",
       "first_detected_at": "2026-05-15T09:26:08+09:00",
-      "last_checked_at": "2026-05-18T18:00:53+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
       "product_path": "products/bushiroad-creative-9925.json"
     },
     {
@@ -287,7 +375,7 @@
       "official_url": "https://kenelestore.jp/products/gc0747z",
       "source_url": "https://kenelephant.co.jp/topics210325/",
       "first_detected_at": "2026-05-14T00:50:21+09:00",
-      "last_checked_at": "2026-05-18T09:01:08+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
       "product_path": "products/kenelephant-gc0747z.json"
     },
     {
@@ -309,7 +397,7 @@
       "official_url": "https://kenelestore.jp/products/gc0744z",
       "source_url": "https://kenelephant.co.jp/topics210325/",
       "first_detected_at": "2026-05-14T00:50:21+09:00",
-      "last_checked_at": "2026-05-18T09:01:08+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
       "product_path": "products/kenelephant-gc0744z.json"
     },
     {
@@ -331,7 +419,7 @@
       "official_url": "https://kenelestore.jp/products/gc0742z",
       "source_url": "https://kenelephant.co.jp/topics210325/",
       "first_detected_at": "2026-05-14T00:50:21+09:00",
-      "last_checked_at": "2026-05-18T09:01:08+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
       "product_path": "products/kenelephant-gc0742z.json"
     },
     {
@@ -353,7 +441,7 @@
       "official_url": "https://kenelestore.jp/products/gc0746z",
       "source_url": "https://kenelephant.co.jp/topics210325/",
       "first_detected_at": "2026-05-14T00:50:21+09:00",
-      "last_checked_at": "2026-05-18T09:01:08+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
       "product_path": "products/kenelephant-gc0746z.json"
     },
     {
@@ -375,7 +463,7 @@
       "official_url": "https://kenelestore.jp/products/gc0748c",
       "source_url": "https://kenelephant.co.jp/topics210325/",
       "first_detected_at": "2026-05-14T00:50:21+09:00",
-      "last_checked_at": "2026-05-18T09:01:08+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
       "product_path": "products/kenelephant-gc0748c.json"
     },
     {
@@ -397,7 +485,7 @@
       "official_url": "https://kenelestore.jp/products/gc0741c",
       "source_url": "https://kenelephant.co.jp/topics210325/",
       "first_detected_at": "2026-05-14T00:50:21+09:00",
-      "last_checked_at": "2026-05-18T09:01:08+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
       "product_path": "products/kenelephant-gc0741c.json"
     },
     {
@@ -419,7 +507,7 @@
       "official_url": "https://kenelestore.jp/products/gc0749c",
       "source_url": "https://kenelephant.co.jp/topics210325/",
       "first_detected_at": "2026-05-14T00:50:21+09:00",
-      "last_checked_at": "2026-05-18T09:01:08+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
       "product_path": "products/kenelephant-gc0749c.json"
     },
     {
@@ -441,7 +529,7 @@
       "official_url": "https://kenelestore.jp/products/gc0733c",
       "source_url": "https://kenelephant.co.jp/topics210325/",
       "first_detected_at": "2026-05-14T00:50:21+09:00",
-      "last_checked_at": "2026-05-18T09:01:08+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
       "product_path": "products/kenelephant-gc0733c.json"
     },
     {
@@ -463,7 +551,7 @@
       "official_url": "https://kenelestore.jp/products/gc0745c",
       "source_url": "https://kenelephant.co.jp/topics210325/",
       "first_detected_at": "2026-05-14T00:50:21+09:00",
-      "last_checked_at": "2026-05-18T09:01:08+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
       "product_path": "products/kenelephant-gc0745c.json"
     },
     {
@@ -485,7 +573,7 @@
       "official_url": "https://kenelestore.jp/products/gc0740c",
       "source_url": "https://kenelephant.co.jp/topics210325/",
       "first_detected_at": "2026-05-14T00:50:21+09:00",
-      "last_checked_at": "2026-05-18T09:01:08+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
       "product_path": "products/kenelephant-gc0740c.json"
     },
     {
@@ -507,8 +595,338 @@
       "official_url": "https://kenelestore.jp/products/gc0743z",
       "source_url": "https://kenelephant.co.jp/topics210325/",
       "first_detected_at": "2026-05-14T00:50:21+09:00",
-      "last_checked_at": "2026-05-18T09:01:08+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
       "product_path": "products/kenelephant-gc0743z.json"
+    },
+    {
+      "id": "onoe-man-c69153",
+      "manufacturer_id": "onoe-man",
+      "manufacturer_name": "尾上萬",
+      "brand_name": null,
+      "series_name": null,
+      "product_name": "かおチェンポップシール",
+      "release_year": 2026,
+      "release_month": 7,
+      "release_week": null,
+      "release_date": null,
+      "preview_image_url": "https://www.a-muzu.com/client_info/FUNBOX01/itemimage/C69153/03_%EF%BD%B6%EF%BD%B5%EF%BE%81%EF%BD%AA%EF%BE%9D%EF%BE%8E%EF%BE%9F%EF%BD%AF%EF%BE%8C%EF%BE%9F%EF%BD%BC%EF%BD%B0%EF%BE%99_w.jpg",
+      "preview_image_source_url": "https://www.a-muzu.com/item/C69153.html",
+      "price_yen": 200,
+      "variant_count": 6,
+      "jan_code": null,
+      "official_url": "https://www.a-muzu.com/item/C69153.html",
+      "source_url": "https://www.a-muzu.com/item/C69153.html",
+      "first_detected_at": "2026-05-19T00:58:38+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
+      "product_path": "products/onoe-man-c69153.json"
+    },
+    {
+      "id": "onoe-man-c69154",
+      "manufacturer_id": "onoe-man",
+      "manufacturer_name": "尾上萬",
+      "brand_name": null,
+      "series_name": null,
+      "product_name": "ぶいぶいユビカジリウス",
+      "release_year": 2026,
+      "release_month": 7,
+      "release_week": null,
+      "release_date": null,
+      "preview_image_url": "https://www.a-muzu.com/client_info/FUNBOX01/itemimage/C69154/04_%EF%BE%8C%EF%BE%9E%EF%BD%B2%EF%BE%8C%EF%BE%9E%EF%BD%B2%EF%BE%95%EF%BE%8B%EF%BE%9E%EF%BD%B6%EF%BD%BC%EF%BE%9E%EF%BD%B4%EF%BD%B2%EF%BD%B3%EF%BD%BD_w.jpg",
+      "preview_image_source_url": "https://www.a-muzu.com/item/C69154.html",
+      "price_yen": 300,
+      "variant_count": 6,
+      "jan_code": null,
+      "official_url": "https://www.a-muzu.com/item/C69154.html",
+      "source_url": "https://www.a-muzu.com/item/C69154.html",
+      "first_detected_at": "2026-05-19T00:58:38+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
+      "product_path": "products/onoe-man-c69154.json"
+    },
+    {
+      "id": "onoe-man-c69152",
+      "manufacturer_id": "onoe-man",
+      "manufacturer_name": "尾上萬",
+      "brand_name": null,
+      "series_name": null,
+      "product_name": "ぷにっちょポップシール",
+      "release_year": 2026,
+      "release_month": 7,
+      "release_week": null,
+      "release_date": null,
+      "preview_image_url": "https://www.a-muzu.com/client_info/FUNBOX01/itemimage/C69152/02_%EF%BE%8C%EF%BE%9F%EF%BE%86%EF%BD%AF%EF%BE%81%EF%BD%AE%EF%BE%8E%EF%BE%9F%EF%BD%AF%EF%BE%8C%EF%BE%9F%EF%BD%BC%EF%BD%B0%EF%BE%99_w.jpg",
+      "preview_image_source_url": "https://www.a-muzu.com/item/C69152.html",
+      "price_yen": 200,
+      "variant_count": 6,
+      "jan_code": null,
+      "official_url": "https://www.a-muzu.com/item/C69152.html",
+      "source_url": "https://www.a-muzu.com/item/C69152.html",
+      "first_detected_at": "2026-05-19T00:58:38+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
+      "product_path": "products/onoe-man-c69152.json"
+    },
+    {
+      "id": "onoe-man-c69151",
+      "manufacturer_id": "onoe-man",
+      "manufacturer_name": "尾上萬",
+      "brand_name": null,
+      "series_name": null,
+      "product_name": "ミニブロックシリーズ ロボ",
+      "release_year": 2026,
+      "release_month": 7,
+      "release_week": null,
+      "release_date": null,
+      "preview_image_url": "https://www.a-muzu.com/client_info/FUNBOX01/itemimage/C69151/01_%EF%BE%90%EF%BE%86%EF%BE%8C%EF%BE%9E%EF%BE%9B%EF%BD%AF%EF%BD%B8%EF%BD%BC%EF%BE%98%EF%BD%B0%EF%BD%BD%EF%BE%9E%EF%BE%9B%EF%BE%8E%EF%BE%9E_w.jpg",
+      "preview_image_source_url": "https://www.a-muzu.com/item/C69151.html",
+      "price_yen": 200,
+      "variant_count": 12,
+      "jan_code": null,
+      "official_url": "https://www.a-muzu.com/item/C69151.html",
+      "source_url": "https://www.a-muzu.com/item/C69151.html",
+      "first_detected_at": "2026-05-19T00:58:38+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
+      "product_path": "products/onoe-man-c69151.json"
+    },
+    {
+      "id": "partners-c69627",
+      "manufacturer_id": "partners",
+      "manufacturer_name": "パートナーズ",
+      "brand_name": null,
+      "series_name": null,
+      "product_name": "トンネルマーカー おそ松さん",
+      "release_year": 2026,
+      "release_month": 7,
+      "release_week": null,
+      "release_date": null,
+      "preview_image_url": "https://www.a-muzu.com/client_info/FUNBOX01/itemimage/C69627/7_Jul.jpg",
+      "preview_image_source_url": "https://www.a-muzu.com/item/C69627.html",
+      "price_yen": 400,
+      "variant_count": 6,
+      "jan_code": null,
+      "official_url": "https://www.a-muzu.com/item/C69627.html",
+      "source_url": "https://www.a-muzu.com/item/C69627.html",
+      "first_detected_at": "2026-05-18T21:55:49+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
+      "product_path": "products/partners-c69627.json"
+    },
+    {
+      "id": "partners-c69628",
+      "manufacturer_id": "partners",
+      "manufacturer_name": "パートナーズ",
+      "brand_name": null,
+      "series_name": null,
+      "product_name": "ミニチュアTシャツチャーム SUZURI 第一弾",
+      "release_year": 2026,
+      "release_month": 7,
+      "release_week": null,
+      "release_date": null,
+      "preview_image_url": "https://www.a-muzu.com/client_info/FUNBOX01/itemimage/C69628/7_Jul.jpg",
+      "preview_image_source_url": "https://www.a-muzu.com/item/C69628.html",
+      "price_yen": 500,
+      "variant_count": 5,
+      "jan_code": null,
+      "official_url": "https://www.a-muzu.com/item/C69628.html",
+      "source_url": "https://www.a-muzu.com/item/C69628.html",
+      "first_detected_at": "2026-05-18T21:55:49+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
+      "product_path": "products/partners-c69628.json"
+    },
+    {
+      "id": "s-trust-c69715",
+      "manufacturer_id": "s-trust",
+      "manufacturer_name": "エス・トラスト",
+      "brand_name": null,
+      "series_name": null,
+      "product_name": "アサイーボウルチャーム～カフェコレクション～",
+      "release_year": 2026,
+      "release_month": 7,
+      "release_week": null,
+      "release_date": null,
+      "preview_image_url": "https://www.a-muzu.com/client_info/FUNBOX01/itemimage/C69715/02_%EF%BD%B1%EF%BD%BB%EF%BD%B2_%EF%BE%8E%EF%BE%9E%EF%BD%B3%EF%BE%99%EF%BE%81%EF%BD%AC%EF%BD%B0%EF%BE%91_%EF%BD%B6%EF%BE%8C%EF%BD%AA%EF%BD%BA%EF%BE%9A%EF%BD%B8%EF%BD%BC%EF%BD%AE%EF%BE%9D_w.jpg",
+      "preview_image_source_url": "https://www.a-muzu.com/item/C69715.html",
+      "price_yen": 400,
+      "variant_count": 3,
+      "jan_code": null,
+      "official_url": "https://www.a-muzu.com/item/C69715.html",
+      "source_url": "https://www.a-muzu.com/item/C69715.html",
+      "first_detected_at": "2026-05-19T00:58:38+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
+      "product_path": "products/s-trust-c69715.json"
+    },
+    {
+      "id": "s-trust-c69714",
+      "manufacturer_id": "s-trust",
+      "manufacturer_name": "エス・トラスト",
+      "brand_name": null,
+      "series_name": null,
+      "product_name": "光る！回る！パリピブレスレット※電池内蔵",
+      "release_year": 2026,
+      "release_month": 7,
+      "release_week": null,
+      "release_date": null,
+      "preview_image_url": "https://www.a-muzu.com/client_info/FUNBOX01/itemimage/C69714/01_%EF%BE%8B%EF%BD%B6%EF%BE%99_%EF%BE%8F%EF%BE%9C%EF%BE%99_%EF%BE%8A%EF%BE%9F%EF%BE%98%EF%BE%8B%EF%BE%9F%EF%BE%8C%EF%BE%9E%EF%BE%9A%EF%BD%BD%EF%BE%9A%EF%BD%AF%EF%BE%84_w.jpg",
+      "preview_image_source_url": "https://www.a-muzu.com/item/C69714.html",
+      "price_yen": 300,
+      "variant_count": 5,
+      "jan_code": null,
+      "official_url": "https://www.a-muzu.com/item/C69714.html",
+      "source_url": "https://www.a-muzu.com/item/C69714.html",
+      "first_detected_at": "2026-05-19T00:58:38+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
+      "product_path": "products/s-trust-c69714.json"
+    },
+    {
+      "id": "s-trust-c69713",
+      "manufacturer_id": "s-trust",
+      "manufacturer_name": "エス・トラスト",
+      "brand_name": null,
+      "series_name": null,
+      "product_name": "夏休みの思い出コレクション",
+      "release_year": 2026,
+      "release_month": 7,
+      "release_week": null,
+      "release_date": null,
+      "preview_image_url": "https://www.a-muzu.com/client_info/FUNBOX01/itemimage/C69713/05_%EF%BE%85%EF%BE%82%EF%BE%94%EF%BD%BD%EF%BE%90%EF%BE%89%EF%BD%B5%EF%BE%93%EF%BD%B2%EF%BE%83%EF%BE%9E%EF%BD%BA%EF%BE%9A%EF%BD%B8%EF%BD%BC%EF%BD%AE%EF%BE%9D_w.jpg",
+      "preview_image_source_url": "https://www.a-muzu.com/item/C69713.html",
+      "price_yen": 300,
+      "variant_count": 4,
+      "jan_code": null,
+      "official_url": "https://www.a-muzu.com/item/C69713.html",
+      "source_url": "https://www.a-muzu.com/item/C69713.html",
+      "first_detected_at": "2026-05-19T00:58:38+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
+      "product_path": "products/s-trust-c69713.json"
+    },
+    {
+      "id": "s-trust-c69712",
+      "manufacturer_id": "s-trust",
+      "manufacturer_name": "エス・トラスト",
+      "brand_name": null,
+      "series_name": null,
+      "product_name": "氷スクイーズ",
+      "release_year": 2026,
+      "release_month": 7,
+      "release_week": null,
+      "release_date": null,
+      "preview_image_url": "https://www.a-muzu.com/client_info/FUNBOX01/itemimage/C69712/03_%EF%BD%BA%EF%BD%B5%EF%BE%98%EF%BD%BD%EF%BD%B8%EF%BD%B2%EF%BD%B0%EF%BD%BD%EF%BE%9E_w.jpg",
+      "preview_image_source_url": "https://www.a-muzu.com/item/C69712.html",
+      "price_yen": 200,
+      "variant_count": 4,
+      "jan_code": null,
+      "official_url": "https://www.a-muzu.com/item/C69712.html",
+      "source_url": "https://www.a-muzu.com/item/C69712.html",
+      "first_detected_at": "2026-05-19T00:58:38+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
+      "product_path": "products/s-trust-c69712.json"
+    },
+    {
+      "id": "standby-c69704",
+      "manufacturer_id": "standby",
+      "manufacturer_name": "スタンバイ",
+      "brand_name": null,
+      "series_name": null,
+      "product_name": "きまぐれ にゃんころ隊",
+      "release_year": 2026,
+      "release_month": 7,
+      "release_week": null,
+      "release_date": null,
+      "preview_image_url": "https://www.a-muzu.com/client_info/FUNBOX01/itemimage/C69704/CT202607_%EF%BD%B7%EF%BE%8F%EF%BD%B8%EF%BE%9E%EF%BE%9A_%EF%BE%86%EF%BD%AC%EF%BE%9D%EF%BD%BA%EF%BE%9B%EF%BE%80%EF%BD%B2_w.jpg",
+      "preview_image_source_url": "https://www.a-muzu.com/item/C69704.html",
+      "price_yen": 200,
+      "variant_count": 4,
+      "jan_code": null,
+      "official_url": "https://www.a-muzu.com/item/C69704.html",
+      "source_url": "https://www.a-muzu.com/item/C69704.html",
+      "first_detected_at": "2026-05-19T00:58:38+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
+      "product_path": "products/standby-c69704.json"
+    },
+    {
+      "id": "standby-c69703",
+      "manufacturer_id": "standby",
+      "manufacturer_name": "スタンバイ",
+      "brand_name": null,
+      "series_name": null,
+      "product_name": "ちいさなめじるし ウミウシきらり",
+      "release_year": 2026,
+      "release_month": 7,
+      "release_week": null,
+      "release_date": null,
+      "preview_image_url": "https://www.a-muzu.com/client_info/FUNBOX01/itemimage/C69703/CT202607_%EF%BE%81%EF%BD%B2%EF%BD%BB%EF%BE%85%EF%BE%92%EF%BD%BC%EF%BE%9E%EF%BE%99%EF%BD%BC%EF%BD%B3%EF%BE%90%EF%BD%B3%EF%BD%BC%EF%BD%B7%EF%BE%97%EF%BE%98_w.jpg",
+      "preview_image_source_url": "https://www.a-muzu.com/item/C69703.html",
+      "price_yen": 200,
+      "variant_count": 4,
+      "jan_code": null,
+      "official_url": "https://www.a-muzu.com/item/C69703.html",
+      "source_url": "https://www.a-muzu.com/item/C69703.html",
+      "first_detected_at": "2026-05-19T00:58:38+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
+      "product_path": "products/standby-c69703.json"
+    },
+    {
+      "id": "standby-c69702",
+      "manufacturer_id": "standby",
+      "manufacturer_name": "スタンバイ",
+      "brand_name": null,
+      "series_name": null,
+      "product_name": "ちいさなめじるし カプチ～にゃ",
+      "release_year": 2026,
+      "release_month": 7,
+      "release_week": null,
+      "release_date": null,
+      "preview_image_url": "https://www.a-muzu.com/client_info/FUNBOX01/itemimage/C69702/CT202607_%EF%BE%81%EF%BD%B2%EF%BD%BB%EF%BE%85%EF%BE%92%EF%BD%BC%EF%BE%9E%EF%BE%99%EF%BD%BC%EF%BD%B6%EF%BE%8C%EF%BE%9F%EF%BE%81%EF%BD%B0%EF%BE%86%EF%BD%AC_w.jpg",
+      "preview_image_source_url": "https://www.a-muzu.com/item/C69702.html",
+      "price_yen": 200,
+      "variant_count": 5,
+      "jan_code": null,
+      "official_url": "https://www.a-muzu.com/item/C69702.html",
+      "source_url": "https://www.a-muzu.com/item/C69702.html",
+      "first_detected_at": "2026-05-19T00:58:38+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
+      "product_path": "products/standby-c69702.json"
+    },
+    {
+      "id": "standby-c69706",
+      "manufacturer_id": "standby",
+      "manufacturer_name": "スタンバイ",
+      "brand_name": null,
+      "series_name": null,
+      "product_name": "もっとちいさなめじるし ヤドカリ日和",
+      "release_year": 2026,
+      "release_month": 7,
+      "release_week": null,
+      "release_date": null,
+      "preview_image_url": "https://www.a-muzu.com/client_info/FUNBOX01/itemimage/C69706/CT202607_%EF%BE%93%EF%BD%AF%EF%BE%84%EF%BE%81%EF%BD%B2%EF%BD%BB%EF%BE%85%EF%BE%92%EF%BD%BC%EF%BE%9E%EF%BE%99%EF%BD%BC%EF%BE%94%EF%BE%84%EF%BE%9E%EF%BD%B6%EF%BE%98%EF%BE%8B%EF%BE%9E%EF%BE%96%EF%BE%98_w.jpg",
+      "preview_image_source_url": "https://www.a-muzu.com/item/C69706.html",
+      "price_yen": 200,
+      "variant_count": 5,
+      "jan_code": null,
+      "official_url": "https://www.a-muzu.com/item/C69706.html",
+      "source_url": "https://www.a-muzu.com/item/C69706.html",
+      "first_detected_at": "2026-05-19T00:58:38+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
+      "product_path": "products/standby-c69706.json"
+    },
+    {
+      "id": "standby-c69705",
+      "manufacturer_id": "standby",
+      "manufacturer_name": "スタンバイ",
+      "brand_name": null,
+      "series_name": null,
+      "product_name": "毛利一族家紋ブレスレット",
+      "release_year": 2026,
+      "release_month": 7,
+      "release_week": null,
+      "release_date": null,
+      "preview_image_url": "https://www.a-muzu.com/client_info/FUNBOX01/itemimage/C69705/CT202607_%EF%BE%93%EF%BD%B3%EF%BE%98%EF%BD%B2%EF%BE%81%EF%BD%BF%EF%BE%9E%EF%BD%B8%EF%BD%B6%EF%BE%93%EF%BE%9D%EF%BE%8C%EF%BE%9E%EF%BE%9A%EF%BD%BD%EF%BE%9A%EF%BD%AF%EF%BE%84_w.jpg",
+      "preview_image_source_url": "https://www.a-muzu.com/item/C69705.html",
+      "price_yen": 500,
+      "variant_count": 5,
+      "jan_code": null,
+      "official_url": "https://www.a-muzu.com/item/C69705.html",
+      "source_url": "https://www.a-muzu.com/item/C69705.html",
+      "first_detected_at": "2026-05-19T00:58:38+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
+      "product_path": "products/standby-c69705.json"
     },
     {
       "id": "toyscabin-20260406-1401",
@@ -529,7 +947,7 @@
       "official_url": "https://toyscabin.com/product/20260406_1401.php",
       "source_url": "https://toyscabin.com/product/20260406_1401.php",
       "first_detected_at": "2026-05-13T16:15:44+09:00",
-      "last_checked_at": "2026-05-18T18:00:53+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
       "product_path": "products/toyscabin-20260406-1401.json"
     },
     {
@@ -551,7 +969,7 @@
       "official_url": "https://toyscabin.com/product/20260406_1404.php",
       "source_url": "https://toyscabin.com/product/20260406_1404.php",
       "first_detected_at": "2026-05-13T16:15:44+09:00",
-      "last_checked_at": "2026-05-18T18:00:53+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
       "product_path": "products/toyscabin-20260406-1404.json"
     },
     {
@@ -573,7 +991,7 @@
       "official_url": "https://toyscabin.com/product/20260406_1405.php",
       "source_url": "https://toyscabin.com/product/20260406_1405.php",
       "first_detected_at": "2026-05-13T16:15:44+09:00",
-      "last_checked_at": "2026-05-18T18:00:53+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
       "product_path": "products/toyscabin-20260406-1405.json"
     },
     {
@@ -595,7 +1013,7 @@
       "official_url": "https://toyscabin.com/product/20260406_1403.php",
       "source_url": "https://toyscabin.com/product/20260406_1403.php",
       "first_detected_at": "2026-05-13T16:15:44+09:00",
-      "last_checked_at": "2026-05-18T18:00:53+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
       "product_path": "products/toyscabin-20260406-1403.json"
     },
     {
@@ -617,7 +1035,7 @@
       "official_url": "https://toyscabin.com/product/20260406_1406.php",
       "source_url": "https://toyscabin.com/product/20260406_1406.php",
       "first_detected_at": "2026-05-13T16:15:44+09:00",
-      "last_checked_at": "2026-05-18T18:00:53+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
       "product_path": "products/toyscabin-20260406-1406.json"
     },
     {
@@ -639,7 +1057,7 @@
       "official_url": "https://toyscabin.com/product/20260406_1402.php",
       "source_url": "https://toyscabin.com/product/20260406_1402.php",
       "first_detected_at": "2026-05-13T16:15:44+09:00",
-      "last_checked_at": "2026-05-18T18:00:53+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
       "product_path": "products/toyscabin-20260406-1402.json"
     },
     {
@@ -661,7 +1079,7 @@
       "official_url": "https://tokyo-yumeya.co.jp/goods/muziktigerphotoholder/",
       "source_url": "https://tokyo-yumeya.co.jp/goods/muziktigerphotoholder/",
       "first_detected_at": "2026-05-15T17:06:34+09:00",
-      "last_checked_at": "2026-05-18T18:00:53+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
       "product_path": "products/yumeya-muziktigerphotoholder.json"
     },
     {
@@ -683,7 +1101,7 @@
       "official_url": "https://tokyo-yumeya.co.jp/goods/peanuts-stamp/",
       "source_url": "https://tokyo-yumeya.co.jp/goods/peanuts-stamp/",
       "first_detected_at": "2026-05-15T17:06:34+09:00",
-      "last_checked_at": "2026-05-18T18:00:53+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
       "product_path": "products/yumeya-peanuts-stamp.json"
     },
     {
@@ -705,7 +1123,7 @@
       "official_url": "https://tokyo-yumeya.co.jp/goods/ojarumaruphonecharm/",
       "source_url": "https://tokyo-yumeya.co.jp/goods/ojarumaruphonecharm/",
       "first_detected_at": "2026-05-15T17:06:34+09:00",
-      "last_checked_at": "2026-05-18T18:00:53+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
       "product_path": "products/yumeya-ojarumaruphonecharm.json"
     },
     {
@@ -727,7 +1145,7 @@
       "official_url": "https://tokyo-yumeya.co.jp/goods/goochocokinchaku/",
       "source_url": "https://tokyo-yumeya.co.jp/goods/goochocokinchaku/",
       "first_detected_at": "2026-05-15T17:06:34+09:00",
-      "last_checked_at": "2026-05-18T18:00:53+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
       "product_path": "products/yumeya-goochocokinchaku.json"
     },
     {
@@ -749,7 +1167,7 @@
       "official_url": "https://tokyo-yumeya.co.jp/goods/gankototebag/",
       "source_url": "https://tokyo-yumeya.co.jp/goods/gankototebag/",
       "first_detected_at": "2026-05-15T17:06:34+09:00",
-      "last_checked_at": "2026-05-18T18:00:53+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
       "product_path": "products/yumeya-gankototebag.json"
     },
     {
@@ -771,7 +1189,7 @@
       "official_url": "https://tokyo-yumeya.co.jp/goods/chibimarukoyubiningyo/",
       "source_url": "https://tokyo-yumeya.co.jp/goods/chibimarukoyubiningyo/",
       "first_detected_at": "2026-05-15T17:06:34+09:00",
-      "last_checked_at": "2026-05-18T18:00:53+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
       "product_path": "products/yumeya-chibimarukoyubiningyo.json"
     },
     {
@@ -793,7 +1211,7 @@
       "official_url": "https://tokyo-yumeya.co.jp/goods/nikonikomejirushicharm/",
       "source_url": "https://tokyo-yumeya.co.jp/goods/nikonikomejirushicharm/",
       "first_detected_at": "2026-05-15T17:06:34+09:00",
-      "last_checked_at": "2026-05-18T18:00:53+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
       "product_path": "products/yumeya-nikonikomejirushicharm.json"
     },
     {
@@ -815,7 +1233,7 @@
       "official_url": "https://tokyo-yumeya.co.jp/goods/mokumokuchanphotoholder/",
       "source_url": "https://tokyo-yumeya.co.jp/goods/mokumokuchanphotoholder/",
       "first_detected_at": "2026-05-15T17:06:34+09:00",
-      "last_checked_at": "2026-05-18T18:00:53+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
       "product_path": "products/yumeya-mokumokuchanphotoholder.json"
     },
     {
@@ -837,7 +1255,7 @@
       "official_url": "https://tokyo-yumeya.co.jp/goods/keroppicharm/",
       "source_url": "https://tokyo-yumeya.co.jp/goods/keroppicharm/",
       "first_detected_at": "2026-05-15T17:06:34+09:00",
-      "last_checked_at": "2026-05-18T18:00:53+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
       "product_path": "products/yumeya-keroppicharm.json"
     },
     {
@@ -859,7 +1277,7 @@
       "official_url": "https://tokyo-yumeya.co.jp/goods/hapidanbuipochette2/",
       "source_url": "https://tokyo-yumeya.co.jp/goods/hapidanbuipochette2/",
       "first_detected_at": "2026-05-15T17:06:34+09:00",
-      "last_checked_at": "2026-05-18T18:00:53+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
       "product_path": "products/yumeya-hapidanbuipochette2.json"
     },
     {
@@ -881,7 +1299,7 @@
       "official_url": "https://tokyo-yumeya.co.jp/goods/sugarbunniespouch/",
       "source_url": "https://tokyo-yumeya.co.jp/goods/sugarbunniespouch/",
       "first_detected_at": "2026-05-15T17:06:34+09:00",
-      "last_checked_at": "2026-05-18T18:00:53+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
       "product_path": "products/yumeya-sugarbunniespouch.json"
     },
     {
@@ -903,7 +1321,7 @@
       "official_url": "https://tokyo-yumeya.co.jp/goods/kittynuiballchain3/",
       "source_url": "https://tokyo-yumeya.co.jp/goods/kittynuiballchain3/",
       "first_detected_at": "2026-05-15T17:06:34+09:00",
-      "last_checked_at": "2026-05-18T18:00:53+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
       "product_path": "products/yumeya-kittynuiballchain3.json"
     },
     {
@@ -925,7 +1343,7 @@
       "official_url": "https://tokyo-yumeya.co.jp/goods/pompompurincharm2/",
       "source_url": "https://tokyo-yumeya.co.jp/goods/pompompurincharm2/",
       "first_detected_at": "2026-05-15T17:06:34+09:00",
-      "last_checked_at": "2026-05-18T18:00:53+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
       "product_path": "products/yumeya-pompompurincharm2.json"
     },
     {
@@ -947,7 +1365,7 @@
       "official_url": "https://tokyo-yumeya.co.jp/goods/monchhichcharabina/",
       "source_url": "https://tokyo-yumeya.co.jp/goods/monchhichcharabina/",
       "first_detected_at": "2026-05-15T17:06:34+09:00",
-      "last_checked_at": "2026-05-18T18:00:53+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
       "product_path": "products/yumeya-monchhichcharabina.json"
     }
   ]

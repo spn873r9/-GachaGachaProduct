@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-05-18T18:25:13+09:00",
+  "generated_at": "2026-05-19T01:30:36+09:00",
   "year": 2015,
   "month": 12,
   "items": [
@@ -817,6 +817,28 @@
       "first_detected_at": "2026-05-14T16:31:22+09:00",
       "last_checked_at": "2026-05-14T16:31:22+09:00",
       "product_path": "products/bandai-gashapon-4549660029106000.json"
+    },
+    {
+      "id": "epoch-000000005-000016095",
+      "manufacturer_id": "epoch",
+      "manufacturer_name": "エポック",
+      "brand_name": null,
+      "series_name": "にゃんこキッチン",
+      "product_name": "にゃんこキッチン にゃんこ家電",
+      "release_year": 2015,
+      "release_month": 12,
+      "release_week": null,
+      "release_date": null,
+      "preview_image_url": "https://prtimes.jp/i/16095/5/resize/d16095-5-426622-0.jpg",
+      "preview_image_source_url": "https://prtimes.jp/main/html/rd/p/000000005.000016095.html",
+      "price_yen": 200,
+      "variant_count": 5,
+      "jan_code": null,
+      "official_url": "https://prtimes.jp/main/html/rd/p/000000005.000016095.html",
+      "source_url": "https://prtimes.jp/main/html/rd/p/000000005.000016095.html",
+      "first_detected_at": "2026-05-18T19:31:34+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
+      "product_path": "products/epoch-000000005-000016095.json"
     },
     {
       "id": "kitanclub-putitto-20",

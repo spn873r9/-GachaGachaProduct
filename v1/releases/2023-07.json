@@ -1,9 +1,53 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-05-18T18:25:13+09:00",
+  "generated_at": "2026-05-19T01:30:36+09:00",
   "year": 2023,
   "month": 7,
   "items": [
+    {
+      "id": "movic-04817-00603-00025",
+      "manufacturer_id": "movic",
+      "manufacturer_name": "ムービック",
+      "brand_name": "ムービック",
+      "series_name": null,
+      "product_name": "WIND BREAKER アニカプ（缶バッジ 全11種）",
+      "release_year": 2023,
+      "release_month": 7,
+      "release_week": null,
+      "release_date": "2023-07-07",
+      "preview_image_url": "https://d38cuxvdcwawa4.cloudfront.net/img/goods/L/04817-00603-00025.jpg",
+      "preview_image_source_url": "https://www.movic.jp/shop/g/g04817-00603-00025/",
+      "price_yen": 300,
+      "variant_count": 11,
+      "jan_code": "4549743743684",
+      "official_url": "https://www.movic.jp/shop/g/g04817-00603-00025/",
+      "source_url": "https://www.movic.jp/shop/g/g04817-00603-00025/",
+      "first_detected_at": "2026-05-18T07:37:57+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
+      "product_path": "products/movic-04817-00603-00025.json"
+    },
+    {
+      "id": "movic-04560-00603-00001",
+      "manufacturer_id": "movic",
+      "manufacturer_name": "ムービック",
+      "brand_name": "ムービック",
+      "series_name": null,
+      "product_name": "マフィア梶田と中村悠一の「わしゃがなTV」 アニカプ（缶バッジ 全13種）",
+      "release_year": 2023,
+      "release_month": 7,
+      "release_week": null,
+      "release_date": "2023-07-22",
+      "preview_image_url": "https://d38cuxvdcwawa4.cloudfront.net/img/goods/L/04560-00603-00001.jpg",
+      "preview_image_source_url": "https://www.movic.jp/shop/g/g04560-00603-00001/",
+      "price_yen": 300,
+      "variant_count": 13,
+      "jan_code": "4549743871349",
+      "official_url": "https://www.movic.jp/shop/g/g04560-00603-00001/",
+      "source_url": "https://www.movic.jp/shop/g/g04560-00603-00001/",
+      "first_detected_at": "2026-05-18T07:37:57+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
+      "product_path": "products/movic-04560-00603-00001.json"
+    },
     {
       "id": "proof-215473b0e128",
       "manufacturer_id": "proof",
@@ -23,7 +67,7 @@
       "official_url": "https://www.proof-toy.com/2023/07/10/%e3%81%ad%e3%81%93%e3%81%95%e3%82%93%e3%81%9f%e3%81%a1%e3%81%ae%e3%82%b1%e3%83%bc%e3%83%97%e3%80%80%e3%83%ac%e3%83%88%e3%83%ad%e3%81%8d%e3%81%a3%e3%81%95/",
       "source_url": "https://www.proof-toy.com/2023/07/10/%e3%81%ad%e3%81%93%e3%81%95%e3%82%93%e3%81%9f%e3%81%a1%e3%81%ae%e3%82%b1%e3%83%bc%e3%83%97%e3%80%80%e3%83%ac%e3%83%88%e3%83%ad%e3%81%8d%e3%81%a3%e3%81%95/",
       "first_detected_at": "2026-05-15T08:21:48+09:00",
-      "last_checked_at": "2026-05-18T18:00:53+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
       "product_path": "products/proof-215473b0e128.json"
     },
     {
@@ -45,7 +89,7 @@
       "official_url": "https://www.proof-toy.com/2023/07/24/%e3%81%b1%e3%81%8f%e3%81%a3%e3%81%a8%ef%bc%81%e5%90%9b%e8%89%b2%e3%81%99%e3%81%84%e3%81%9e%e3%81%8f%e3%81%8b%e3%82%93/",
       "source_url": "https://www.proof-toy.com/2023/07/24/%e3%81%b1%e3%81%8f%e3%81%a3%e3%81%a8%ef%bc%81%e5%90%9b%e8%89%b2%e3%81%99%e3%81%84%e3%81%9e%e3%81%8f%e3%81%8b%e3%82%93/",
       "first_detected_at": "2026-05-15T08:21:48+09:00",
-      "last_checked_at": "2026-05-18T18:00:53+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
       "product_path": "products/proof-4edc348a3de2.json"
     },
     {
@@ -2091,7 +2135,7 @@
       "official_url": "https://capsule.k2-st.co.jp/lineup/kikkoman_saihan/",
       "source_url": "https://capsule.k2-st.co.jp/lineup/kikkoman_saihan/",
       "first_detected_at": "2026-05-15T15:03:59+09:00",
-      "last_checked_at": "2026-05-18T18:00:53+09:00",
+      "last_checked_at": "2026-05-19T00:58:38+09:00",
       "product_path": "products/k2-station-kikkoman-saihan.json"
     },
     {
