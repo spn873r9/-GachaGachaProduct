@@ -1,0 +1,28 @@
+{
+  "id": "epoch-000000004-000016095",
+  "manufacturer_id": "epoch",
+  "manufacturer_name": "エポック",
+  "brand_name": null,
+  "series_name": null,
+  "product_name": "ちょこんとハシビロコウ",
+  "release_year": 2015,
+  "release_month": 11,
+  "release_week": null,
+  "release_date": null,
+  "preview_image_url": "https://prtimes.jp/i/16095/4/resize/d16095-4-715568-9.jpg",
+  "preview_image_source_url": "https://prtimes.jp/main/html/rd/p/000000004.000016095.html",
+  "price_yen": 200,
+  "variant_count": 8,
+  "jan_code": null,
+  "official_url": "https://prtimes.jp/main/html/rd/p/000000004.000016095.html",
+  "source_url": "https://prtimes.jp/main/html/rd/p/000000004.000016095.html",
+  "first_detected_at": "2026-05-19T02:38:45+09:00",
+  "last_checked_at": "2026-05-25T07:35:42+09:00",
+  "product_path": "products/epoch-000000004-000016095.json",
+  "copyright_notice": null,
+  "data_policy": {
+    "source_verified": true,
+    "uses_official_image": false,
+    "uses_official_description": false
+  }
+}

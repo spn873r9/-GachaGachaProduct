@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-05-19T01:30:36+09:00",
+  "generated_at": "2026-05-25T08:09:50+09:00",
   "year": 2023,
   "month": 1,
   "items": [
@@ -1765,6 +1765,28 @@
       "product_path": "products/bandai-gashapon-4549660951971000.json"
     },
     {
+      "id": "fukuya-b72644ab4a54",
+      "manufacturer_id": "fukuya",
+      "manufacturer_name": "フクヤ",
+      "brand_name": "大阪前田製菓5連ミニボーロ",
+      "series_name": "生活雑貨",
+      "product_name": "大阪前田製菓5連ミニボーロ シャカシャカミニチャーム",
+      "release_year": 2023,
+      "release_month": 1,
+      "release_week": null,
+      "release_date": null,
+      "preview_image_url": "https://www.fancy-fukuya.co.jp/mgr/wp-content/uploads/2022/12/6783acbf23b6b1784489507932a8190e-600x600.jpg",
+      "preview_image_source_url": "https://www.fancy-fukuya.co.jp/goods/gc/%e3%82%ab%e3%83%97%e3%82%bb%e3%83%ab%e3%83%88%e3%82%a4/page/10/",
+      "price_yen": null,
+      "variant_count": 5,
+      "jan_code": null,
+      "official_url": "https://www.fancy-fukuya.co.jp/goods/gc/%e3%82%ab%e3%83%97%e3%82%bb%e3%83%ab%e3%83%88%e3%82%a4/page/10/",
+      "source_url": "https://www.fancy-fukuya.co.jp/goods/gc/%e3%82%ab%e3%83%97%e3%82%bb%e3%83%ab%e3%83%88%e3%82%a4/page/10/",
+      "first_detected_at": "2026-05-19T02:10:45+09:00",
+      "last_checked_at": "2026-05-19T02:10:45+09:00",
+      "product_path": "products/fukuya-b72644ab4a54.json"
+    },
+    {
       "id": "funbox-126",
       "manufacturer_id": "funbox",
       "manufacturer_name": "funbox",
@@ -1783,8 +1805,30 @@
       "official_url": "https://machigacha.funbox.jp/case/126",
       "source_url": "https://machigacha.funbox.jp/case/126",
       "first_detected_at": "2026-05-15T08:21:48+09:00",
-      "last_checked_at": "2026-05-15T08:21:48+09:00",
+      "last_checked_at": "2026-05-19T02:14:02+09:00",
       "product_path": "products/funbox-126.json"
+    },
+    {
+      "id": "hma-ffd129077a61",
+      "manufacturer_id": "hma",
+      "manufacturer_name": "エイチエムエー",
+      "brand_name": "https://leolionni.jp/",
+      "series_name": null,
+      "product_name": "レオ・レオニズ フレンズ ピクチャーフィギュアコレクション",
+      "release_year": 2023,
+      "release_month": 1,
+      "release_week": null,
+      "release_date": null,
+      "preview_image_url": "https://hmatoys.net/wp-content/uploads/2025/12/048_llf_top.webp",
+      "preview_image_source_url": "https://hmatoys.net/product/%e3%83%ac%e3%82%aa%e3%83%bb%e3%83%ac%e3%82%aa%e3%83%8b%e3%82%ba-%e3%83%95%e3%83%ac%e3%83%b3%e3%82%ba-%e3%83%94%e3%82%af%e3%83%81%e3%83%a3%e3%83%bc%e3%83%95%e3%82%a3%e3%82%ae%e3%83%a5%e3%82%a2%e3%82%b3/",
+      "price_yen": 500,
+      "variant_count": 5,
+      "jan_code": null,
+      "official_url": "https://hmatoys.net/product/%e3%83%ac%e3%82%aa%e3%83%bb%e3%83%ac%e3%82%aa%e3%83%8b%e3%82%ba-%e3%83%95%e3%83%ac%e3%83%b3%e3%82%ba-%e3%83%94%e3%82%af%e3%83%81%e3%83%a3%e3%83%bc%e3%83%95%e3%82%a3%e3%82%ae%e3%83%a5%e3%82%a2%e3%82%b3/",
+      "source_url": "https://hmatoys.net/product/%e3%83%ac%e3%82%aa%e3%83%bb%e3%83%ac%e3%82%aa%e3%83%8b%e3%82%ba-%e3%83%95%e3%83%ac%e3%83%b3%e3%82%ba-%e3%83%94%e3%82%af%e3%83%81%e3%83%a3%e3%83%bc%e3%83%95%e3%82%a3%e3%82%ae%e3%83%a5%e3%82%a2%e3%82%b3/",
+      "first_detected_at": "2026-05-19T01:47:47+09:00",
+      "last_checked_at": "2026-05-19T01:47:47+09:00",
+      "product_path": "products/hma-ffd129077a61.json"
     },
     {
       "id": "k2-station-yakiniku",
@@ -1959,7 +2003,7 @@
       "official_url": "https://www.proof-toy.com/2023/01/14/%e3%81%86%e3%81%95%e3%81%8e%e3%81%95%e3%82%93%e3%81%ae%e3%82%b1%e3%83%bc%e3%83%97-%e3%83%a1%e3%83%ad%e3%83%87%e3%82%a3%e3%83%bc%e2%99%aa/",
       "source_url": "https://www.proof-toy.com/2023/01/14/%e3%81%86%e3%81%95%e3%81%8e%e3%81%95%e3%82%93%e3%81%ae%e3%82%b1%e3%83%bc%e3%83%97-%e3%83%a1%e3%83%ad%e3%83%87%e3%82%a3%e3%83%bc%e2%99%aa/",
       "first_detected_at": "2026-05-15T08:21:48+09:00",
-      "last_checked_at": "2026-05-19T00:58:38+09:00",
+      "last_checked_at": "2026-05-25T07:35:42+09:00",
       "product_path": "products/proof-8d429aed0ff9.json"
     },
     {
@@ -1981,7 +2025,7 @@
       "official_url": "https://www.proof-toy.com/2023/01/14/%e3%81%b1%e3%81%8f%e3%81%a3%e3%81%a8%ef%bc%81%e3%83%9e%e3%83%aa%e3%82%aa%e3%83%b3%e3%82%af%e3%83%ac%e3%83%bc%e3%83%97/",
       "source_url": "https://www.proof-toy.com/2023/01/14/%e3%81%b1%e3%81%8f%e3%81%a3%e3%81%a8%ef%bc%81%e3%83%9e%e3%83%aa%e3%82%aa%e3%83%b3%e3%82%af%e3%83%ac%e3%83%bc%e3%83%97/",
       "first_detected_at": "2026-05-15T08:21:48+09:00",
-      "last_checked_at": "2026-05-19T00:58:38+09:00",
+      "last_checked_at": "2026-05-25T07:35:42+09:00",
       "product_path": "products/proof-8436f82e7aec.json"
     },
     {
@@ -2489,6 +2533,28 @@
       "first_detected_at": "2026-05-13T19:05:49+09:00",
       "last_checked_at": "2026-05-13T19:05:49+09:00",
       "product_path": "products/toyscabin-20221012-524.json"
+    },
+    {
+      "id": "yumeya-mymeldykuromipouch",
+      "manufacturer_id": "yumeya",
+      "manufacturer_name": "夢屋",
+      "brand_name": null,
+      "series_name": null,
+      "product_name": "サンリオ マイメロ・クロミ バッグ風ポーチ（再販）",
+      "release_year": 2023,
+      "release_month": 1,
+      "release_week": null,
+      "release_date": null,
+      "preview_image_url": "https://tokyo-yumeya.co.jp/wp/wp-content/uploads/2022/11/mymelody-kuromi_pouch_DP04-400x466.jpg",
+      "preview_image_source_url": "https://tokyo-yumeya.co.jp/goods/mymeldykuromipouch/",
+      "price_yen": 300,
+      "variant_count": 4,
+      "jan_code": null,
+      "official_url": "https://tokyo-yumeya.co.jp/goods/mymeldykuromipouch/",
+      "source_url": "https://tokyo-yumeya.co.jp/goods/mymeldykuromipouch/",
+      "first_detected_at": "2026-05-19T01:47:47+09:00",
+      "last_checked_at": "2026-05-19T01:47:47+09:00",
+      "product_path": "products/yumeya-mymeldykuromipouch.json"
     }
   ]
 }

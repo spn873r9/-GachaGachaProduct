@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-05-19T01:30:36+09:00",
+  "generated_at": "2026-05-25T08:09:50+09:00",
   "year": 2015,
   "month": 7,
   "items": [
@@ -705,8 +705,30 @@
       "official_url": "https://hmatoys.net/product/%e3%83%9c%e3%83%83%e3%83%81%e3%81%8f%e3%82%93%e3%83%a9%e3%83%90%e3%83%bc%e3%83%9e%e3%82%b9%e3%82%b3%e3%83%83%e3%83%88%e3%80%90%e3%83%87%e3%83%a5%e3%83%a9%e3%83%a9%e3%83%a9x2-%e6%89%bf%e3%80%91/",
       "source_url": "https://hmatoys.net/product/%e3%83%9c%e3%83%83%e3%83%81%e3%81%8f%e3%82%93%e3%83%a9%e3%83%90%e3%83%bc%e3%83%9e%e3%82%b9%e3%82%b3%e3%83%83%e3%83%88%e3%80%90%e3%83%87%e3%83%a5%e3%83%a9%e3%83%a9%e3%83%a9x2-%e6%89%bf%e3%80%91/",
       "first_detected_at": "2026-05-15T16:54:18+09:00",
-      "last_checked_at": "2026-05-19T00:58:38+09:00",
+      "last_checked_at": "2026-05-25T07:35:42+09:00",
       "product_path": "products/hma-x2-c478816e.json"
+    },
+    {
+      "id": "kaiyodo-capsule-tindoubutuen",
+      "manufacturer_id": "kaiyodo",
+      "manufacturer_name": "海洋堂",
+      "brand_name": null,
+      "series_name": null,
+      "product_name": "珍獣動物園",
+      "release_year": 2015,
+      "release_month": 7,
+      "release_week": null,
+      "release_date": null,
+      "preview_image_url": "https://kaiyodo.co.jp/items/wp-content/uploads/sites/4/2016/04/unique_dp_fix1-300x300.jpg",
+      "preview_image_source_url": "https://kaiyodo.co.jp/items/capsule/page/2/",
+      "price_yen": 300,
+      "variant_count": 5,
+      "jan_code": null,
+      "official_url": "https://kaiyodo.co.jp/items/capsule/tindoubutuen/",
+      "source_url": "https://kaiyodo.co.jp/items/capsule/page/2/",
+      "first_detected_at": "2026-05-19T02:10:45+09:00",
+      "last_checked_at": "2026-05-19T02:10:45+09:00",
+      "product_path": "products/kaiyodo-capsule-tindoubutuen.json"
     },
     {
       "id": "kitanclub-putitto-08",

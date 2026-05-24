@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-05-19T01:30:36+09:00",
+  "generated_at": "2026-05-25T08:09:50+09:00",
   "year": 2018,
   "month": 3,
   "items": [
@@ -973,6 +973,28 @@
       "product_path": "products/bandai-gashapon-4549660234517000.json"
     },
     {
+      "id": "fukuya-cb81be310264",
+      "manufacturer_id": "fukuya",
+      "manufacturer_name": "フクヤ",
+      "brand_name": "ClariS",
+      "series_name": "生活雑貨",
+      "product_name": "ClariS ミニタオルコレクション",
+      "release_year": 2018,
+      "release_month": 3,
+      "release_week": null,
+      "release_date": null,
+      "preview_image_url": "https://www.fancy-fukuya.co.jp/mgr/wp-content/uploads/2018/03/claris_01-2.jpg",
+      "preview_image_source_url": "https://www.fancy-fukuya.co.jp/goods/gc/%e3%82%ab%e3%83%97%e3%82%bb%e3%83%ab%e3%83%88%e3%82%a4/page/11/",
+      "price_yen": null,
+      "variant_count": 9,
+      "jan_code": null,
+      "official_url": "https://www.fancy-fukuya.co.jp/goods/gc/%e3%82%ab%e3%83%97%e3%82%bb%e3%83%ab%e3%83%88%e3%82%a4/page/11/",
+      "source_url": "https://www.fancy-fukuya.co.jp/goods/gc/%e3%82%ab%e3%83%97%e3%82%bb%e3%83%ab%e3%83%88%e3%82%a4/page/11/",
+      "first_detected_at": "2026-05-19T02:10:45+09:00",
+      "last_checked_at": "2026-05-19T02:10:45+09:00",
+      "product_path": "products/fukuya-cb81be310264.json"
+    },
+    {
       "id": "kaiyodo-capsule-worldtank-germany",
       "manufacturer_id": "kaiyodo",
       "manufacturer_name": "海洋堂",
@@ -991,7 +1013,7 @@
       "official_url": "https://kaiyodo.co.jp/items/capsule/worldtank-germany/",
       "source_url": "https://kaiyodo.co.jp/items/capsule/",
       "first_detected_at": "2026-05-15T14:15:49+09:00",
-      "last_checked_at": "2026-05-19T00:58:38+09:00",
+      "last_checked_at": "2026-05-25T07:35:42+09:00",
       "product_path": "products/kaiyodo-capsule-worldtank-germany.json"
     },
     {
@@ -1013,7 +1035,7 @@
       "official_url": "https://kaiyodo.co.jp/items/capsule/dinosaur-skeleton/",
       "source_url": "https://kaiyodo.co.jp/items/capsule/",
       "first_detected_at": "2026-05-15T14:15:49+09:00",
-      "last_checked_at": "2026-05-19T00:58:38+09:00",
+      "last_checked_at": "2026-05-25T07:35:42+09:00",
       "product_path": "products/kaiyodo-capsule-dinosaur-skeleton.json"
     },
     {

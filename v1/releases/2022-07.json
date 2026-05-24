@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-05-19T01:30:36+09:00",
+  "generated_at": "2026-05-25T08:09:50+09:00",
   "year": 2022,
   "month": 7,
   "items": [
@@ -1761,7 +1761,7 @@
       "official_url": "https://www.ishikawa-toy.co.jp/service/products/index.html",
       "source_url": "https://www.ishikawa-toy.co.jp/service/products/index.html",
       "first_detected_at": "2026-05-15T14:15:49+09:00",
-      "last_checked_at": "2026-05-15T14:15:49+09:00",
+      "last_checked_at": "2026-05-25T07:35:42+09:00",
       "product_path": "products/ishikawa-toy-4905505453121.json"
     },
     {
@@ -1783,7 +1783,7 @@
       "official_url": "https://www.ishikawa-toy.co.jp/service/products/index.html",
       "source_url": "https://www.ishikawa-toy.co.jp/service/products/index.html",
       "first_detected_at": "2026-05-15T14:15:49+09:00",
-      "last_checked_at": "2026-05-15T14:15:49+09:00",
+      "last_checked_at": "2026-05-25T07:35:42+09:00",
       "product_path": "products/ishikawa-toy-4905505453138.json"
     },
     {
@@ -1805,7 +1805,7 @@
       "official_url": "https://kaiyodo.co.jp/items/capsule/kdcc09/",
       "source_url": "https://kaiyodo.co.jp/items/capsule/",
       "first_detected_at": "2026-05-15T14:15:49+09:00",
-      "last_checked_at": "2026-05-19T00:58:38+09:00",
+      "last_checked_at": "2026-05-25T07:35:42+09:00",
       "product_path": "products/kaiyodo-capsule-kdcc09.json"
     },
     {
@@ -2293,6 +2293,50 @@
       "product_path": "products/qualia-junkissa-nui.json"
     },
     {
+      "id": "sk-japan-vol-1-494a2843",
+      "manufacturer_id": "sk-japan",
+      "manufacturer_name": "エスケイジャパン",
+      "brand_name": null,
+      "series_name": null,
+      "product_name": "たべっ子水族館 ぷちぬいぐるみvol.1",
+      "release_year": 2022,
+      "release_month": 7,
+      "release_week": null,
+      "release_date": null,
+      "preview_image_url": "https://www.sk-japan.co.jp/wp-content/uploads/2022/06/%E3%81%9F%E3%81%B9%E3%81%A3%E5%AD%90%E6%B0%B4%E6%97%8F%E9%A4%A8%E3%81%B7%E3%81%A1%E3%81%AC%E3%81%84%E3%81%90%E3%82%8B%E3%81%BFvol.1%E2%80%BB7%E6%9C%8822%E6%97%A5%E4%BB%A5%E9%99%8D%E6%8E%B2%E8%BC%89%E5%B8%8C%E6%9C%9B.jpg",
+      "preview_image_source_url": "https://www.sk-japan.co.jp/capsule-toy/archive/%e3%81%9f%e3%81%b9%e3%81%a3%e5%ad%90%e6%b0%b4%e6%97%8f%e9%a4%a8-%e3%81%b7%e3%81%a1%e3%81%ac%e3%81%84%e3%81%90%e3%82%8b%e3%81%bfvol-1",
+      "price_yen": 400,
+      "variant_count": 4,
+      "jan_code": null,
+      "official_url": "https://www.sk-japan.co.jp/capsule-toy/archive/%e3%81%9f%e3%81%b9%e3%81%a3%e5%ad%90%e6%b0%b4%e6%97%8f%e9%a4%a8-%e3%81%b7%e3%81%a1%e3%81%ac%e3%81%84%e3%81%90%e3%82%8b%e3%81%bfvol-1",
+      "source_url": "https://www.sk-japan.co.jp/capsule-toy/archive/%e3%81%9f%e3%81%b9%e3%81%a3%e5%ad%90%e6%b0%b4%e6%97%8f%e9%a4%a8-%e3%81%b7%e3%81%a1%e3%81%ac%e3%81%84%e3%81%90%e3%82%8b%e3%81%bfvol-1",
+      "first_detected_at": "2026-05-19T02:14:02+09:00",
+      "last_checked_at": "2026-05-19T02:14:02+09:00",
+      "product_path": "products/sk-japan-vol-1-494a2843.json"
+    },
+    {
+      "id": "sk-japan-20510e1bc03f",
+      "manufacturer_id": "sk-japan",
+      "manufacturer_name": "エスケイジャパン",
+      "brand_name": null,
+      "series_name": null,
+      "product_name": "シルクモスキャットフィギュア",
+      "release_year": 2022,
+      "release_month": 7,
+      "release_week": null,
+      "release_date": null,
+      "preview_image_url": "https://www.sk-japan.co.jp/wp-content/uploads/2022/06/%E3%82%B7%E3%83%AB%E3%82%AF%E3%83%A2%E3%82%B9%E3%82%AD%E3%83%A3%E3%83%83%E3%83%88%E3%83%95%E3%82%A3%E3%82%AE%E3%83%A5%E3%82%A2%E2%80%BB7%E6%9C%8821%E6%97%A5%E4%BB%A5%E9%99%8D%E6%8E%B2%E8%BC%89%E5%B8%8C%E6%9C%9B.jpg",
+      "preview_image_source_url": "https://www.sk-japan.co.jp/capsule-toy/archive/%e3%82%b7%e3%83%ab%e3%82%af%e3%83%a2%e3%82%b9%e3%82%ad%e3%83%a3%e3%83%83%e3%83%88%e3%83%95%e3%82%a3%e3%82%ae%e3%83%a5%e3%82%a2",
+      "price_yen": 500,
+      "variant_count": 4,
+      "jan_code": null,
+      "official_url": "https://www.sk-japan.co.jp/capsule-toy/archive/%e3%82%b7%e3%83%ab%e3%82%af%e3%83%a2%e3%82%b9%e3%82%ad%e3%83%a3%e3%83%83%e3%83%88%e3%83%95%e3%82%a3%e3%82%ae%e3%83%a5%e3%82%a2",
+      "source_url": "https://www.sk-japan.co.jp/capsule-toy/archive/%e3%82%b7%e3%83%ab%e3%82%af%e3%83%a2%e3%82%b9%e3%82%ad%e3%83%a3%e3%83%83%e3%83%88%e3%83%95%e3%82%a3%e3%82%ae%e3%83%a5%e3%82%a2",
+      "first_detected_at": "2026-05-19T02:14:02+09:00",
+      "last_checked_at": "2026-05-19T02:14:02+09:00",
+      "product_path": "products/sk-japan-20510e1bc03f.json"
+    },
+    {
       "id": "stand-stones-nissan-rasheen",
       "manufacturer_id": "stand-stones",
       "manufacturer_name": "スタンド・ストーンズ",
@@ -2555,6 +2599,28 @@
       "first_detected_at": "2026-05-13T19:05:49+09:00",
       "last_checked_at": "2026-05-13T19:05:49+09:00",
       "product_path": "products/toyscabin-20220328-448.json"
+    },
+    {
+      "id": "yumeya-pompompurinpouch202602sai",
+      "manufacturer_id": "yumeya",
+      "manufacturer_name": "夢屋",
+      "brand_name": null,
+      "series_name": null,
+      "product_name": "サンリオ ポムポムプリン ポーチ（再販）",
+      "release_year": 2022,
+      "release_month": 7,
+      "release_week": null,
+      "release_date": null,
+      "preview_image_url": "https://tokyo-yumeya.co.jp/wp/wp-content/uploads/2022/05/pompompurin_pouch_DP_05hp-400x466.jpg",
+      "preview_image_source_url": "https://tokyo-yumeya.co.jp/goods/pompompurinpouch202602sai/",
+      "price_yen": 300,
+      "variant_count": 4,
+      "jan_code": null,
+      "official_url": "https://tokyo-yumeya.co.jp/goods/pompompurinpouch202602sai/",
+      "source_url": "https://tokyo-yumeya.co.jp/goods/pompompurinpouch202602sai/",
+      "first_detected_at": "2026-05-19T01:47:47+09:00",
+      "last_checked_at": "2026-05-19T01:47:47+09:00",
+      "product_path": "products/yumeya-pompompurinpouch202602sai.json"
     }
   ]
 }

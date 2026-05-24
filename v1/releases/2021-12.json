@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-05-19T01:30:36+09:00",
+  "generated_at": "2026-05-25T08:09:50+09:00",
   "year": 2021,
   "month": 12,
   "items": [
@@ -23,7 +23,7 @@
       "official_url": "https://www.arche.ne.jp/news/682",
       "source_url": "https://www.arche.ne.jp/news/682",
       "first_detected_at": "2026-05-18T22:32:37+09:00",
-      "last_checked_at": "2026-05-19T00:58:38+09:00",
+      "last_checked_at": "2026-05-25T07:35:42+09:00",
       "product_path": "products/arche-682.json"
     },
     {
@@ -45,7 +45,7 @@
       "official_url": "https://kaiyodo.co.jp/items/capsule/cqm137/",
       "source_url": "https://kaiyodo.co.jp/items/capsule/",
       "first_detected_at": "2026-05-15T14:15:49+09:00",
-      "last_checked_at": "2026-05-19T00:58:38+09:00",
+      "last_checked_at": "2026-05-25T07:35:42+09:00",
       "product_path": "products/kaiyodo-capsule-cqm137.json"
     },
     {
@@ -1387,7 +1387,7 @@
       "official_url": "https://kaiyodo.co.jp/items/capsule/cqm136/",
       "source_url": "https://kaiyodo.co.jp/items/capsule/",
       "first_detected_at": "2026-05-15T14:15:49+09:00",
-      "last_checked_at": "2026-05-19T00:58:38+09:00",
+      "last_checked_at": "2026-05-25T07:35:42+09:00",
       "product_path": "products/kaiyodo-capsule-cqm136.json"
     },
     {
@@ -1409,7 +1409,7 @@
       "official_url": "https://kaiyodo.co.jp/items/capsule/lisalarson03/",
       "source_url": "https://kaiyodo.co.jp/items/capsule/",
       "first_detected_at": "2026-05-15T14:15:49+09:00",
-      "last_checked_at": "2026-05-19T00:58:38+09:00",
+      "last_checked_at": "2026-05-25T07:35:42+09:00",
       "product_path": "products/kaiyodo-capsule-lisalarson03.json"
     },
     {

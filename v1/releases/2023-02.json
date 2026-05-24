@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-05-19T01:30:36+09:00",
+  "generated_at": "2026-05-25T08:09:50+09:00",
   "year": 2023,
   "month": 2,
   "items": [
@@ -23,7 +23,7 @@
       "official_url": "https://www.movic.jp/shop/g/g04941-00603-00006/",
       "source_url": "https://www.movic.jp/shop/g/g04941-00603-00006/",
       "first_detected_at": "2026-05-18T07:37:57+09:00",
-      "last_checked_at": "2026-05-19T00:58:38+09:00",
+      "last_checked_at": "2026-05-25T07:35:42+09:00",
       "product_path": "products/movic-04941-00603-00006.json"
     },
     {
@@ -45,7 +45,7 @@
       "official_url": "https://www.proof-toy.com/2023/02/13/%e3%81%ad%e3%81%93%e3%81%95%e3%82%93%e3%81%9f%e3%81%a1%e3%81%ae%e3%82%b1%e3%83%bc%e3%83%97-%e3%83%ac%e3%82%b9%e3%83%88%e3%83%a9%e3%83%b3/",
       "source_url": "https://www.proof-toy.com/2023/02/13/%e3%81%ad%e3%81%93%e3%81%95%e3%82%93%e3%81%9f%e3%81%a1%e3%81%ae%e3%82%b1%e3%83%bc%e3%83%97-%e3%83%ac%e3%82%b9%e3%83%88%e3%83%a9%e3%83%b3/",
       "first_detected_at": "2026-05-15T08:21:48+09:00",
-      "last_checked_at": "2026-05-19T00:58:38+09:00",
+      "last_checked_at": "2026-05-25T07:35:42+09:00",
       "product_path": "products/proof-7571c292aaab.json"
     },
     {
@@ -67,7 +67,7 @@
       "official_url": "https://www.proof-toy.com/2023/02/13/%e3%81%b1%e3%82%93%e3%81%a0%e3%81%95%e3%82%93%e3%81%ae%e3%82%b1%e3%83%bc%e3%83%97-%e3%83%ac%e3%83%88%e3%83%ad%e3%83%81%e3%83%a3%e3%82%a4%e3%83%8a/",
       "source_url": "https://www.proof-toy.com/2023/02/13/%e3%81%b1%e3%82%93%e3%81%a0%e3%81%95%e3%82%93%e3%81%ae%e3%82%b1%e3%83%bc%e3%83%97-%e3%83%ac%e3%83%88%e3%83%ad%e3%83%81%e3%83%a3%e3%82%a4%e3%83%8a/",
       "first_detected_at": "2026-05-15T08:21:48+09:00",
-      "last_checked_at": "2026-05-19T00:58:38+09:00",
+      "last_checked_at": "2026-05-25T07:35:42+09:00",
       "product_path": "products/proof-36220980d12a.json"
     },
     {
@@ -89,7 +89,7 @@
       "official_url": "https://www.movic.jp/shop/g/g04673-00603-00173/",
       "source_url": "https://www.movic.jp/shop/g/g04673-00603-00173/",
       "first_detected_at": "2026-05-18T07:37:57+09:00",
-      "last_checked_at": "2026-05-19T00:58:38+09:00",
+      "last_checked_at": "2026-05-25T07:35:42+09:00",
       "product_path": "products/movic-04673-00603-00173.json"
     },
     {
@@ -1721,6 +1721,28 @@
       "product_path": "products/bandai-gashapon-4570117962813000.json"
     },
     {
+      "id": "fukuya-3d3ad2423c32",
+      "manufacturer_id": "fukuya",
+      "manufacturer_name": "フクヤ",
+      "brand_name": "イレギュラーダイス",
+      "series_name": "生活雑貨",
+      "product_name": "イレギュラーダイス（いれいす） ラバーマスコット2",
+      "release_year": 2023,
+      "release_month": 2,
+      "release_week": null,
+      "release_date": null,
+      "preview_image_url": "https://www.fancy-fukuya.co.jp/mgr/wp-content/uploads/2023/01/42614e64df905a9c0b59742c63c12ac6-600x600.jpg",
+      "preview_image_source_url": "https://www.fancy-fukuya.co.jp/goods/gc/%e3%82%ab%e3%83%97%e3%82%bb%e3%83%ab%e3%83%88%e3%82%a4/page/10/",
+      "price_yen": null,
+      "variant_count": 6,
+      "jan_code": null,
+      "official_url": "https://www.fancy-fukuya.co.jp/goods/gc/%e3%82%ab%e3%83%97%e3%82%bb%e3%83%ab%e3%83%88%e3%82%a4/page/10/",
+      "source_url": "https://www.fancy-fukuya.co.jp/goods/gc/%e3%82%ab%e3%83%97%e3%82%bb%e3%83%ab%e3%83%88%e3%82%a4/page/10/",
+      "first_detected_at": "2026-05-19T02:10:45+09:00",
+      "last_checked_at": "2026-05-19T02:10:45+09:00",
+      "product_path": "products/fukuya-3d3ad2423c32.json"
+    },
+    {
       "id": "kitanclub-mofusand-maritozzo",
       "manufacturer_id": "kitanclub",
       "manufacturer_name": "キタンクラブ",
@@ -2049,6 +2071,72 @@
       "first_detected_at": "2026-05-13T19:05:49+09:00",
       "last_checked_at": "2026-05-13T22:42:41+09:00",
       "product_path": "products/qualia-yakudo-kan-pudding-mf.json"
+    },
+    {
+      "id": "sk-japan-2023-02-2",
+      "manufacturer_id": "sk-japan",
+      "manufacturer_name": "エスケイジャパン",
+      "brand_name": null,
+      "series_name": null,
+      "product_name": "たべっ子どうぶつ すやすやフィギュアvol.2",
+      "release_year": 2023,
+      "release_month": 2,
+      "release_week": null,
+      "release_date": null,
+      "preview_image_url": "https://www.sk-japan.co.jp/wp-content/uploads/2023/01/td_syfigure2_dppop.jpg",
+      "preview_image_source_url": "https://www.sk-japan.co.jp/capsule-toy/archive/2023-02-2",
+      "price_yen": 300,
+      "variant_count": 5,
+      "jan_code": null,
+      "official_url": "https://www.sk-japan.co.jp/capsule-toy/archive/2023-02-2",
+      "source_url": "https://www.sk-japan.co.jp/capsule-toy/archive/2023-02-2",
+      "first_detected_at": "2026-05-19T02:14:02+09:00",
+      "last_checked_at": "2026-05-19T02:14:02+09:00",
+      "product_path": "products/sk-japan-2023-02-2.json"
+    },
+    {
+      "id": "sk-japan-cp-2024-02-02",
+      "manufacturer_id": "sk-japan",
+      "manufacturer_name": "エスケイジャパン",
+      "brand_name": null,
+      "series_name": null,
+      "product_name": "サラブレッドコレクション ぷちぬいぐるみピックアップ5",
+      "release_year": 2023,
+      "release_month": 2,
+      "release_week": null,
+      "release_date": null,
+      "preview_image_url": "https://www.sk-japan.co.jp/wp-content/uploads/2024/01/%E3%82%B5%E3%83%A9%E3%83%96%E3%83%AC%E3%83%83%E3%83%89%E3%82%B3%E3%83%AC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3_%E3%81%B7%E3%81%A1%E3%81%AC%E3%81%84%E3%81%90%E3%82%8B%E3%81%BF_%E3%83%94%E3%83%83%E3%82%AF%E3%82%A2%E3%83%83%E3%83%97%E3%83%95%E3%82%A1%E3%82%A4%E3%83%96_DPPOP.jpg",
+      "preview_image_source_url": "https://www.sk-japan.co.jp/capsule-toy/archive/cp-2024-02-02",
+      "price_yen": 500,
+      "variant_count": 5,
+      "jan_code": null,
+      "official_url": "https://www.sk-japan.co.jp/capsule-toy/archive/cp-2024-02-02",
+      "source_url": "https://www.sk-japan.co.jp/capsule-toy/archive/cp-2024-02-02",
+      "first_detected_at": "2026-05-19T02:14:02+09:00",
+      "last_checked_at": "2026-05-19T02:14:02+09:00",
+      "product_path": "products/sk-japan-cp-2024-02-02.json"
+    },
+    {
+      "id": "sk-japan-2023-02-1",
+      "manufacturer_id": "sk-japan",
+      "manufacturer_name": "エスケイジャパン",
+      "brand_name": null,
+      "series_name": null,
+      "product_name": "シモジマ ストップペイルメタルチャーム",
+      "release_year": 2023,
+      "release_month": 2,
+      "release_week": null,
+      "release_date": null,
+      "preview_image_url": "https://www.sk-japan.co.jp/wp-content/uploads/2023/01/%E3%82%B7%E3%83%A2%E3%82%B8%E3%83%9E_%E3%82%B9%E3%83%88%E3%83%83%E3%83%97%E3%83%9A%E3%82%A4%E3%83%AB%E3%83%A1%E3%82%BF%E3%83%AB%E3%83%81%E3%83%A3%E3%83%BC%E3%83%A0_DPPOP.jpg",
+      "preview_image_source_url": "https://www.sk-japan.co.jp/capsule-toy/archive/2023-02-1",
+      "price_yen": 400,
+      "variant_count": 5,
+      "jan_code": null,
+      "official_url": "https://www.sk-japan.co.jp/capsule-toy/archive/2023-02-1",
+      "source_url": "https://www.sk-japan.co.jp/capsule-toy/archive/2023-02-1",
+      "first_detected_at": "2026-05-19T02:14:02+09:00",
+      "last_checked_at": "2026-05-19T02:14:02+09:00",
+      "product_path": "products/sk-japan-2023-02-1.json"
     },
     {
       "id": "stand-stones-ccc9",

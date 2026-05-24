@@ -1,9 +1,31 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-05-19T01:30:36+09:00",
+  "generated_at": "2026-05-25T08:09:50+09:00",
   "year": 2014,
   "month": 4,
   "items": [
+    {
+      "id": "kaiyodo-capsule-worldtank2",
+      "manufacturer_id": "kaiyodo",
+      "manufacturer_name": "海洋堂",
+      "brand_name": null,
+      "series_name": null,
+      "product_name": "ワールドタンクデフォルメ2［WWII名戦車編］ 全10種（5車種×2色）/1回400円",
+      "release_year": 2014,
+      "release_month": 4,
+      "release_week": null,
+      "release_date": "2014-04-20",
+      "preview_image_url": "https://kaiyodo.co.jp/items/wp-content/uploads/sites/4/2016/07/%E7%B9%9D%C2%80%E7%B9%A7%EF%BD%A6%E7%B9%9D%EF%BD%B3%E7%B9%9D%EF%BD%AD%E7%B9%9D%EF%BD%BC%E7%B9%9D%E3%83%BB11.jpg",
+      "preview_image_source_url": "https://kaiyodo.co.jp/items/capsule/page/2/",
+      "price_yen": 400,
+      "variant_count": 10,
+      "jan_code": null,
+      "official_url": "https://kaiyodo.co.jp/items/capsule/worldtank2/",
+      "source_url": "https://kaiyodo.co.jp/items/capsule/page/2/",
+      "first_detected_at": "2026-05-19T02:10:45+09:00",
+      "last_checked_at": "2026-05-19T02:10:45+09:00",
+      "product_path": "products/kaiyodo-capsule-worldtank2.json"
+    },
     {
       "id": "bandai-gashapon-4543112850690000",
       "manufacturer_id": "bandai-gashapon",

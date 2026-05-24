@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-05-19T01:30:36+09:00",
+  "generated_at": "2026-05-25T08:09:50+09:00",
   "year": 2017,
   "month": 7,
   "items": [
@@ -663,6 +663,28 @@
       "first_detected_at": "2026-05-14T16:31:22+09:00",
       "last_checked_at": "2026-05-14T16:31:22+09:00",
       "product_path": "products/bandai-gashapon-4549660180975000.json"
+    },
+    {
+      "id": "hma-95e5e986595a",
+      "manufacturer_id": "hma",
+      "manufacturer_name": "エイチエムエー",
+      "brand_name": "http://www.ytv.co.jp/conan/",
+      "series_name": null,
+      "product_name": "名探偵コナン ラバーパスケース",
+      "release_year": 2017,
+      "release_month": 7,
+      "release_week": null,
+      "release_date": null,
+      "preview_image_url": "https://hmatoys.net/wp-content/uploads/2025/12/076_Info_Konan_passcase.webp",
+      "preview_image_source_url": "https://hmatoys.net/product/%e5%90%8d%e6%8e%a2%e5%81%b5%e3%82%b3%e3%83%8a%e3%83%b3-%e3%83%a9%e3%83%90%e3%83%bc%e3%83%91%e3%82%b9%e3%82%b1%e3%83%bc%e3%82%b9/",
+      "price_yen": 1000,
+      "variant_count": null,
+      "jan_code": null,
+      "official_url": "https://hmatoys.net/product/%e5%90%8d%e6%8e%a2%e5%81%b5%e3%82%b3%e3%83%8a%e3%83%b3-%e3%83%a9%e3%83%90%e3%83%bc%e3%83%91%e3%82%b9%e3%82%b1%e3%83%bc%e3%82%b9/",
+      "source_url": "https://hmatoys.net/product/%e5%90%8d%e6%8e%a2%e5%81%b5%e3%82%b3%e3%83%8a%e3%83%b3-%e3%83%a9%e3%83%90%e3%83%bc%e3%83%91%e3%82%b9%e3%82%b1%e3%83%bc%e3%82%b9/",
+      "first_detected_at": "2026-05-19T01:47:47+09:00",
+      "last_checked_at": "2026-05-19T01:47:47+09:00",
+      "product_path": "products/hma-95e5e986595a.json"
     },
     {
       "id": "kitanclub-nekoaquarium",

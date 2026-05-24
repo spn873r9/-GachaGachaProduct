@@ -1,9 +1,31 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-05-19T01:30:36+09:00",
+  "generated_at": "2026-05-25T08:09:50+09:00",
   "year": 2013,
   "month": 12,
   "items": [
+    {
+      "id": "kaiyodo-capsule-artpiece",
+      "manufacturer_id": "kaiyodo",
+      "manufacturer_name": "海洋堂",
+      "brand_name": null,
+      "series_name": null,
+      "product_name": "カプセルQミュージアム 岡本太郎アートピース集2 祝祭の復活",
+      "release_year": 2013,
+      "release_month": 12,
+      "release_week": null,
+      "release_date": "2013-12-20",
+      "preview_image_url": "https://kaiyodo.co.jp/items/wp-content/uploads/sites/4/2012/12/dp_piece2_a-300x300.jpg",
+      "preview_image_source_url": "https://kaiyodo.co.jp/items/capsule/page/2/",
+      "price_yen": 400,
+      "variant_count": 9,
+      "jan_code": null,
+      "official_url": "https://kaiyodo.co.jp/items/capsule/artpiece/",
+      "source_url": "https://kaiyodo.co.jp/items/capsule/page/2/",
+      "first_detected_at": "2026-05-19T02:10:45+09:00",
+      "last_checked_at": "2026-05-19T02:10:45+09:00",
+      "product_path": "products/kaiyodo-capsule-artpiece.json"
+    },
     {
       "id": "kitanclub-kuitometanya",
       "manufacturer_id": "kitanclub",

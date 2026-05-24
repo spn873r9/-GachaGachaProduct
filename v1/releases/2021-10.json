@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-05-19T01:30:36+09:00",
+  "generated_at": "2026-05-25T08:09:50+09:00",
   "year": 2021,
   "month": 10,
   "items": [
@@ -1343,8 +1343,30 @@
       "official_url": "https://machigacha.funbox.jp/case/243",
       "source_url": "https://machigacha.funbox.jp/case/243",
       "first_detected_at": "2026-05-15T08:21:48+09:00",
-      "last_checked_at": "2026-05-15T08:21:48+09:00",
+      "last_checked_at": "2026-05-19T02:14:02+09:00",
       "product_path": "products/funbox-243.json"
+    },
+    {
+      "id": "hma-pui-pui-vol-2-0d0e4af1",
+      "manufacturer_id": "hma",
+      "manufacturer_name": "エイチエムエー",
+      "brand_name": "https://molcar-anime.com/",
+      "series_name": null,
+      "product_name": "PUI PUI モルカー フロッキーソフビフィギュア VOL.2",
+      "release_year": 2021,
+      "release_month": 10,
+      "release_week": null,
+      "release_date": null,
+      "preview_image_url": "https://hmatoys.net/wp-content/uploads/2025/12/057_mlc_sf02_top.webp",
+      "preview_image_source_url": "https://hmatoys.net/product/pui-pui-%e3%83%a2%e3%83%ab%e3%82%ab%e3%83%bc-%e3%83%95%e3%83%ad%e3%83%83%e3%82%ad%e3%83%bc%e3%82%bd%e3%83%95%e3%83%93%e3%83%95%e3%82%a3%e3%82%ae%e3%83%a5%e3%82%a2-vol-2/",
+      "price_yen": 400,
+      "variant_count": null,
+      "jan_code": null,
+      "official_url": "https://hmatoys.net/product/pui-pui-%e3%83%a2%e3%83%ab%e3%82%ab%e3%83%bc-%e3%83%95%e3%83%ad%e3%83%83%e3%82%ad%e3%83%bc%e3%82%bd%e3%83%95%e3%83%93%e3%83%95%e3%82%a3%e3%82%ae%e3%83%a5%e3%82%a2-vol-2/",
+      "source_url": "https://hmatoys.net/product/pui-pui-%e3%83%a2%e3%83%ab%e3%82%ab%e3%83%bc-%e3%83%95%e3%83%ad%e3%83%83%e3%82%ad%e3%83%bc%e3%82%bd%e3%83%95%e3%83%93%e3%83%95%e3%82%a3%e3%82%ae%e3%83%a5%e3%82%a2-vol-2/",
+      "first_detected_at": "2026-05-19T01:47:47+09:00",
+      "last_checked_at": "2026-05-19T01:47:47+09:00",
+      "product_path": "products/hma-pui-pui-vol-2-0d0e4af1.json"
     },
     {
       "id": "kitanclub-nekojitatake",

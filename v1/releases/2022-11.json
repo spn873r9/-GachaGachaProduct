@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-05-19T01:30:36+09:00",
+  "generated_at": "2026-05-25T08:09:50+09:00",
   "year": 2022,
   "month": 11,
   "items": [
@@ -23,7 +23,7 @@
       "official_url": "https://www.movic.jp/shop/g/g01870-00603-00631/",
       "source_url": "https://www.movic.jp/shop/g/g01870-00603-00631/",
       "first_detected_at": "2026-05-18T07:37:57+09:00",
-      "last_checked_at": "2026-05-19T00:58:38+09:00",
+      "last_checked_at": "2026-05-25T07:35:42+09:00",
       "product_path": "products/movic-01870-00603-00631.json"
     },
     {
@@ -2051,6 +2051,28 @@
       "product_path": "products/bandai-gashapon-4549660786177000.json"
     },
     {
+      "id": "benelic-11-shaky-peanuts-2-0523c58c",
+      "manufacturer_id": "benelic",
+      "manufacturer_name": "ベネリック",
+      "brand_name": null,
+      "series_name": null,
+      "product_name": "Shaky! ピーナッツ バブルヘッドドールPart2（全5種類）",
+      "release_year": 2022,
+      "release_month": 11,
+      "release_week": null,
+      "release_date": null,
+      "preview_image_url": "https://benelic.com/capsuletoy/wp-content/uploads/2022/11/28193627/1969770553.jpg",
+      "preview_image_source_url": "https://benelic.com/capsuletoy/news/11%e6%9c%88%e4%b8%8b%e6%97%ac%e7%99%ba%e5%a3%b2%e3%80%8cshaky%e3%80%8d%e3%80%8epeanuts%e3%80%8f%e3%83%91%e3%83%bc%e3%83%882/",
+      "price_yen": 500,
+      "variant_count": 5,
+      "jan_code": null,
+      "official_url": "https://benelic.com/capsuletoy/news/11%e6%9c%88%e4%b8%8b%e6%97%ac%e7%99%ba%e5%a3%b2%e3%80%8cshaky%e3%80%8d%e3%80%8epeanuts%e3%80%8f%e3%83%91%e3%83%bc%e3%83%882/",
+      "source_url": "https://benelic.com/capsuletoy/news/11%e6%9c%88%e4%b8%8b%e6%97%ac%e7%99%ba%e5%a3%b2%e3%80%8cshaky%e3%80%8d%e3%80%8epeanuts%e3%80%8f%e3%83%91%e3%83%bc%e3%83%882/",
+      "first_detected_at": "2026-05-19T02:10:45+09:00",
+      "last_checked_at": "2026-05-19T02:10:45+09:00",
+      "product_path": "products/benelic-11-shaky-peanuts-2-0523c58c.json"
+    },
+    {
       "id": "k2-station-asakusa",
       "manufacturer_id": "k2-station",
       "manufacturer_name": "ケーツーステーション",
@@ -2289,7 +2311,7 @@
       "official_url": "https://www.proof-toy.com/2022/11/27/%e3%81%ad%e3%81%93%e3%81%95%e3%82%93%e3%81%ae%e3%82%b1%e3%83%bc%e3%83%97-%e3%82%af%e3%83%aa%e3%82%b9%e3%83%9e%e3%82%b9%e3%83%81%e3%83%a3%e3%83%9a%e3%83%ab/",
       "source_url": "https://www.proof-toy.com/2022/11/27/%e3%81%ad%e3%81%93%e3%81%95%e3%82%93%e3%81%ae%e3%82%b1%e3%83%bc%e3%83%97-%e3%82%af%e3%83%aa%e3%82%b9%e3%83%9e%e3%82%b9%e3%83%81%e3%83%a3%e3%83%9a%e3%83%ab/",
       "first_detected_at": "2026-05-15T08:21:48+09:00",
-      "last_checked_at": "2026-05-19T00:58:38+09:00",
+      "last_checked_at": "2026-05-25T07:35:42+09:00",
       "product_path": "products/proof-97b085b76d69.json"
     },
     {
@@ -2555,6 +2577,50 @@
       "first_detected_at": "2026-05-13T19:05:49+09:00",
       "last_checked_at": "2026-05-13T22:42:41+09:00",
       "product_path": "products/qualia-iruma-kun-rm.json"
+    },
+    {
+      "id": "sk-japan-eb465bf6cba3",
+      "manufacturer_id": "sk-japan",
+      "manufacturer_name": "エスケイジャパン",
+      "brand_name": null,
+      "series_name": null,
+      "product_name": "ちみも ソフビマスコット",
+      "release_year": 2022,
+      "release_month": 11,
+      "release_week": null,
+      "release_date": null,
+      "preview_image_url": "https://www.sk-japan.co.jp/wp-content/uploads/2022/10/tmm_sfbmc_dppop%E2%80%BB11%E6%9C%8825%E6%97%A5%E6%8E%B2%E8%BC%89%E5%B8%8C%E6%9C%9B.jpg",
+      "preview_image_source_url": "https://www.sk-japan.co.jp/capsule-toy/archive/%e3%81%a1%e3%81%bf%e3%82%82-%e3%82%bd%e3%83%95%e3%83%93%e3%83%9e%e3%82%b9%e3%82%b3%e3%83%83%e3%83%88",
+      "price_yen": 300,
+      "variant_count": 5,
+      "jan_code": null,
+      "official_url": "https://www.sk-japan.co.jp/capsule-toy/archive/%e3%81%a1%e3%81%bf%e3%82%82-%e3%82%bd%e3%83%95%e3%83%93%e3%83%9e%e3%82%b9%e3%82%b3%e3%83%83%e3%83%88",
+      "source_url": "https://www.sk-japan.co.jp/capsule-toy/archive/%e3%81%a1%e3%81%bf%e3%82%82-%e3%82%bd%e3%83%95%e3%83%93%e3%83%9e%e3%82%b9%e3%82%b3%e3%83%83%e3%83%88",
+      "first_detected_at": "2026-05-19T02:14:02+09:00",
+      "last_checked_at": "2026-05-19T02:14:02+09:00",
+      "product_path": "products/sk-japan-eb465bf6cba3.json"
+    },
+    {
+      "id": "sk-japan-2-3bc66c72",
+      "manufacturer_id": "sk-japan",
+      "manufacturer_name": "エスケイジャパン",
+      "brand_name": null,
+      "series_name": null,
+      "product_name": "ギンビス マスコットチャーム",
+      "release_year": 2022,
+      "release_month": 11,
+      "release_week": null,
+      "release_date": null,
+      "preview_image_url": "https://www.sk-japan.co.jp/wp-content/uploads/2022/10/%E3%82%AE%E3%83%B3%E3%83%93%E3%82%B9_%E3%83%9E%E3%82%B9%E3%82%B3%E3%83%83%E3%83%88%E3%83%81%E3%83%A3%E3%83%BC%E3%83%A0_DPPOP%E2%80%BB11%E6%9C%8822%E6%97%A5%E6%8E%B2%E8%BC%89%E5%B8%8C%E6%9C%9B.jpg",
+      "preview_image_source_url": "https://www.sk-japan.co.jp/capsule-toy/archive/%e3%82%ae%e3%83%b3%e3%83%93%e3%82%b9-%e3%83%9e%e3%82%b9%e3%82%b3%e3%83%83%e3%83%88%e3%83%81%e3%83%a3%e3%83%bc%e3%83%a0-2",
+      "price_yen": 300,
+      "variant_count": 5,
+      "jan_code": null,
+      "official_url": "https://www.sk-japan.co.jp/capsule-toy/archive/%e3%82%ae%e3%83%b3%e3%83%93%e3%82%b9-%e3%83%9e%e3%82%b9%e3%82%b3%e3%83%83%e3%83%88%e3%83%81%e3%83%a3%e3%83%bc%e3%83%a0-2",
+      "source_url": "https://www.sk-japan.co.jp/capsule-toy/archive/%e3%82%ae%e3%83%b3%e3%83%93%e3%82%b9-%e3%83%9e%e3%82%b9%e3%82%b3%e3%83%83%e3%83%88%e3%83%81%e3%83%a3%e3%83%bc%e3%83%a0-2",
+      "first_detected_at": "2026-05-19T02:14:02+09:00",
+      "last_checked_at": "2026-05-19T02:14:02+09:00",
+      "product_path": "products/sk-japan-2-3bc66c72.json"
     },
     {
       "id": "stand-stones-taft",

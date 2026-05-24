@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-05-19T01:30:36+09:00",
+  "generated_at": "2026-05-25T08:09:50+09:00",
   "year": 2014,
   "month": 12,
   "items": [
@@ -729,6 +729,28 @@
       "first_detected_at": "2026-05-14T16:31:22+09:00",
       "last_checked_at": "2026-05-14T16:31:22+09:00",
       "product_path": "products/bandai-gashapon-4543112900098000.json"
+    },
+    {
+      "id": "kaiyodo-capsule-japan-animal-collection-8",
+      "manufacturer_id": "kaiyodo",
+      "manufacturer_name": "海洋堂",
+      "brand_name": null,
+      "series_name": null,
+      "product_name": "カプセルQミュージアム 日本の動物コレクション8 日本アルプス/雷鳥が棲む岳",
+      "release_year": 2014,
+      "release_month": 12,
+      "release_week": null,
+      "release_date": null,
+      "preview_image_url": "https://kaiyodo.co.jp/items/wp-content/uploads/sites/4/2014/12/capqanima6dp1.jpg",
+      "preview_image_source_url": "https://kaiyodo.co.jp/items/capsule/page/2/",
+      "price_yen": 300,
+      "variant_count": 7,
+      "jan_code": null,
+      "official_url": "https://kaiyodo.co.jp/items/capsule/japan_animal_collection_8/",
+      "source_url": "https://kaiyodo.co.jp/items/capsule/page/2/",
+      "first_detected_at": "2026-05-19T02:10:45+09:00",
+      "last_checked_at": "2026-05-19T02:10:45+09:00",
+      "product_path": "products/kaiyodo-capsule-japan-animal-collection-8.json"
     },
     {
       "id": "kitanclub-putitto-02",
