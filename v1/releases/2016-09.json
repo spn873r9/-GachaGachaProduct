@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-05-25T08:09:50+09:00",
+  "generated_at": "2026-06-01T10:30:57+09:00",
   "year": 2016,
   "month": 9,
   "items": [
@@ -1103,6 +1103,50 @@
       "first_detected_at": "2026-05-14T11:01:55+09:00",
       "last_checked_at": "2026-05-14T11:01:55+09:00",
       "product_path": "products/takaratomy-arts-y836121.json"
+    },
+    {
+      "id": "yumeya-bcb523cd3c5e",
+      "manufacturer_id": "yumeya",
+      "manufacturer_name": "夢屋",
+      "brand_name": null,
+      "series_name": null,
+      "product_name": "寿司 巾着コレクション",
+      "release_year": 2016,
+      "release_month": 9,
+      "release_week": null,
+      "release_date": null,
+      "preview_image_url": "https://tokyo-yumeya.co.jp/wp/wp-content/uploads/2016/08/b021e162b778a43af2cf5ee43ab2ccc0-400x466.jpg",
+      "preview_image_source_url": "https://tokyo-yumeya.co.jp/goods/%e5%af%bf%e5%8f%b8%e3%80%80%e5%b7%be%e7%9d%80%e3%82%b3%e3%83%ac%e3%82%af%e3%82%b7%e3%83%a7%e3%83%b3/",
+      "price_yen": 300,
+      "variant_count": 4,
+      "jan_code": null,
+      "official_url": "https://tokyo-yumeya.co.jp/goods/%e5%af%bf%e5%8f%b8%e3%80%80%e5%b7%be%e7%9d%80%e3%82%b3%e3%83%ac%e3%82%af%e3%82%b7%e3%83%a7%e3%83%b3/",
+      "source_url": "https://tokyo-yumeya.co.jp/goods/%e5%af%bf%e5%8f%b8%e3%80%80%e5%b7%be%e7%9d%80%e3%82%b3%e3%83%ac%e3%82%af%e3%82%b7%e3%83%a7%e3%83%b3/",
+      "first_detected_at": "2026-05-25T14:29:38+09:00",
+      "last_checked_at": "2026-05-25T14:29:38+09:00",
+      "product_path": "products/yumeya-bcb523cd3c5e.json"
+    },
+    {
+      "id": "yumeya-2acd4905dab4",
+      "manufacturer_id": "yumeya",
+      "manufacturer_name": "夢屋",
+      "brand_name": null,
+      "series_name": null,
+      "product_name": "海のなかまたち 巾着コレクション",
+      "release_year": 2016,
+      "release_month": 9,
+      "release_week": null,
+      "release_date": null,
+      "preview_image_url": "https://tokyo-yumeya.co.jp/wp/wp-content/uploads/2016/08/2fb3eb92aec9d91271b0629adc5662e1-400x466.jpg",
+      "preview_image_source_url": "https://tokyo-yumeya.co.jp/goods/%e6%b5%b7%e3%81%ae%e3%81%aa%e3%81%8b%e3%81%be%e3%81%9f%e3%81%a1%e3%80%80%e5%b7%be%e7%9d%80%e3%82%b3%e3%83%ac%e3%82%af%e3%82%b7%e3%83%a7%e3%83%b3/",
+      "price_yen": 300,
+      "variant_count": 4,
+      "jan_code": null,
+      "official_url": "https://tokyo-yumeya.co.jp/goods/%e6%b5%b7%e3%81%ae%e3%81%aa%e3%81%8b%e3%81%be%e3%81%9f%e3%81%a1%e3%80%80%e5%b7%be%e7%9d%80%e3%82%b3%e3%83%ac%e3%82%af%e3%82%b7%e3%83%a7%e3%83%b3/",
+      "source_url": "https://tokyo-yumeya.co.jp/goods/%e6%b5%b7%e3%81%ae%e3%81%aa%e3%81%8b%e3%81%be%e3%81%9f%e3%81%a1%e3%80%80%e5%b7%be%e7%9d%80%e3%82%b3%e3%83%ac%e3%82%af%e3%82%b7%e3%83%a7%e3%83%b3/",
+      "first_detected_at": "2026-05-25T14:29:38+09:00",
+      "last_checked_at": "2026-05-25T14:29:38+09:00",
+      "product_path": "products/yumeya-2acd4905dab4.json"
     }
   ]
 }

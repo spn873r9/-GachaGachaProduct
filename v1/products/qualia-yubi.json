@@ -1,0 +1,28 @@
+{
+  "id": "qualia-yubi",
+  "manufacturer_id": "qualia",
+  "manufacturer_name": "Qualia",
+  "brand_name": null,
+  "series_name": null,
+  "product_name": "ユビストル",
+  "release_year": 2018,
+  "release_month": 5,
+  "release_week": null,
+  "release_date": null,
+  "preview_image_url": "https://qualia-45.jp/wp-content/uploads/yubi_bn-500x320.jpg",
+  "preview_image_source_url": "https://qualia-45.jp/distinations/yubi/",
+  "price_yen": null,
+  "variant_count": null,
+  "jan_code": null,
+  "official_url": "https://qualia-45.jp/distinations/yubi/",
+  "source_url": "https://qualia-45.jp/distinations/yubi/",
+  "first_detected_at": "2026-05-25T15:50:14+09:00",
+  "last_checked_at": "2026-05-25T15:50:14+09:00",
+  "product_path": "products/qualia-yubi.json",
+  "copyright_notice": null,
+  "data_policy": {
+    "source_verified": true,
+    "uses_official_image": false,
+    "uses_official_description": false
+  }
+}
