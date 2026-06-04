@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-06-04T18:33:11+09:00",
+  "generated_at": "2026-06-04T23:23:14+09:00",
   "year": 2022,
   "month": 1,
   "items": [
@@ -1864,7 +1864,7 @@
       "source_url": "https://kaiyodo.co.jp/items/capsule/",
       "store_locator_url": null,
       "first_detected_at": "2026-05-15T14:15:49+09:00",
-      "last_checked_at": "2026-06-04T17:42:55+09:00",
+      "last_checked_at": "2026-06-04T22:34:44+09:00",
       "product_path": "products/kaiyodo-capsule-cqm138.json"
     },
     {
@@ -1887,7 +1887,7 @@
       "source_url": "https://kaiyodo.co.jp/items/capsule/",
       "store_locator_url": null,
       "first_detected_at": "2026-05-15T14:15:49+09:00",
-      "last_checked_at": "2026-06-04T17:42:55+09:00",
+      "last_checked_at": "2026-06-04T22:34:44+09:00",
       "product_path": "products/kaiyodo-capsule-cqm133.json"
     },
     {
@@ -2234,6 +2234,29 @@
       "first_detected_at": "2026-05-13T19:05:49+09:00",
       "last_checked_at": "2026-05-13T22:42:41+09:00",
       "product_path": "products/qualia-nemuru-ryu.json"
+    },
+    {
+      "id": "sk-japan-14b865d965d6",
+      "manufacturer_id": "sk-japan",
+      "manufacturer_name": "エスケイジャパン",
+      "brand_name": null,
+      "series_name": null,
+      "product_name": "ギンビス マスコットチャーム",
+      "release_year": 2022,
+      "release_month": 1,
+      "release_week": null,
+      "release_date": null,
+      "preview_image_url": "https://www.sk-japan.co.jp/wp-content/uploads/2021/12/gin_mccharm_dppop.jpg",
+      "preview_image_source_url": "https://www.sk-japan.co.jp/capsule-toy/archive/%e3%82%ae%e3%83%b3%e3%83%93%e3%82%b9-%e3%83%9e%e3%82%b9%e3%82%b3%e3%83%83%e3%83%88%e3%83%81%e3%83%a3%e3%83%bc%e3%83%a0",
+      "price_yen": 300,
+      "variant_count": 5,
+      "jan_code": null,
+      "official_url": "https://www.sk-japan.co.jp/capsule-toy/archive/%e3%82%ae%e3%83%b3%e3%83%93%e3%82%b9-%e3%83%9e%e3%82%b9%e3%82%b3%e3%83%83%e3%83%88%e3%83%81%e3%83%a3%e3%83%bc%e3%83%a0",
+      "source_url": "https://www.sk-japan.co.jp/capsule-toy/archive/%e3%82%ae%e3%83%b3%e3%83%93%e3%82%b9-%e3%83%9e%e3%82%b9%e3%82%b3%e3%83%83%e3%83%88%e3%83%81%e3%83%a3%e3%83%bc%e3%83%a0",
+      "store_locator_url": null,
+      "first_detected_at": "2026-06-04T17:58:32+09:00",
+      "last_checked_at": "2026-06-04T17:58:32+09:00",
+      "product_path": "products/sk-japan-14b865d965d6.json"
     },
     {
       "id": "stand-stones-202201mgacha3",

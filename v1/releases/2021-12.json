@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-06-04T18:33:11+09:00",
+  "generated_at": "2026-06-04T23:23:14+09:00",
   "year": 2021,
   "month": 12,
   "items": [
@@ -24,7 +24,7 @@
       "source_url": "https://www.arche.ne.jp/news/682",
       "store_locator_url": null,
       "first_detected_at": "2026-05-18T22:32:37+09:00",
-      "last_checked_at": "2026-06-04T17:42:55+09:00",
+      "last_checked_at": "2026-06-04T22:34:44+09:00",
       "product_path": "products/arche-682.json"
     },
     {
@@ -47,7 +47,7 @@
       "source_url": "https://kaiyodo.co.jp/items/capsule/",
       "store_locator_url": null,
       "first_detected_at": "2026-05-15T14:15:49+09:00",
-      "last_checked_at": "2026-06-04T17:42:55+09:00",
+      "last_checked_at": "2026-06-04T22:34:44+09:00",
       "product_path": "products/kaiyodo-capsule-cqm137.json"
     },
     {
@@ -1979,7 +1979,7 @@
       "source_url": "https://kaiyodo.co.jp/items/capsule/",
       "store_locator_url": null,
       "first_detected_at": "2026-05-15T14:15:49+09:00",
-      "last_checked_at": "2026-06-04T17:42:55+09:00",
+      "last_checked_at": "2026-06-04T22:34:44+09:00",
       "product_path": "products/kaiyodo-capsule-cqm136.json"
     },
     {
@@ -2002,7 +2002,7 @@
       "source_url": "https://kaiyodo.co.jp/items/capsule/",
       "store_locator_url": null,
       "first_detected_at": "2026-05-15T14:15:49+09:00",
-      "last_checked_at": "2026-06-04T17:42:55+09:00",
+      "last_checked_at": "2026-06-04T22:34:44+09:00",
       "product_path": "products/kaiyodo-capsule-lisalarson03.json"
     },
     {
@@ -2441,6 +2441,75 @@
       "first_detected_at": "2026-05-13T19:05:49+09:00",
       "last_checked_at": "2026-05-13T22:42:41+09:00",
       "product_path": "products/qualia-danchi-door.json"
+    },
+    {
+      "id": "sk-japan-uha-6f3d134c",
+      "manufacturer_id": "sk-japan",
+      "manufacturer_name": "エスケイジャパン",
+      "brand_name": null,
+      "series_name": null,
+      "product_name": "UHA味覚糖 マスコットチャーム",
+      "release_year": 2021,
+      "release_month": 12,
+      "release_week": null,
+      "release_date": null,
+      "preview_image_url": "https://www.sk-japan.co.jp/wp-content/uploads/2021/11/uha_charm_dppop.jpg",
+      "preview_image_source_url": "https://www.sk-japan.co.jp/capsule-toy/archive/uha%e5%91%b3%e8%a6%9a%e7%b3%96-%e3%83%9e%e3%82%b9%e3%82%b3%e3%83%83%e3%83%88%e3%83%81%e3%83%a3%e3%83%bc%e3%83%a0",
+      "price_yen": 300,
+      "variant_count": 5,
+      "jan_code": null,
+      "official_url": "https://www.sk-japan.co.jp/capsule-toy/archive/uha%e5%91%b3%e8%a6%9a%e7%b3%96-%e3%83%9e%e3%82%b9%e3%82%b3%e3%83%83%e3%83%88%e3%83%81%e3%83%a3%e3%83%bc%e3%83%a0",
+      "source_url": "https://www.sk-japan.co.jp/capsule-toy/archive/uha%e5%91%b3%e8%a6%9a%e7%b3%96-%e3%83%9e%e3%82%b9%e3%82%b3%e3%83%83%e3%83%88%e3%83%81%e3%83%a3%e3%83%bc%e3%83%a0",
+      "store_locator_url": null,
+      "first_detected_at": "2026-06-04T17:58:32+09:00",
+      "last_checked_at": "2026-06-04T17:58:32+09:00",
+      "product_path": "products/sk-japan-uha-6f3d134c.json"
+    },
+    {
+      "id": "sk-japan-b5c50529f36e",
+      "manufacturer_id": "sk-japan",
+      "manufacturer_name": "エスケイジャパン",
+      "brand_name": null,
+      "series_name": null,
+      "product_name": "サラブレッドコレクション ケーブルフィギュア",
+      "release_year": 2021,
+      "release_month": 12,
+      "release_week": null,
+      "release_date": null,
+      "preview_image_url": "https://www.sk-japan.co.jp/wp-content/uploads/2021/10/sc_cable_figure_dppop211011.jpg",
+      "preview_image_source_url": "https://www.sk-japan.co.jp/capsule-toy/archive/%e3%82%b5%e3%83%a9%e3%83%96%e3%83%ac%e3%83%83%e3%83%89%e3%82%b3%e3%83%ac%e3%82%af%e3%82%b7%e3%83%a7%e3%83%b3-%e3%82%b1%e3%83%bc%e3%83%96%e3%83%ab%e3%83%95%e3%82%a3%e3%82%ae%e3%83%a5%e3%82%a2",
+      "price_yen": 300,
+      "variant_count": 5,
+      "jan_code": null,
+      "official_url": "https://www.sk-japan.co.jp/capsule-toy/archive/%e3%82%b5%e3%83%a9%e3%83%96%e3%83%ac%e3%83%83%e3%83%89%e3%82%b3%e3%83%ac%e3%82%af%e3%82%b7%e3%83%a7%e3%83%b3-%e3%82%b1%e3%83%bc%e3%83%96%e3%83%ab%e3%83%95%e3%82%a3%e3%82%ae%e3%83%a5%e3%82%a2",
+      "source_url": "https://www.sk-japan.co.jp/capsule-toy/archive/%e3%82%b5%e3%83%a9%e3%83%96%e3%83%ac%e3%83%83%e3%83%89%e3%82%b3%e3%83%ac%e3%82%af%e3%82%b7%e3%83%a7%e3%83%b3-%e3%82%b1%e3%83%bc%e3%83%96%e3%83%ab%e3%83%95%e3%82%a3%e3%82%ae%e3%83%a5%e3%82%a2",
+      "store_locator_url": null,
+      "first_detected_at": "2026-06-04T17:58:32+09:00",
+      "last_checked_at": "2026-06-04T17:58:32+09:00",
+      "product_path": "products/sk-japan-b5c50529f36e.json"
+    },
+    {
+      "id": "sk-japan-da229e88b09c",
+      "manufacturer_id": "sk-japan",
+      "manufacturer_name": "エスケイジャパン",
+      "brand_name": null,
+      "series_name": null,
+      "product_name": "パンのぬいぐるみ",
+      "release_year": 2021,
+      "release_month": 12,
+      "release_week": null,
+      "release_date": null,
+      "preview_image_url": "https://www.sk-japan.co.jp/wp-content/uploads/2021/11/%E3%83%91%E3%83%B3.png",
+      "preview_image_source_url": "https://www.sk-japan.co.jp/capsule-toy/archive/%e3%83%91%e3%83%b3%e3%81%ae%e3%81%ac%e3%81%84%e3%81%90%e3%82%8b%e3%81%bf",
+      "price_yen": 300,
+      "variant_count": 5,
+      "jan_code": null,
+      "official_url": "https://www.sk-japan.co.jp/capsule-toy/archive/%e3%83%91%e3%83%b3%e3%81%ae%e3%81%ac%e3%81%84%e3%81%90%e3%82%8b%e3%81%bf",
+      "source_url": "https://www.sk-japan.co.jp/capsule-toy/archive/%e3%83%91%e3%83%b3%e3%81%ae%e3%81%ac%e3%81%84%e3%81%90%e3%82%8b%e3%81%bf",
+      "store_locator_url": null,
+      "first_detected_at": "2026-06-04T17:58:32+09:00",
+      "last_checked_at": "2026-06-04T17:58:32+09:00",
+      "product_path": "products/sk-japan-da229e88b09c.json"
     },
     {
       "id": "stand-stones-202112wbkimetsu",
