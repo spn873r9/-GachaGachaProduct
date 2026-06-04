@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-06-01T10:30:57+09:00",
+  "generated_at": "2026-06-04T18:33:11+09:00",
   "year": 2009,
   "month": 8,
   "items": [
@@ -22,8 +22,9 @@
       "jan_code": null,
       "official_url": "https://www.megahobby.jp/products/item/474/",
       "source_url": "https://www.megahobby.jp/products/item/474/",
+      "store_locator_url": null,
       "first_detected_at": "2026-05-17T18:40:35+09:00",
-      "last_checked_at": "2026-06-01T09:48:09+09:00",
+      "last_checked_at": "2026-06-04T17:42:55+09:00",
       "product_path": "products/megahouse-474.json"
     }
   ]

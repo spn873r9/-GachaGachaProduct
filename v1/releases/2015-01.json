@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-06-01T10:30:57+09:00",
+  "generated_at": "2026-06-04T18:33:11+09:00",
   "year": 2015,
   "month": 1,
   "items": [
@@ -22,6 +22,7 @@
       "jan_code": null,
       "official_url": "https://kaiyodo.co.jp/items/capsule/m-8-2/",
       "source_url": "https://kaiyodo.co.jp/items/capsule/page/2/",
+      "store_locator_url": null,
       "first_detected_at": "2026-05-19T02:10:45+09:00",
       "last_checked_at": "2026-05-19T02:10:45+09:00",
       "product_path": "products/kaiyodo-capsule-m-8-2.json"
@@ -44,6 +45,7 @@
       "jan_code": null,
       "official_url": "https://kaiyodo.co.jp/items/capsule/eiseigaityuu/",
       "source_url": "https://kaiyodo.co.jp/items/capsule/page/2/",
+      "store_locator_url": null,
       "first_detected_at": "2026-05-19T02:10:45+09:00",
       "last_checked_at": "2026-05-19T02:10:45+09:00",
       "product_path": "products/kaiyodo-capsule-eiseigaityuu.json"
@@ -66,6 +68,7 @@
       "jan_code": null,
       "official_url": "https://gashapon.jp/products/detail.php?jan_code=4543112921932000",
       "source_url": "https://gashapon.jp/products/detail.php?jan_code=4543112921932000",
+      "store_locator_url": null,
       "first_detected_at": "2026-05-14T16:31:22+09:00",
       "last_checked_at": "2026-05-14T16:31:22+09:00",
       "product_path": "products/bandai-gashapon-4543112921932000.json"
@@ -88,6 +91,7 @@
       "jan_code": null,
       "official_url": "https://gashapon.jp/products/detail.php?jan_code=4543112922076000",
       "source_url": "https://gashapon.jp/products/detail.php?jan_code=4543112922076000",
+      "store_locator_url": null,
       "first_detected_at": "2026-05-14T16:31:22+09:00",
       "last_checked_at": "2026-05-14T16:31:22+09:00",
       "product_path": "products/bandai-gashapon-4543112922076000.json"
@@ -110,6 +114,7 @@
       "jan_code": null,
       "official_url": "https://gashapon.jp/products/detail.php?jan_code=4543112922304000",
       "source_url": "https://gashapon.jp/products/detail.php?jan_code=4543112922304000",
+      "store_locator_url": null,
       "first_detected_at": "2026-05-14T16:31:22+09:00",
       "last_checked_at": "2026-05-14T16:31:22+09:00",
       "product_path": "products/bandai-gashapon-4543112922304000.json"
@@ -132,6 +137,7 @@
       "jan_code": null,
       "official_url": "https://gashapon.jp/products/detail.php?jan_code=4543112940926000",
       "source_url": "https://gashapon.jp/products/detail.php?jan_code=4543112940926000",
+      "store_locator_url": null,
       "first_detected_at": "2026-05-14T16:31:22+09:00",
       "last_checked_at": "2026-05-14T16:31:22+09:00",
       "product_path": "products/bandai-gashapon-4543112940926000.json"
@@ -154,6 +160,7 @@
       "jan_code": null,
       "official_url": "https://gashapon.jp/products/detail.php?jan_code=4543112921857000",
       "source_url": "https://gashapon.jp/products/detail.php?jan_code=4543112921857000",
+      "store_locator_url": null,
       "first_detected_at": "2026-05-14T16:31:22+09:00",
       "last_checked_at": "2026-05-14T16:31:22+09:00",
       "product_path": "products/bandai-gashapon-4543112921857000.json"
@@ -176,6 +183,7 @@
       "jan_code": null,
       "official_url": "https://gashapon.jp/products/detail.php?jan_code=4543112941282000",
       "source_url": "https://gashapon.jp/products/detail.php?jan_code=4543112941282000",
+      "store_locator_url": null,
       "first_detected_at": "2026-05-14T16:31:22+09:00",
       "last_checked_at": "2026-05-14T16:31:22+09:00",
       "product_path": "products/bandai-gashapon-4543112941282000.json"
@@ -198,6 +206,7 @@
       "jan_code": null,
       "official_url": "https://gashapon.jp/products/detail.php?jan_code=4543112941060000",
       "source_url": "https://gashapon.jp/products/detail.php?jan_code=4543112941060000",
+      "store_locator_url": null,
       "first_detected_at": "2026-05-14T16:31:22+09:00",
       "last_checked_at": "2026-05-14T16:31:22+09:00",
       "product_path": "products/bandai-gashapon-4543112941060000.json"
@@ -220,6 +229,7 @@
       "jan_code": null,
       "official_url": "https://gashapon.jp/products/detail.php?jan_code=4543112922618000",
       "source_url": "https://gashapon.jp/products/detail.php?jan_code=4543112922618000",
+      "store_locator_url": null,
       "first_detected_at": "2026-05-14T16:31:22+09:00",
       "last_checked_at": "2026-05-14T16:31:22+09:00",
       "product_path": "products/bandai-gashapon-4543112922618000.json"
@@ -242,6 +252,7 @@
       "jan_code": null,
       "official_url": "https://gashapon.jp/products/detail.php?jan_code=4543112941459000",
       "source_url": "https://gashapon.jp/products/detail.php?jan_code=4543112941459000",
+      "store_locator_url": null,
       "first_detected_at": "2026-05-14T16:31:22+09:00",
       "last_checked_at": "2026-05-14T16:31:22+09:00",
       "product_path": "products/bandai-gashapon-4543112941459000.json"
@@ -264,6 +275,7 @@
       "jan_code": null,
       "official_url": "https://gashapon.jp/products/detail.php?jan_code=4543112922724000",
       "source_url": "https://gashapon.jp/products/detail.php?jan_code=4543112922724000",
+      "store_locator_url": null,
       "first_detected_at": "2026-05-14T16:31:22+09:00",
       "last_checked_at": "2026-05-14T16:31:22+09:00",
       "product_path": "products/bandai-gashapon-4543112922724000.json"
@@ -286,6 +298,7 @@
       "jan_code": null,
       "official_url": "https://gashapon.jp/products/detail.php?jan_code=4543112922052000",
       "source_url": "https://gashapon.jp/products/detail.php?jan_code=4543112922052000",
+      "store_locator_url": null,
       "first_detected_at": "2026-05-14T16:31:22+09:00",
       "last_checked_at": "2026-05-14T16:31:22+09:00",
       "product_path": "products/bandai-gashapon-4543112922052000.json"
@@ -308,6 +321,7 @@
       "jan_code": null,
       "official_url": "https://gashapon.jp/products/detail.php?jan_code=4543112921369000",
       "source_url": "https://gashapon.jp/products/detail.php?jan_code=4543112921369000",
+      "store_locator_url": null,
       "first_detected_at": "2026-05-14T16:31:22+09:00",
       "last_checked_at": "2026-05-14T16:31:22+09:00",
       "product_path": "products/bandai-gashapon-4543112921369000.json"
@@ -330,6 +344,7 @@
       "jan_code": null,
       "official_url": "https://gashapon.jp/products/detail.php?jan_code=4543112922168000",
       "source_url": "https://gashapon.jp/products/detail.php?jan_code=4543112922168000",
+      "store_locator_url": null,
       "first_detected_at": "2026-05-14T16:31:22+09:00",
       "last_checked_at": "2026-05-14T16:31:22+09:00",
       "product_path": "products/bandai-gashapon-4543112922168000.json"
@@ -352,6 +367,7 @@
       "jan_code": null,
       "official_url": "https://gashapon.jp/products/detail.php?jan_code=4543112922182000",
       "source_url": "https://gashapon.jp/products/detail.php?jan_code=4543112922182000",
+      "store_locator_url": null,
       "first_detected_at": "2026-05-14T16:31:22+09:00",
       "last_checked_at": "2026-05-14T16:31:22+09:00",
       "product_path": "products/bandai-gashapon-4543112922182000.json"
@@ -374,6 +390,7 @@
       "jan_code": null,
       "official_url": "https://gashapon.jp/products/detail.php?jan_code=4543112922205000",
       "source_url": "https://gashapon.jp/products/detail.php?jan_code=4543112922205000",
+      "store_locator_url": null,
       "first_detected_at": "2026-05-14T16:31:22+09:00",
       "last_checked_at": "2026-05-14T16:31:22+09:00",
       "product_path": "products/bandai-gashapon-4543112922205000.json"
@@ -396,6 +413,7 @@
       "jan_code": null,
       "official_url": "https://gashapon.jp/products/detail.php?jan_code=4543112940643000",
       "source_url": "https://gashapon.jp/products/detail.php?jan_code=4543112940643000",
+      "store_locator_url": null,
       "first_detected_at": "2026-05-14T16:31:22+09:00",
       "last_checked_at": "2026-05-14T16:31:22+09:00",
       "product_path": "products/bandai-gashapon-4543112940643000.json"
@@ -418,6 +436,7 @@
       "jan_code": null,
       "official_url": "https://gashapon.jp/products/detail.php?jan_code=4543112940667000",
       "source_url": "https://gashapon.jp/products/detail.php?jan_code=4543112940667000",
+      "store_locator_url": null,
       "first_detected_at": "2026-05-14T16:31:22+09:00",
       "last_checked_at": "2026-05-14T16:31:22+09:00",
       "product_path": "products/bandai-gashapon-4543112940667000.json"
@@ -440,6 +459,7 @@
       "jan_code": null,
       "official_url": "https://gashapon.jp/products/detail.php?jan_code=4543112899934000",
       "source_url": "https://gashapon.jp/products/detail.php?jan_code=4543112899934000",
+      "store_locator_url": null,
       "first_detected_at": "2026-05-14T16:31:22+09:00",
       "last_checked_at": "2026-05-14T16:31:22+09:00",
       "product_path": "products/bandai-gashapon-4543112899934000.json"
@@ -462,6 +482,7 @@
       "jan_code": null,
       "official_url": "https://gashapon.jp/products/detail.php?jan_code=4543112940841000",
       "source_url": "https://gashapon.jp/products/detail.php?jan_code=4543112940841000",
+      "store_locator_url": null,
       "first_detected_at": "2026-05-14T16:31:22+09:00",
       "last_checked_at": "2026-05-14T16:31:22+09:00",
       "product_path": "products/bandai-gashapon-4543112940841000.json"
@@ -484,6 +505,7 @@
       "jan_code": null,
       "official_url": "https://gashapon.jp/products/detail.php?jan_code=4543112921666000",
       "source_url": "https://gashapon.jp/products/detail.php?jan_code=4543112921666000",
+      "store_locator_url": null,
       "first_detected_at": "2026-05-14T16:31:22+09:00",
       "last_checked_at": "2026-05-14T16:31:22+09:00",
       "product_path": "products/bandai-gashapon-4543112921666000.json"
@@ -506,6 +528,7 @@
       "jan_code": null,
       "official_url": "https://gashapon.jp/products/detail.php?jan_code=4543112941558000",
       "source_url": "https://gashapon.jp/products/detail.php?jan_code=4543112941558000",
+      "store_locator_url": null,
       "first_detected_at": "2026-05-14T16:31:22+09:00",
       "last_checked_at": "2026-05-14T16:31:22+09:00",
       "product_path": "products/bandai-gashapon-4543112941558000.json"
@@ -528,6 +551,7 @@
       "jan_code": null,
       "official_url": "https://gashapon.jp/products/detail.php?jan_code=4543112941640000",
       "source_url": "https://gashapon.jp/products/detail.php?jan_code=4543112941640000",
+      "store_locator_url": null,
       "first_detected_at": "2026-05-14T16:31:22+09:00",
       "last_checked_at": "2026-05-14T16:31:22+09:00",
       "product_path": "products/bandai-gashapon-4543112941640000.json"
@@ -550,6 +574,7 @@
       "jan_code": null,
       "official_url": "https://gashapon.jp/products/detail.php?jan_code=4543112922328000",
       "source_url": "https://gashapon.jp/products/detail.php?jan_code=4543112922328000",
+      "store_locator_url": null,
       "first_detected_at": "2026-05-14T16:31:22+09:00",
       "last_checked_at": "2026-05-14T16:31:22+09:00",
       "product_path": "products/bandai-gashapon-4543112922328000.json"
@@ -572,6 +597,7 @@
       "jan_code": null,
       "official_url": "https://gashapon.jp/products/detail.php?jan_code=4543112941688000",
       "source_url": "https://gashapon.jp/products/detail.php?jan_code=4543112941688000",
+      "store_locator_url": null,
       "first_detected_at": "2026-05-14T16:31:22+09:00",
       "last_checked_at": "2026-05-14T16:31:22+09:00",
       "product_path": "products/bandai-gashapon-4543112941688000.json"
@@ -594,6 +620,7 @@
       "jan_code": null,
       "official_url": "https://gashapon.jp/products/detail.php?jan_code=4543112940759000",
       "source_url": "https://gashapon.jp/products/detail.php?jan_code=4543112940759000",
+      "store_locator_url": null,
       "first_detected_at": "2026-05-14T16:31:22+09:00",
       "last_checked_at": "2026-05-14T16:31:22+09:00",
       "product_path": "products/bandai-gashapon-4543112940759000.json"
@@ -616,6 +643,7 @@
       "jan_code": null,
       "official_url": "https://gashapon.jp/products/detail.php?jan_code=4543112921871000",
       "source_url": "https://gashapon.jp/products/detail.php?jan_code=4543112921871000",
+      "store_locator_url": null,
       "first_detected_at": "2026-05-14T16:31:22+09:00",
       "last_checked_at": "2026-05-14T16:31:22+09:00",
       "product_path": "products/bandai-gashapon-4543112921871000.json"
@@ -638,6 +666,7 @@
       "jan_code": null,
       "official_url": "https://gashapon.jp/products/detail.php?jan_code=4543112940964000",
       "source_url": "https://gashapon.jp/products/detail.php?jan_code=4543112940964000",
+      "store_locator_url": null,
       "first_detected_at": "2026-05-14T16:31:22+09:00",
       "last_checked_at": "2026-05-14T16:31:22+09:00",
       "product_path": "products/bandai-gashapon-4543112940964000.json"
@@ -660,6 +689,7 @@
       "jan_code": null,
       "official_url": "https://gashapon.jp/products/detail.php?jan_code=4543112900135000",
       "source_url": "https://gashapon.jp/products/detail.php?jan_code=4543112900135000",
+      "store_locator_url": null,
       "first_detected_at": "2026-05-14T16:31:22+09:00",
       "last_checked_at": "2026-05-14T16:31:22+09:00",
       "product_path": "products/bandai-gashapon-4543112900135000.json"
@@ -682,6 +712,7 @@
       "jan_code": null,
       "official_url": "https://kitan.jp/products/hamster_04/",
       "source_url": "https://kitan.jp/products/hamster_04/",
+      "store_locator_url": null,
       "first_detected_at": "2026-05-14T09:13:25+09:00",
       "last_checked_at": "2026-05-14T09:13:25+09:00",
       "product_path": "products/kitanclub-hamster-04.json"
@@ -704,6 +735,7 @@
       "jan_code": null,
       "official_url": "https://kitan.jp/products/osanpo_chocolate/",
       "source_url": "https://kitan.jp/products/osanpo_chocolate/",
+      "store_locator_url": null,
       "first_detected_at": "2026-05-14T09:13:25+09:00",
       "last_checked_at": "2026-05-14T09:13:25+09:00",
       "product_path": "products/kitanclub-osanpo-chocolate.json"
@@ -726,6 +758,7 @@
       "jan_code": null,
       "official_url": "https://kitan.jp/products/fuchico_love/",
       "source_url": "https://kitan.jp/products/fuchico_love/",
+      "store_locator_url": null,
       "first_detected_at": "2026-05-14T09:13:25+09:00",
       "last_checked_at": "2026-05-14T09:13:25+09:00",
       "product_path": "products/kitanclub-fuchico-love.json"
@@ -748,6 +781,7 @@
       "jan_code": null,
       "official_url": "https://www.takaratomy-arts.co.jp/items/item.html?n=Y822353",
       "source_url": "https://www.takaratomy-arts.co.jp/items/item.html?n=Y822353",
+      "store_locator_url": null,
       "first_detected_at": "2026-05-14T11:01:55+09:00",
       "last_checked_at": "2026-05-14T11:01:55+09:00",
       "product_path": "products/takaratomy-arts-y822353.json"
@@ -770,6 +804,7 @@
       "jan_code": null,
       "official_url": "https://www.takaratomy-arts.co.jp/items/item.html?n=Y819285",
       "source_url": "https://www.takaratomy-arts.co.jp/items/item.html?n=Y819285",
+      "store_locator_url": null,
       "first_detected_at": "2026-05-14T11:01:55+09:00",
       "last_checked_at": "2026-05-14T11:01:55+09:00",
       "product_path": "products/takaratomy-arts-y819285.json"
@@ -792,6 +827,7 @@
       "jan_code": null,
       "official_url": "https://www.takaratomy-arts.co.jp/items/item.html?n=Y822490",
       "source_url": "https://www.takaratomy-arts.co.jp/items/item.html?n=Y822490",
+      "store_locator_url": null,
       "first_detected_at": "2026-05-14T11:01:55+09:00",
       "last_checked_at": "2026-05-14T11:01:55+09:00",
       "product_path": "products/takaratomy-arts-y822490.json"
@@ -814,6 +850,7 @@
       "jan_code": null,
       "official_url": "https://www.takaratomy-arts.co.jp/items/item.html?n=Y822278",
       "source_url": "https://www.takaratomy-arts.co.jp/items/item.html?n=Y822278",
+      "store_locator_url": null,
       "first_detected_at": "2026-05-14T11:01:55+09:00",
       "last_checked_at": "2026-05-14T11:01:55+09:00",
       "product_path": "products/takaratomy-arts-y822278.json"
@@ -836,6 +873,7 @@
       "jan_code": null,
       "official_url": "https://www.takaratomy-arts.co.jp/items/item.html?n=Y820694",
       "source_url": "https://www.takaratomy-arts.co.jp/items/item.html?n=Y820694",
+      "store_locator_url": null,
       "first_detected_at": "2026-05-14T11:01:55+09:00",
       "last_checked_at": "2026-05-14T11:01:55+09:00",
       "product_path": "products/takaratomy-arts-y820694.json"
@@ -858,6 +896,7 @@
       "jan_code": null,
       "official_url": "https://www.takaratomy-arts.co.jp/items/item.html?n=Y823510",
       "source_url": "https://www.takaratomy-arts.co.jp/items/item.html?n=Y823510",
+      "store_locator_url": null,
       "first_detected_at": "2026-05-14T11:01:55+09:00",
       "last_checked_at": "2026-05-14T11:01:55+09:00",
       "product_path": "products/takaratomy-arts-y823510.json"
@@ -880,6 +919,7 @@
       "jan_code": null,
       "official_url": "https://www.takaratomy-arts.co.jp/items/item.html?n=Y821905",
       "source_url": "https://www.takaratomy-arts.co.jp/items/item.html?n=Y821905",
+      "store_locator_url": null,
       "first_detected_at": "2026-05-14T11:01:55+09:00",
       "last_checked_at": "2026-05-14T11:01:55+09:00",
       "product_path": "products/takaratomy-arts-y821905.json"
@@ -902,6 +942,7 @@
       "jan_code": null,
       "official_url": "https://www.takaratomy-arts.co.jp/items/item.html?n=Y821936",
       "source_url": "https://www.takaratomy-arts.co.jp/items/item.html?n=Y821936",
+      "store_locator_url": null,
       "first_detected_at": "2026-05-14T11:01:55+09:00",
       "last_checked_at": "2026-05-14T11:01:55+09:00",
       "product_path": "products/takaratomy-arts-y821936.json"

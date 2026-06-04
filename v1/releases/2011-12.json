@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-06-01T10:30:57+09:00",
+  "generated_at": "2026-06-04T18:33:11+09:00",
   "year": 2011,
   "month": 12,
   "items": [
@@ -22,6 +22,7 @@
       "jan_code": null,
       "official_url": "https://kitan.jp/products/live_dogeza_winter/",
       "source_url": "https://kitan.jp/products/live_dogeza_winter/",
+      "store_locator_url": null,
       "first_detected_at": "2026-05-14T09:13:25+09:00",
       "last_checked_at": "2026-05-14T09:13:25+09:00",
       "product_path": "products/kitanclub-live-dogeza-winter.json"
@@ -44,6 +45,7 @@
       "jan_code": null,
       "official_url": "https://kitan.jp/products/dachoclub/",
       "source_url": "https://kitan.jp/products/dachoclub/",
+      "store_locator_url": null,
       "first_detected_at": "2026-05-14T09:13:25+09:00",
       "last_checked_at": "2026-05-14T09:13:25+09:00",
       "product_path": "products/kitanclub-dachoclub.json"
@@ -66,6 +68,7 @@
       "jan_code": null,
       "official_url": "https://kitan.jp/products/nuko/",
       "source_url": "https://kitan.jp/products/nuko/",
+      "store_locator_url": null,
       "first_detected_at": "2026-05-14T09:13:25+09:00",
       "last_checked_at": "2026-05-14T09:13:25+09:00",
       "product_path": "products/kitanclub-nuko.json"

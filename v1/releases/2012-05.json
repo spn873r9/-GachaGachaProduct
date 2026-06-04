@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-06-01T10:30:57+09:00",
+  "generated_at": "2026-06-04T18:33:11+09:00",
   "year": 2012,
   "month": 5,
   "items": [
@@ -22,6 +22,7 @@
       "jan_code": null,
       "official_url": "https://kitan.jp/products/dehara_animalwoman/",
       "source_url": "https://kitan.jp/products/dehara_animalwoman/",
+      "store_locator_url": null,
       "first_detected_at": "2026-05-14T09:13:25+09:00",
       "last_checked_at": "2026-05-14T09:13:25+09:00",
       "product_path": "products/kitanclub-dehara-animalwoman.json"
@@ -44,6 +45,7 @@
       "jan_code": null,
       "official_url": "https://kitan.jp/products/nuko2/",
       "source_url": "https://kitan.jp/products/nuko2/",
+      "store_locator_url": null,
       "first_detected_at": "2026-05-14T09:13:25+09:00",
       "last_checked_at": "2026-05-14T09:13:25+09:00",
       "product_path": "products/kitanclub-nuko2.json"
@@ -66,6 +68,7 @@
       "jan_code": null,
       "official_url": "https://kitan.jp/products/pakichoco2/",
       "source_url": "https://kitan.jp/products/pakichoco2/",
+      "store_locator_url": null,
       "first_detected_at": "2026-05-14T09:13:25+09:00",
       "last_checked_at": "2026-05-14T09:13:25+09:00",
       "product_path": "products/kitanclub-pakichoco2.json"
@@ -88,6 +91,7 @@
       "jan_code": null,
       "official_url": "https://kitan.jp/products/pingu_kitty/",
       "source_url": "https://kitan.jp/products/pingu_kitty/",
+      "store_locator_url": null,
       "first_detected_at": "2026-05-14T09:13:25+09:00",
       "last_checked_at": "2026-05-14T09:13:25+09:00",
       "product_path": "products/kitanclub-pingu-kitty.json"
@@ -110,6 +114,7 @@
       "jan_code": null,
       "official_url": "https://kitan.jp/products/itao/",
       "source_url": "https://kitan.jp/products/itao/",
+      "store_locator_url": null,
       "first_detected_at": "2026-05-14T09:13:25+09:00",
       "last_checked_at": "2026-05-14T09:13:25+09:00",
       "product_path": "products/kitanclub-itao.json"
@@ -132,6 +137,7 @@
       "jan_code": null,
       "official_url": "https://www.takaratomy-arts.co.jp/items/item.html?n=Y996238",
       "source_url": "https://www.takaratomy-arts.co.jp/items/item.html?n=Y996238",
+      "store_locator_url": null,
       "first_detected_at": "2026-05-14T11:01:55+09:00",
       "last_checked_at": "2026-05-14T11:01:55+09:00",
       "product_path": "products/takaratomy-arts-y996238.json"
@@ -154,6 +160,7 @@
       "jan_code": null,
       "official_url": "https://www.takaratomy-arts.co.jp/items/item.html?n=Y996139",
       "source_url": "https://www.takaratomy-arts.co.jp/items/item.html?n=Y996139",
+      "store_locator_url": null,
       "first_detected_at": "2026-05-14T11:01:55+09:00",
       "last_checked_at": "2026-05-14T11:01:55+09:00",
       "product_path": "products/takaratomy-arts-y996139.json"

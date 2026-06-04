@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-06-01T10:30:57+09:00",
+  "generated_at": "2026-06-04T18:33:11+09:00",
   "year": 2011,
   "month": 4,
   "items": [
@@ -22,6 +22,7 @@
       "jan_code": null,
       "official_url": "https://kitan.jp/products/live_dogeza2/",
       "source_url": "https://kitan.jp/products/live_dogeza2/",
+      "store_locator_url": null,
       "first_detected_at": "2026-05-14T09:13:25+09:00",
       "last_checked_at": "2026-05-14T09:13:25+09:00",
       "product_path": "products/kitanclub-live-dogeza2.json"
@@ -44,6 +45,7 @@
       "jan_code": null,
       "official_url": "https://www.takaratomy-arts.co.jp/items/item.html?n=Y991004",
       "source_url": "https://www.takaratomy-arts.co.jp/items/item.html?n=Y991004",
+      "store_locator_url": null,
       "first_detected_at": "2026-05-14T11:01:55+09:00",
       "last_checked_at": "2026-05-14T11:01:55+09:00",
       "product_path": "products/takaratomy-arts-y991004.json"

@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-06-01T10:30:57+09:00",
+  "generated_at": "2026-06-04T18:33:11+09:00",
   "year": 2014,
   "month": 1,
   "items": [
@@ -22,6 +22,7 @@
       "jan_code": null,
       "official_url": "https://kitan.jp/products/hamster_03/",
       "source_url": "https://kitan.jp/products/hamster_03/",
+      "store_locator_url": null,
       "first_detected_at": "2026-05-14T09:13:25+09:00",
       "last_checked_at": "2026-05-14T09:13:25+09:00",
       "product_path": "products/kitanclub-hamster-03.json"
@@ -44,6 +45,7 @@
       "jan_code": null,
       "official_url": "https://kitan.jp/products/ohiraki/",
       "source_url": "https://kitan.jp/products/ohiraki/",
+      "store_locator_url": null,
       "first_detected_at": "2026-05-14T09:13:25+09:00",
       "last_checked_at": "2026-05-14T09:13:25+09:00",
       "product_path": "products/kitanclub-ohiraki.json"
@@ -66,6 +68,7 @@
       "jan_code": null,
       "official_url": "https://kitan.jp/products/keitai-fundoshi/",
       "source_url": "https://kitan.jp/products/keitai-fundoshi/",
+      "store_locator_url": null,
       "first_detected_at": "2026-05-14T09:13:25+09:00",
       "last_checked_at": "2026-05-14T09:13:25+09:00",
       "product_path": "products/kitanclub-keitai-fundoshi.json"
@@ -88,6 +91,7 @@
       "jan_code": null,
       "official_url": "https://www.takaratomy-arts.co.jp/items/item.html?n=Y814570",
       "source_url": "https://www.takaratomy-arts.co.jp/items/item.html?n=Y814570",
+      "store_locator_url": null,
       "first_detected_at": "2026-05-14T11:01:55+09:00",
       "last_checked_at": "2026-05-14T11:01:55+09:00",
       "product_path": "products/takaratomy-arts-y814570.json"
@@ -110,6 +114,7 @@
       "jan_code": null,
       "official_url": "https://www.takaratomy-arts.co.jp/items/item.html?n=Y814822",
       "source_url": "https://www.takaratomy-arts.co.jp/items/item.html?n=Y814822",
+      "store_locator_url": null,
       "first_detected_at": "2026-05-14T11:01:55+09:00",
       "last_checked_at": "2026-05-14T11:01:55+09:00",
       "product_path": "products/takaratomy-arts-y814822.json"
@@ -132,6 +137,7 @@
       "jan_code": null,
       "official_url": "https://www.takaratomy-arts.co.jp/items/item.html?n=Y814730",
       "source_url": "https://www.takaratomy-arts.co.jp/items/item.html?n=Y814730",
+      "store_locator_url": null,
       "first_detected_at": "2026-05-14T11:01:55+09:00",
       "last_checked_at": "2026-05-14T11:01:55+09:00",
       "product_path": "products/takaratomy-arts-y814730.json"
@@ -154,6 +160,7 @@
       "jan_code": null,
       "official_url": "https://www.takaratomy-arts.co.jp/items/item.html?n=Y814761",
       "source_url": "https://www.takaratomy-arts.co.jp/items/item.html?n=Y814761",
+      "store_locator_url": null,
       "first_detected_at": "2026-05-14T11:01:55+09:00",
       "last_checked_at": "2026-05-14T11:01:55+09:00",
       "product_path": "products/takaratomy-arts-y814761.json"
@@ -176,6 +183,7 @@
       "jan_code": null,
       "official_url": "https://www.takaratomy-arts.co.jp/items/item.html?n=Y813016",
       "source_url": "https://www.takaratomy-arts.co.jp/items/item.html?n=Y813016",
+      "store_locator_url": null,
       "first_detected_at": "2026-05-14T11:01:55+09:00",
       "last_checked_at": "2026-05-14T11:01:55+09:00",
       "product_path": "products/takaratomy-arts-y813016.json"

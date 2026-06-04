@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-06-01T10:30:57+09:00",
+  "generated_at": "2026-06-04T18:33:11+09:00",
   "year": 2013,
   "month": 2,
   "items": [
@@ -22,6 +22,7 @@
       "jan_code": null,
       "official_url": "https://kitan.jp/products/fuchico_01_peach/",
       "source_url": "https://kitan.jp/products/fuchico_01_peach/",
+      "store_locator_url": null,
       "first_detected_at": "2026-05-14T09:13:25+09:00",
       "last_checked_at": "2026-05-14T09:13:25+09:00",
       "product_path": "products/kitanclub-fuchico-01-peach.json"
@@ -44,6 +45,7 @@
       "jan_code": null,
       "official_url": "https://kitan.jp/products/pakichoco3/",
       "source_url": "https://kitan.jp/products/pakichoco3/",
+      "store_locator_url": null,
       "first_detected_at": "2026-05-14T09:13:25+09:00",
       "last_checked_at": "2026-05-14T09:13:25+09:00",
       "product_path": "products/kitanclub-pakichoco3.json"
@@ -66,6 +68,7 @@
       "jan_code": null,
       "official_url": "https://kitan.jp/products/unmenke/",
       "source_url": "https://kitan.jp/products/unmenke/",
+      "store_locator_url": null,
       "first_detected_at": "2026-05-14T09:13:25+09:00",
       "last_checked_at": "2026-05-14T09:13:25+09:00",
       "product_path": "products/kitanclub-unmenke.json"

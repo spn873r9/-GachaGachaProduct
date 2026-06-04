@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-06-01T10:30:57+09:00",
+  "generated_at": "2026-06-04T18:33:11+09:00",
   "year": 2012,
   "month": 9,
   "items": [
@@ -22,6 +22,7 @@
       "jan_code": null,
       "official_url": "https://kitan.jp/products/dappunnya/",
       "source_url": "https://kitan.jp/products/dappunnya/",
+      "store_locator_url": null,
       "first_detected_at": "2026-05-14T09:13:25+09:00",
       "last_checked_at": "2026-05-14T09:13:25+09:00",
       "product_path": "products/kitanclub-dappunnya.json"
@@ -44,6 +45,7 @@
       "jan_code": null,
       "official_url": "https://kitan.jp/products/syakiin/",
       "source_url": "https://kitan.jp/products/syakiin/",
+      "store_locator_url": null,
       "first_detected_at": "2026-05-14T09:13:25+09:00",
       "last_checked_at": "2026-05-14T09:13:25+09:00",
       "product_path": "products/kitanclub-syakiin.json"
@@ -66,6 +68,7 @@
       "jan_code": null,
       "official_url": "https://kitan.jp/products/kinniku01/",
       "source_url": "https://kitan.jp/products/kinniku01/",
+      "store_locator_url": null,
       "first_detected_at": "2026-05-14T09:13:25+09:00",
       "last_checked_at": "2026-05-14T09:13:25+09:00",
       "product_path": "products/kitanclub-kinniku01.json"
@@ -88,6 +91,7 @@
       "jan_code": null,
       "official_url": "https://kitan.jp/products/hiyoko_sox/",
       "source_url": "https://kitan.jp/products/hiyoko_sox/",
+      "store_locator_url": null,
       "first_detected_at": "2026-05-14T09:13:25+09:00",
       "last_checked_at": "2026-05-14T09:13:25+09:00",
       "product_path": "products/kitanclub-hiyoko-sox.json"
@@ -110,6 +114,7 @@
       "jan_code": null,
       "official_url": "https://kitan.jp/products/dorohedoro_01/",
       "source_url": "https://kitan.jp/products/dorohedoro_01/",
+      "store_locator_url": null,
       "first_detected_at": "2026-05-14T09:13:25+09:00",
       "last_checked_at": "2026-05-14T09:13:25+09:00",
       "product_path": "products/kitanclub-dorohedoro-01.json"
@@ -132,6 +137,7 @@
       "jan_code": null,
       "official_url": "https://kitan.jp/products/hatsunemiku_hellokitty/",
       "source_url": "https://kitan.jp/products/hatsunemiku_hellokitty/",
+      "store_locator_url": null,
       "first_detected_at": "2026-05-14T09:13:25+09:00",
       "last_checked_at": "2026-05-14T09:13:25+09:00",
       "product_path": "products/kitanclub-hatsunemiku-hellokitty.json"
@@ -154,6 +160,7 @@
       "jan_code": null,
       "official_url": "https://www.takaratomy-arts.co.jp/items/item.html?n=Y997778",
       "source_url": "https://www.takaratomy-arts.co.jp/items/item.html?n=Y997778",
+      "store_locator_url": null,
       "first_detected_at": "2026-05-14T11:01:55+09:00",
       "last_checked_at": "2026-05-14T11:01:55+09:00",
       "product_path": "products/takaratomy-arts-y997778.json"

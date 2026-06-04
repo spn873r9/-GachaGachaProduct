@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-06-01T10:30:57+09:00",
+  "generated_at": "2026-06-04T18:33:11+09:00",
   "year": 2012,
   "month": 4,
   "items": [
@@ -22,6 +22,7 @@
       "jan_code": null,
       "official_url": "https://kitan.jp/products/uamou/",
       "source_url": "https://kitan.jp/products/uamou/",
+      "store_locator_url": null,
       "first_detected_at": "2026-05-14T09:13:25+09:00",
       "last_checked_at": "2026-05-14T09:13:25+09:00",
       "product_path": "products/kitanclub-uamou.json"
@@ -44,6 +45,7 @@
       "jan_code": null,
       "official_url": "https://kitan.jp/products/loveneko_ice/",
       "source_url": "https://kitan.jp/products/loveneko_ice/",
+      "store_locator_url": null,
       "first_detected_at": "2026-05-14T09:13:25+09:00",
       "last_checked_at": "2026-05-14T09:13:25+09:00",
       "product_path": "products/kitanclub-loveneko-ice.json"
@@ -66,6 +68,7 @@
       "jan_code": null,
       "official_url": "https://kitan.jp/products/guiltycrown/",
       "source_url": "https://kitan.jp/products/guiltycrown/",
+      "store_locator_url": null,
       "first_detected_at": "2026-05-14T09:13:25+09:00",
       "last_checked_at": "2026-05-14T09:13:25+09:00",
       "product_path": "products/kitanclub-guiltycrown.json"
@@ -88,6 +91,7 @@
       "jan_code": null,
       "official_url": "https://kitan.jp/products/live_taiikuzuwari/",
       "source_url": "https://kitan.jp/products/live_taiikuzuwari/",
+      "store_locator_url": null,
       "first_detected_at": "2026-05-14T09:13:25+09:00",
       "last_checked_at": "2026-05-14T09:13:25+09:00",
       "product_path": "products/kitanclub-live-taiikuzuwari.json"
@@ -110,6 +114,7 @@
       "jan_code": null,
       "official_url": "https://kitan.jp/products/softice_light/",
       "source_url": "https://kitan.jp/products/softice_light/",
+      "store_locator_url": null,
       "first_detected_at": "2026-05-14T09:13:25+09:00",
       "last_checked_at": "2026-05-14T09:13:25+09:00",
       "product_path": "products/kitanclub-softice-light.json"
