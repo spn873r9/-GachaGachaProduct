@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-06-04T23:23:14+09:00",
+  "generated_at": "2026-06-06T00:32:21+09:00",
   "year": 2026,
   "month": 8,
   "items": [
@@ -24,7 +24,7 @@
       "source_url": "https://bluemountains.co.jp/9193/",
       "store_locator_url": null,
       "first_detected_at": "2026-05-16T09:46:36+09:00",
-      "last_checked_at": "2026-06-04T22:34:44+09:00",
+      "last_checked_at": "2026-06-05T22:46:50+09:00",
       "product_path": "products/blue-mountain-9193.json"
     },
     {
@@ -47,7 +47,7 @@
       "source_url": "https://bluemountains.co.jp/9241/",
       "store_locator_url": null,
       "first_detected_at": "2026-05-16T09:46:36+09:00",
-      "last_checked_at": "2026-06-04T22:34:44+09:00",
+      "last_checked_at": "2026-06-05T22:46:50+09:00",
       "product_path": "products/blue-mountain-9241.json"
     },
     {
@@ -70,7 +70,7 @@
       "source_url": "https://bluemountains.co.jp/9265/",
       "store_locator_url": null,
       "first_detected_at": "2026-05-16T09:46:36+09:00",
-      "last_checked_at": "2026-06-04T22:34:44+09:00",
+      "last_checked_at": "2026-06-05T22:46:50+09:00",
       "product_path": "products/blue-mountain-9265.json"
     },
     {
@@ -93,7 +93,7 @@
       "source_url": "https://capsule.bushiroad-creative.com/product/10000/",
       "store_locator_url": null,
       "first_detected_at": "2026-06-01T09:48:09+09:00",
-      "last_checked_at": "2026-06-04T22:34:44+09:00",
+      "last_checked_at": "2026-06-05T22:46:50+09:00",
       "product_path": "products/bushiroad-creative-10000.json"
     },
     {
@@ -116,7 +116,7 @@
       "source_url": "https://capsule.bushiroad-creative.com/product/10001/",
       "store_locator_url": null,
       "first_detected_at": "2026-05-25T09:33:31+09:00",
-      "last_checked_at": "2026-06-04T22:34:44+09:00",
+      "last_checked_at": "2026-06-05T22:46:50+09:00",
       "product_path": "products/bushiroad-creative-10001.json"
     },
     {
@@ -139,7 +139,7 @@
       "source_url": "https://capsule.bushiroad-creative.com/product/9952/",
       "store_locator_url": null,
       "first_detected_at": "2026-05-15T09:25:19+09:00",
-      "last_checked_at": "2026-06-04T22:34:44+09:00",
+      "last_checked_at": "2026-06-05T22:46:50+09:00",
       "product_path": "products/bushiroad-creative-9952.json"
     },
     {
@@ -162,8 +162,31 @@
       "source_url": "https://capsule.bushiroad-creative.com/product/9913/",
       "store_locator_url": null,
       "first_detected_at": "2026-05-15T09:25:19+09:00",
-      "last_checked_at": "2026-06-04T22:34:44+09:00",
+      "last_checked_at": "2026-06-05T22:46:50+09:00",
       "product_path": "products/bushiroad-creative-9913.json"
+    },
+    {
+      "id": "bushiroad-creative-10027",
+      "manufacturer_id": "bushiroad-creative",
+      "manufacturer_name": "ブシロードクリエイティブ",
+      "brand_name": "ブルーロック",
+      "series_name": null,
+      "product_name": "ブルーロック みあげてすたぁカプセルラバーキーホルダー",
+      "release_year": 2026,
+      "release_month": 8,
+      "release_week": null,
+      "release_date": null,
+      "preview_image_url": "https://capsule.bushiroad-creative.com/wordpress/wp-content/uploads/2026/05/11182445/260312_BL_miagete_star_POP-640x640.jpg",
+      "preview_image_source_url": "https://capsule.bushiroad-creative.com/product/10027/",
+      "price_yen": 300,
+      "variant_count": 8,
+      "jan_code": "4570194462923",
+      "official_url": "https://capsule.bushiroad-creative.com/product/10027/",
+      "source_url": "https://capsule.bushiroad-creative.com/product/10027/",
+      "store_locator_url": null,
+      "first_detected_at": "2026-06-05T22:46:50+09:00",
+      "last_checked_at": "2026-06-05T22:46:50+09:00",
+      "product_path": "products/bushiroad-creative-10027.json"
     },
     {
       "id": "bushiroad-creative-9873",
@@ -185,7 +208,7 @@
       "source_url": "https://capsule.bushiroad-creative.com/product/9873/",
       "store_locator_url": null,
       "first_detected_at": "2026-05-15T09:26:08+09:00",
-      "last_checked_at": "2026-06-04T22:34:44+09:00",
+      "last_checked_at": "2026-06-05T22:46:50+09:00",
       "product_path": "products/bushiroad-creative-9873.json"
     },
     {
@@ -208,7 +231,7 @@
       "source_url": "https://capsule.bushiroad-creative.com/product/9879/",
       "store_locator_url": null,
       "first_detected_at": "2026-05-15T09:25:19+09:00",
-      "last_checked_at": "2026-06-04T22:34:44+09:00",
+      "last_checked_at": "2026-06-05T22:46:50+09:00",
       "product_path": "products/bushiroad-creative-9879.json"
     },
     {
@@ -231,7 +254,7 @@
       "source_url": "https://capsule.bushiroad-creative.com/product/9984/",
       "store_locator_url": null,
       "first_detected_at": "2026-05-25T09:33:31+09:00",
-      "last_checked_at": "2026-06-04T22:34:44+09:00",
+      "last_checked_at": "2026-06-05T22:46:50+09:00",
       "product_path": "products/bushiroad-creative-9984.json"
     },
     {
@@ -254,7 +277,7 @@
       "source_url": "https://capsule.bushiroad-creative.com/product/9906/",
       "store_locator_url": null,
       "first_detected_at": "2026-05-15T09:25:19+09:00",
-      "last_checked_at": "2026-06-04T22:34:44+09:00",
+      "last_checked_at": "2026-06-05T22:46:50+09:00",
       "product_path": "products/bushiroad-creative-9906.json"
     },
     {
@@ -277,7 +300,7 @@
       "source_url": "https://www.a-muzu.com/item/C70269.html",
       "store_locator_url": null,
       "first_detected_at": "2026-05-25T09:33:31+09:00",
-      "last_checked_at": "2026-06-04T22:34:44+09:00",
+      "last_checked_at": "2026-06-05T22:46:50+09:00",
       "product_path": "products/enami-sangyo-c70269.json"
     },
     {
@@ -300,7 +323,7 @@
       "source_url": "https://www.a-muzu.com/item/C70268.html",
       "store_locator_url": null,
       "first_detected_at": "2026-05-25T09:33:31+09:00",
-      "last_checked_at": "2026-06-04T22:34:44+09:00",
+      "last_checked_at": "2026-06-05T22:46:50+09:00",
       "product_path": "products/enami-sangyo-c70268.json"
     },
     {
@@ -530,7 +553,7 @@
       "source_url": "https://www.a-muzu.com/item/C70134.html",
       "store_locator_url": null,
       "first_detected_at": "2026-05-25T09:33:31+09:00",
-      "last_checked_at": "2026-06-04T22:34:44+09:00",
+      "last_checked_at": "2026-06-05T22:46:50+09:00",
       "product_path": "products/maruka-c70134.json"
     },
     {
@@ -553,7 +576,7 @@
       "source_url": "https://www.a-muzu.com/item/C70127.html",
       "store_locator_url": null,
       "first_detected_at": "2026-05-25T09:33:31+09:00",
-      "last_checked_at": "2026-06-04T22:34:44+09:00",
+      "last_checked_at": "2026-06-05T22:46:50+09:00",
       "product_path": "products/maruka-c70127.json"
     },
     {
@@ -576,7 +599,7 @@
       "source_url": "https://www.a-muzu.com/item/C70128.html",
       "store_locator_url": null,
       "first_detected_at": "2026-05-25T09:33:31+09:00",
-      "last_checked_at": "2026-06-04T22:34:44+09:00",
+      "last_checked_at": "2026-06-05T22:46:50+09:00",
       "product_path": "products/maruka-c70128.json"
     },
     {
@@ -599,7 +622,7 @@
       "source_url": "https://www.a-muzu.com/item/C70129.html",
       "store_locator_url": null,
       "first_detected_at": "2026-05-25T09:33:31+09:00",
-      "last_checked_at": "2026-06-04T22:34:44+09:00",
+      "last_checked_at": "2026-06-05T22:46:50+09:00",
       "product_path": "products/maruka-c70129.json"
     },
     {
@@ -622,7 +645,7 @@
       "source_url": "https://www.a-muzu.com/item/C70133.html",
       "store_locator_url": null,
       "first_detected_at": "2026-05-25T09:33:31+09:00",
-      "last_checked_at": "2026-06-04T22:34:44+09:00",
+      "last_checked_at": "2026-06-05T22:46:50+09:00",
       "product_path": "products/maruka-c70133.json"
     },
     {
@@ -645,7 +668,7 @@
       "source_url": "https://www.a-muzu.com/item/C70131.html",
       "store_locator_url": null,
       "first_detected_at": "2026-05-25T09:33:31+09:00",
-      "last_checked_at": "2026-06-04T22:34:44+09:00",
+      "last_checked_at": "2026-06-05T22:46:50+09:00",
       "product_path": "products/maruka-c70131.json"
     },
     {
@@ -668,7 +691,7 @@
       "source_url": "https://www.a-muzu.com/item/C70132.html",
       "store_locator_url": null,
       "first_detected_at": "2026-05-25T09:33:31+09:00",
-      "last_checked_at": "2026-06-04T22:34:44+09:00",
+      "last_checked_at": "2026-06-05T22:46:50+09:00",
       "product_path": "products/maruka-c70132.json"
     },
     {
@@ -691,7 +714,7 @@
       "source_url": "https://www.a-muzu.com/item/C70126.html",
       "store_locator_url": null,
       "first_detected_at": "2026-05-25T09:33:31+09:00",
-      "last_checked_at": "2026-06-04T22:34:44+09:00",
+      "last_checked_at": "2026-06-05T22:46:50+09:00",
       "product_path": "products/maruka-c70126.json"
     },
     {
@@ -714,7 +737,7 @@
       "source_url": "https://www.a-muzu.com/item/C70125.html",
       "store_locator_url": null,
       "first_detected_at": "2026-05-25T09:33:31+09:00",
-      "last_checked_at": "2026-06-04T22:34:44+09:00",
+      "last_checked_at": "2026-06-05T22:46:50+09:00",
       "product_path": "products/maruka-c70125.json"
     },
     {
@@ -737,7 +760,7 @@
       "source_url": "https://www.a-muzu.com/item/C70130.html",
       "store_locator_url": null,
       "first_detected_at": "2026-05-25T09:33:31+09:00",
-      "last_checked_at": "2026-06-04T22:34:44+09:00",
+      "last_checked_at": "2026-06-05T22:46:50+09:00",
       "product_path": "products/maruka-c70130.json"
     },
     {
@@ -760,7 +783,7 @@
       "source_url": "https://www.a-muzu.com/item/C69812.html",
       "store_locator_url": null,
       "first_detected_at": "2026-05-25T09:33:31+09:00",
-      "last_checked_at": "2026-06-04T22:34:44+09:00",
+      "last_checked_at": "2026-06-05T22:46:50+09:00",
       "product_path": "products/onoe-man-c69812.json"
     },
     {
@@ -783,7 +806,7 @@
       "source_url": "https://www.a-muzu.com/item/C69813.html",
       "store_locator_url": null,
       "first_detected_at": "2026-05-25T09:33:31+09:00",
-      "last_checked_at": "2026-06-04T22:34:44+09:00",
+      "last_checked_at": "2026-06-05T22:46:50+09:00",
       "product_path": "products/onoe-man-c69813.json"
     },
     {
@@ -806,7 +829,7 @@
       "source_url": "https://www.a-muzu.com/item/C69811.html",
       "store_locator_url": null,
       "first_detected_at": "2026-05-25T09:33:31+09:00",
-      "last_checked_at": "2026-06-04T22:34:44+09:00",
+      "last_checked_at": "2026-06-05T22:46:50+09:00",
       "product_path": "products/onoe-man-c69811.json"
     },
     {
@@ -829,7 +852,7 @@
       "source_url": "https://www.a-muzu.com/item/C70091.html",
       "store_locator_url": null,
       "first_detected_at": "2026-05-25T09:33:31+09:00",
-      "last_checked_at": "2026-06-04T22:34:44+09:00",
+      "last_checked_at": "2026-06-05T22:46:50+09:00",
       "product_path": "products/partners-c70091.json"
     },
     {
@@ -852,7 +875,7 @@
       "source_url": "https://www.a-muzu.com/item/C70107.html",
       "store_locator_url": null,
       "first_detected_at": "2026-05-25T09:33:31+09:00",
-      "last_checked_at": "2026-06-04T22:34:44+09:00",
+      "last_checked_at": "2026-06-05T22:46:50+09:00",
       "product_path": "products/s-trust-c70107.json"
     },
     {
@@ -875,7 +898,7 @@
       "source_url": "https://www.a-muzu.com/item/C70105.html",
       "store_locator_url": null,
       "first_detected_at": "2026-05-25T09:33:31+09:00",
-      "last_checked_at": "2026-06-04T22:34:44+09:00",
+      "last_checked_at": "2026-06-05T22:46:50+09:00",
       "product_path": "products/s-trust-c70105.json"
     },
     {
@@ -898,7 +921,7 @@
       "source_url": "https://www.a-muzu.com/item/C70106.html",
       "store_locator_url": null,
       "first_detected_at": "2026-05-25T09:33:31+09:00",
-      "last_checked_at": "2026-06-04T22:34:44+09:00",
+      "last_checked_at": "2026-06-05T22:46:50+09:00",
       "product_path": "products/s-trust-c70106.json"
     },
     {
@@ -921,7 +944,7 @@
       "source_url": "https://www.a-muzu.com/item/C70265.html",
       "store_locator_url": null,
       "first_detected_at": "2026-05-25T09:33:31+09:00",
-      "last_checked_at": "2026-06-04T22:34:44+09:00",
+      "last_checked_at": "2026-06-05T22:46:50+09:00",
       "product_path": "products/standby-c70265.json"
     },
     {
@@ -944,7 +967,7 @@
       "source_url": "https://www.a-muzu.com/item/C70267.html",
       "store_locator_url": null,
       "first_detected_at": "2026-05-25T09:33:31+09:00",
-      "last_checked_at": "2026-06-04T22:34:44+09:00",
+      "last_checked_at": "2026-06-05T22:46:50+09:00",
       "product_path": "products/standby-c70267.json"
     },
     {
@@ -967,7 +990,7 @@
       "source_url": "https://www.a-muzu.com/item/C70266.html",
       "store_locator_url": null,
       "first_detected_at": "2026-05-25T09:33:31+09:00",
-      "last_checked_at": "2026-06-04T22:34:44+09:00",
+      "last_checked_at": "2026-06-05T22:46:50+09:00",
       "product_path": "products/standby-c70266.json"
     },
     {
@@ -990,7 +1013,7 @@
       "source_url": "https://www.a-muzu.com/item/C70264.html",
       "store_locator_url": null,
       "first_detected_at": "2026-05-25T09:33:31+09:00",
-      "last_checked_at": "2026-06-04T22:34:44+09:00",
+      "last_checked_at": "2026-06-05T22:46:50+09:00",
       "product_path": "products/standby-c70264.json"
     },
     {
@@ -1013,7 +1036,7 @@
       "source_url": "https://www.a-muzu.com/item/C70263.html",
       "store_locator_url": null,
       "first_detected_at": "2026-05-25T09:33:31+09:00",
-      "last_checked_at": "2026-06-04T22:34:44+09:00",
+      "last_checked_at": "2026-06-05T22:46:50+09:00",
       "product_path": "products/standby-c70263.json"
     },
     {
@@ -1036,7 +1059,7 @@
       "source_url": "https://toyscabin.com/product/20260501_1421.php",
       "store_locator_url": null,
       "first_detected_at": "2026-05-13T16:15:44+09:00",
-      "last_checked_at": "2026-06-04T22:34:44+09:00",
+      "last_checked_at": "2026-06-05T22:46:50+09:00",
       "product_path": "products/toyscabin-20260501-1421.json"
     },
     {
@@ -1059,7 +1082,7 @@
       "source_url": "https://toyscabin.com/product/20260501_1419.php",
       "store_locator_url": null,
       "first_detected_at": "2026-05-13T16:15:44+09:00",
-      "last_checked_at": "2026-06-04T22:34:44+09:00",
+      "last_checked_at": "2026-06-05T22:46:50+09:00",
       "product_path": "products/toyscabin-20260501-1419.json"
     },
     {
@@ -1082,7 +1105,7 @@
       "source_url": "https://toyscabin.com/product/20260501_1418.php",
       "store_locator_url": null,
       "first_detected_at": "2026-05-13T16:15:44+09:00",
-      "last_checked_at": "2026-06-04T22:34:44+09:00",
+      "last_checked_at": "2026-06-05T22:46:50+09:00",
       "product_path": "products/toyscabin-20260501-1418.json"
     },
     {
@@ -1105,7 +1128,7 @@
       "source_url": "https://toyscabin.com/product/20260501_1420.php",
       "store_locator_url": null,
       "first_detected_at": "2026-05-13T16:15:44+09:00",
-      "last_checked_at": "2026-06-04T22:34:44+09:00",
+      "last_checked_at": "2026-06-05T22:46:50+09:00",
       "product_path": "products/toyscabin-20260501-1420.json"
     },
     {
@@ -1128,7 +1151,7 @@
       "source_url": "https://toyscabin.com/product/20260501_1422.php",
       "store_locator_url": null,
       "first_detected_at": "2026-05-12T00:56:14+09:00",
-      "last_checked_at": "2026-06-04T22:34:44+09:00",
+      "last_checked_at": "2026-06-05T22:46:50+09:00",
       "product_path": "products/toyscabin-20260501-1422.json"
     },
     {
@@ -1151,7 +1174,7 @@
       "source_url": "https://toyscabin.com/product/20260501_1423.php",
       "store_locator_url": null,
       "first_detected_at": "2026-05-12T00:56:14+09:00",
-      "last_checked_at": "2026-06-04T22:34:44+09:00",
+      "last_checked_at": "2026-06-05T22:46:50+09:00",
       "product_path": "products/toyscabin-20260501-1423.json"
     },
     {
@@ -1174,7 +1197,7 @@
       "source_url": "https://tokyo-yumeya.co.jp/goods/muziktigernuicharm/",
       "store_locator_url": null,
       "first_detected_at": "2026-05-15T17:06:34+09:00",
-      "last_checked_at": "2026-06-04T22:34:44+09:00",
+      "last_checked_at": "2026-06-05T22:46:50+09:00",
       "product_path": "products/yumeya-muziktigernuicharm.json"
     },
     {
@@ -1197,7 +1220,7 @@
       "source_url": "https://tokyo-yumeya.co.jp/goods/ojarumarufingerpapetto/",
       "store_locator_url": null,
       "first_detected_at": "2026-05-15T17:06:34+09:00",
-      "last_checked_at": "2026-06-04T22:34:44+09:00",
+      "last_checked_at": "2026-06-05T22:46:50+09:00",
       "product_path": "products/yumeya-ojarumarufingerpapetto.json"
     },
     {
@@ -1220,7 +1243,7 @@
       "source_url": "https://tokyo-yumeya.co.jp/goods/guchokorantanfingerpapetto/",
       "store_locator_url": null,
       "first_detected_at": "2026-05-15T17:06:34+09:00",
-      "last_checked_at": "2026-06-04T22:34:44+09:00",
+      "last_checked_at": "2026-06-05T22:46:50+09:00",
       "product_path": "products/yumeya-guchokorantanfingerpapetto.json"
     },
     {
@@ -1243,7 +1266,7 @@
       "source_url": "https://tokyo-yumeya.co.jp/goods/gankochanmulticase/",
       "store_locator_url": null,
       "first_detected_at": "2026-05-15T17:06:34+09:00",
-      "last_checked_at": "2026-06-04T22:34:44+09:00",
+      "last_checked_at": "2026-06-05T22:46:50+09:00",
       "product_path": "products/yumeya-gankochanmulticase.json"
     },
     {
@@ -1266,7 +1289,7 @@
       "source_url": "https://tokyo-yumeya.co.jp/goods/chibimarukomulticase/",
       "store_locator_url": null,
       "first_detected_at": "2026-05-15T17:06:34+09:00",
-      "last_checked_at": "2026-06-04T22:34:44+09:00",
+      "last_checked_at": "2026-06-05T22:46:50+09:00",
       "product_path": "products/yumeya-chibimarukomulticase.json"
     },
     {
@@ -1289,7 +1312,7 @@
       "source_url": "https://tokyo-yumeya.co.jp/goods/nikonikonuipouch/",
       "store_locator_url": null,
       "first_detected_at": "2026-05-15T17:06:34+09:00",
-      "last_checked_at": "2026-06-04T22:34:44+09:00",
+      "last_checked_at": "2026-06-05T22:46:50+09:00",
       "product_path": "products/yumeya-nikonikonuipouch.json"
     },
     {
@@ -1312,7 +1335,7 @@
       "source_url": "https://tokyo-yumeya.co.jp/goods/awawachanpochette/",
       "store_locator_url": null,
       "first_detected_at": "2026-05-15T17:06:34+09:00",
-      "last_checked_at": "2026-06-04T22:34:44+09:00",
+      "last_checked_at": "2026-06-05T22:46:50+09:00",
       "product_path": "products/yumeya-awawachanpochette.json"
     },
     {
@@ -1335,7 +1358,7 @@
       "source_url": "https://tokyo-yumeya.co.jp/goods/mokumokuchansumahocharm/",
       "store_locator_url": null,
       "first_detected_at": "2026-05-15T17:06:34+09:00",
-      "last_checked_at": "2026-06-04T22:34:44+09:00",
+      "last_checked_at": "2026-06-05T22:46:50+09:00",
       "product_path": "products/yumeya-mokumokuchansumahocharm.json"
     },
     {
@@ -1358,7 +1381,7 @@
       "source_url": "https://tokyo-yumeya.co.jp/goods/sugerbunnieskeyholder/",
       "store_locator_url": null,
       "first_detected_at": "2026-05-15T17:06:34+09:00",
-      "last_checked_at": "2026-06-04T22:34:44+09:00",
+      "last_checked_at": "2026-06-05T22:46:50+09:00",
       "product_path": "products/yumeya-sugerbunnieskeyholder.json"
     },
     {
@@ -1381,7 +1404,7 @@
       "source_url": "https://tokyo-yumeya.co.jp/goods/charmmykittynuicharm/",
       "store_locator_url": null,
       "first_detected_at": "2026-05-15T17:06:34+09:00",
-      "last_checked_at": "2026-06-04T22:34:44+09:00",
+      "last_checked_at": "2026-06-05T22:46:50+09:00",
       "product_path": "products/yumeya-charmmykittynuicharm.json"
     },
     {
@@ -1404,7 +1427,7 @@
       "source_url": "https://tokyo-yumeya.co.jp/goods/kittykeyholder2/",
       "store_locator_url": null,
       "first_detected_at": "2026-05-15T17:06:34+09:00",
-      "last_checked_at": "2026-06-04T22:34:44+09:00",
+      "last_checked_at": "2026-06-05T22:46:50+09:00",
       "product_path": "products/yumeya-kittykeyholder2.json"
     },
     {
@@ -1427,7 +1450,7 @@
       "source_url": "https://tokyo-yumeya.co.jp/goods/fuwafuwanyankonuicharm/",
       "store_locator_url": null,
       "first_detected_at": "2026-05-15T17:06:34+09:00",
-      "last_checked_at": "2026-06-04T22:34:44+09:00",
+      "last_checked_at": "2026-06-05T22:46:50+09:00",
       "product_path": "products/yumeya-fuwafuwanyankonuicharm.json"
     },
     {
@@ -1450,7 +1473,7 @@
       "source_url": "https://tokyo-yumeya.co.jp/goods/sanrionuipouch2/",
       "store_locator_url": null,
       "first_detected_at": "2026-05-15T17:06:34+09:00",
-      "last_checked_at": "2026-06-04T22:34:44+09:00",
+      "last_checked_at": "2026-06-05T22:46:50+09:00",
       "product_path": "products/yumeya-sanrionuipouch2.json"
     },
     {
@@ -1473,7 +1496,7 @@
       "source_url": "https://tokyo-yumeya.co.jp/goods/sanrioratekumapochette/",
       "store_locator_url": null,
       "first_detected_at": "2026-05-15T17:06:34+09:00",
-      "last_checked_at": "2026-06-04T22:34:44+09:00",
+      "last_checked_at": "2026-06-05T22:46:50+09:00",
       "product_path": "products/yumeya-sanrioratekumapochette.json"
     },
     {
@@ -1496,7 +1519,7 @@
       "source_url": "https://tokyo-yumeya.co.jp/goods/monchhichinuiopchette/",
       "store_locator_url": null,
       "first_detected_at": "2026-05-15T17:06:34+09:00",
-      "last_checked_at": "2026-06-04T22:34:44+09:00",
+      "last_checked_at": "2026-06-05T22:46:50+09:00",
       "product_path": "products/yumeya-monchhichinuiopchette.json"
     },
     {
@@ -1519,7 +1542,7 @@
       "source_url": "https://tokyo-yumeya.co.jp/goods/lovetomocharm/",
       "store_locator_url": null,
       "first_detected_at": "2026-05-15T17:06:34+09:00",
-      "last_checked_at": "2026-06-04T22:34:44+09:00",
+      "last_checked_at": "2026-06-05T22:46:50+09:00",
       "product_path": "products/yumeya-lovetomocharm.json"
     }
   ]
