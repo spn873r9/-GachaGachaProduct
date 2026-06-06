@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-06-06T00:32:21+09:00",
+  "generated_at": "2026-06-06T23:49:02+09:00",
   "year": 2021,
   "month": 8,
   "items": [
@@ -2671,6 +2671,29 @@
       "first_detected_at": "2026-05-13T19:05:49+09:00",
       "last_checked_at": "2026-05-13T19:05:49+09:00",
       "product_path": "products/toyscabin-20210501-338.json"
+    },
+    {
+      "id": "yell-gacha-island-10709",
+      "manufacturer_id": "yell",
+      "manufacturer_name": "エール",
+      "brand_name": null,
+      "series_name": null,
+      "product_name": "洗濯日和",
+      "release_year": 2021,
+      "release_month": 8,
+      "release_week": null,
+      "release_date": null,
+      "preview_image_url": null,
+      "preview_image_source_url": null,
+      "price_yen": 200,
+      "variant_count": 5,
+      "jan_code": null,
+      "official_url": null,
+      "source_url": "https://gacha-island.jp/10709/",
+      "store_locator_url": null,
+      "first_detected_at": "2026-06-06T23:16:15+09:00",
+      "last_checked_at": "2026-06-06T23:16:15+09:00",
+      "product_path": "products/yell-gacha-island-10709.json"
     },
     {
       "id": "yumeya-fbe9792ddbfa",

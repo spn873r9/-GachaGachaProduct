@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-06-06T00:32:21+09:00",
+  "generated_at": "2026-06-06T23:49:02+09:00",
   "year": 2024,
   "month": 8,
   "items": [
@@ -24,7 +24,7 @@
       "source_url": "https://i-bloom-squishy.com/products/capsuletoys/page/2/",
       "store_locator_url": null,
       "first_detected_at": "2026-05-15T11:44:32+09:00",
-      "last_checked_at": "2026-06-05T22:46:50+09:00",
+      "last_checked_at": "2026-06-06T22:25:47+09:00",
       "product_path": "products/bloom-cp-mou-mou-doll-mini.json"
     },
     {
@@ -47,7 +47,7 @@
       "source_url": "https://i-bloom-squishy.com/products/capsuletoys/page/2/",
       "store_locator_url": null,
       "first_detected_at": "2026-05-15T11:44:32+09:00",
-      "last_checked_at": "2026-06-05T22:46:50+09:00",
+      "last_checked_at": "2026-06-06T22:25:47+09:00",
       "product_path": "products/bloom-cp-deko-parts.json"
     },
     {
@@ -162,7 +162,7 @@
       "source_url": "https://www.movic.jp/shop/g/g03616-00603-00381/",
       "store_locator_url": null,
       "first_detected_at": "2026-05-18T07:37:57+09:00",
-      "last_checked_at": "2026-06-05T22:46:50+09:00",
+      "last_checked_at": "2026-06-06T22:25:47+09:00",
       "product_path": "products/movic-03616-00603-00381.json"
     },
     {
@@ -2880,6 +2880,29 @@
       "product_path": "products/bandai-gashapon-4570118232984000.json"
     },
     {
+      "id": "amuse-gacha-island-4587",
+      "manufacturer_id": "amuse",
+      "manufacturer_name": "アミューズ",
+      "brand_name": null,
+      "series_name": null,
+      "product_name": "お手ふき メジェド様",
+      "release_year": 2024,
+      "release_month": 8,
+      "release_week": null,
+      "release_date": null,
+      "preview_image_url": null,
+      "preview_image_source_url": null,
+      "price_yen": 300,
+      "variant_count": 4,
+      "jan_code": null,
+      "official_url": null,
+      "source_url": "https://gacha-island.jp/4587/",
+      "store_locator_url": null,
+      "first_detected_at": "2026-06-06T23:05:42+09:00",
+      "last_checked_at": "2026-06-06T23:05:42+09:00",
+      "product_path": "products/amuse-gacha-island-4587.json"
+    },
+    {
       "id": "benelic-202408-2",
       "manufacturer_id": "benelic",
       "manufacturer_name": "ベネリック",
@@ -2899,7 +2922,7 @@
       "source_url": "https://benelic.com/capsuletoy/news/202408_2/",
       "store_locator_url": null,
       "first_detected_at": "2026-05-19T02:10:45+09:00",
-      "last_checked_at": "2026-06-04T17:58:32+09:00",
+      "last_checked_at": "2026-06-06T22:25:47+09:00",
       "product_path": "products/benelic-202408-2.json"
     },
     {
@@ -2922,7 +2945,7 @@
       "source_url": "https://benelic.com/capsuletoy/news/202408_1/",
       "store_locator_url": null,
       "first_detected_at": "2026-05-19T02:10:45+09:00",
-      "last_checked_at": "2026-06-04T17:58:32+09:00",
+      "last_checked_at": "2026-06-06T22:25:47+09:00",
       "product_path": "products/benelic-202408-1.json"
     },
     {
@@ -2945,7 +2968,7 @@
       "source_url": "https://benelic.com/capsuletoy/news/202408_3/",
       "store_locator_url": null,
       "first_detected_at": "2026-05-19T02:10:45+09:00",
-      "last_checked_at": "2026-06-04T17:58:32+09:00",
+      "last_checked_at": "2026-06-06T22:25:47+09:00",
       "product_path": "products/benelic-202408-3.json"
     },
     {
@@ -3727,7 +3750,7 @@
       "source_url": "https://cotoful.com/blog/MIKASA%E3%83%9F%E3%82%AB%E3%82%B5%E3%82%82%E3%81%8E%E3%82%85%E3%81%A3%E3%83%90%E3%83%AC%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%AB",
       "store_locator_url": null,
       "first_detected_at": "2026-05-16T11:51:31+09:00",
-      "last_checked_at": "2026-06-05T22:46:50+09:00",
+      "last_checked_at": "2026-06-06T22:25:47+09:00",
       "product_path": "products/cotoful-mikasa-f60b1a17.json"
     },
     {
@@ -3773,7 +3796,7 @@
       "source_url": "https://d-is.co.jp/capsuletoy.html",
       "store_locator_url": null,
       "first_detected_at": "2026-05-16T23:11:51+09:00",
-      "last_checked_at": "2026-06-05T22:46:50+09:00",
+      "last_checked_at": "2026-06-06T22:25:47+09:00",
       "product_path": "products/dis-dcpt-0018.json"
     },
     {
@@ -3796,7 +3819,7 @@
       "source_url": "https://d-is.co.jp/capsuletoy.html",
       "store_locator_url": null,
       "first_detected_at": "2026-05-16T23:11:51+09:00",
-      "last_checked_at": "2026-06-05T22:46:50+09:00",
+      "last_checked_at": "2026-06-06T22:25:47+09:00",
       "product_path": "products/dis-dcpt-0019.json"
     },
     {
@@ -4072,7 +4095,7 @@
       "source_url": "https://toys.genco.co.jp/product/chun-the-sparrow/chun-the-sparrow_vol01/",
       "store_locator_url": null,
       "first_detected_at": "2026-05-17T17:49:03+09:00",
-      "last_checked_at": "2026-06-05T22:46:50+09:00",
+      "last_checked_at": "2026-06-06T22:25:47+09:00",
       "product_path": "products/genco-chun-the-sparrow-chun-the-sparrow-vol01.json"
     },
     {
@@ -4693,7 +4716,7 @@
       "source_url": "https://capsule.k2-st.co.jp/lineup/sanrio_pyoconoru/",
       "store_locator_url": null,
       "first_detected_at": "2026-05-15T15:03:59+09:00",
-      "last_checked_at": "2026-06-05T22:46:50+09:00",
+      "last_checked_at": "2026-06-06T22:25:47+09:00",
       "product_path": "products/k2-station-sanrio-pyoconoru.json"
     },
     {
@@ -4716,7 +4739,7 @@
       "source_url": "https://capsule.k2-st.co.jp/lineup/sst_mejirushi_charm2/",
       "store_locator_url": null,
       "first_detected_at": "2026-05-15T15:03:59+09:00",
-      "last_checked_at": "2026-06-05T22:46:50+09:00",
+      "last_checked_at": "2026-06-06T22:25:47+09:00",
       "product_path": "products/k2-station-sst-mejirushi-charm2.json"
     },
     {
@@ -4739,7 +4762,7 @@
       "source_url": "https://capsule.k2-st.co.jp/lineup/haikyu_nuigurumi_clip/",
       "store_locator_url": null,
       "first_detected_at": "2026-05-15T15:03:59+09:00",
-      "last_checked_at": "2026-06-05T22:46:50+09:00",
+      "last_checked_at": "2026-06-06T22:25:47+09:00",
       "product_path": "products/k2-station-haikyu-nuigurumi-clip.json"
     },
     {
@@ -5912,7 +5935,7 @@
       "source_url": "https://prtimes.jp/main/html/rd/p/000000251.000016101.html",
       "store_locator_url": null,
       "first_detected_at": "2026-05-19T02:39:44+09:00",
-      "last_checked_at": "2026-06-05T22:46:50+09:00",
+      "last_checked_at": "2026-06-06T22:25:47+09:00",
       "product_path": "products/sega-fave-000000251-000016101-vol3.json"
     },
     {
@@ -5935,7 +5958,7 @@
       "source_url": "https://prtimes.jp/main/html/rd/p/000000291.000016101.html",
       "store_locator_url": null,
       "first_detected_at": "2026-05-19T02:39:44+09:00",
-      "last_checked_at": "2026-06-05T22:46:50+09:00",
+      "last_checked_at": "2026-06-06T22:25:47+09:00",
       "product_path": "products/sega-fave-000000291-000016101-vol1.json"
     },
     {
@@ -7223,7 +7246,7 @@
       "source_url": "https://toshin.jpn.com/%e9%ab%98%e7%b4%9a%e6%84%9f%e6%ba%a2%e3%82%8c%e3%82%8b%e3%83%91%e3%83%bc%e3%83%ab%e3%82%92%e3%83%a2%e3%83%81%e3%83%bc%e3%83%95%e3%81%ab%e3%81%97%e3%81%9f%e5%85%a5%e6%b5%b4%e6%96%99%e3%80%8eswati-bath/",
       "store_locator_url": null,
       "first_detected_at": "2026-05-17T22:54:57+09:00",
-      "last_checked_at": "2026-06-05T22:46:50+09:00",
+      "last_checked_at": "2026-06-06T22:25:47+09:00",
       "product_path": "products/toshin-3436.json"
     },
     {
@@ -7246,7 +7269,7 @@
       "source_url": "https://toshin.jpn.com/%e7%be%8e%e5%ae%b9%e6%b0%b4%e3%81%8b%e3%82%89%e7%94%9f%e3%81%be%e3%82%8c%e3%81%9fmizu%e3%82%b7%e3%83%a3%e3%83%b3%e3%83%97%e3%83%bc%e3%80%8eululis%e3%80%8f%e3%81%8c%ef%bc%83c-pla%e9%99%90%e5%ae%9a/",
       "store_locator_url": null,
       "first_detected_at": "2026-05-17T22:54:57+09:00",
-      "last_checked_at": "2026-06-05T22:46:50+09:00",
+      "last_checked_at": "2026-06-06T22:25:47+09:00",
       "product_path": "products/toshin-3429.json"
     },
     {
@@ -7384,7 +7407,7 @@
       "source_url": "https://www.u-np.jp/product/sankyo-%e7%ad%90%e4%bd%93%e3%83%ac%e3%83%90%e3%83%bc%e3%83%a9%e3%83%90%e3%83%bc%e3%83%9c%e3%83%bc%e3%83%ab%e3%83%81%e3%82%a7%e3%83%bc%e3%83%b3/",
       "store_locator_url": null,
       "first_detected_at": "2026-05-25T13:56:55+09:00",
-      "last_checked_at": "2026-06-04T17:58:32+09:00",
+      "last_checked_at": "2026-06-06T22:25:47+09:00",
       "product_path": "products/ultra-new-planning-sankyo-dc1656f9.json"
     },
     {
@@ -7407,7 +7430,7 @@
       "source_url": "https://www.u-np.jp/product/%e3%82%a4%e3%82%b1%e3%83%80%e3%83%a4%e8%a3%bd%e8%8f%93-%e3%81%88%e3%81%b3%e3%81%a1%e3%81%b3-%e3%81%a4%e3%81%aa%e3%81%8c%e3%82%8b4%e9%80%a3%e3%83%9d%e3%83%bc%e3%83%81/",
       "store_locator_url": null,
       "first_detected_at": "2026-05-25T13:56:55+09:00",
-      "last_checked_at": "2026-06-04T17:58:32+09:00",
+      "last_checked_at": "2026-06-06T22:25:47+09:00",
       "product_path": "products/ultra-new-planning-4-9591f20a.json"
     },
     {
@@ -7430,7 +7453,7 @@
       "source_url": "https://www.u-np.jp/product/%e3%82%af%e3%83%a9%e3%82%b7%e3%82%a8-%e3%83%a8%e3%83%bc%e3%83%ad%e3%83%94%e3%82%a2%e3%83%b3%e3%82%b7%e3%83%a5%e3%82%ac%e3%83%bc%e3%82%b3%e3%83%bc%e3%83%b3-%e3%83%a1%e3%82%bf%e3%83%ab%e3%82%ad%e3%83%bc/",
       "store_locator_url": null,
       "first_detected_at": "2026-05-25T13:56:55+09:00",
-      "last_checked_at": "2026-06-04T17:58:32+09:00",
+      "last_checked_at": "2026-06-06T22:25:47+09:00",
       "product_path": "products/ultra-new-planning-9757ee807bd7.json"
     },
     {
@@ -7453,7 +7476,7 @@
       "source_url": "https://www.yoshioka-kogyosyo.com/information.html",
       "store_locator_url": null,
       "first_detected_at": "2026-05-16T09:50:19+09:00",
-      "last_checked_at": "2026-06-05T22:46:50+09:00",
+      "last_checked_at": "2026-06-06T22:25:47+09:00",
       "product_path": "products/yoshioka-kogyosyo-dragon-dp.json"
     },
     {
