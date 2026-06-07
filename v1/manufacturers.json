@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-06-07T14:28:52+09:00",
+  "generated_at": "2026-06-07T18:49:42+09:00",
   "items": [
     {
       "id": "a3",
@@ -41,7 +41,7 @@
     {
       "id": "asobi-kenkyusho",
       "name": "あそび研究所",
-      "official_url": "https://www.a-muzu.com/",
+      "official_url": "https://asobi365.co.jp/",
       "enabled": true
     },
     {
@@ -53,7 +53,7 @@
     {
       "id": "beam",
       "name": "ビーム",
-      "official_url": "https://www.a-muzu.com/",
+      "official_url": "https://beam.p-kit.com/",
       "enabled": true
     },
     {
@@ -77,7 +77,7 @@
     {
       "id": "bright-communication",
       "name": "ブライトコミュニケーション",
-      "official_url": "https://www.a-muzu.com/",
+      "official_url": "https://www.bc-gacha.com/",
       "enabled": true
     },
     {
@@ -89,7 +89,7 @@
     {
       "id": "bunbun",
       "name": "BUNBUN",
-      "official_url": "https://www.a-muzu.com/",
+      "official_url": "https://bunbun.ltd/",
       "enabled": true
     },
     {
@@ -107,7 +107,7 @@
     {
       "id": "creation-com",
       "name": "クリエイション・コム",
-      "official_url": "https://job-gear.net/kkcc/",
+      "official_url": null,
       "enabled": true
     },
     {
@@ -149,7 +149,7 @@
     {
       "id": "enami-sangyo",
       "name": "榎並産業",
-      "official_url": "https://www.a-muzu.com/",
+      "official_url": "http://www2u.biglobe.ne.jp/~enami/",
       "enabled": true
     },
     {
@@ -173,13 +173,13 @@
     {
       "id": "funbox",
       "name": "funbox",
-      "official_url": "https://machigacha.funbox.jp/",
+      "official_url": "https://www.funbox.jp/",
       "enabled": true
     },
     {
       "id": "fusee",
       "name": "フュージー",
-      "official_url": "https://www.a-muzu.com/",
+      "official_url": "https://www.fusee.tokyo/",
       "enabled": true
     },
     {
@@ -293,13 +293,13 @@
     {
       "id": "kk-toys",
       "name": "KK TOYS",
-      "official_url": "https://www.a-muzu.com/",
+      "official_url": null,
       "enabled": true
     },
     {
       "id": "kurinbou",
       "name": "くりんぼう",
-      "official_url": "https://www.a-muzu.com/",
+      "official_url": null,
       "enabled": true
     },
     {
@@ -323,7 +323,7 @@
     {
       "id": "maruka",
       "name": "マルカ",
-      "official_url": "https://www.a-muzu.com/",
+      "official_url": "https://www.maruka.jp/toy/",
       "enabled": true
     },
     {
@@ -335,7 +335,7 @@
     {
       "id": "mikazuki-usagi",
       "name": "三日月うさぎ",
-      "official_url": "https://www.a-muzu.com/",
+      "official_url": "https://x.com/_mikazukiusagi_",
       "enabled": true
     },
     {
@@ -359,7 +359,7 @@
     {
       "id": "onoe-man",
       "name": "尾上萬",
-      "official_url": "https://www.a-muzu.com/",
+      "official_url": "https://osakatoys.jp/members/%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE%E5%B0%BE%E4%B8%8A%E8%90%AC/",
       "enabled": true
     },
     {
@@ -371,13 +371,13 @@
     {
       "id": "paradox",
       "name": "パラドックス",
-      "official_url": "https://www.a-muzu.com/",
+      "official_url": null,
       "enabled": true
     },
     {
       "id": "partners",
       "name": "パートナーズ",
-      "official_url": "https://www.a-muzu.com/",
+      "official_url": "https://www.ptns-sp.com/",
       "enabled": true
     },
     {
@@ -419,13 +419,13 @@
     {
       "id": "rainbow",
       "name": "レインボー",
-      "official_url": "https://prtimes.jp/main/html/searchrlp/company_id/69677",
+      "official_url": "https://x.com/rainbowrising03",
       "enabled": true
     },
     {
       "id": "raise",
       "name": "レイズ",
-      "official_url": "https://www.value-press.com/corporation/72302",
+      "official_url": null,
       "enabled": true
     },
     {
@@ -455,13 +455,13 @@
     {
       "id": "shing",
       "name": "シャイング",
-      "official_url": "https://www.a-muzu.com/",
+      "official_url": "https://shineg.co.jp/",
       "enabled": true
     },
     {
       "id": "shoyo-japan",
       "name": "翔洋ジャパン",
-      "official_url": "https://www.a-muzu.com/",
+      "official_url": "https://capsule-toy.shoyo-japan.co.jp/",
       "enabled": true
     },
     {
@@ -491,7 +491,7 @@
     {
       "id": "standby",
       "name": "スタンバイ",
-      "official_url": "https://www.a-muzu.com/",
+      "official_url": "https://stand-by.biz/",
       "enabled": true
     },
     {

@@ -18,8 +18,12 @@
   "source_url": "https://kenelephant.co.jp/topics210325/",
   "store_locator_url": null,
   "first_detected_at": "2026-05-14T00:30:42+09:00",
-  "last_checked_at": "2026-06-07T09:50:22+09:00",
+  "last_checked_at": "2026-06-07T17:36:20+09:00",
   "product_path": "products/kenelephant-gc0760.json",
+  "availability_status": "source_missing_unconfirmed",
+  "availability_checked_at": "2026-06-07T18:12:57+09:00",
+  "availability_missing_since": "2026-06-07T18:12:57+09:00",
+  "availability_missing_count": 1,
   "copyright_notice": null,
   "data_policy": {
     "source_verified": true,
