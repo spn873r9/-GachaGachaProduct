@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-06-06T23:49:02+09:00",
+  "generated_at": "2026-06-07T14:28:52+09:00",
   "year": 2024,
   "month": 6,
   "items": [
@@ -24,7 +24,7 @@
       "source_url": "https://www.prestage.co.jp/original/original.html",
       "store_locator_url": null,
       "first_detected_at": "2026-05-15T23:55:16+09:00",
-      "last_checked_at": "2026-06-06T22:25:47+09:00",
+      "last_checked_at": "2026-06-07T09:55:43+09:00",
       "product_path": "products/prestage-original-img03.json"
     },
     {
@@ -3773,7 +3773,7 @@
       "source_url": "https://capsule.k2-st.co.jp/lineup/sst_sweets-mascot/",
       "store_locator_url": null,
       "first_detected_at": "2026-05-15T15:03:59+09:00",
-      "last_checked_at": "2026-06-06T22:25:47+09:00",
+      "last_checked_at": "2026-06-07T09:49:07+09:00",
       "product_path": "products/k2-station-sst-sweets-mascot.json"
     },
     {
@@ -3796,7 +3796,7 @@
       "source_url": "https://capsule.k2-st.co.jp/lineup/sst_bell/",
       "store_locator_url": null,
       "first_detected_at": "2026-05-15T15:03:59+09:00",
-      "last_checked_at": "2026-06-06T22:25:47+09:00",
+      "last_checked_at": "2026-06-07T09:49:07+09:00",
       "product_path": "products/k2-station-sst-bell.json"
     },
     {
@@ -4500,8 +4500,8 @@
       "release_month": 6,
       "release_week": null,
       "release_date": null,
-      "preview_image_url": null,
-      "preview_image_source_url": null,
+      "preview_image_url": "https://prcdn.freetls.fastly.net/release_image/16101/251/16101-251-8e102a93f112d1e28cdc16032d8ce38f-1000x1000.jpg?format=jpeg&auto=webp&quality=85,65&width=1950&height=1350&fit=bounds",
+      "preview_image_source_url": "https://prtimes.jp/main/html/rd/p/000000251.000016101.html",
       "price_yen": 400,
       "variant_count": 10,
       "jan_code": null,
@@ -4509,7 +4509,7 @@
       "source_url": "https://prtimes.jp/main/html/rd/p/000000251.000016101.html",
       "store_locator_url": null,
       "first_detected_at": "2026-05-19T02:39:44+09:00",
-      "last_checked_at": "2026-06-06T22:25:47+09:00",
+      "last_checked_at": "2026-06-07T09:45:14+09:00",
       "product_path": "products/sega-fave-000000251-000016101-vol1.json"
     },
     {
@@ -5958,7 +5958,7 @@
       "source_url": "https://www.u-np.jp/product/%e3%81%88%e3%81%b3%e3%81%a1%e3%81%b3-%e3%83%9f%e3%83%8b%e3%83%81%e3%83%a5%e3%82%a2%e3%83%9e%e3%82%b9%e3%82%b3%e3%83%83%e3%83%88/",
       "store_locator_url": null,
       "first_detected_at": "2026-05-25T13:56:55+09:00",
-      "last_checked_at": "2026-06-06T22:25:47+09:00",
+      "last_checked_at": "2026-06-07T09:47:35+09:00",
       "product_path": "products/ultra-new-planning-e8e71b13957c.json"
     },
     {
@@ -5981,7 +5981,7 @@
       "source_url": "https://www.u-np.jp/product/%e3%83%81%e3%83%a3%e3%82%ae%e3%83%b3%e3%83%88%e3%83%b3x%e3%82%b5%e3%83%b3%e3%83%aa%e3%82%aa%e3%82%ad%e3%83%a3%e3%83%a9%e3%82%af%e3%82%bf%e3%83%bc%e3%82%ba-%e3%82%b8%e3%82%aa%e3%83%a9%e3%83%9e/",
       "store_locator_url": null,
       "first_detected_at": "2026-05-25T13:56:55+09:00",
-      "last_checked_at": "2026-06-06T22:25:47+09:00",
+      "last_checked_at": "2026-06-07T09:47:35+09:00",
       "product_path": "products/ultra-new-planning-x-65462c06.json"
     },
     {
@@ -6004,7 +6004,7 @@
       "source_url": "https://www.u-np.jp/product/%e3%83%81%e3%83%a3%e3%82%ae%e3%83%b3%e3%83%88%e3%83%b3x%e3%82%b5%e3%83%b3%e3%83%aa%e3%82%aa%e3%82%ad%e3%83%a3%e3%83%a9%e3%82%af%e3%82%bf%e3%83%bc%e3%82%ba-%e3%83%9d%e3%83%bc%e3%83%81%e3%82%b3/",
       "store_locator_url": null,
       "first_detected_at": "2026-05-25T13:56:55+09:00",
-      "last_checked_at": "2026-06-06T22:25:47+09:00",
+      "last_checked_at": "2026-06-07T09:47:35+09:00",
       "product_path": "products/ultra-new-planning-x-b337ec8c.json"
     },
     {
@@ -6027,7 +6027,7 @@
       "source_url": "https://www.u-np.jp/product/%e3%83%81%e3%83%a3%e3%82%ae%e3%83%b3%e3%83%88%e3%83%b3x%e3%82%b5%e3%83%b3%e3%83%aa%e3%82%aa%e3%82%ad%e3%83%a3%e3%83%a9%e3%82%af%e3%82%bf%e3%83%bc%e3%82%ba-%e3%83%a9%e3%83%90%e3%83%bc%e3%83%9c/",
       "store_locator_url": null,
       "first_detected_at": "2026-05-25T13:56:55+09:00",
-      "last_checked_at": "2026-06-06T22:25:47+09:00",
+      "last_checked_at": "2026-06-07T09:47:35+09:00",
       "product_path": "products/ultra-new-planning-x-271347f4.json"
     },
     {
@@ -6050,7 +6050,7 @@
       "source_url": "https://www.u-np.jp/product/%e5%8c%97%e6%96%97%e3%81%ae%e6%8b%b3-%e3%82%a2%e3%82%af%e3%83%aa%e3%83%ab%e3%82%b9%e3%82%bf%e3%83%b3%e3%83%89%e5%90%8d%e5%a0%b4%e9%9d%a2%e3%81%ae%e5%b7%bb%ef%bc%81%e3%82%b7%e3%83%aa%e3%83%bc%e3%82%bav/",
       "store_locator_url": null,
       "first_detected_at": "2026-05-25T13:56:55+09:00",
-      "last_checked_at": "2026-06-06T22:25:47+09:00",
+      "last_checked_at": "2026-06-07T09:47:35+09:00",
       "product_path": "products/ultra-new-planning-v-e5012408.json"
     },
     {
@@ -6073,7 +6073,7 @@
       "source_url": "https://www.u-np.jp/product/%e5%8c%97%e6%96%97%e3%81%ae%e6%8b%b3-%e3%82%a2%e3%82%af%e3%83%aa%e3%83%ab%e3%82%b9%e3%82%bf%e3%83%b3%e3%83%89%e5%90%8d%e5%a0%b4%e9%9d%a2%e3%81%ae%e5%b7%bb%ef%bc%81%e3%82%b7%e3%83%aa%e3%83%bc-2/",
       "store_locator_url": null,
       "first_detected_at": "2026-05-25T13:56:55+09:00",
-      "last_checked_at": "2026-06-06T22:25:47+09:00",
+      "last_checked_at": "2026-06-07T09:47:35+09:00",
       "product_path": "products/ultra-new-planning-2-3955e122.json"
     },
     {
@@ -6096,7 +6096,7 @@
       "source_url": "https://www.u-np.jp/product/%e5%90%89%e5%ae%97-%e7%ad%90%e4%bd%93%e5%9e%8b%e3%82%a2%e3%82%af%e3%83%aa%e3%83%ab%e3%82%b9%e3%82%bf%e3%83%b3%e3%83%89/",
       "store_locator_url": null,
       "first_detected_at": "2026-05-25T13:56:55+09:00",
-      "last_checked_at": "2026-06-06T22:25:47+09:00",
+      "last_checked_at": "2026-06-07T09:47:35+09:00",
       "product_path": "products/ultra-new-planning-9fe6fdd89bbe.json"
     },
     {

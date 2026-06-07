@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-06-06T23:49:02+09:00",
+  "generated_at": "2026-06-07T14:28:52+09:00",
   "year": 2024,
   "month": 10,
   "items": [
@@ -4362,16 +4362,16 @@
       "release_month": 10,
       "release_week": null,
       "release_date": null,
-      "preview_image_url": null,
-      "preview_image_source_url": null,
+      "preview_image_url": "https://e-jdream.co.jp/wp-content/uploads/2024/10/%E3%83%89%E3%83%A0%E3%83%89%E3%83%A0%E3%83%8F%E3%83%B3%E3%83%90%E3%83%BC%E3%82%AC%E3%83%BC%E3%82%BB%E3%83%AC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3DP.jpg",
+      "preview_image_source_url": "https://e-jdream.co.jp/product/",
       "price_yen": 400,
       "variant_count": null,
-      "jan_code": null,
+      "jan_code": "0000000000000",
       "official_url": "https://e-jdream.co.jp/product/",
       "source_url": "https://e-jdream.co.jp/product/",
       "store_locator_url": null,
       "first_detected_at": "2026-05-13T19:05:49+09:00",
-      "last_checked_at": "2026-06-06T22:25:47+09:00",
+      "last_checked_at": "2026-06-07T09:43:53+09:00",
       "product_path": "products/jdream-7135987e9db4.json"
     },
     {
@@ -4394,7 +4394,7 @@
       "source_url": "https://capsule.k2-st.co.jp/lineup/haikyu_nuigurumi_clip2/",
       "store_locator_url": null,
       "first_detected_at": "2026-05-15T15:03:59+09:00",
-      "last_checked_at": "2026-06-06T22:25:47+09:00",
+      "last_checked_at": "2026-06-07T09:49:07+09:00",
       "product_path": "products/k2-station-haikyu-nuigurumi-clip2.json"
     },
     {
@@ -4417,7 +4417,7 @@
       "source_url": "https://capsule.k2-st.co.jp/lineup/haikyu_chocolate_mascot_charm/",
       "store_locator_url": null,
       "first_detected_at": "2026-05-15T15:03:59+09:00",
-      "last_checked_at": "2026-06-06T22:25:47+09:00",
+      "last_checked_at": "2026-06-07T09:49:07+09:00",
       "product_path": "products/k2-station-haikyu-chocolate-mascot-charm.json"
     },
     {
@@ -5351,8 +5351,8 @@
       "release_month": 10,
       "release_week": null,
       "release_date": null,
-      "preview_image_url": null,
-      "preview_image_source_url": null,
+      "preview_image_url": "https://prcdn.freetls.fastly.net/release_image/16101/291/16101-291-1ed235602df644f1916b8e3671f1d442-1000x1000.jpg?width=1950&height=1350&quality=85,65&format=jpeg&auto=webp&fit=bounds&bg-color=fff",
+      "preview_image_source_url": "https://prtimes.jp/main/html/rd/p/000000291.000016101.html",
       "price_yen": 400,
       "variant_count": 10,
       "jan_code": null,
@@ -5360,7 +5360,7 @@
       "source_url": "https://prtimes.jp/main/html/rd/p/000000291.000016101.html",
       "store_locator_url": null,
       "first_detected_at": "2026-05-19T02:39:44+09:00",
-      "last_checked_at": "2026-06-06T22:25:47+09:00",
+      "last_checked_at": "2026-06-07T09:45:14+09:00",
       "product_path": "products/sega-fave-000000291-000016101-vol3.json"
     },
     {
@@ -5374,8 +5374,8 @@
       "release_month": 10,
       "release_week": null,
       "release_date": null,
-      "preview_image_url": null,
-      "preview_image_source_url": null,
+      "preview_image_url": "https://prcdn.freetls.fastly.net/release_image/16101/309/16101-309-ad8c9d837c7a65c813cebcd842a6c23f-1000x1000.jpg?width=1950&height=1350&quality=85,65&format=jpeg&auto=webp&fit=bounds&bg-color=fff",
+      "preview_image_source_url": "https://prtimes.jp/main/html/rd/p/000000309.000016101.html",
       "price_yen": 400,
       "variant_count": 10,
       "jan_code": null,
@@ -5383,7 +5383,7 @@
       "source_url": "https://prtimes.jp/main/html/rd/p/000000309.000016101.html",
       "store_locator_url": null,
       "first_detected_at": "2026-05-19T02:39:44+09:00",
-      "last_checked_at": "2026-06-06T22:25:47+09:00",
+      "last_checked_at": "2026-06-07T09:45:14+09:00",
       "product_path": "products/sega-fave-000000309-000016101-vol2.json"
     },
     {
@@ -7039,7 +7039,7 @@
       "source_url": "https://www.u-np.jp/product/q%e3%83%bbb%e3%83%bbb-%e3%83%99%e3%83%93%e3%83%bc%e3%83%81%e3%83%bc%e3%82%ba-%e3%82%b9%e3%82%af%e3%82%a4%e3%83%bc%e3%82%ba/",
       "store_locator_url": null,
       "first_detected_at": "2026-05-25T13:56:55+09:00",
-      "last_checked_at": "2026-06-06T22:25:47+09:00",
+      "last_checked_at": "2026-06-07T09:47:35+09:00",
       "product_path": "products/ultra-new-planning-q-b-b-e4c5af3d.json"
     },
     {
@@ -7062,7 +7062,7 @@
       "source_url": "https://www.u-np.jp/product/%e3%83%9e%e3%82%b9%e3%83%a4-%e3%81%8a%e3%81%ab%e3%81%8e%e3%82%8a%e3%81%9b%e3%82%93%e3%81%b9%e3%81%84-%e3%81%a4%e3%81%aa%e3%81%8c%e3%82%8b4%e9%80%a3%e3%83%9d%e3%83%bc%e3%83%81/",
       "store_locator_url": null,
       "first_detected_at": "2026-05-25T13:56:55+09:00",
-      "last_checked_at": "2026-06-06T22:25:47+09:00",
+      "last_checked_at": "2026-06-07T09:47:35+09:00",
       "product_path": "products/ultra-new-planning-4-2cbc3488.json"
     },
     {
@@ -7085,7 +7085,7 @@
       "source_url": "https://www.u-np.jp/product/%e4%ba%80%e7%94%b0%e8%a3%bd%e8%8f%93-%e3%82%b7%e3%83%a3%e3%82%ab%e3%82%b7%e3%83%a3%e3%82%ab%e3%83%9e%e3%82%b9%e3%82%b3%e3%83%83%e3%83%88vol-1/",
       "store_locator_url": null,
       "first_detected_at": "2026-05-19T01:47:47+09:00",
-      "last_checked_at": "2026-06-06T22:25:47+09:00",
+      "last_checked_at": "2026-06-07T09:47:35+09:00",
       "product_path": "products/ultra-new-planning-vol-1-e04698b6.json"
     },
     {
@@ -7108,7 +7108,7 @@
       "source_url": "https://www.u-np.jp/product/%e5%9d%82%e8%a3%bd%e8%8f%93-%e3%81%93%e3%82%93%e3%81%ab%e3%82%83%e3%81%8f%e3%82%bc%e3%83%aa%e3%83%bc%e3%83%9f%e3%83%8b%e3%83%81%e3%83%a5%e3%82%a2%e3%83%9e%e3%82%b9%e3%82%b3%e3%83%83%e3%83%88/",
       "store_locator_url": null,
       "first_detected_at": "2026-05-25T13:56:55+09:00",
-      "last_checked_at": "2026-06-06T22:25:47+09:00",
+      "last_checked_at": "2026-06-07T09:47:35+09:00",
       "product_path": "products/ultra-new-planning-d3f162ee97eb.json"
     },
     {
@@ -7131,7 +7131,7 @@
       "source_url": "https://www.u-np.jp/product/%e9%81%8b%e6%b0%97%e3%82%a2%e3%82%b2%e3%82%a2%e3%82%b2%e3%82%ad%e3%83%bc%e3%83%9b%e3%83%ab%e3%83%80%e3%83%bc/",
       "store_locator_url": null,
       "first_detected_at": "2026-05-25T13:56:55+09:00",
-      "last_checked_at": "2026-06-06T22:25:47+09:00",
+      "last_checked_at": "2026-06-07T09:47:35+09:00",
       "product_path": "products/ultra-new-planning-382af18b0e39.json"
     },
     {

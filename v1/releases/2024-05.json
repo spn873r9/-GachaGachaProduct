@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-06-06T23:49:02+09:00",
+  "generated_at": "2026-06-07T14:28:52+09:00",
   "year": 2024,
   "month": 5,
   "items": [
@@ -3865,7 +3865,7 @@
       "source_url": "https://capsule.k2-st.co.jp/lineup/chibimarukochan_ecobag/",
       "store_locator_url": null,
       "first_detected_at": "2026-05-15T15:03:59+09:00",
-      "last_checked_at": "2026-06-06T22:25:47+09:00",
+      "last_checked_at": "2026-06-07T09:49:07+09:00",
       "product_path": "products/k2-station-chibimarukochan-ecobag.json"
     },
     {
@@ -4693,7 +4693,7 @@
       "source_url": "https://prtimes.jp/main/html/rd/p/000000212.000016101.html",
       "store_locator_url": null,
       "first_detected_at": "2026-05-18T17:15:35+09:00",
-      "last_checked_at": "2026-06-06T22:25:47+09:00",
+      "last_checked_at": "2026-06-07T09:45:14+09:00",
       "product_path": "products/sega-fave-000000212-000016101-vol9.json"
     },
     {
@@ -4707,8 +4707,8 @@
       "release_month": 5,
       "release_week": null,
       "release_date": null,
-      "preview_image_url": null,
-      "preview_image_source_url": null,
+      "preview_image_url": "https://prcdn.freetls.fastly.net/release_image/16101/403/16101-403-7108e54d8e098e73f3f8785ded07f725-1000x1000.jpg?width=1950&height=1350&quality=85,65&format=jpeg&auto=webp&fit=bounds&bg-color=fff",
+      "preview_image_source_url": "https://prtimes.jp/main/html/rd/p/000000403.000016101.html",
       "price_yen": null,
       "variant_count": 6,
       "jan_code": null,
@@ -4716,7 +4716,7 @@
       "source_url": "https://prtimes.jp/main/html/rd/p/000000403.000016101.html",
       "store_locator_url": null,
       "first_detected_at": "2026-05-19T02:39:44+09:00",
-      "last_checked_at": "2026-06-06T22:25:47+09:00",
+      "last_checked_at": "2026-06-07T09:45:14+09:00",
       "product_path": "products/sega-fave-000000403-000016101-vol3.json"
     },
     {
@@ -5820,7 +5820,7 @@
       "source_url": "https://www.u-np.jp/product/sankyo%e3%83%bbjb-%e7%ad%90%e4%bd%93%e5%9e%8b%e3%82%a2%e3%82%af%e3%83%aa%e3%83%ab%e3%82%b9%e3%82%bf%e3%83%b3%e3%83%89/",
       "store_locator_url": null,
       "first_detected_at": "2026-05-25T13:56:55+09:00",
-      "last_checked_at": "2026-06-06T22:25:47+09:00",
+      "last_checked_at": "2026-06-07T09:47:35+09:00",
       "product_path": "products/ultra-new-planning-sankyo-jb-49c8ddbc.json"
     },
     {
@@ -5843,7 +5843,7 @@
       "source_url": "https://www.u-np.jp/product/%e9%bb%92%e3%81%84%e7%a0%82%e6%bc%a0-%e9%97%87%e3%81%ae%e7%b2%be%e9%9c%8a-%e3%83%a9%e3%83%90%e3%83%bc%e3%83%9c%e3%83%bc%e3%83%ab%e3%83%81%e3%82%a7%e3%83%bc%e3%83%b3/",
       "store_locator_url": null,
       "first_detected_at": "2026-05-25T13:56:55+09:00",
-      "last_checked_at": "2026-06-06T22:25:47+09:00",
+      "last_checked_at": "2026-06-07T09:47:35+09:00",
       "product_path": "products/ultra-new-planning-db32b922ffdf.json"
     },
     {

@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-06-06T23:49:02+09:00",
+  "generated_at": "2026-06-07T14:28:52+09:00",
   "year": 2023,
   "month": 6,
   "items": [
@@ -2370,7 +2370,7 @@
       "source_url": "https://capsule.k2-st.co.jp/lineup/ichijiku/",
       "store_locator_url": null,
       "first_detected_at": "2026-05-15T15:03:59+09:00",
-      "last_checked_at": "2026-06-06T22:25:47+09:00",
+      "last_checked_at": "2026-06-07T09:49:07+09:00",
       "product_path": "products/k2-station-ichijiku.json"
     },
     {
@@ -2393,7 +2393,7 @@
       "source_url": "https://capsule.k2-st.co.jp/lineup/meruhen2/",
       "store_locator_url": null,
       "first_detected_at": "2026-05-15T15:03:59+09:00",
-      "last_checked_at": "2026-06-06T22:25:47+09:00",
+      "last_checked_at": "2026-06-07T09:49:07+09:00",
       "product_path": "products/k2-station-meruhen2.json"
     },
     {
@@ -2416,7 +2416,7 @@
       "source_url": "https://capsule.k2-st.co.jp/lineup/maegamiclip2_osashimihen/",
       "store_locator_url": null,
       "first_detected_at": "2026-05-15T15:03:59+09:00",
-      "last_checked_at": "2026-06-06T22:25:47+09:00",
+      "last_checked_at": "2026-06-07T09:49:07+09:00",
       "product_path": "products/k2-station-maegamiclip2-osashimihen.json"
     },
     {
@@ -2798,8 +2798,8 @@
       "release_month": 6,
       "release_week": null,
       "release_date": null,
-      "preview_image_url": null,
-      "preview_image_source_url": null,
+      "preview_image_url": "https://prcdn.freetls.fastly.net/release_image/16101/116/16101-116-5e1c8eeca0263891f70d27573b51b4d2-1000x1250.jpg?format=jpeg&auto=webp&quality=85,65&width=1950&height=1350&fit=bounds",
+      "preview_image_source_url": "https://prtimes.jp/main/html/rd/p/000000116.000016101.html",
       "price_yen": 400,
       "variant_count": 10,
       "jan_code": null,
@@ -2807,7 +2807,7 @@
       "source_url": "https://prtimes.jp/main/html/rd/p/000000116.000016101.html",
       "store_locator_url": null,
       "first_detected_at": "2026-05-19T02:38:45+09:00",
-      "last_checked_at": "2026-06-06T22:25:47+09:00",
+      "last_checked_at": "2026-06-07T09:45:14+09:00",
       "product_path": "products/sega-fave-000000116-000016101-vol1.json"
     },
     {

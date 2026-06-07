@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-06-06T23:49:02+09:00",
+  "generated_at": "2026-06-07T14:28:52+09:00",
   "year": 2024,
   "month": 9,
   "items": [
@@ -4256,7 +4256,7 @@
       "source_url": "https://capsule.k2-st.co.jp/lineup/sanrio_heiseikogyal_canbadge/",
       "store_locator_url": null,
       "first_detected_at": "2026-05-15T15:03:59+09:00",
-      "last_checked_at": "2026-06-06T22:25:47+09:00",
+      "last_checked_at": "2026-06-07T09:49:07+09:00",
       "product_path": "products/k2-station-sanrio-heiseikogyal-canbadge.json"
     },
     {
@@ -4279,7 +4279,7 @@
       "source_url": "https://capsule.k2-st.co.jp/lineup/sanrio_heiseikogyal_nuigurumi/",
       "store_locator_url": null,
       "first_detected_at": "2026-05-15T15:03:59+09:00",
-      "last_checked_at": "2026-06-06T22:25:47+09:00",
+      "last_checked_at": "2026-06-07T09:49:07+09:00",
       "product_path": "products/k2-station-sanrio-heiseikogyal-nuigurumi.json"
     },
     {
@@ -5213,8 +5213,8 @@
       "release_month": 9,
       "release_week": null,
       "release_date": null,
-      "preview_image_url": null,
-      "preview_image_source_url": null,
+      "preview_image_url": "https://prcdn.freetls.fastly.net/release_image/16101/309/16101-309-ad8c9d837c7a65c813cebcd842a6c23f-1000x1000.jpg?width=1950&height=1350&quality=85,65&format=jpeg&auto=webp&fit=bounds&bg-color=fff",
+      "preview_image_source_url": "https://prtimes.jp/main/html/rd/p/000000309.000016101.html",
       "price_yen": 400,
       "variant_count": 10,
       "jan_code": null,
@@ -5222,7 +5222,7 @@
       "source_url": "https://prtimes.jp/main/html/rd/p/000000309.000016101.html",
       "store_locator_url": null,
       "first_detected_at": "2026-05-19T02:39:44+09:00",
-      "last_checked_at": "2026-06-06T22:25:47+09:00",
+      "last_checked_at": "2026-06-07T09:45:14+09:00",
       "product_path": "products/sega-fave-000000309-000016101-vol1.json"
     },
     {
@@ -5236,8 +5236,8 @@
       "release_month": 9,
       "release_week": null,
       "release_date": null,
-      "preview_image_url": null,
-      "preview_image_source_url": null,
+      "preview_image_url": "https://prcdn.freetls.fastly.net/release_image/16101/291/16101-291-1ed235602df644f1916b8e3671f1d442-1000x1000.jpg?width=1950&height=1350&quality=85,65&format=jpeg&auto=webp&fit=bounds&bg-color=fff",
+      "preview_image_source_url": "https://prtimes.jp/main/html/rd/p/000000291.000016101.html",
       "price_yen": 400,
       "variant_count": 10,
       "jan_code": null,
@@ -5245,7 +5245,7 @@
       "source_url": "https://prtimes.jp/main/html/rd/p/000000291.000016101.html",
       "store_locator_url": null,
       "first_detected_at": "2026-05-19T02:39:44+09:00",
-      "last_checked_at": "2026-06-06T22:25:47+09:00",
+      "last_checked_at": "2026-06-07T09:45:14+09:00",
       "product_path": "products/sega-fave-000000291-000016101-vol2.json"
     },
     {
@@ -6878,7 +6878,7 @@
       "source_url": "https://www.u-np.jp/product/%e3%82%ad%e3%83%aa%e3%83%9e%e3%83%ab%e3%83%a9%e3%83%bc%e3%83%a1%e3%83%b3-%e3%83%9f%e3%83%8b%e3%83%81%e3%83%a5%e3%82%a2%e3%83%9e%e3%82%b9%e3%82%b3%e3%83%83%e3%83%88/",
       "store_locator_url": null,
       "first_detected_at": "2026-05-25T13:56:55+09:00",
-      "last_checked_at": "2026-06-06T22:25:47+09:00",
+      "last_checked_at": "2026-06-07T09:47:35+09:00",
       "product_path": "products/ultra-new-planning-34f2d8c6d6de.json"
     },
     {
@@ -6901,7 +6901,7 @@
       "source_url": "https://www.u-np.jp/product/%e4%ba%80%e7%94%b0%e8%a3%bd%e8%8f%93-%e3%81%b7%e3%81%ab%e3%83%91%e3%82%b1-%e3%82%b9%e3%82%af%e3%82%a4%e3%83%bc%e3%82%ba/",
       "store_locator_url": null,
       "first_detected_at": "2026-05-25T13:56:55+09:00",
-      "last_checked_at": "2026-06-06T22:25:47+09:00",
+      "last_checked_at": "2026-06-07T09:47:35+09:00",
       "product_path": "products/ultra-new-planning-8c0f281bbc08.json"
     },
     {

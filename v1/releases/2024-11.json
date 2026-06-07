@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-06-06T23:49:02+09:00",
+  "generated_at": "2026-06-07T14:28:52+09:00",
   "year": 2024,
   "month": 11,
   "items": [
@@ -116,7 +116,7 @@
       "source_url": "https://www.prestage.co.jp/original/original.html",
       "store_locator_url": null,
       "first_detected_at": "2026-05-15T23:55:16+09:00",
-      "last_checked_at": "2026-06-06T22:25:47+09:00",
+      "last_checked_at": "2026-06-07T09:55:43+09:00",
       "product_path": "products/prestage-original-img04.json"
     },
     {
@@ -4624,7 +4624,7 @@
       "source_url": "https://capsule.k2-st.co.jp/lineup/chibimarukochan_sacoche/",
       "store_locator_url": null,
       "first_detected_at": "2026-05-15T15:03:59+09:00",
-      "last_checked_at": "2026-06-06T22:25:47+09:00",
+      "last_checked_at": "2026-06-07T09:49:07+09:00",
       "product_path": "products/k2-station-chibimarukochan-sacoche.json"
     },
     {
@@ -4647,7 +4647,7 @@
       "source_url": "https://capsule.k2-st.co.jp/lineup/haikyu_nuigurumi_mascot/",
       "store_locator_url": null,
       "first_detected_at": "2026-05-15T15:03:59+09:00",
-      "last_checked_at": "2026-06-06T22:25:47+09:00",
+      "last_checked_at": "2026-06-07T09:49:07+09:00",
       "product_path": "products/k2-station-haikyu-nuigurumi-mascot.json"
     },
     {
@@ -5535,8 +5535,8 @@
       "release_month": 11,
       "release_week": null,
       "release_date": null,
-      "preview_image_url": null,
-      "preview_image_source_url": null,
+      "preview_image_url": "https://prcdn.freetls.fastly.net/release_image/16101/309/16101-309-ad8c9d837c7a65c813cebcd842a6c23f-1000x1000.jpg?width=1950&height=1350&quality=85,65&format=jpeg&auto=webp&fit=bounds&bg-color=fff",
+      "preview_image_source_url": "https://prtimes.jp/main/html/rd/p/000000309.000016101.html",
       "price_yen": 400,
       "variant_count": 10,
       "jan_code": null,
@@ -5544,7 +5544,7 @@
       "source_url": "https://prtimes.jp/main/html/rd/p/000000309.000016101.html",
       "store_locator_url": null,
       "first_detected_at": "2026-05-19T02:39:44+09:00",
-      "last_checked_at": "2026-06-06T22:25:47+09:00",
+      "last_checked_at": "2026-06-07T09:45:14+09:00",
       "product_path": "products/sega-fave-000000309-000016101-vol3.json"
     },
     {
@@ -6809,7 +6809,7 @@
       "source_url": "https://www.u-np.jp/product/%e3%82%a4%e3%82%b1%e3%83%80%e3%83%a4%e8%a3%bd%e8%8f%93-%e3%81%88%e3%81%b3%e3%81%a1%e3%81%b3-%e3%81%a4%e3%81%aa%e3%81%8c%e3%82%8b%e3%83%9e%e3%82%b9%e3%82%b3%e3%83%83%e3%83%88/",
       "store_locator_url": null,
       "first_detected_at": "2026-05-19T01:47:47+09:00",
-      "last_checked_at": "2026-06-06T22:25:47+09:00",
+      "last_checked_at": "2026-06-07T09:47:35+09:00",
       "product_path": "products/ultra-new-planning-40cef67c7ca3.json"
     },
     {
@@ -6832,7 +6832,7 @@
       "source_url": "https://www.u-np.jp/product/%e3%82%b3%e3%82%a2%e3%83%a9%e3%81%ae%e3%83%9e%e3%83%bc%e3%83%81-%e3%82%b3%e3%82%a2%e3%83%a9%e3%81%ae%e3%83%9e%e3%83%bc%e3%83%81%e5%9e%8b%e3%83%9d%e3%83%bc%e3%83%81/",
       "store_locator_url": null,
       "first_detected_at": "2026-05-19T01:47:47+09:00",
-      "last_checked_at": "2026-06-06T22:25:47+09:00",
+      "last_checked_at": "2026-06-07T09:47:35+09:00",
       "product_path": "products/ultra-new-planning-7e8177421bb4.json"
     },
     {
@@ -6855,7 +6855,7 @@
       "source_url": "https://www.u-np.jp/product/%e3%82%bc%e3%83%b3%e3%83%9e%e3%82%a4%e3%81%a7%e5%8b%95%e3%81%8f%ef%bc%81bellabot/",
       "store_locator_url": null,
       "first_detected_at": "2026-05-19T01:47:47+09:00",
-      "last_checked_at": "2026-06-06T22:25:47+09:00",
+      "last_checked_at": "2026-06-07T09:47:35+09:00",
       "product_path": "products/ultra-new-planning-bellabot-c906b54f.json"
     },
     {
@@ -6878,7 +6878,7 @@
       "source_url": "https://www.u-np.jp/product/%e5%a4%a7%e6%a3%ae%e5%b1%8b-%e3%83%9f%e3%83%8b%e3%83%81%e3%83%a5%e3%82%a2%e3%83%9e%e3%82%b9%e3%82%b3%e3%83%83%e3%83%88/",
       "store_locator_url": null,
       "first_detected_at": "2026-05-19T01:47:47+09:00",
-      "last_checked_at": "2026-06-06T22:25:47+09:00",
+      "last_checked_at": "2026-06-07T09:47:35+09:00",
       "product_path": "products/ultra-new-planning-9ed4c94d366d.json"
     },
     {

@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-06-06T23:49:02+09:00",
+  "generated_at": "2026-06-07T14:28:52+09:00",
   "year": 2026,
   "month": 5,
   "items": [
@@ -7812,8 +7812,8 @@
       "release_month": 5,
       "release_week": null,
       "release_date": null,
-      "preview_image_url": null,
-      "preview_image_source_url": null,
+      "preview_image_url": "https://e-jdream.co.jp/wp-content/uploads/2026/04/picopark_sofubi_mascot_dp_260312_ol.jpg",
+      "preview_image_source_url": "https://e-jdream.co.jp/product/",
       "price_yen": 400,
       "variant_count": 8,
       "jan_code": "4571596299940",
@@ -7821,7 +7821,7 @@
       "source_url": "https://e-jdream.co.jp/product/",
       "store_locator_url": null,
       "first_detected_at": "2026-05-13T16:19:49+09:00",
-      "last_checked_at": "2026-06-06T22:25:47+09:00",
+      "last_checked_at": "2026-06-07T09:43:53+09:00",
       "product_path": "products/jdream-4571596299940.json"
     },
     {
@@ -7858,8 +7858,8 @@
       "release_month": 5,
       "release_week": null,
       "release_date": null,
-      "preview_image_url": null,
-      "preview_image_source_url": null,
+      "preview_image_url": "https://e-jdream.co.jp/wp-content/uploads/2026/04/PiTaPa_2_DP_ol.jpg",
+      "preview_image_source_url": "https://e-jdream.co.jp/product/",
       "price_yen": 400,
       "variant_count": 6,
       "jan_code": "4571596299971",
@@ -7867,7 +7867,7 @@
       "source_url": "https://e-jdream.co.jp/product/",
       "store_locator_url": null,
       "first_detected_at": "2026-05-12T00:56:14+09:00",
-      "last_checked_at": "2026-06-06T22:25:47+09:00",
+      "last_checked_at": "2026-06-07T09:43:53+09:00",
       "product_path": "products/jdream-4571596299971.json"
     },
     {
@@ -7950,8 +7950,8 @@
       "release_month": 5,
       "release_week": null,
       "release_date": null,
-      "preview_image_url": null,
-      "preview_image_source_url": null,
+      "preview_image_url": "https://e-jdream.co.jp/wp-content/uploads/2026/04/yasashisa_flocky_DP_260305_ol_ver10_web.jpg",
+      "preview_image_source_url": "https://e-jdream.co.jp/product/",
       "price_yen": 400,
       "variant_count": 6,
       "jan_code": "4571596299957",
@@ -7959,7 +7959,7 @@
       "source_url": "https://e-jdream.co.jp/product/",
       "store_locator_url": null,
       "first_detected_at": "2026-05-13T16:19:49+09:00",
-      "last_checked_at": "2026-06-06T22:25:47+09:00",
+      "last_checked_at": "2026-06-07T09:43:53+09:00",
       "product_path": "products/jdream-4571596299957.json"
     },
     {
@@ -7973,8 +7973,8 @@
       "release_month": 5,
       "release_week": null,
       "release_date": null,
-      "preview_image_url": null,
-      "preview_image_source_url": null,
+      "preview_image_url": "https://e-jdream.co.jp/wp-content/uploads/2026/04/domdom_pouch_dp_ol_ver3_260326.jpg",
+      "preview_image_source_url": "https://e-jdream.co.jp/product/",
       "price_yen": 500,
       "variant_count": 5,
       "jan_code": "4571596299964",
@@ -7982,7 +7982,7 @@
       "source_url": "https://e-jdream.co.jp/product/",
       "store_locator_url": null,
       "first_detected_at": "2026-05-12T00:56:14+09:00",
-      "last_checked_at": "2026-06-06T22:25:47+09:00",
+      "last_checked_at": "2026-06-07T09:43:53+09:00",
       "product_path": "products/jdream-4571596299964.json"
     },
     {
@@ -8203,8 +8203,8 @@
       "release_month": 5,
       "release_week": null,
       "release_date": null,
-      "preview_image_url": null,
-      "preview_image_source_url": null,
+      "preview_image_url": "https://e-jdream.co.jp/wp-content/uploads/2026/04/kamiojapan_stationery_dp_ol_ver3_260304.jpg",
+      "preview_image_source_url": "https://e-jdream.co.jp/product/",
       "price_yen": 500,
       "variant_count": 5,
       "jan_code": "4571596299933",
@@ -8212,7 +8212,7 @@
       "source_url": "https://e-jdream.co.jp/product/",
       "store_locator_url": null,
       "first_detected_at": "2026-05-13T16:19:49+09:00",
-      "last_checked_at": "2026-06-06T22:25:47+09:00",
+      "last_checked_at": "2026-06-07T09:43:53+09:00",
       "product_path": "products/jdream-4571596299933.json"
     },
     {
@@ -8442,7 +8442,7 @@
       "source_url": "https://kenelestore.jp/collections/miniature/products.json?limit=250&page=1",
       "store_locator_url": null,
       "first_detected_at": "2026-05-14T00:50:21+09:00",
-      "last_checked_at": "2026-06-06T22:25:47+09:00",
+      "last_checked_at": "2026-06-07T09:50:22+09:00",
       "product_path": "products/kenelephant-gc0723c.json"
     },
     {
@@ -8465,7 +8465,7 @@
       "source_url": "https://kenelestore.jp/collections/miniature/products.json?limit=250&page=1",
       "store_locator_url": null,
       "first_detected_at": "2026-05-14T00:50:21+09:00",
-      "last_checked_at": "2026-06-06T22:25:47+09:00",
+      "last_checked_at": "2026-06-07T09:50:22+09:00",
       "product_path": "products/kenelephant-gc0726z.json"
     },
     {
@@ -8488,7 +8488,7 @@
       "source_url": "https://kenelestore.jp/collections/miniature/products.json?limit=250&page=1",
       "store_locator_url": null,
       "first_detected_at": "2026-05-14T00:50:21+09:00",
-      "last_checked_at": "2026-06-06T22:25:47+09:00",
+      "last_checked_at": "2026-06-07T09:50:22+09:00",
       "product_path": "products/kenelephant-gc0722c.json"
     },
     {
@@ -8511,7 +8511,7 @@
       "source_url": "https://kenelestore.jp/collections/miniature/products.json?limit=250&page=1",
       "store_locator_url": null,
       "first_detected_at": "2026-05-14T00:50:21+09:00",
-      "last_checked_at": "2026-06-06T22:25:47+09:00",
+      "last_checked_at": "2026-06-07T09:50:22+09:00",
       "product_path": "products/kenelephant-gc0728z.json"
     },
     {
@@ -8534,7 +8534,7 @@
       "source_url": "https://kenelestore.jp/collections/miniature/products.json?limit=250&page=1",
       "store_locator_url": null,
       "first_detected_at": "2026-05-14T00:50:21+09:00",
-      "last_checked_at": "2026-06-06T22:25:47+09:00",
+      "last_checked_at": "2026-06-07T09:50:22+09:00",
       "product_path": "products/kenelephant-gc0727z.json"
     },
     {
@@ -8557,7 +8557,7 @@
       "source_url": "https://kenelestore.jp/collections/miniature/products.json?limit=250&page=1",
       "store_locator_url": null,
       "first_detected_at": "2026-05-14T00:50:21+09:00",
-      "last_checked_at": "2026-06-06T22:25:47+09:00",
+      "last_checked_at": "2026-06-07T09:50:22+09:00",
       "product_path": "products/kenelephant-gc0721z.json"
     },
     {
@@ -8580,7 +8580,7 @@
       "source_url": "https://kenelestore.jp/collections/miniature/products.json?limit=250&page=1",
       "store_locator_url": null,
       "first_detected_at": "2026-05-14T00:50:21+09:00",
-      "last_checked_at": "2026-06-06T22:25:47+09:00",
+      "last_checked_at": "2026-06-07T09:50:22+09:00",
       "product_path": "products/kenelephant-gc0725z.json"
     },
     {
@@ -8603,7 +8603,7 @@
       "source_url": "https://kenelestore.jp/collections/miniature/products.json?limit=250&page=1",
       "store_locator_url": null,
       "first_detected_at": "2026-05-14T00:50:21+09:00",
-      "last_checked_at": "2026-06-06T22:25:47+09:00",
+      "last_checked_at": "2026-06-07T09:50:22+09:00",
       "product_path": "products/kenelephant-gc0720z.json"
     },
     {
@@ -8626,7 +8626,7 @@
       "source_url": "https://kenelestore.jp/collections/miniature/products.json?limit=250&page=1",
       "store_locator_url": null,
       "first_detected_at": "2026-05-14T00:50:21+09:00",
-      "last_checked_at": "2026-06-06T22:25:47+09:00",
+      "last_checked_at": "2026-06-07T09:50:22+09:00",
       "product_path": "products/kenelephant-gc0724c.json"
     },
     {
@@ -10940,8 +10940,8 @@
       "release_month": 5,
       "release_week": null,
       "release_date": null,
-      "preview_image_url": null,
-      "preview_image_source_url": null,
+      "preview_image_url": "https://prcdn.freetls.fastly.net/release_image/16101/714/16101-714-341f215aa46723daf3f1fec8875e3db2-1000x1000.jpg?width=1950&height=1350&quality=85,65&format=jpeg&auto=webp&fit=bounds&bg-color=fff",
+      "preview_image_source_url": "https://prtimes.jp/main/html/rd/p/000000714.000016101.html",
       "price_yen": null,
       "variant_count": 8,
       "jan_code": null,
@@ -10949,7 +10949,7 @@
       "source_url": "https://prtimes.jp/main/html/rd/p/000000714.000016101.html",
       "store_locator_url": null,
       "first_detected_at": "2026-05-19T02:39:44+09:00",
-      "last_checked_at": "2026-06-06T22:25:47+09:00",
+      "last_checked_at": "2026-06-07T09:45:14+09:00",
       "product_path": "products/sega-fave-000000714-000016101-vol2.json"
     },
     {
@@ -12789,7 +12789,7 @@
       "source_url": "https://www.u-np.jp/product/line-friends-minini-ecobag/",
       "store_locator_url": null,
       "first_detected_at": "2026-05-25T09:33:31+09:00",
-      "last_checked_at": "2026-06-06T22:25:47+09:00",
+      "last_checked_at": "2026-06-07T09:47:35+09:00",
       "product_path": "products/ultra-new-planning-line-friends-minini-ecobag.json"
     },
     {
@@ -12812,7 +12812,7 @@
       "source_url": "https://www.u-np.jp/product/sankyo-pachisurokarakuricircus-mtlkey/",
       "store_locator_url": null,
       "first_detected_at": "2026-05-15T16:18:44+09:00",
-      "last_checked_at": "2026-06-06T22:25:47+09:00",
+      "last_checked_at": "2026-06-07T09:47:35+09:00",
       "product_path": "products/ultra-new-planning-sankyo-pachisurokarakuricircus-mtlkey.json"
     },
     {
@@ -12835,7 +12835,7 @@
       "source_url": "https://www.u-np.jp/product/sankyo-kyoutaileverbc-vol-3/",
       "store_locator_url": null,
       "first_detected_at": "2026-05-15T16:18:44+09:00",
-      "last_checked_at": "2026-06-06T22:25:47+09:00",
+      "last_checked_at": "2026-06-07T09:47:35+09:00",
       "product_path": "products/ultra-new-planning-sankyo-kyoutaileverbc-vol-3.json"
     },
     {
@@ -12849,8 +12849,8 @@
       "release_month": 5,
       "release_week": null,
       "release_date": null,
-      "preview_image_url": null,
-      "preview_image_source_url": null,
+      "preview_image_url": "https://www.u-np.jp/blog/wp-content/uploads/2026/05/HP_Sammy_aka7metal.jpg",
+      "preview_image_source_url": "https://www.u-np.jp/product/sammy-aka7-metalkey/",
       "price_yen": 400,
       "variant_count": 5,
       "jan_code": null,
@@ -12858,7 +12858,7 @@
       "source_url": "https://www.u-np.jp/product/sammy-aka7-metalkey/",
       "store_locator_url": null,
       "first_detected_at": "2026-05-15T16:18:44+09:00",
-      "last_checked_at": "2026-06-06T22:25:47+09:00",
+      "last_checked_at": "2026-06-07T09:47:35+09:00",
       "product_path": "products/ultra-new-planning-sammy-aka7-metalkey.json"
     },
     {
@@ -12881,7 +12881,7 @@
       "source_url": "https://www.u-np.jp/product/spica-pika-sisyuudesign-kanmirror/",
       "store_locator_url": null,
       "first_detected_at": "2026-05-15T16:18:44+09:00",
-      "last_checked_at": "2026-06-06T22:25:47+09:00",
+      "last_checked_at": "2026-06-07T09:47:35+09:00",
       "product_path": "products/ultra-new-planning-spica-pika-sisyuudesign-kanmirror.json"
     },
     {
@@ -12904,7 +12904,7 @@
       "source_url": "https://www.u-np.jp/product/omochabakozyumin-yura2metalmc/",
       "store_locator_url": null,
       "first_detected_at": "2026-05-15T16:18:44+09:00",
-      "last_checked_at": "2026-06-06T22:25:47+09:00",
+      "last_checked_at": "2026-06-07T09:47:35+09:00",
       "product_path": "products/ultra-new-planning-omochabakozyumin-yura2metalmc.json"
     },
     {
@@ -12927,7 +12927,7 @@
       "source_url": "https://www.u-np.jp/product/ojarumaru-2renacrlkey/",
       "store_locator_url": null,
       "first_detected_at": "2026-05-15T16:18:44+09:00",
-      "last_checked_at": "2026-06-06T22:25:47+09:00",
+      "last_checked_at": "2026-06-07T09:47:35+09:00",
       "product_path": "products/ultra-new-planning-ojarumaru-2renacrlkey.json"
     },
     {
@@ -12950,7 +12950,7 @@
       "source_url": "https://www.u-np.jp/product/kurahashi-metalmc/",
       "store_locator_url": null,
       "first_detected_at": "2026-05-15T16:18:44+09:00",
-      "last_checked_at": "2026-06-06T22:25:47+09:00",
+      "last_checked_at": "2026-06-07T09:47:35+09:00",
       "product_path": "products/ultra-new-planning-kurahashi-metalmc.json"
     },
     {
@@ -12973,7 +12973,7 @@
       "source_url": "https://www.u-np.jp/product/chibimarukochan-hankachico/",
       "store_locator_url": null,
       "first_detected_at": "2026-05-15T16:18:44+09:00",
-      "last_checked_at": "2026-06-06T22:25:47+09:00",
+      "last_checked_at": "2026-06-07T09:47:35+09:00",
       "product_path": "products/ultra-new-planning-chibimarukochan-hankachico.json"
     },
     {
@@ -12996,7 +12996,7 @@
       "source_url": "https://www.u-np.jp/product/puchipiero/",
       "store_locator_url": null,
       "first_detected_at": "2026-05-15T16:18:44+09:00",
-      "last_checked_at": "2026-06-06T22:25:47+09:00",
+      "last_checked_at": "2026-06-07T09:47:35+09:00",
       "product_path": "products/ultra-new-planning-puchipiero.json"
     },
     {
@@ -13019,7 +13019,7 @@
       "source_url": "https://www.u-np.jp/product/angelblue-coincylinder/",
       "store_locator_url": null,
       "first_detected_at": "2026-05-15T16:18:44+09:00",
-      "last_checked_at": "2026-06-06T22:25:47+09:00",
+      "last_checked_at": "2026-06-07T09:47:35+09:00",
       "product_path": "products/ultra-new-planning-angelblue-coincylinder.json"
     },
     {
@@ -13042,7 +13042,7 @@
       "source_url": "https://www.u-np.jp/product/calbeexstitch-miniporch/",
       "store_locator_url": null,
       "first_detected_at": "2026-05-15T16:18:44+09:00",
-      "last_checked_at": "2026-06-06T22:25:47+09:00",
+      "last_checked_at": "2026-06-07T09:47:35+09:00",
       "product_path": "products/ultra-new-planning-calbeexstitch-miniporch.json"
     },
     {
@@ -13065,7 +13065,7 @@
       "source_url": "https://www.u-np.jp/product/calbee-kappaebike-acrlclip/",
       "store_locator_url": null,
       "first_detected_at": "2026-05-15T16:18:44+09:00",
-      "last_checked_at": "2026-06-06T22:25:47+09:00",
+      "last_checked_at": "2026-06-07T09:47:35+09:00",
       "product_path": "products/ultra-new-planning-calbee-kappaebike-acrlclip.json"
     },
     {
@@ -13088,7 +13088,7 @@
       "source_url": "https://www.u-np.jp/product/kelloggs-nui-clip/",
       "store_locator_url": null,
       "first_detected_at": "2026-05-15T16:18:44+09:00",
-      "last_checked_at": "2026-06-06T22:25:47+09:00",
+      "last_checked_at": "2026-06-07T09:47:35+09:00",
       "product_path": "products/ultra-new-planning-kelloggs-nui-clip.json"
     },
     {
@@ -13111,7 +13111,7 @@
       "source_url": "https://www.u-np.jp/product/kobatopankouzyou-flakesealkan/",
       "store_locator_url": null,
       "first_detected_at": "2026-05-15T16:18:44+09:00",
-      "last_checked_at": "2026-06-06T22:25:47+09:00",
+      "last_checked_at": "2026-06-07T09:47:35+09:00",
       "product_path": "products/ultra-new-planning-kobatopankouzyou-flakesealkan.json"
     },
     {
@@ -13134,7 +13134,7 @@
       "source_url": "https://www.u-np.jp/product/seabreeze-clearporch/",
       "store_locator_url": null,
       "first_detected_at": "2026-05-15T16:18:44+09:00",
-      "last_checked_at": "2026-06-06T22:25:47+09:00",
+      "last_checked_at": "2026-06-07T09:47:35+09:00",
       "product_path": "products/ultra-new-planning-seabreeze-clearporch.json"
     },
     {
@@ -13157,7 +13157,7 @@
       "source_url": "https://www.u-np.jp/product/jrlo-metalkey/",
       "store_locator_url": null,
       "first_detected_at": "2026-05-15T16:18:44+09:00",
-      "last_checked_at": "2026-06-06T22:25:47+09:00",
+      "last_checked_at": "2026-06-07T09:47:35+09:00",
       "product_path": "products/ultra-new-planning-jrlo-metalkey.json"
     },
     {
@@ -13180,7 +13180,7 @@
       "source_url": "https://www.u-np.jp/product/superthoroughbred-figmc26/",
       "store_locator_url": null,
       "first_detected_at": "2026-05-15T16:18:44+09:00",
-      "last_checked_at": "2026-06-06T22:25:47+09:00",
+      "last_checked_at": "2026-06-07T09:47:35+09:00",
       "product_path": "products/ultra-new-planning-superthoroughbred-figmc26.json"
     },
     {
@@ -13203,7 +13203,7 @@
       "source_url": "https://www.u-np.jp/product/sebonstar-minimcvol-8/",
       "store_locator_url": null,
       "first_detected_at": "2026-05-15T16:18:44+09:00",
-      "last_checked_at": "2026-06-06T22:25:47+09:00",
+      "last_checked_at": "2026-06-07T09:47:35+09:00",
       "product_path": "products/ultra-new-planning-sebonstar-minimcvol-8.json"
     },
     {
@@ -13226,7 +13226,7 @@
       "source_url": "https://www.u-np.jp/product/butterflyjewelry-handstrap/",
       "store_locator_url": null,
       "first_detected_at": "2026-05-15T16:18:44+09:00",
-      "last_checked_at": "2026-06-06T22:25:47+09:00",
+      "last_checked_at": "2026-06-07T09:47:35+09:00",
       "product_path": "products/ultra-new-planning-butterflyjewelry-handstrap.json"
     },
     {
@@ -13249,7 +13249,7 @@
       "source_url": "https://www.u-np.jp/product/fruitsbasket-raceomamori/",
       "store_locator_url": null,
       "first_detected_at": "2026-05-15T16:18:44+09:00",
-      "last_checked_at": "2026-06-06T22:25:47+09:00",
+      "last_checked_at": "2026-06-07T09:47:35+09:00",
       "product_path": "products/ultra-new-planning-fruitsbasket-raceomamori.json"
     },
     {
@@ -13272,7 +13272,7 @@
       "source_url": "https://www.u-np.jp/product/pomeranianmochi-beadsstlp/",
       "store_locator_url": null,
       "first_detected_at": "2026-05-15T16:18:44+09:00",
-      "last_checked_at": "2026-06-06T22:25:47+09:00",
+      "last_checked_at": "2026-06-07T09:47:35+09:00",
       "product_path": "products/ultra-new-planning-pomeranianmochi-beadsstlp.json"
     },
     {
@@ -13295,7 +13295,7 @@
       "source_url": "https://www.u-np.jp/product/lotte-flighttag/",
       "store_locator_url": null,
       "first_detected_at": "2026-05-15T16:18:44+09:00",
-      "last_checked_at": "2026-06-06T22:25:47+09:00",
+      "last_checked_at": "2026-06-07T09:47:35+09:00",
       "product_path": "products/ultra-new-planning-lotte-flighttag.json"
     },
     {
@@ -13318,7 +13318,7 @@
       "source_url": "https://www.u-np.jp/product/kameda-happyturn-hairclip/",
       "store_locator_url": null,
       "first_detected_at": "2026-05-15T16:18:44+09:00",
-      "last_checked_at": "2026-06-06T22:25:47+09:00",
+      "last_checked_at": "2026-06-07T09:47:35+09:00",
       "product_path": "products/ultra-new-planning-kameda-happyturn-hairclip.json"
     },
     {
@@ -13341,7 +13341,7 @@
       "source_url": "https://www.u-np.jp/product/umimonogatari-tinymc/",
       "store_locator_url": null,
       "first_detected_at": "2026-05-15T16:18:44+09:00",
-      "last_checked_at": "2026-06-06T22:25:47+09:00",
+      "last_checked_at": "2026-06-07T09:47:35+09:00",
       "product_path": "products/ultra-new-planning-umimonogatari-tinymc.json"
     },
     {
@@ -13364,7 +13364,7 @@
       "source_url": "https://www.u-np.jp/product/garo-goldmetalkey/",
       "store_locator_url": null,
       "first_detected_at": "2026-05-15T16:18:44+09:00",
-      "last_checked_at": "2026-06-06T22:25:47+09:00",
+      "last_checked_at": "2026-06-07T09:47:35+09:00",
       "product_path": "products/ultra-new-planning-garo-goldmetalkey.json"
     },
     {

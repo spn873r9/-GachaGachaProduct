@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-06-06T23:49:02+09:00",
+  "generated_at": "2026-06-07T14:28:52+09:00",
   "year": 2024,
   "month": 7,
   "items": [
@@ -3842,7 +3842,7 @@
       "source_url": "https://capsule.k2-st.co.jp/lineup/gotouchi_gyunyu_collection2/",
       "store_locator_url": null,
       "first_detected_at": "2026-05-15T15:03:59+09:00",
-      "last_checked_at": "2026-06-06T22:25:47+09:00",
+      "last_checked_at": "2026-06-07T09:49:07+09:00",
       "product_path": "products/k2-station-gotouchi-gyunyu-collection2.json"
     },
     {
@@ -3865,7 +3865,7 @@
       "source_url": "https://capsule.k2-st.co.jp/lineup/sanrio_tokotoko_nuigurumi3/",
       "store_locator_url": null,
       "first_detected_at": "2026-05-15T15:03:59+09:00",
-      "last_checked_at": "2026-06-06T22:25:47+09:00",
+      "last_checked_at": "2026-06-07T09:49:07+09:00",
       "product_path": "products/k2-station-sanrio-tokotoko-nuigurumi3.json"
     },
     {
@@ -3888,7 +3888,7 @@
       "source_url": "https://kenelestore.jp/collections/miniature/products.json?limit=250&page=2",
       "store_locator_url": null,
       "first_detected_at": "2026-05-14T09:13:25+09:00",
-      "last_checked_at": "2026-06-04T19:51:08+09:00",
+      "last_checked_at": "2026-06-07T09:50:22+09:00",
       "product_path": "products/kenelephant-gc0504a.json"
     },
     {
@@ -4914,8 +4914,8 @@
       "release_month": 7,
       "release_week": null,
       "release_date": null,
-      "preview_image_url": null,
-      "preview_image_source_url": null,
+      "preview_image_url": "https://prcdn.freetls.fastly.net/release_image/16101/251/16101-251-8e102a93f112d1e28cdc16032d8ce38f-1000x1000.jpg?format=jpeg&auto=webp&quality=85,65&width=1950&height=1350&fit=bounds",
+      "preview_image_source_url": "https://prtimes.jp/main/html/rd/p/000000251.000016101.html",
       "price_yen": 400,
       "variant_count": 10,
       "jan_code": null,
@@ -4923,7 +4923,7 @@
       "source_url": "https://prtimes.jp/main/html/rd/p/000000251.000016101.html",
       "store_locator_url": null,
       "first_detected_at": "2026-05-19T02:39:44+09:00",
-      "last_checked_at": "2026-06-06T22:25:47+09:00",
+      "last_checked_at": "2026-06-07T09:45:14+09:00",
       "product_path": "products/sega-fave-000000251-000016101-vol2.json"
     },
     {
@@ -6257,7 +6257,7 @@
       "source_url": "https://www.u-np.jp/product/%e3%82%ac%e3%83%aa%e3%82%ac%e3%83%aa%e5%90%9b%e3%80%80%e3%83%9f%e3%83%8b%e3%83%81%e3%83%a5%e3%82%a2%e3%83%9e%e3%82%b9%e3%82%b3%e3%83%83%e3%83%88-vol-2/",
       "store_locator_url": null,
       "first_detected_at": "2026-05-25T13:56:55+09:00",
-      "last_checked_at": "2026-06-06T22:25:47+09:00",
+      "last_checked_at": "2026-06-07T09:47:35+09:00",
       "product_path": "products/ultra-new-planning-vol-2-30ea3403.json"
     },
     {
@@ -6280,7 +6280,7 @@
       "source_url": "https://www.u-np.jp/product/%e4%ba%80%e7%94%b0%e8%a3%bd%e8%8f%93-%e3%83%9f%e3%83%8b%e3%83%81%e3%83%a5%e3%82%a2%e3%83%9e%e3%82%b9%e3%82%b3%e3%83%83%e3%83%88vol-3/",
       "store_locator_url": null,
       "first_detected_at": "2026-05-25T13:56:55+09:00",
-      "last_checked_at": "2026-06-06T22:25:47+09:00",
+      "last_checked_at": "2026-06-07T09:47:35+09:00",
       "product_path": "products/ultra-new-planning-vol-3-e824da38.json"
     },
     {
@@ -6303,7 +6303,7 @@
       "source_url": "https://www.u-np.jp/product/%e5%9d%82%e8%a3%bd%e8%8f%93-%e3%83%88%e3%83%b3%e3%82%ac%e3%83%aa%e8%8f%93%e5%ad%90%e3%83%9f%e3%83%8b%e3%83%81%e3%83%a5%e3%82%a2%e3%83%9e%e3%82%b9%e3%82%b3%e3%83%83%e3%83%88/",
       "store_locator_url": null,
       "first_detected_at": "2026-05-25T13:56:55+09:00",
-      "last_checked_at": "2026-06-06T22:25:47+09:00",
+      "last_checked_at": "2026-06-07T09:47:35+09:00",
       "product_path": "products/ultra-new-planning-df5255ca2608.json"
     },
     {
@@ -6326,7 +6326,7 @@
       "source_url": "https://www.u-np.jp/product/%e8%b5%a4%e5%9f%8e%e4%b9%b3%e6%a5%ad-%e3%82%a2%e3%82%a4%e3%82%b9%e3%83%90%e3%83%bc-%e3%83%9f%e3%83%8b%e3%83%81%e3%83%a5%e3%82%a2%e3%83%9e%e3%82%b9%e3%82%b3%e3%83%83%e3%83%88/",
       "store_locator_url": null,
       "first_detected_at": "2026-05-25T13:56:55+09:00",
-      "last_checked_at": "2026-06-06T22:25:47+09:00",
+      "last_checked_at": "2026-06-07T09:47:35+09:00",
       "product_path": "products/ultra-new-planning-7aeeb5617328.json"
     },
     {

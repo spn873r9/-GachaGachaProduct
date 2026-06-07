@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-06-06T23:49:02+09:00",
+  "generated_at": "2026-06-07T14:28:52+09:00",
   "year": 2024,
   "month": 4,
   "items": [
@@ -24,7 +24,7 @@
       "source_url": "https://www.prestage.co.jp/original/original.html",
       "store_locator_url": null,
       "first_detected_at": "2026-05-15T23:55:54+09:00",
-      "last_checked_at": "2026-06-06T22:25:47+09:00",
+      "last_checked_at": "2026-06-07T09:55:43+09:00",
       "product_path": "products/prestage-original-img01.json"
     },
     {
@@ -162,7 +162,7 @@
       "source_url": "https://www.prestage.co.jp/original/original.html",
       "store_locator_url": null,
       "first_detected_at": "2026-05-15T23:55:16+09:00",
-      "last_checked_at": "2026-06-06T22:25:47+09:00",
+      "last_checked_at": "2026-06-07T09:55:43+09:00",
       "product_path": "products/prestage-original-img02.json"
     },
     {
@@ -3750,7 +3750,7 @@
       "source_url": "https://capsule.k2-st.co.jp/lineup/sst_mejirushi_charm/",
       "store_locator_url": null,
       "first_detected_at": "2026-05-15T15:03:59+09:00",
-      "last_checked_at": "2026-06-06T22:25:47+09:00",
+      "last_checked_at": "2026-06-07T09:49:07+09:00",
       "product_path": "products/k2-station-sst-mejirushi-charm.json"
     },
     {
@@ -3773,7 +3773,7 @@
       "source_url": "https://capsule.k2-st.co.jp/lineup/haikyu_nuigurumi/",
       "store_locator_url": null,
       "first_detected_at": "2026-05-15T15:03:59+09:00",
-      "last_checked_at": "2026-06-06T22:25:47+09:00",
+      "last_checked_at": "2026-06-07T09:49:07+09:00",
       "product_path": "products/k2-station-haikyu-nuigurumi.json"
     },
     {
@@ -4854,7 +4854,7 @@
       "source_url": "https://prtimes.jp/main/html/rd/p/000000212.000016101.html",
       "store_locator_url": null,
       "first_detected_at": "2026-05-18T17:15:35+09:00",
-      "last_checked_at": "2026-06-06T22:25:47+09:00",
+      "last_checked_at": "2026-06-07T09:45:14+09:00",
       "product_path": "products/sega-fave-000000212-000016101-vol8.json"
     },
     {
@@ -4868,8 +4868,8 @@
       "release_month": 4,
       "release_week": null,
       "release_date": null,
-      "preview_image_url": null,
-      "preview_image_source_url": null,
+      "preview_image_url": "https://prcdn.freetls.fastly.net/release_image/16101/403/16101-403-7108e54d8e098e73f3f8785ded07f725-1000x1000.jpg?width=1950&height=1350&quality=85,65&format=jpeg&auto=webp&fit=bounds&bg-color=fff",
+      "preview_image_source_url": "https://prtimes.jp/main/html/rd/p/000000403.000016101.html",
       "price_yen": null,
       "variant_count": 6,
       "jan_code": null,
@@ -4877,7 +4877,7 @@
       "source_url": "https://prtimes.jp/main/html/rd/p/000000403.000016101.html",
       "store_locator_url": null,
       "first_detected_at": "2026-05-19T02:39:44+09:00",
-      "last_checked_at": "2026-06-06T22:25:47+09:00",
+      "last_checked_at": "2026-06-07T09:45:14+09:00",
       "product_path": "products/sega-fave-000000403-000016101-vol2.json"
     },
     {
