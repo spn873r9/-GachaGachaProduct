@@ -9,6 +9,7 @@
   "release_month": 6,
   "release_week": null,
   "release_date": null,
+  "release_notice": null,
   "preview_image_url": "https://qualia-45.jp/wp-content/uploads/huistenbosch2_DP_OL.jpg",
   "preview_image_source_url": "https://qualia-45.jp/distinations/niccolino_huistenbosch_nui2/",
   "price_yen": 500,
@@ -17,6 +18,7 @@
   "official_url": "https://qualia-45.jp/distinations/niccolino_huistenbosch_nui2/",
   "source_url": "https://qualia-45.jp/distinations/niccolino_huistenbosch_nui2/",
   "store_locator_url": null,
+  "copyright_notice": "©Qualia",
   "first_detected_at": "2026-06-01T09:48:09+09:00",
   "last_checked_at": "2026-06-01T09:48:09+09:00",
   "product_path": "products/qualia-niccolino-huistenbosch-nui2.json",
@@ -24,7 +26,6 @@
   "availability_checked_at": "2026-06-07T23:18:53+09:00",
   "availability_missing_since": "2026-06-05T00:36:38+09:00",
   "availability_missing_count": 2,
-  "copyright_notice": "©Qualia",
   "data_policy": {
     "source_verified": true,
     "uses_official_image": false,

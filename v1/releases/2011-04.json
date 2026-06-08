@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-06-08T01:30:53+09:00",
+  "generated_at": "2026-06-08T22:32:31+09:00",
   "year": 2011,
   "month": 4,
   "items": [
@@ -15,6 +15,7 @@
       "release_month": 4,
       "release_week": null,
       "release_date": null,
+      "release_notice": null,
       "preview_image_url": "https://kitan.jp/wp-content/uploads/2011/04/zokudoge_DP_Re.jpg",
       "preview_image_source_url": "https://kitan.jp/products/live_dogeza2/",
       "price_yen": 200,
@@ -23,6 +24,7 @@
       "official_url": "https://kitan.jp/products/live_dogeza2/",
       "source_url": "https://kitan.jp/products/live_dogeza2/",
       "store_locator_url": null,
+      "copyright_notice": "©zariganiworks / KITAN CLUB",
       "first_detected_at": "2026-05-14T09:13:25+09:00",
       "last_checked_at": "2026-05-14T09:13:25+09:00",
       "product_path": "products/kitanclub-live-dogeza2.json"
@@ -38,6 +40,7 @@
       "release_month": 4,
       "release_week": null,
       "release_date": null,
+      "release_notice": null,
       "preview_image_url": "https://www.takaratomy-arts.co.jp/upfiles/products/Y991004_b.jpg",
       "preview_image_source_url": "https://www.takaratomy-arts.co.jp/items/item.html?n=Y991004",
       "price_yen": 300,
@@ -46,6 +49,7 @@
       "official_url": "https://www.takaratomy-arts.co.jp/items/item.html?n=Y991004",
       "source_url": "https://www.takaratomy-arts.co.jp/items/item.html?n=Y991004",
       "store_locator_url": null,
+      "copyright_notice": "© 1976 ，2011 SANRIO CO．，LTD．APPROVAL NO．S512663",
       "first_detected_at": "2026-05-14T11:01:55+09:00",
       "last_checked_at": "2026-05-14T11:01:55+09:00",
       "product_path": "products/takaratomy-arts-y991004.json"

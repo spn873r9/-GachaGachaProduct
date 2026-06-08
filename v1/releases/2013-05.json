@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-06-08T01:30:53+09:00",
+  "generated_at": "2026-06-08T22:32:31+09:00",
   "year": 2013,
   "month": 5,
   "items": [
@@ -15,6 +15,7 @@
       "release_month": 5,
       "release_week": null,
       "release_date": null,
+      "release_notice": null,
       "preview_image_url": "https://kaiyodo.co.jp/items/wp-content/uploads/sites/4/2017/08/1_eye-300x300.jpg",
       "preview_image_source_url": "https://kaiyodo.co.jp/items/capsule/page/2/",
       "price_yen": 400,
@@ -23,6 +24,7 @@
       "official_url": "https://kaiyodo.co.jp/items/capsule/alien-anthology/",
       "source_url": "https://kaiyodo.co.jp/items/capsule/page/2/",
       "store_locator_url": null,
+      "copyright_notice": null,
       "first_detected_at": "2026-05-19T02:10:45+09:00",
       "last_checked_at": "2026-06-07T22:33:43+09:00",
       "product_path": "products/kaiyodo-capsule-alien-anthology.json"
@@ -38,6 +40,7 @@
       "release_month": 5,
       "release_week": null,
       "release_date": null,
+      "release_notice": null,
       "preview_image_url": "https://kaiyodo.co.jp/items/wp-content/uploads/sites/4/2016/08/ikacolle_dp_fix.jpg",
       "preview_image_source_url": "https://kaiyodo.co.jp/items/capsule/page/2/",
       "price_yen": null,
@@ -46,6 +49,7 @@
       "official_url": "https://kaiyodo.co.jp/items/capsule/ikakore/",
       "source_url": "https://kaiyodo.co.jp/items/capsule/page/2/",
       "store_locator_url": null,
+      "copyright_notice": null,
       "first_detected_at": "2026-05-19T02:10:45+09:00",
       "last_checked_at": "2026-06-07T22:33:43+09:00",
       "product_path": "products/kaiyodo-capsule-ikakore.json"
@@ -61,6 +65,7 @@
       "release_month": 5,
       "release_week": null,
       "release_date": null,
+      "release_notice": null,
       "preview_image_url": "https://kaiyodo.co.jp/items/wp-content/uploads/sites/4/2013/05/capqanima2dp.jpg",
       "preview_image_source_url": "https://kaiyodo.co.jp/items/capsule/page/2/",
       "price_yen": 300,
@@ -69,6 +74,7 @@
       "official_url": "https://kaiyodo.co.jp/items/capsule/japan_animal_collection_2/",
       "source_url": "https://kaiyodo.co.jp/items/capsule/page/2/",
       "store_locator_url": null,
+      "copyright_notice": null,
       "first_detected_at": "2026-05-19T02:10:45+09:00",
       "last_checked_at": "2026-06-07T22:33:43+09:00",
       "product_path": "products/kaiyodo-capsule-japan-animal-collection-2.json"
@@ -84,6 +90,7 @@
       "release_month": 5,
       "release_week": null,
       "release_date": null,
+      "release_notice": null,
       "preview_image_url": "https://kaiyodo.co.jp/items/wp-content/uploads/sites/4/2017/08/DP_eye.jpg",
       "preview_image_source_url": "https://kaiyodo.co.jp/items/capsule/page/2/",
       "price_yen": 400,
@@ -92,6 +99,7 @@
       "official_url": "https://kaiyodo.co.jp/items/capsule/kinnikuman-1/",
       "source_url": "https://kaiyodo.co.jp/items/capsule/page/2/",
       "store_locator_url": null,
+      "copyright_notice": null,
       "first_detected_at": "2026-05-19T02:10:45+09:00",
       "last_checked_at": "2026-06-07T22:33:43+09:00",
       "product_path": "products/kaiyodo-capsule-kinnikuman-1.json"
@@ -107,6 +115,7 @@
       "release_month": 5,
       "release_week": null,
       "release_date": null,
+      "release_notice": null,
       "preview_image_url": "https://kaiyodo.co.jp/items/wp-content/uploads/sites/4/2017/08/7526d2f8_eye.jpg",
       "preview_image_source_url": "https://kaiyodo.co.jp/items/capsule/page/2/",
       "price_yen": 400,
@@ -115,6 +124,7 @@
       "official_url": "https://kaiyodo.co.jp/items/capsule/kinnikuman-2/",
       "source_url": "https://kaiyodo.co.jp/items/capsule/page/2/",
       "store_locator_url": null,
+      "copyright_notice": null,
       "first_detected_at": "2026-05-19T02:10:45+09:00",
       "last_checked_at": "2026-06-07T22:33:43+09:00",
       "product_path": "products/kaiyodo-capsule-kinnikuman-2.json"
@@ -130,6 +140,7 @@
       "release_month": 5,
       "release_week": null,
       "release_date": null,
+      "release_notice": null,
       "preview_image_url": "https://kitan.jp/wp-content/uploads/2013/05/Cat_standDP800.jpg",
       "preview_image_source_url": "https://kitan.jp/products/kuitomerunya/",
       "price_yen": 200,
@@ -138,6 +149,7 @@
       "official_url": "https://kitan.jp/products/kuitomerunya/",
       "source_url": "https://kitan.jp/products/kuitomerunya/",
       "store_locator_url": null,
+      "copyright_notice": "©KITAN CLUB / yassang",
       "first_detected_at": "2026-05-14T09:13:25+09:00",
       "last_checked_at": "2026-05-14T09:13:25+09:00",
       "product_path": "products/kitanclub-kuitomerunya.json"
@@ -153,6 +165,7 @@
       "release_month": 5,
       "release_week": null,
       "release_date": null,
+      "release_notice": null,
       "preview_image_url": "https://kitan.jp/wp-content/uploads/2013/05/banana_popmp.jpg",
       "preview_image_source_url": "https://kitan.jp/products/bananama/",
       "price_yen": 300,
@@ -161,6 +174,7 @@
       "official_url": "https://kitan.jp/products/bananama/",
       "source_url": "https://kitan.jp/products/bananama/",
       "store_locator_url": null,
+      "copyright_notice": "©2013バナナ炎炎パートナーズ",
       "first_detected_at": "2026-05-14T09:13:25+09:00",
       "last_checked_at": "2026-05-14T09:13:25+09:00",
       "product_path": "products/kitanclub-bananama.json"
@@ -176,6 +190,7 @@
       "release_month": 5,
       "release_week": null,
       "release_date": null,
+      "release_notice": null,
       "preview_image_url": "https://www.takaratomy-arts.co.jp/upfiles/products/Y810046_b.jpg",
       "preview_image_source_url": "https://www.takaratomy-arts.co.jp/items/item.html?n=Y810046",
       "price_yen": 200,
@@ -184,6 +199,7 @@
       "official_url": "https://www.takaratomy-arts.co.jp/items/item.html?n=Y810046",
       "source_url": "https://www.takaratomy-arts.co.jp/items/item.html?n=Y810046",
       "store_locator_url": null,
+      "copyright_notice": "©Ludorum/フジテレビ",
       "first_detected_at": "2026-05-14T11:01:55+09:00",
       "last_checked_at": "2026-05-14T11:01:55+09:00",
       "product_path": "products/takaratomy-arts-y810046.json"

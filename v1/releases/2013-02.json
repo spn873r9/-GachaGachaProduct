@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-06-08T01:30:53+09:00",
+  "generated_at": "2026-06-08T22:32:31+09:00",
   "year": 2013,
   "month": 2,
   "items": [
@@ -15,6 +15,7 @@
       "release_month": 2,
       "release_week": null,
       "release_date": null,
+      "release_notice": null,
       "preview_image_url": "https://kitan.jp/wp-content/uploads/2013/02/fucico_peach_DP_800.jpg",
       "preview_image_source_url": "https://kitan.jp/products/fuchico_01_peach/",
       "price_yen": 200,
@@ -23,6 +24,7 @@
       "official_url": "https://kitan.jp/products/fuchico_01_peach/",
       "source_url": "https://kitan.jp/products/fuchico_01_peach/",
       "store_locator_url": null,
+      "copyright_notice": "©タナカカツキ／KITAN CLUB",
       "first_detected_at": "2026-05-14T09:13:25+09:00",
       "last_checked_at": "2026-05-14T09:13:25+09:00",
       "product_path": "products/kitanclub-fuchico-01-peach.json"
@@ -38,6 +40,7 @@
       "release_month": 2,
       "release_week": null,
       "release_date": null,
+      "release_notice": null,
       "preview_image_url": "https://kitan.jp/wp-content/uploads/2013/02/35bf57ef108b9ebd2a203d0849bf0751-1.jpg",
       "preview_image_source_url": "https://kitan.jp/products/pakichoco3/",
       "price_yen": 200,
@@ -46,6 +49,7 @@
       "official_url": "https://kitan.jp/products/pakichoco3/",
       "source_url": "https://kitan.jp/products/pakichoco3/",
       "store_locator_url": null,
+      "copyright_notice": "©KITAN CLUB",
       "first_detected_at": "2026-05-14T09:13:25+09:00",
       "last_checked_at": "2026-05-14T09:13:25+09:00",
       "product_path": "products/kitanclub-pakichoco3.json"
@@ -61,6 +65,7 @@
       "release_month": 2,
       "release_week": null,
       "release_date": null,
+      "release_notice": null,
       "preview_image_url": "https://kitan.jp/wp-content/uploads/2013/02/unmenken-DP_Re.jpg",
       "preview_image_source_url": "https://kitan.jp/products/unmenke/",
       "price_yen": 200,
@@ -69,6 +74,7 @@
       "official_url": "https://kitan.jp/products/unmenke/",
       "source_url": "https://kitan.jp/products/unmenke/",
       "store_locator_url": null,
+      "copyright_notice": "©ゴッコ堂",
       "first_detected_at": "2026-05-14T09:13:25+09:00",
       "last_checked_at": "2026-05-14T09:13:25+09:00",
       "product_path": "products/kitanclub-unmenke.json"

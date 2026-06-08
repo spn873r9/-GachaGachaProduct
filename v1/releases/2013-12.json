@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-06-08T01:30:53+09:00",
+  "generated_at": "2026-06-08T22:32:31+09:00",
   "year": 2013,
   "month": 12,
   "items": [
@@ -15,6 +15,7 @@
       "release_month": 12,
       "release_week": null,
       "release_date": "2013-12-20",
+      "release_notice": null,
       "preview_image_url": "https://kaiyodo.co.jp/items/wp-content/uploads/sites/4/2012/12/dp_piece2_a-300x300.jpg",
       "preview_image_source_url": "https://kaiyodo.co.jp/items/capsule/page/2/",
       "price_yen": 400,
@@ -23,6 +24,7 @@
       "official_url": "https://kaiyodo.co.jp/items/capsule/artpiece/",
       "source_url": "https://kaiyodo.co.jp/items/capsule/page/2/",
       "store_locator_url": null,
+      "copyright_notice": null,
       "first_detected_at": "2026-05-19T02:10:45+09:00",
       "last_checked_at": "2026-06-07T22:33:43+09:00",
       "product_path": "products/kaiyodo-capsule-artpiece.json"
@@ -38,6 +40,7 @@
       "release_month": 12,
       "release_week": null,
       "release_date": null,
+      "release_notice": null,
       "preview_image_url": "https://kitan.jp/wp-content/uploads/2013/11/003_DP-1.jpg",
       "preview_image_source_url": "https://kitan.jp/products/kuitometanya/",
       "price_yen": 200,
@@ -46,6 +49,7 @@
       "official_url": "https://kitan.jp/products/kuitometanya/",
       "source_url": "https://kitan.jp/products/kuitometanya/",
       "store_locator_url": null,
+      "copyright_notice": "©KITAN CLUB / yassang",
       "first_detected_at": "2026-05-14T09:13:25+09:00",
       "last_checked_at": "2026-05-14T09:13:25+09:00",
       "product_path": "products/kitanclub-kuitometanya.json"
@@ -61,6 +65,7 @@
       "release_month": 12,
       "release_week": null,
       "release_date": null,
+      "release_notice": null,
       "preview_image_url": "https://kitan.jp/wp-content/uploads/2013/12/bread.jpg",
       "preview_image_source_url": "https://kitan.jp/products/bread/",
       "price_yen": 300,
@@ -69,6 +74,7 @@
       "official_url": "https://kitan.jp/products/bread/",
       "source_url": "https://kitan.jp/products/bread/",
       "store_locator_url": null,
+      "copyright_notice": "©KITAN CLUB",
       "first_detected_at": "2026-05-14T09:13:25+09:00",
       "last_checked_at": "2026-05-14T09:13:25+09:00",
       "product_path": "products/kitanclub-bread.json"
@@ -84,6 +90,7 @@
       "release_month": 12,
       "release_week": null,
       "release_date": null,
+      "release_notice": null,
       "preview_image_url": "https://kitan.jp/wp-content/uploads/2013/11/fucico2_peach_POP_A_fix-1.jpg",
       "preview_image_source_url": "https://kitan.jp/products/fuchico_02_peach/",
       "price_yen": 200,
@@ -92,6 +99,7 @@
       "official_url": "https://kitan.jp/products/fuchico_02_peach/",
       "source_url": "https://kitan.jp/products/fuchico_02_peach/",
       "store_locator_url": null,
+      "copyright_notice": "©タナカカツキ／KITAN CLUB",
       "first_detected_at": "2026-05-14T09:13:25+09:00",
       "last_checked_at": "2026-05-14T09:13:25+09:00",
       "product_path": "products/kitanclub-fuchico-02-peach.json"
@@ -107,6 +115,7 @@
       "release_month": 12,
       "release_week": null,
       "release_date": null,
+      "release_notice": null,
       "preview_image_url": "https://www.takaratomy-arts.co.jp/upfiles/products/Y813146_b.jpg",
       "preview_image_source_url": "https://www.takaratomy-arts.co.jp/items/item.html?n=Y813146",
       "price_yen": 100,
@@ -115,6 +124,7 @@
       "official_url": "https://www.takaratomy-arts.co.jp/items/item.html?n=Y813146",
       "source_url": "https://www.takaratomy-arts.co.jp/items/item.html?n=Y813146",
       "store_locator_url": null,
+      "copyright_notice": "©2012 Nintendo ニンテンドー3DSのロゴ・ニンテンドー3DSは任天堂の商標です。",
       "first_detected_at": "2026-05-14T11:01:55+09:00",
       "last_checked_at": "2026-05-14T11:01:55+09:00",
       "product_path": "products/takaratomy-arts-y813146.json"
@@ -130,6 +140,7 @@
       "release_month": 12,
       "release_week": null,
       "release_date": null,
+      "release_notice": null,
       "preview_image_url": "https://www.takaratomy-arts.co.jp/upfiles/products/Y813306_b.jpg",
       "preview_image_source_url": "https://www.takaratomy-arts.co.jp/items/item.html?n=Y813306",
       "price_yen": 200,
@@ -138,6 +149,7 @@
       "official_url": "https://www.takaratomy-arts.co.jp/items/item.html?n=Y813306",
       "source_url": "https://www.takaratomy-arts.co.jp/items/item.html?n=Y813306",
       "store_locator_url": null,
+      "copyright_notice": "©2013 Toshitaka Nabata",
       "first_detected_at": "2026-05-14T11:01:55+09:00",
       "last_checked_at": "2026-05-14T11:01:55+09:00",
       "product_path": "products/takaratomy-arts-y813306.json"
@@ -153,6 +165,7 @@
       "release_month": 12,
       "release_week": null,
       "release_date": null,
+      "release_notice": null,
       "preview_image_url": "https://www.takaratomy-arts.co.jp/upfiles/products/Y813252_b.jpg",
       "preview_image_source_url": "https://www.takaratomy-arts.co.jp/items/item.html?n=Y813252",
       "price_yen": 200,
@@ -161,6 +174,7 @@
       "official_url": "https://www.takaratomy-arts.co.jp/items/item.html?n=Y813252",
       "source_url": "https://www.takaratomy-arts.co.jp/items/item.html?n=Y813252",
       "store_locator_url": null,
+      "copyright_notice": "©Disney",
       "first_detected_at": "2026-05-14T11:01:55+09:00",
       "last_checked_at": "2026-05-14T11:01:55+09:00",
       "product_path": "products/takaratomy-arts-y813252.json"
@@ -176,6 +190,7 @@
       "release_month": 12,
       "release_week": null,
       "release_date": null,
+      "release_notice": null,
       "preview_image_url": "https://www.takaratomy-arts.co.jp/upfiles/products/Y813467_b.jpg",
       "preview_image_source_url": "https://www.takaratomy-arts.co.jp/items/item.html?n=Y813467",
       "price_yen": 200,
@@ -184,6 +199,7 @@
       "official_url": "https://www.takaratomy-arts.co.jp/items/item.html?n=Y813467",
       "source_url": "https://www.takaratomy-arts.co.jp/items/item.html?n=Y813467",
       "store_locator_url": null,
+      "copyright_notice": "©Disney/Pixar",
       "first_detected_at": "2026-05-14T11:01:55+09:00",
       "last_checked_at": "2026-05-14T11:01:55+09:00",
       "product_path": "products/takaratomy-arts-y813467.json"
@@ -199,6 +215,7 @@
       "release_month": 12,
       "release_week": null,
       "release_date": null,
+      "release_notice": null,
       "preview_image_url": "https://www.takaratomy-arts.co.jp/upfiles/products/Y812989_b.jpg",
       "preview_image_source_url": "https://www.takaratomy-arts.co.jp/items/item.html?n=Y812989",
       "price_yen": 200,
@@ -207,6 +224,7 @@
       "official_url": "https://www.takaratomy-arts.co.jp/items/item.html?n=Y812989",
       "source_url": "https://www.takaratomy-arts.co.jp/items/item.html?n=Y812989",
       "store_locator_url": null,
+      "copyright_notice": "©Nintendo",
       "first_detected_at": "2026-05-14T11:01:55+09:00",
       "last_checked_at": "2026-05-14T11:01:55+09:00",
       "product_path": "products/takaratomy-arts-y812989.json"
@@ -222,6 +240,7 @@
       "release_month": 12,
       "release_week": null,
       "release_date": null,
+      "release_notice": null,
       "preview_image_url": "https://www.takaratomy-arts.co.jp/upfiles/products/Y812682_b.jpg",
       "preview_image_source_url": "https://www.takaratomy-arts.co.jp/items/item.html?n=Y812682",
       "price_yen": 300,
@@ -230,6 +249,7 @@
       "official_url": "https://www.takaratomy-arts.co.jp/items/item.html?n=Y812682",
       "source_url": "https://www.takaratomy-arts.co.jp/items/item.html?n=Y812682",
       "store_locator_url": null,
+      "copyright_notice": "©Disney",
       "first_detected_at": "2026-05-14T11:01:55+09:00",
       "last_checked_at": "2026-05-14T11:01:55+09:00",
       "product_path": "products/takaratomy-arts-y812682.json"
@@ -245,6 +265,7 @@
       "release_month": 12,
       "release_week": null,
       "release_date": null,
+      "release_notice": null,
       "preview_image_url": "https://www.takaratomy-arts.co.jp/upfiles/products/Y813375_b.jpg",
       "preview_image_source_url": "https://www.takaratomy-arts.co.jp/items/item.html?n=Y813375",
       "price_yen": 200,
@@ -253,6 +274,7 @@
       "official_url": "https://www.takaratomy-arts.co.jp/items/item.html?n=Y813375",
       "source_url": "https://www.takaratomy-arts.co.jp/items/item.html?n=Y813375",
       "store_locator_url": null,
+      "copyright_notice": "©Nintendo・Creatures・GAME FREAK・TV Tokyo・ShoPro・JR Kikaku ©Pokémon",
       "first_detected_at": "2026-05-14T11:01:55+09:00",
       "last_checked_at": "2026-05-14T11:01:55+09:00",
       "product_path": "products/takaratomy-arts-y813375.json"

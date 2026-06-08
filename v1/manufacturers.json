@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-06-08T01:30:53+09:00",
+  "generated_at": "2026-06-08T22:32:31+09:00",
   "items": [
     {
       "id": "a3",
@@ -12,12 +12,6 @@
       "id": "albatro-design",
       "name": "Albatro Design",
       "official_url": "https://www.albatro.jp/",
-      "enabled": true
-    },
-    {
-      "id": "amuse",
-      "name": "アミューズ",
-      "official_url": "https://www.a-muzu.com/",
       "enabled": true
     },
     {

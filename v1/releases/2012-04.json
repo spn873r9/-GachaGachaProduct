@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-06-08T01:30:53+09:00",
+  "generated_at": "2026-06-08T22:32:31+09:00",
   "year": 2012,
   "month": 4,
   "items": [
@@ -15,6 +15,7 @@
       "release_month": 4,
       "release_week": null,
       "release_date": null,
+      "release_notice": null,
       "preview_image_url": "https://kitan.jp/wp-content/uploads/2012/04/UAMOU_DP_Re.jpg",
       "preview_image_source_url": "https://kitan.jp/products/uamou/",
       "price_yen": 200,
@@ -23,6 +24,7 @@
       "official_url": "https://kitan.jp/products/uamou/",
       "source_url": "https://kitan.jp/products/uamou/",
       "store_locator_url": null,
+      "copyright_notice": "©UAMOU",
       "first_detected_at": "2026-05-14T09:13:25+09:00",
       "last_checked_at": "2026-05-14T09:13:25+09:00",
       "product_path": "products/kitanclub-uamou.json"
@@ -38,6 +40,7 @@
       "release_month": 4,
       "release_week": null,
       "release_date": null,
+      "release_notice": null,
       "preview_image_url": "https://kitan.jp/wp-content/uploads/2012/04/loveneko_iceDP_Re.jpg",
       "preview_image_source_url": "https://kitan.jp/products/loveneko_ice/",
       "price_yen": 200,
@@ -46,6 +49,7 @@
       "official_url": "https://kitan.jp/products/loveneko_ice/",
       "source_url": "https://kitan.jp/products/loveneko_ice/",
       "store_locator_url": null,
+      "copyright_notice": "©KITAN CLUB",
       "first_detected_at": "2026-05-14T09:13:25+09:00",
       "last_checked_at": "2026-05-14T09:13:25+09:00",
       "product_path": "products/kitanclub-loveneko-ice.json"
@@ -61,6 +65,7 @@
       "release_month": 4,
       "release_week": null,
       "release_date": null,
+      "release_notice": null,
       "preview_image_url": "https://kitan.jp/wp-content/uploads/2012/04/GC_DP800.jpg",
       "preview_image_source_url": "https://kitan.jp/products/guiltycrown/",
       "price_yen": 200,
@@ -69,6 +74,7 @@
       "official_url": "https://kitan.jp/products/guiltycrown/",
       "source_url": "https://kitan.jp/products/guiltycrown/",
       "store_locator_url": null,
+      "copyright_notice": "©ギルティクラウン製作委員会",
       "first_detected_at": "2026-05-14T09:13:25+09:00",
       "last_checked_at": "2026-05-14T09:13:25+09:00",
       "product_path": "products/kitanclub-guiltycrown.json"
@@ -84,6 +90,7 @@
       "release_month": 4,
       "release_week": null,
       "release_date": null,
+      "release_notice": null,
       "preview_image_url": "https://kitan.jp/wp-content/uploads/2012/04/taiku_DP_Re.jpg",
       "preview_image_source_url": "https://kitan.jp/products/live_taiikuzuwari/",
       "price_yen": 200,
@@ -92,6 +99,7 @@
       "official_url": "https://kitan.jp/products/live_taiikuzuwari/",
       "source_url": "https://kitan.jp/products/live_taiikuzuwari/",
       "store_locator_url": null,
+      "copyright_notice": "©zariganiworks / KITAN CLUB",
       "first_detected_at": "2026-05-14T09:13:25+09:00",
       "last_checked_at": "2026-05-14T09:13:25+09:00",
       "product_path": "products/kitanclub-live-taiikuzuwari.json"
@@ -107,6 +115,7 @@
       "release_month": 4,
       "release_week": null,
       "release_date": null,
+      "release_notice": null,
       "preview_image_url": "https://kitan.jp/wp-content/uploads/2012/04/SOFTCREAM_DP_Re.jpg",
       "preview_image_source_url": "https://kitan.jp/products/softice_light/",
       "price_yen": 200,
@@ -115,6 +124,7 @@
       "official_url": "https://kitan.jp/products/softice_light/",
       "source_url": "https://kitan.jp/products/softice_light/",
       "store_locator_url": null,
+      "copyright_notice": "©KITAN CLUB",
       "first_detected_at": "2026-05-14T09:13:25+09:00",
       "last_checked_at": "2026-05-14T09:13:25+09:00",
       "product_path": "products/kitanclub-softice-light.json"

@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-06-08T01:30:53+09:00",
+  "generated_at": "2026-06-08T22:32:31+09:00",
   "year": 2013,
   "month": 3,
   "items": [
@@ -15,6 +15,7 @@
       "release_month": 3,
       "release_week": null,
       "release_date": null,
+      "release_notice": null,
       "preview_image_url": "https://kitan.jp/wp-content/uploads/2013/03/ad4f21c9f18a2732207d8d5234eb316a-1.jpg",
       "preview_image_source_url": "https://kitan.jp/products/hamster_02/",
       "price_yen": 200,
@@ -23,6 +24,7 @@
       "official_url": "https://kitan.jp/products/hamster_02/",
       "source_url": "https://kitan.jp/products/hamster_02/",
       "store_locator_url": null,
+      "copyright_notice": "©hamuco./KITAN CLUB",
       "first_detected_at": "2026-05-14T09:13:25+09:00",
       "last_checked_at": "2026-05-14T09:13:25+09:00",
       "product_path": "products/kitanclub-hamster-02.json"
@@ -38,6 +40,7 @@
       "release_month": 3,
       "release_week": null,
       "release_date": null,
+      "release_notice": null,
       "preview_image_url": "https://kitan.jp/wp-content/uploads/2013/03/kin2_DP_Re.jpg",
       "preview_image_source_url": "https://kitan.jp/products/kinniku02/",
       "price_yen": 200,
@@ -46,6 +49,7 @@
       "official_url": "https://kitan.jp/products/kinniku02/",
       "source_url": "https://kitan.jp/products/kinniku02/",
       "store_locator_url": null,
+      "copyright_notice": "©YUDETAMAGO / zariganiworks / KITAN CLUB",
       "first_detected_at": "2026-05-14T09:13:25+09:00",
       "last_checked_at": "2026-05-14T09:13:25+09:00",
       "product_path": "products/kitanclub-kinniku02.json"
@@ -61,6 +65,7 @@
       "release_month": 3,
       "release_week": null,
       "release_date": null,
+      "release_notice": null,
       "preview_image_url": "https://www.takaratomy-arts.co.jp/upfiles/products/Y999185_b.jpg",
       "preview_image_source_url": "https://www.takaratomy-arts.co.jp/items/item.html?n=Y999185",
       "price_yen": 300,
@@ -69,6 +74,7 @@
       "official_url": "https://www.takaratomy-arts.co.jp/items/item.html?n=Y999185",
       "source_url": "https://www.takaratomy-arts.co.jp/items/item.html?n=Y999185",
       "store_locator_url": null,
+      "copyright_notice": "©Disney",
       "first_detected_at": "2026-05-14T11:01:55+09:00",
       "last_checked_at": "2026-05-14T11:01:55+09:00",
       "product_path": "products/takaratomy-arts-y999185.json"
@@ -84,6 +90,7 @@
       "release_month": 3,
       "release_week": null,
       "release_date": null,
+      "release_notice": null,
       "preview_image_url": "https://www.takaratomy-arts.co.jp/upfiles/products/Y999567_b.jpg",
       "preview_image_source_url": "https://www.takaratomy-arts.co.jp/items/item.html?n=Y999567",
       "price_yen": 200,
@@ -92,6 +99,7 @@
       "official_url": "https://www.takaratomy-arts.co.jp/items/item.html?n=Y999567",
       "source_url": "https://www.takaratomy-arts.co.jp/items/item.html?n=Y999567",
       "store_locator_url": null,
+      "copyright_notice": "©篠塚ひろむ／小学館・ShoPro",
       "first_detected_at": "2026-05-14T11:01:55+09:00",
       "last_checked_at": "2026-05-14T11:01:55+09:00",
       "product_path": "products/takaratomy-arts-y999567.json"
@@ -107,6 +115,7 @@
       "release_month": 3,
       "release_week": null,
       "release_date": null,
+      "release_notice": null,
       "preview_image_url": "https://www.takaratomy-arts.co.jp/upfiles/products/Y999543_b.jpg",
       "preview_image_source_url": "https://www.takaratomy-arts.co.jp/items/item.html?n=Y999543",
       "price_yen": 200,
@@ -115,6 +124,7 @@
       "official_url": "https://www.takaratomy-arts.co.jp/items/item.html?n=Y999543",
       "source_url": "https://www.takaratomy-arts.co.jp/items/item.html?n=Y999543",
       "store_locator_url": null,
+      "copyright_notice": "©T-ARTS",
       "first_detected_at": "2026-05-14T11:01:55+09:00",
       "last_checked_at": "2026-05-14T11:01:55+09:00",
       "product_path": "products/takaratomy-arts-y999543.json"
@@ -130,6 +140,7 @@
       "release_month": 3,
       "release_week": null,
       "release_date": null,
+      "release_notice": null,
       "preview_image_url": "https://www.takaratomy-arts.co.jp/upfiles/products/Y999161_b.jpg",
       "preview_image_source_url": "https://www.takaratomy-arts.co.jp/items/item.html?n=Y999161",
       "price_yen": 200,
@@ -138,6 +149,7 @@
       "official_url": "https://www.takaratomy-arts.co.jp/items/item.html?n=Y999161",
       "source_url": "https://www.takaratomy-arts.co.jp/items/item.html?n=Y999161",
       "store_locator_url": null,
+      "copyright_notice": "©Disney",
       "first_detected_at": "2026-05-14T11:01:55+09:00",
       "last_checked_at": "2026-05-14T11:01:55+09:00",
       "product_path": "products/takaratomy-arts-y999161.json"

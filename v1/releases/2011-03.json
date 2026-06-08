@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-06-08T01:30:53+09:00",
+  "generated_at": "2026-06-08T22:32:31+09:00",
   "year": 2011,
   "month": 3,
   "items": [
@@ -15,6 +15,7 @@
       "release_month": 3,
       "release_week": null,
       "release_date": null,
+      "release_notice": null,
       "preview_image_url": "https://kitan.jp/wp-content/uploads/2011/03/osanpoDP_Re.jpg",
       "preview_image_source_url": "https://kitan.jp/products/osanpo1-5/",
       "price_yen": 200,
@@ -23,6 +24,7 @@
       "official_url": "https://kitan.jp/products/osanpo1-5/",
       "source_url": "https://kitan.jp/products/osanpo1-5/",
       "store_locator_url": null,
+      "copyright_notice": "©スカルチュラ/ KITAN CLUB",
       "first_detected_at": "2026-05-14T09:13:25+09:00",
       "last_checked_at": "2026-05-14T09:13:25+09:00",
       "product_path": "products/kitanclub-osanpo1-5.json"

@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-06-08T01:30:53+09:00",
+  "generated_at": "2026-06-08T22:32:31+09:00",
   "year": 2013,
   "month": 9,
   "items": [
@@ -15,6 +15,7 @@
       "release_month": 9,
       "release_week": null,
       "release_date": "2013-09-20",
+      "release_notice": null,
       "preview_image_url": "https://kaiyodo.co.jp/items/wp-content/uploads/sites/4/2016/08/jpg.jpg",
       "preview_image_source_url": "https://kaiyodo.co.jp/items/capsule/page/2/",
       "price_yen": 300,
@@ -23,6 +24,7 @@
       "official_url": "https://kaiyodo.co.jp/items/capsule/imokore/",
       "source_url": "https://kaiyodo.co.jp/items/capsule/page/2/",
       "store_locator_url": null,
+      "copyright_notice": null,
       "first_detected_at": "2026-05-19T02:10:45+09:00",
       "last_checked_at": "2026-06-07T22:33:43+09:00",
       "product_path": "products/kaiyodo-capsule-imokore.json"
@@ -38,6 +40,7 @@
       "release_month": 9,
       "release_week": null,
       "release_date": null,
+      "release_notice": null,
       "preview_image_url": "https://kitan.jp/wp-content/uploads/2013/09/nyama_pop_dp_fix-1.jpg",
       "preview_image_source_url": "https://kitan.jp/products/nyamaboko/",
       "price_yen": 200,
@@ -46,6 +49,7 @@
       "official_url": "https://kitan.jp/products/nyamaboko/",
       "source_url": "https://kitan.jp/products/nyamaboko/",
       "store_locator_url": null,
+      "copyright_notice": "©KONOSUKE CHISHIMA／KITAN CLUB",
       "first_detected_at": "2026-05-14T09:13:25+09:00",
       "last_checked_at": "2026-05-14T09:13:25+09:00",
       "product_path": "products/kitanclub-nyamaboko.json"
@@ -61,6 +65,7 @@
       "release_month": 9,
       "release_week": null,
       "release_date": null,
+      "release_notice": null,
       "preview_image_url": "https://kitan.jp/wp-content/uploads/2013/09/m_art_POP-1.jpg",
       "preview_image_source_url": "https://kitan.jp/products/moominmagnet/",
       "price_yen": 300,
@@ -69,6 +74,7 @@
       "official_url": "https://kitan.jp/products/moominmagnet/",
       "source_url": "https://kitan.jp/products/moominmagnet/",
       "store_locator_url": null,
+      "copyright_notice": "©Moomin Characters™",
       "first_detected_at": "2026-05-14T09:13:25+09:00",
       "last_checked_at": "2026-05-14T09:13:25+09:00",
       "product_path": "products/kitanclub-moominmagnet.json"
@@ -84,6 +90,7 @@
       "release_month": 9,
       "release_week": null,
       "release_date": null,
+      "release_notice": null,
       "preview_image_url": "https://kitan.jp/wp-content/uploads/2013/09/8668d954f11b70b0e0981d09c6e7d16c.jpg",
       "preview_image_source_url": "https://kitan.jp/products/umezz/",
       "price_yen": 300,
@@ -92,6 +99,7 @@
       "official_url": "https://kitan.jp/products/umezz/",
       "source_url": "https://kitan.jp/products/umezz/",
       "store_locator_url": null,
+      "copyright_notice": "©楳図かずお",
       "first_detected_at": "2026-05-14T09:13:25+09:00",
       "last_checked_at": "2026-05-14T09:13:25+09:00",
       "product_path": "products/kitanclub-umezz.json"
@@ -107,6 +115,7 @@
       "release_month": 9,
       "release_week": null,
       "release_date": null,
+      "release_notice": null,
       "preview_image_url": "https://kitan.jp/wp-content/uploads/2013/09/83c69f8b8cdbc98ec52315247b1ad2ff.jpg",
       "preview_image_source_url": "https://kitan.jp/products/kankitsufujin/",
       "price_yen": 200,
@@ -115,6 +124,7 @@
       "official_url": "https://kitan.jp/products/kankitsufujin/",
       "source_url": "https://kitan.jp/products/kankitsufujin/",
       "store_locator_url": null,
+      "copyright_notice": "©KITAN CLUB",
       "first_detected_at": "2026-05-14T09:13:25+09:00",
       "last_checked_at": "2026-05-14T09:13:25+09:00",
       "product_path": "products/kitanclub-kankitsufujin.json"
@@ -130,6 +140,7 @@
       "release_month": 9,
       "release_week": null,
       "release_date": null,
+      "release_notice": null,
       "preview_image_url": "https://www.takaratomy-arts.co.jp/upfiles/products/Y811654_b.jpg",
       "preview_image_source_url": "https://www.takaratomy-arts.co.jp/items/item.html?n=Y811654",
       "price_yen": 200,
@@ -138,6 +149,7 @@
       "official_url": "https://www.takaratomy-arts.co.jp/items/item.html?n=Y811654",
       "source_url": "https://www.takaratomy-arts.co.jp/items/item.html?n=Y811654",
       "store_locator_url": null,
+      "copyright_notice": "©羽海野チカ/白泉社",
       "first_detected_at": "2026-05-14T11:01:55+09:00",
       "last_checked_at": "2026-05-14T11:01:55+09:00",
       "product_path": "products/takaratomy-arts-y811654.json"
@@ -153,6 +165,7 @@
       "release_month": 9,
       "release_week": null,
       "release_date": null,
+      "release_notice": null,
       "preview_image_url": "https://www.takaratomy-arts.co.jp/upfiles/products/Y813269_b.jpg",
       "preview_image_source_url": "https://www.takaratomy-arts.co.jp/items/item.html?n=Y813269",
       "price_yen": 200,
@@ -161,6 +174,7 @@
       "official_url": "https://www.takaratomy-arts.co.jp/items/item.html?n=Y813269",
       "source_url": "https://www.takaratomy-arts.co.jp/items/item.html?n=Y813269",
       "store_locator_url": null,
+      "copyright_notice": "©緑川ゆき・白泉社／「夏目友人帳」製作委員会 ©Ｙ，Ｈ／ＮＹＰ",
       "first_detected_at": "2026-05-14T11:01:55+09:00",
       "last_checked_at": "2026-05-14T11:01:55+09:00",
       "product_path": "products/takaratomy-arts-y813269.json"
@@ -176,6 +190,7 @@
       "release_month": 9,
       "release_week": null,
       "release_date": null,
+      "release_notice": null,
       "preview_image_url": "https://www.takaratomy-arts.co.jp/upfiles/products/Y811036_b.jpg",
       "preview_image_source_url": "https://www.takaratomy-arts.co.jp/items/item.html?n=Y811036",
       "price_yen": 200,
@@ -184,6 +199,7 @@
       "official_url": "https://www.takaratomy-arts.co.jp/items/item.html?n=Y811036",
       "source_url": "https://www.takaratomy-arts.co.jp/items/item.html?n=Y811036",
       "store_locator_url": null,
+      "copyright_notice": "©Disney",
       "first_detected_at": "2026-05-14T11:01:55+09:00",
       "last_checked_at": "2026-05-14T11:01:55+09:00",
       "product_path": "products/takaratomy-arts-y811036.json"
@@ -199,6 +215,7 @@
       "release_month": 9,
       "release_week": null,
       "release_date": null,
+      "release_notice": null,
       "preview_image_url": "https://www.takaratomy-arts.co.jp/upfiles/products/Y811814_b.jpg",
       "preview_image_source_url": "https://www.takaratomy-arts.co.jp/items/item.html?n=Y811814",
       "price_yen": 200,
@@ -207,6 +224,7 @@
       "official_url": "https://www.takaratomy-arts.co.jp/items/item.html?n=Y811814",
       "source_url": "https://www.takaratomy-arts.co.jp/items/item.html?n=Y811814",
       "store_locator_url": null,
+      "copyright_notice": "©Nintedo",
       "first_detected_at": "2026-05-14T11:01:55+09:00",
       "last_checked_at": "2026-05-14T11:01:55+09:00",
       "product_path": "products/takaratomy-arts-y811814.json"
@@ -222,6 +240,7 @@
       "release_month": 9,
       "release_week": null,
       "release_date": null,
+      "release_notice": null,
       "preview_image_url": "https://www.takaratomy-arts.co.jp/upfiles/products/Y812071_b.jpg",
       "preview_image_source_url": "https://www.takaratomy-arts.co.jp/items/item.html?n=Y812071",
       "price_yen": 200,
@@ -230,6 +249,7 @@
       "official_url": "https://www.takaratomy-arts.co.jp/items/item.html?n=Y812071",
       "source_url": "https://www.takaratomy-arts.co.jp/items/item.html?n=Y812071",
       "store_locator_url": null,
+      "copyright_notice": null,
       "first_detected_at": "2026-05-14T11:01:55+09:00",
       "last_checked_at": "2026-05-14T11:01:55+09:00",
       "product_path": "products/takaratomy-arts-y812071.json"

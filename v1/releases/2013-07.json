@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-06-08T01:30:53+09:00",
+  "generated_at": "2026-06-08T22:32:31+09:00",
   "year": 2013,
   "month": 7,
   "items": [
@@ -15,6 +15,7 @@
       "release_month": 7,
       "release_week": null,
       "release_date": "2013-07-20",
+      "release_notice": null,
       "preview_image_url": "https://kaiyodo.co.jp/items/wp-content/uploads/sites/4/2021/01/ironman2_dp_fix-300x300.jpg",
       "preview_image_source_url": "https://kaiyodo.co.jp/items/capsule/page/2/",
       "price_yen": 400,
@@ -23,6 +24,7 @@
       "official_url": "https://kaiyodo.co.jp/items/capsule/ironcollection/",
       "source_url": "https://kaiyodo.co.jp/items/capsule/page/2/",
       "store_locator_url": null,
+      "copyright_notice": null,
       "first_detected_at": "2026-05-19T02:10:45+09:00",
       "last_checked_at": "2026-06-07T22:33:43+09:00",
       "product_path": "products/kaiyodo-capsule-ironcollection.json"
@@ -38,6 +40,7 @@
       "release_month": 7,
       "release_week": null,
       "release_date": "2013-07-20",
+      "release_notice": null,
       "preview_image_url": "https://kaiyodo.co.jp/items/wp-content/uploads/sites/4/2016/08/eva3_dp.jpg",
       "preview_image_source_url": "https://kaiyodo.co.jp/items/capsule/page/2/",
       "price_yen": 400,
@@ -46,6 +49,7 @@
       "official_url": "https://kaiyodo.co.jp/items/capsule/eva3antholo/",
       "source_url": "https://kaiyodo.co.jp/items/capsule/page/2/",
       "store_locator_url": null,
+      "copyright_notice": null,
       "first_detected_at": "2026-05-15T14:15:49+09:00",
       "last_checked_at": "2026-06-07T22:33:43+09:00",
       "product_path": "products/kaiyodo-capsule-eva3antholo.json"
@@ -61,6 +65,7 @@
       "release_month": 7,
       "release_week": null,
       "release_date": null,
+      "release_notice": null,
       "preview_image_url": "https://kaiyodo.co.jp/items/wp-content/uploads/sites/4/2016/09/netsuke2_dp.jpg",
       "preview_image_source_url": "https://kaiyodo.co.jp/items/capsule/page/2/",
       "price_yen": null,
@@ -69,6 +74,7 @@
       "official_url": "https://kaiyodo.co.jp/items/capsule/yokainetsuke2/",
       "source_url": "https://kaiyodo.co.jp/items/capsule/page/2/",
       "store_locator_url": null,
+      "copyright_notice": null,
       "first_detected_at": "2026-05-19T02:10:45+09:00",
       "last_checked_at": "2026-06-07T22:33:43+09:00",
       "product_path": "products/kaiyodo-capsule-yokainetsuke2.json"
@@ -84,6 +90,7 @@
       "release_month": 7,
       "release_week": null,
       "release_date": null,
+      "release_notice": null,
       "preview_image_url": "https://kitan.jp/wp-content/uploads/2013/06/02-1.jpg",
       "preview_image_source_url": "https://kitan.jp/products/fuchico_02_navy/",
       "price_yen": 200,
@@ -92,6 +99,7 @@
       "official_url": "https://kitan.jp/products/fuchico_02_navy/",
       "source_url": "https://kitan.jp/products/fuchico_02_navy/",
       "store_locator_url": null,
+      "copyright_notice": "©タナカカツキ／KITAN CLUB",
       "first_detected_at": "2026-05-14T09:13:25+09:00",
       "last_checked_at": "2026-05-14T09:13:25+09:00",
       "product_path": "products/kitanclub-fuchico-02-navy.json"
@@ -107,6 +115,7 @@
       "release_month": 7,
       "release_week": null,
       "release_date": null,
+      "release_notice": null,
       "preview_image_url": "https://kitan.jp/wp-content/uploads/2013/07/25804b9e02ac0fa9db56ecd0548b3731-1.jpg",
       "preview_image_source_url": "https://kitan.jp/products/osanpo-kaeru3/",
       "price_yen": 300,
@@ -115,6 +124,7 @@
       "official_url": "https://kitan.jp/products/osanpo-kaeru3/",
       "source_url": "https://kitan.jp/products/osanpo-kaeru3/",
       "store_locator_url": null,
+      "copyright_notice": "©スカルチュラ/ KITAN CLUB",
       "first_detected_at": "2026-05-14T09:13:25+09:00",
       "last_checked_at": "2026-05-14T09:13:25+09:00",
       "product_path": "products/kitanclub-osanpo-kaeru3.json"
@@ -130,6 +140,7 @@
       "release_month": 7,
       "release_week": null,
       "release_date": null,
+      "release_notice": null,
       "preview_image_url": "https://kitan.jp/wp-content/uploads/2013/09/kotobuki_DP_Re.jpg",
       "preview_image_source_url": "https://kitan.jp/products/dogezakotobuki/",
       "price_yen": 200,
@@ -138,6 +149,7 @@
       "official_url": "https://kitan.jp/products/dogezakotobuki/",
       "source_url": "https://kitan.jp/products/dogezakotobuki/",
       "store_locator_url": null,
+      "copyright_notice": "©zariganiworks / KITAN CLUB",
       "first_detected_at": "2026-05-14T09:13:25+09:00",
       "last_checked_at": "2026-05-14T09:13:25+09:00",
       "product_path": "products/kitanclub-dogezakotobuki.json"
@@ -153,6 +165,7 @@
       "release_month": 7,
       "release_week": null,
       "release_date": null,
+      "release_notice": null,
       "preview_image_url": "https://www.takaratomy-arts.co.jp/upfiles/products/Y811098_b.jpg",
       "preview_image_source_url": "https://www.takaratomy-arts.co.jp/items/item.html?n=Y811098",
       "price_yen": 200,
@@ -161,6 +174,7 @@
       "official_url": "https://www.takaratomy-arts.co.jp/items/item.html?n=Y811098",
       "source_url": "https://www.takaratomy-arts.co.jp/items/item.html?n=Y811098",
       "store_locator_url": null,
+      "copyright_notice": "©2013 Toshitaka Nabata",
       "first_detected_at": "2026-05-14T11:01:55+09:00",
       "last_checked_at": "2026-05-14T11:01:55+09:00",
       "product_path": "products/takaratomy-arts-y811098.json"
@@ -176,6 +190,7 @@
       "release_month": 7,
       "release_week": null,
       "release_date": null,
+      "release_notice": null,
       "preview_image_url": "https://www.takaratomy-arts.co.jp/upfiles/products/Y811470_b.jpg",
       "preview_image_source_url": "https://www.takaratomy-arts.co.jp/items/item.html?n=Y811470",
       "price_yen": 100,
@@ -184,6 +199,7 @@
       "official_url": "https://www.takaratomy-arts.co.jp/items/item.html?n=Y811470",
       "source_url": "https://www.takaratomy-arts.co.jp/items/item.html?n=Y811470",
       "store_locator_url": null,
+      "copyright_notice": "©TOMY 「プラレール」は株式会社タカラトミーの登録商標です。",
       "first_detected_at": "2026-05-14T11:01:55+09:00",
       "last_checked_at": "2026-05-14T11:01:55+09:00",
       "product_path": "products/takaratomy-arts-y811470.json"
@@ -199,6 +215,7 @@
       "release_month": 7,
       "release_week": null,
       "release_date": null,
+      "release_notice": null,
       "preview_image_url": "https://www.takaratomy-arts.co.jp/upfiles/products/Y811111_b.jpg",
       "preview_image_source_url": "https://www.takaratomy-arts.co.jp/items/item.html?n=Y811111",
       "price_yen": 200,
@@ -207,6 +224,7 @@
       "official_url": "https://www.takaratomy-arts.co.jp/items/item.html?n=Y811111",
       "source_url": "https://www.takaratomy-arts.co.jp/items/item.html?n=Y811111",
       "store_locator_url": null,
+      "copyright_notice": "©紙兎ロペプロジェクト2013／フジテレビジョン",
       "first_detected_at": "2026-05-14T11:01:55+09:00",
       "last_checked_at": "2026-05-14T11:01:55+09:00",
       "product_path": "products/takaratomy-arts-y811111.json"

@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-06-08T01:30:53+09:00",
+  "generated_at": "2026-06-08T22:32:31+09:00",
   "year": 2012,
   "month": 7,
   "items": [
@@ -15,6 +15,7 @@
       "release_month": 7,
       "release_week": null,
       "release_date": null,
+      "release_notice": null,
       "preview_image_url": "https://kitan.jp/wp-content/uploads/2012/07/b9b00d99e0ce55a528b60443a68a5d6a.jpg",
       "preview_image_source_url": "https://kitan.jp/products/loveinu/",
       "price_yen": 200,
@@ -23,6 +24,7 @@
       "official_url": "https://kitan.jp/products/loveinu/",
       "source_url": "https://kitan.jp/products/loveinu/",
       "store_locator_url": null,
+      "copyright_notice": "©KITAN CLUB",
       "first_detected_at": "2026-05-14T09:13:25+09:00",
       "last_checked_at": "2026-05-14T09:13:25+09:00",
       "product_path": "products/kitanclub-loveinu.json"
@@ -38,6 +40,7 @@
       "release_month": 7,
       "release_week": null,
       "release_date": null,
+      "release_notice": null,
       "preview_image_url": "https://kitan.jp/wp-content/uploads/2012/07/b8c54906b7c51c28b9da967fa3483811.jpg",
       "preview_image_source_url": "https://kitan.jp/products/fuchico_01/",
       "price_yen": 200,
@@ -46,6 +49,7 @@
       "official_url": "https://kitan.jp/products/fuchico_01/",
       "source_url": "https://kitan.jp/products/fuchico_01/",
       "store_locator_url": null,
+      "copyright_notice": "©タナカカツキ／KITAN CLUB",
       "first_detected_at": "2026-05-14T09:13:25+09:00",
       "last_checked_at": "2026-05-14T09:13:25+09:00",
       "product_path": "products/kitanclub-fuchico-01.json"
@@ -61,6 +65,7 @@
       "release_month": 7,
       "release_week": null,
       "release_date": null,
+      "release_notice": null,
       "preview_image_url": "https://www.takaratomy-arts.co.jp/upfiles/products/Y996467_b.jpg",
       "preview_image_source_url": "https://www.takaratomy-arts.co.jp/items/item.html?n=Y996467",
       "price_yen": 200,
@@ -69,6 +74,7 @@
       "official_url": "https://www.takaratomy-arts.co.jp/items/item.html?n=Y996467",
       "source_url": "https://www.takaratomy-arts.co.jp/items/item.html?n=Y996467",
       "store_locator_url": null,
+      "copyright_notice": null,
       "first_detected_at": "2026-05-14T11:01:55+09:00",
       "last_checked_at": "2026-05-14T11:01:55+09:00",
       "product_path": "products/takaratomy-arts-y996467.json"

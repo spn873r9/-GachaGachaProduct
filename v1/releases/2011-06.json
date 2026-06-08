@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-06-08T01:30:53+09:00",
+  "generated_at": "2026-06-08T22:32:31+09:00",
   "year": 2011,
   "month": 6,
   "items": [
@@ -15,6 +15,7 @@
       "release_month": 6,
       "release_week": null,
       "release_date": null,
+      "release_notice": null,
       "preview_image_url": "https://kitan.jp/wp-content/uploads/2011/06/panchira_pop_cs4_ol-01-1.jpg",
       "preview_image_source_url": "https://kitan.jp/products/panchira/",
       "price_yen": 200,
@@ -23,6 +24,7 @@
       "official_url": "https://kitan.jp/products/panchira/",
       "source_url": "https://kitan.jp/products/panchira/",
       "store_locator_url": null,
+      "copyright_notice": "©DEHARA YUKINORI",
       "first_detected_at": "2026-05-14T09:13:25+09:00",
       "last_checked_at": "2026-05-14T09:13:25+09:00",
       "product_path": "products/kitanclub-panchira.json"
@@ -38,6 +40,7 @@
       "release_month": 6,
       "release_week": null,
       "release_date": null,
+      "release_notice": null,
       "preview_image_url": "https://kitan.jp/wp-content/uploads/2011/06/ega_RAINBOW_DP_Re.jpg",
       "preview_image_source_url": "https://kitan.jp/products/ega_rainbow/",
       "price_yen": 200,
@@ -46,6 +49,7 @@
       "official_url": "https://kitan.jp/products/ega_rainbow/",
       "source_url": "https://kitan.jp/products/ega_rainbow/",
       "store_locator_url": null,
+      "copyright_notice": "©OOKAWA KOGYO",
       "first_detected_at": "2026-05-14T09:13:25+09:00",
       "last_checked_at": "2026-05-14T09:13:25+09:00",
       "product_path": "products/kitanclub-ega-rainbow.json"

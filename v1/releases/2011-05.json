@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-06-08T01:30:53+09:00",
+  "generated_at": "2026-06-08T22:32:31+09:00",
   "year": 2011,
   "month": 5,
   "items": [
@@ -15,6 +15,7 @@
       "release_month": 5,
       "release_week": null,
       "release_date": null,
+      "release_notice": null,
       "preview_image_url": "https://www.takaratomy-arts.co.jp/upfiles/products/Y990946_b.jpg",
       "preview_image_source_url": "https://www.takaratomy-arts.co.jp/items/item.html?n=Y990946",
       "price_yen": 200,
@@ -23,6 +24,7 @@
       "official_url": "https://www.takaratomy-arts.co.jp/items/item.html?n=Y990946",
       "source_url": "https://www.takaratomy-arts.co.jp/items/item.html?n=Y990946",
       "store_locator_url": null,
+      "copyright_notice": null,
       "first_detected_at": "2026-05-14T11:01:55+09:00",
       "last_checked_at": "2026-05-14T11:01:55+09:00",
       "product_path": "products/takaratomy-arts-y990946.json"

@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-06-08T01:30:53+09:00",
+  "generated_at": "2026-06-08T22:32:31+09:00",
   "year": 2011,
   "month": 7,
   "items": [
@@ -15,6 +15,7 @@
       "release_month": 7,
       "release_week": null,
       "release_date": null,
+      "release_notice": null,
       "preview_image_url": "https://kitan.jp/wp-content/uploads/2011/07/nagisa_DP_Re.jpg",
       "preview_image_source_url": "https://kitan.jp/products/live_dogeza_ocean/",
       "price_yen": 200,
@@ -23,6 +24,7 @@
       "official_url": "https://kitan.jp/products/live_dogeza_ocean/",
       "source_url": "https://kitan.jp/products/live_dogeza_ocean/",
       "store_locator_url": null,
+      "copyright_notice": "©zariganiworks / KITAN CLUB",
       "first_detected_at": "2026-05-14T09:13:25+09:00",
       "last_checked_at": "2026-05-14T09:13:25+09:00",
       "product_path": "products/kitanclub-live-dogeza-ocean.json"
@@ -38,6 +40,7 @@
       "release_month": 7,
       "release_week": null,
       "release_date": null,
+      "release_notice": null,
       "preview_image_url": "https://www.megahobby.jp/images/item/item_0000000390_01.jpg",
       "preview_image_source_url": "https://www.megahobby.jp/products/item/390/",
       "price_yen": 660,
@@ -46,6 +49,7 @@
       "official_url": "https://www.megahobby.jp/products/item/390/",
       "source_url": "https://www.megahobby.jp/products/item/390/",
       "store_locator_url": null,
+      "copyright_notice": null,
       "first_detected_at": "2026-05-17T18:40:35+09:00",
       "last_checked_at": "2026-06-07T22:33:43+09:00",
       "product_path": "products/megahouse-390.json"
@@ -61,6 +65,7 @@
       "release_month": 7,
       "release_week": null,
       "release_date": null,
+      "release_notice": null,
       "preview_image_url": "https://www.takaratomy-arts.co.jp/upfiles/products/Y992094_b.jpg",
       "preview_image_source_url": "https://www.takaratomy-arts.co.jp/items/item.html?n=Y992094",
       "price_yen": 100,
@@ -69,6 +74,7 @@
       "official_url": "https://www.takaratomy-arts.co.jp/items/item.html?n=Y992094",
       "source_url": "https://www.takaratomy-arts.co.jp/items/item.html?n=Y992094",
       "store_locator_url": null,
+      "copyright_notice": null,
       "first_detected_at": "2026-05-14T11:01:55+09:00",
       "last_checked_at": "2026-05-14T11:01:55+09:00",
       "product_path": "products/takaratomy-arts-y992094.json"
@@ -84,6 +90,7 @@
       "release_month": 7,
       "release_week": null,
       "release_date": null,
+      "release_notice": null,
       "preview_image_url": "https://www.takaratomy-arts.co.jp/upfiles/products/Y992063_b.jpg",
       "preview_image_source_url": "https://www.takaratomy-arts.co.jp/items/item.html?n=Y992063",
       "price_yen": 100,
@@ -92,6 +99,7 @@
       "official_url": "https://www.takaratomy-arts.co.jp/items/item.html?n=Y992063",
       "source_url": "https://www.takaratomy-arts.co.jp/items/item.html?n=Y992063",
       "store_locator_url": null,
+      "copyright_notice": null,
       "first_detected_at": "2026-05-14T11:01:55+09:00",
       "last_checked_at": "2026-05-14T11:01:55+09:00",
       "product_path": "products/takaratomy-arts-y992063.json"
